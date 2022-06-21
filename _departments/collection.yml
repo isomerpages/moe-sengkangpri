@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Framework.md
       - CCE/Key Programmes.md
       - CCE/.keep
