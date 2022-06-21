@@ -36,3 +36,6 @@ Email: [skps@moe.edu.sg](mailto:skps@moe.edu.sg)
   
 
 Online Feedback: [https://tinyurl.com/SKPSonlinefeedback](https://docs.google.com/forms/d/e/1FAIpQLSclAvpnQDQE4-Hd1A1s1dF7V_dMHWTeYKjK8o6Ze53vEBcG6A/viewform)
+
+<img src="/images/QR%20Code%20Feedback%202019.jpg" 
+     style="width:25%;float:left">
