@@ -4,3 +4,8 @@ permalink: /about-us/Our-People/Primary-3
 description: ""
 third_nav_title: Our People
 ---
+**Year Head:**  
+Mrs Andrea Ki
+
+![](/images/Primary%203.jpeg)
+
