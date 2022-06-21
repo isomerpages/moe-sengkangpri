@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Primary 6.md
       - Our People/Executive & Admin Staff and Allied Educators.md
       - Our People/.keep
       - General Information/.keep
