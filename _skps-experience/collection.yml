@@ -2,4 +2,5 @@ collections:
   skps-experience:
     output: true
     order:
+      - Signature Programmes/Student Innovation & Values In Action (VIA).md
       - Signature Programmes/.keep
