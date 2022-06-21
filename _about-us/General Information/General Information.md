@@ -151,3 +151,6 @@ Website: [**www.ymca.org.sg/cdcscc**](http://www.ymca.org.sg/cdcscc)
   
 
 Online Feedback: [https://tinyurl.com/SKPSonlinefeedback](https://tinyurl.com/SKPSonlinefeedback)
+
+<img src="/images/QR%20Code%20Feedback%202019%20(1).jpg" 
+     style="width:25%;float:left">
