@@ -10,3 +10,10 @@ The Character Education Approach in the school is pinned on 2 approaches to help
 
 <img src="/images/01.png" 
      style="width:50%;float:left">
+		 <img src="/images/02.png" 
+     style="width:50%;float:left">
+<center>
+	
+**CHARACTER EDUCATION - VALUES EDUCATION**
+	
+</center>
