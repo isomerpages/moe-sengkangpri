@@ -57,3 +57,18 @@ The Music department provided an opportunity for students to explore creativity 
   
 
 Through these programmes, students learnt about the history and cultural roots of Southeast Asian music whilst learning to appreciate the art forms. The Primary 4s rounded up the P4 Angklung programme with captivating renditions of a variety of Southeast Asian pieces, such as Loy Krathong and Planting Rice, on the Angklung.
+
+<img src="/images/pam5.jpg" 
+     style="width:50%;float:left">
+		 <img src="/images/pam6.jpg" 
+     style="width:50%;float:left">
+		 
+		 
+<br><br><br><br><br>
+<center>
+
+**_Left pic: Our P4 students performing as an Angklung ensemble in front of the P4 level._**
+
+**_Right pic: Our P3 students learning the Malay Dance._**
+	
+</center>
