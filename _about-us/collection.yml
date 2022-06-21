@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - General Information/Bookshop, School Bus & Other Services.md
+      - General Information/.keep
       - General Information/School Hours.md
       - General Information/School Gate.md
-      - General Information/.keep
+      - General Information/Bookshop, School Bus & Other Services.md
       - Contact Us.md
