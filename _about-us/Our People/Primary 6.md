@@ -4,7 +4,7 @@ permalink: /about-us/Our-People/primary-6
 description: ""
 third_nav_title: Our People
 ---
-**Year Head:** 
+**Year Head:** <br>
 Miss Kwan See Ling
 
 ![](/images/Primary%206.jpg)
