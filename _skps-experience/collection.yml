@@ -2,6 +2,7 @@ collections:
   skps-experience:
     output: true
     order:
+      - Signature Programmes/Learning for Life Programme (LLP).md
       - Signature Programmes/Character Education (Values Education).md
       - Signature Programmes/Student Innovation & Values In Action (VIA).md
       - Signature Programmes/.keep
