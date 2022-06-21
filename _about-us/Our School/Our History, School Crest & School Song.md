@@ -4,3 +4,20 @@ permalink: /about-us/Our-School/Our-History-School-Crest-and-School-Song
 description: ""
 third_nav_title: Our School
 ---
+
+![](/images/SKPS_Front_Landscape_w700%20(1).png)
+
+
+**_The Beginning_**
+
+On 3 January 1997, Seng Kang Primary School (SKPS) became the first school of Sengkang Town. Mrs Chin Shin Wea (1997 to 2002) was appointed as the first Principal. As the school building was still under construction, SKPS started operations at the premises of the former Hai Seng Girls’ High along Upper Serangoon Road. The school had 327 students in 10 classes and 23 staff members. Mrs Chin promulgated the school’s beliefs that “Everyone is Special, Everyone can Learn, Everyone can Serve”. On 12 December 1997, the school moved to her current location at 21, Compassvale Walk. The school occupied 1.8 hectares of land which consisted an administrative block and two four-storey teaching/classroom blocks.
+
+  
+
+**_The History_**
+
+  
+
+Sengkang which means – Prosperous Harbour in Chinese is located between two rivers – Serangoon River and Punggol River in the northeast of Singapore. In the 1950s and 1960s, fishing villages, rubber, pepper and pineapple plantations flourished in the area. In 1994, the HDB started conceptualizing a new town in Sengkang. Seng Kang Primary School was established in 1997 as the first school in Sengkang. Therefore, Seng Kang Primary School’s history is inextricably linked with the beginning of Sengkang as a modern residential town. Click [here](/files/VPA%20school%20website%20update.pdf) to read more... 
+
+_**Video by Seng Kang Primary. Our History, Our Heritage, Our Future...**_
