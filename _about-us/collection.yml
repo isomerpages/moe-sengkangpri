@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/.keep
       - General Information/.keep
       - General Information/School Hours.md
       - General Information/School Gate.md
