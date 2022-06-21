@@ -19,6 +19,9 @@ The Character Education Approach in the school is pinned on 2 approaches to help
 	
 </center>
 
+<img src="/images/03.png" 
+     style="width:50%">
+
 Using the Kolhberg and Piaget theories of moral development and cognitive development respectively as a reference, the Lifeskills curriculum has been explicitly designed to impart values to students in the formal education system. It also aims at enhancing the daily **Value Moment Programme**. The syllabus is a more student-centric approach, teaching the pupils to develop the school core values in them and to display these values in their actions and behaviour. Pupils are taught how to identify the behaviour they should emulate in order to become a more upright individual and eventually a concerned citizen. They are also taught to reflect on the right and wrong actions and learn from their own reflection. To ensure that the current nation centric value education is not lost, the curriculum has infused.
 
 **CITIZENSHIP EDUCATION**
@@ -29,9 +32,33 @@ National Education (N.E), Cyberwellness and Kindness Movement (SKM) as well as t
      style="width:50%;float:left">
 		 <img src="/images/05.png" 
      style="width:50%;float:left">
-		 <br><br><br><br>
+		 
+<br><br><br><br>
+		 
 <center>
 	
 **ASSESSMENT**
 	
 </center>
+
+<img src="/images/06.png" 
+     style="width:50%">
+		 
+		 
+The new syllabus is using story-telling and questioning approach focusing on the 4 school values. The value moment and lifeskills curriculum messages are aligned weekly. Thus student focus on the same message in one week. At the end of each term they will use the rubrics in the Lifeskills booklets to assess themselves and their peers on the value taught for the term. The rubrics in the Lifeskills booklets are aligned to the HDP- I will statements. After assessing, they have to give their peers who have imbue the values taught with the cut-out certificate found in the Lifeskills booklet.
+
+<img src="/images/07.png" 
+     style="width:50%;float:left">
+		 <img src="/images/08.png" 
+     style="width:50%;float:left">
+
+**Innovation and Values in Action**
+
+The process of Innovation and Values in Action are intertwined to ensure that the development of the projects is linked with the innovation whilst the actual project and products will be on the values in action.
+
+In Lifeskills lessons, students learn about Design Thinking as an approach to look at problems from the perspective of the end-user.  The approach allows students to look at the end user perspectives, developing empathy and evolving Gracious Citizens.
+
+<img src="/images/09.png" 
+     style="width:50%;float:left">
+		 <img src="/images/10.png" 
+     style="width:50%;float:left">
