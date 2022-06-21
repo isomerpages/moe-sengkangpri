@@ -69,3 +69,37 @@ Camps provide opportunities for pupils to build self-confidence and discipline a
 It also provides opportunities for pupils to foster close bonds and camaraderie among themselves and with teachers.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEkG_UR9zo0wTpSVggJRLVw72pfzdJO4YpfMkCtDSSR7YNqBCoekh3ZmbJGU38BoKcFLCwYTab9UHS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+
+The camps, from Primary 4 to Primary 6, are designed in a progressive and age-appropriate manner.
+
+  
+
+The activities which the pupils get to experience includes team building activities, confidence and problem-solving activities, camp craft such as knots and lashing, tent pitching and outdoor cooking.
+
+  
+
+The camps are also a good platform to instil SEL competencies namely, Social Awareness, Relationship Management and Responsible Decision Making.
+
+  
+
+Activities are planned in accordance to the school’s camp progressive framework which focus on Character Education and Outdoor Education.
+
+**Fun Club**
+
+<img src="/images/PE%20Fun%20Club.jpeg" 
+     style="width:30%;float:left">
+		 
+The Fun Club is set up to help pupils achieve their healthy weight through various activities and programmes. To encourage pupils to be active, games are conducted during their recesses and school holidays.
+
+  
+
+Programmes such as the Kangoo Jump workshop and Active Kidz (in collaboration with HPB) are organised throughout the year.
+
+  
+
+Equipping them with the necessary knowledge such as making wise food choices and inculcating them with healthy habits are all part of the health education lessons which pupils get to learn.
+
+  
+
+At the end of the programme, we hope that the pupils will be responsible and committed to continue to lead a healthy, active and positive lifestyle.
