@@ -24,3 +24,50 @@ _**Video by Seng Kang Primary. Our History, Our Heritage, Our Future...**_
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eIKGpwjW6uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/images/azaza.jpg)
+
+**The School Crest**
+![](/images/Sch%20Crest.jpg)
+
+**The School Song (lyrics)**
+
+<center>
+	
+We are happy students always on the go
+
+Try to do the best we can
+
+Teachers of our school reaching out their helping hands
+
+to help us in our studies and our ways
+
+On our part we must try very hard
+
+to be Creative and Confident
+
+Now's the time to be self-respecting citizens
+
+and caring individuals keen to learn
+
+There'll be Continuous growth towards Success and Good Health
+
+Always striving for Excellence
+
+Unity and Harmony, Nobility and Victory
+
+For Seng Kang our dear school
+
+  
+
+There'll be Continuous growth towards Success and Good Health
+
+Always striving for Excellence
+
+Unity and Harmony, Nobility and Victory
+
+For Seng Kang our dear school
+
+  
+
+All for Seng Kang Our dear school
+	
+</center>
