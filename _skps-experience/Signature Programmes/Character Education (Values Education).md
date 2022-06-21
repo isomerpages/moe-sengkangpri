@@ -62,3 +62,15 @@ In Lifeskills lessons, students learn about Design Thinking as an approach to lo
      style="width:50%;float:left">
 		 <img src="/images/10.png" 
      style="width:50%;float:left">
+<br><br><br><br><br><br>
+
+<center>
+	
+**Student Leadership**  
+	
+</center>
+
+<img src="/images/11.png" 
+     style="width:50%">
+
+Student Leadership in the school is broken up into 3 Tiers.  Tier 1 develops leaders in the class.  Tier 2 develops pupils who serve in the school outside the classroom.  At the highest Tier, the Prefects occupy this place.  The idea is to ensure that leadership is a spiral development and, at each level, how the pupils are developed.
