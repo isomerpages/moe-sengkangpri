@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Info Communication & Tech/Department Message.md
       - Info Communication & Tech/Framework.md
       - Info Communication & Tech/Key Programmes.md
       - Info Communication & Tech/.keep
