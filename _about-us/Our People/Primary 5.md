@@ -20,7 +20,7 @@ Mrs Ee (Leong) Lai Mun
 |5 Kindness| Mr Loe Weiqiang Timothy <br> Mdm Reshmi Rai| [loe\_weiqiang\_timothy@schools.gov.sg](mailto:loe_weiqiang_timothy@schools.gov.sg)<br> [reshmi\_rai@schools.gov.sg](mailto:reshmi_rai@schools.gov.sg)
 | 5 Patience | Mrs Thaifur Alias <br> Mr Kua Choon Tat | [siswati\_ahmad@schools.gov.sg](mailto:siswati_ahmad@schools.gov.sg)<br> [kua\_choon\_tat@schools.gov.sg](mailto:kua_choon_tat@schools.gov.sg)
 
-| Class | Venue| Subject Teachers | Email |
+| Class | Venue| Subject Teacher | Email |
 | -------- | -------- | -------- | ---|
 | CL 5.1| 5 Faith | Mdm Yang Caihui| [yang\_caihui@schools.gov.sg](mailto:yang_caihui@schools.gov.sg)
 | CL 5.2 | 5 Hope | Mdm Hung Mei Ling| [hung\_mei\_ling@schools.gov.sg](mailto:hung_mei_ling@schools.gov.sg)
