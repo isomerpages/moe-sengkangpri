@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - General Information/School Hours.md
-      - General Information/General Information.md
+      - General Information/School Gate.md
       - General Information/.keep
       - Contact Us.md
