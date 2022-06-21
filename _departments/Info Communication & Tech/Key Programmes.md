@@ -47,3 +47,56 @@ Code for Fun (CFF) seeks to expose our P5 students to learn Computational Thinki
 **Students building and programming their own robots during the Code for Fun lesson.**
 
 </center>
+
+**P6 Digital Maker (Micro:bit) Programme**
+
+The Digital Maker Programme is a joint initiative by IMDA and its partner Microsoft to nurture a new generation of digital natives with a passion to create with technology. This programme is introduced to Primary 6 pupils and it aims to let equip students with basic skills of digital making using Micro:bit. The training package is customised to raise our students’ interest. The styudents were taught introductory programming and on the capabilities of the Micro:bit, a pocket-sized codable device. Thereafter, the students are given the opportunities to explore how they may want to use it to solve real-world problem using technology like creating a sensor to measure moisture in the soil and using automated devices to water the plant and even creating a traffic light with Micro:bit.
+
+<img src="/images/ict5.jpg" 
+     style="width:50%;float:left">
+		 <img src="/images/ict6.jpg" 
+     style="width:50%;float:left">
+		 
+		 
+<br><br>
+<center>
+
+**Students attending the Micro:bit lesson and showcasing their final product.**
+
+</center>
+
+
+**Cyber Wellness**
+
+**Framework and Principles**
+
+The school adopts the MOE Cyber Wellness Framework. The Framework focuses on developing the child’s instinct to protect himself and empower him to take responsibility for his own well-being in cyberspace. Thus, this framework highlights two principles to guide pupils in their actions, describes a 3-step process to explore cyber wellness issues and encourages schools to partner parents in promoting cyber wellness among pupils.
+
+<img src="/images/ict8.gif" 
+     style="width:50%">
+
+**Principles**
+
+The two principles, “Respect for Self and Others” and “Safe and Responsible Use” when adhered to will anchor pupils’ well-being in cyberspace as they will then be able to make careful and well-considered decisions.
+
+  
+
+**1\. Respect for Self and Others**
+
+Pupils need to:
+
+*   uphold their own dignity when online (e.g. avoid surfing inappropriate sites and participating in illegal online activities)
+*   respect others (e.g. avoid using the work of others without permission and publishing undesirable materials that hurt others).
+
+  
+
+**2\. Safe and Responsible Use**
+
+Pupils need to:
+
+*   have an understanding of the risks of harmful and illegal online behaviours, and learn how to protect themselves as well as to avoid dangers they may encounter online.
+*   be able to evaluate the consequences of their decisions/behaviours while online and make responsible choices to protect themselves and the community (e.g. not spending excessive amount of time chatting or playing games online, and reporting victims of cyberbullying to a trusted adult/authority).
+
+  
+
+Cyber Wellness Talks are conducted during the assembly and Lifeskills Lessons are integrated into the curriculum to further guide our pupils in protecting themselves in the Cyber World. Our school’s Cyber Wellness Ambassadors also planned and conducted Cyber Wellness Programme on School Learning Day.
