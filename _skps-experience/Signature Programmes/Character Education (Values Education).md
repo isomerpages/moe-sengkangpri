@@ -12,6 +12,7 @@ The Character Education Approach in the school is pinned on 2 approaches to help
      style="width:50%;float:left">
 		 <img src="/images/02.png" 
      style="width:50%;float:left">
+		 
 <center>
 	
 **CHARACTER EDUCATION - VALUES EDUCATION**
@@ -23,3 +24,14 @@ Using the Kolhberg and Piaget theories of moral development and cognitive develo
 **CITIZENSHIP EDUCATION**
 
 National Education (N.E), Cyberwellness and Kindness Movement (SKM) as well as the Values in Education (VIA) into the syllabus. This is to ensure that pupils learn that the values and behaviour they display do not just affect them but the nation as a whole in the long run. The curriculum thus aides in developing them to be gracious citizens, one of the school missions. The Celebration of the core NE Events is deepened with the introduction of Contemporary Issues for the blocks in the Upper Primary to deepen the conversations amongst the children
+
+<img src="/images/04.png" 
+     style="width:50%;float:left">
+		 <img src="/images/05.png" 
+     style="width:50%;float:left">
+		 <br><br><br><br>
+<center>
+	
+**ASSESSMENT**
+	
+</center>
