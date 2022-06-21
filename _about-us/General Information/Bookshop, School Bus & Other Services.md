@@ -41,6 +41,8 @@ Email: sales@pacificbookstores.com
 Jeep Sing Fashion  
 School uniform and P.E. attire are now available at Jeep Sing Fashion's  
 online store via this URL: [https://jeepsinguniform.com/collections/seng-kang-primary-school](https://jeepsinguniform.com/collections/seng-kang-primary-school)  
+
+[Click here for Purchase Guide](/files/Jeep%20Seng_School%20Uniform_Guide_Online%20Purchase.pdf)
   
 Walk-in purhcase at retail outlet is strictly by Appointment only, please be reminded to book  
 your time slots via this URL: [https://jeepsinguniform.com/pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking)
