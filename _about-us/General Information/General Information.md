@@ -60,3 +60,13 @@ Children coming by cars, taxis, motorcycles are to be dropped off at the front p
 **REMINDER**
 
 ![](/images/Reminder%20(1).jpg)
+
+**SCHOOL HOURS**
+
+<Center> Single Session </center>
+
+| Day | Start Time | Dismissal Time | Level
+| -------- | -------- | -------- | ---|
+| Monday to Friday     | 7.30 a.m.      | 1.30 p.m.     | Primary 1 - Primary 6
+|Friday | CCA: | 7.30 a.m. - 9.30 a.m. | 
+
