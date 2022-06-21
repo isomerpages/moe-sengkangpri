@@ -21,3 +21,16 @@ Miss Kwan See Ling
 |6 Charity |Mr Clarence Tan Teck Chuan<br> Mr Devindra Sapai s/o Indrasapai<br> Mr Tan Hiang Meng Stanley Ignatius| [tan\_teck\_chuan@schools.gov.sg](mailto:tan_teck_chuan@schools.gov.sg)<br> [devindra\_sapai\_indrasapai@schools.gov.sg](mailto:devindra_sapai_indrasapai@schools.gov.sg)<br> [tan\_hiang\_meng\_stanley@schools.gov.sg](mailto:tan_hiang_meng_stanley@schools.gov.sg)|
 
 
+| Class | Venue| Subject Teacher | Email |
+| -------- | -------- | -------- | ---|
+| CL 6.1 | 6 Faith | Mdm Du Liang | [du\_liang@schools.gov.sg](mailto:du_liang@schools.gov.sg)
+| CL 6.2 | 6 Hope | Miss Toh Peimin | [toh\_pei\_min@schools.gov.sg](mailto:toh_pei_min@schools.gov.sg)
+| CL 6.3 | 6 Courage| Miss Kwan See Ling | [kwan\_see\_ling@schools.gov.sg](mailto:kwan_see_ling@schools.gov.sg)
+| CL 6.4 | 6 Kindness| Mdm Chiew Yan Seah | [chiew\_yan\_seah@schools.gov.sg](mailto:chiew_yan_seah@schools.gov.sg)
+| CL 6.5| Recording Room | Mr Ng Kok Leong | [ng\_kok\_leong\_a@schools.gov.sg](mailto:ng_kok_leong_a@schools.gov.sg)
+| P6 CCE (CL 6.3) | 6 Courage | Mdm Lian Huan | [lian\_huan@schools.gov.sg](mailto:lian_huan@schools.gov.sg) 
+| ML 6.1 | 6 Joy | Miss Effah Elias | [nur\_effah\_elias@schools.gov.sg](mailto:nur_effah_elias@schools.gov.sg) 
+| ML 6.2| 6 Patience | Mdm Siti Zuraidah | [siti\_zuraidah\_osman@schools.gov.sg](mailto:siti_zuraidah_osman@schools.gov.sg)
+| P6 FML | Mother Tongue Room 2 |Mrs Suhaidah Binti Ahmad | [suhaidah\_ahmad@schools.gov.sg](mailto:suhaidah_ahmad@schools.gov.sg)
+| TL 6.1  |CCA Room 1 | Mrs Vijay |[jayasutha\_vijaya\_kumaran@schools.gov.sg](mailto:jayasutha_vijaya_kumaran@schools.gov.sg)
+| P6 FTL | Mother Tongue Room 3 | Miss Pathmaseri | [pathmaseri\_veeran\_visayan@schools.gov.sg](mailto:pathmaseri_veeran_visayan@schools.gov.sg)
