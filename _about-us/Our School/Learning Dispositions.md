@@ -28,5 +28,10 @@ There are 5 key learning dispositions that we seek to develop in every student: 
 
 <center> Lower Block Learning Disposition </center>
 
+<img src="/images/Learning%20Dispositions%20Posters%207%20lower_v2.jpg" 
+     style="width:80%">
+		 
+<center> Middle Block Learning Disposition </center>
+
 <img src="/images/Learning%20Dispositions%20Posters%207%20middle_v2.jpg" 
-     style="width:30%;float:left">
+     style="width:80%">
