@@ -23,6 +23,7 @@ Mrs Ferlynn Han-Tan Quek Khim
 |2 Confidence| Mdm Ng Cheng Li<br>Mdm Lim Swee Kuan| [ng\_cheng\_li@schools.gov.sg](mailto:ng_cheng_li@schools.gov.sg)<br>[lim\_swee\_kuan@schools.gov.sg](mailto:lim_swee_kuan@schools.gov.sg)
 |2 Graciousness| Mdm Nurulhuda Binte Mohamed Salleh<br>Miss Yeow An-Ning, Anna|[nurulhuda\_md\_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg)<br>[yeow\_anning\_anna@schools.gov.sg](mailto:yeow_anning_anna@schools.gov.sg)
 
+
 | Class | Venue| Subject Teacher | Email |
 | -------- | -------- | -------- | --- |
 |CL 2.1| 2 Faith| Mdm Cheo Xin Ying| [cheo\_xin\_ying@schools.gov.sg](mailto:cheo_xin_ying@schools.gov.sg)
