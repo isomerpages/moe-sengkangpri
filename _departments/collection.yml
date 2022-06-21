@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Info Communication & Tech/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Department Message.md
       - CCE/Framework.md
