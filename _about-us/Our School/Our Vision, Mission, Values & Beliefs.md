@@ -6,23 +6,26 @@ third_nav_title: Our School
 ---
 <center>
 	
-	OUR VISION
+	**_OUR VISION_**
 
 Every Seng Kang Primary student
 
 an Inventive Thinker, a Confident Leader and a Gracious Citizen
-
+	
+<br>
   
 
-OUR MISSION
+**_OUR MISSION_**
 
 Nurturing self-directed learners with inquiring minds,
 
 anchored on moral values to lead, care and serve
 
   
+<br>
+	
 
-OUR VALUES
+**_OUR VALUES_**
 
 Graciousness
 
@@ -44,7 +47,7 @@ Everyone is Special
 
   
 
-OUR CORPORATE VALUES
+**_OUR CORPORATE VALUES_**
 
 Integrity the Foundation
 
