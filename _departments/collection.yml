@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education Art & Music/Framework.md
       - Physical Education Art & Music/Key Programmes.md
       - Physical Education Art & Music/.keep
       - Info Communication & Tech/Department Message.md
