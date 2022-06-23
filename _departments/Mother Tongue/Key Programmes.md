@@ -65,3 +65,43 @@ Figure 3: Students get to learn the proper way of making Bunga Manggar and appre
 Figure 4: Fun and engaging activities held for Tamil students: Learning the Kolattam dance
 	
 </center>
+
+**_Festive Celebrations_**
+
+Students are taught to appreciate Singapore’s vibrant ethnic cultures and traditions through engaging and authentic learning experiences: e.g. Lunar New Year, Pongal Celebration & Hari Raya Celebrations etc.
+
+<img src="/images/mtf7.jpg" 
+     style="width:50%;float:left">
+<img src="/images/mtf8.jpg" 
+     style="width:50%;float:left">
+		 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<center>
+
+Figure 5: Students rejoice in singing “Gong Xi Gong Xi” to each other during the Chinese New Year Celebration held in the school hall.
+	
+</center>
+
+<img src="/images/mtf9.jpg" 
+     style="width:50%;float:left">
+<img src="/images/mtf10.jpg" 
+     style="width:50%;float:left">
+		 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<center>
+
+Figure 6: Our Tamil students go on a Learning Journey to Little India to witness the celebration of Pongal Festival. They dressed in traditional Indian dress and enjoyed a host of activities planned for them.
+	
+</center>
