@@ -105,3 +105,62 @@ Figure 5: Students rejoice in singing “Gong Xi Gong Xi” to each other during
 Figure 6: Our Tamil students go on a Learning Journey to Little India to witness the celebration of Pongal Festival. They dressed in traditional Indian dress and enjoyed a host of activities planned for them.
 	
 </center>
+
+<img src="/images/mtf11.jpg" 
+     style="width:50%;float:left">
+<img src="/images/mtf12.jpg" 
+     style="width:50%;float:left">
+		 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<center>
+
+Figure 7: Students learning about Malay customs and traditions during the Hara Raya Celebration.
+	
+</center>
+
+<img src="/images/mtf13.jpg" 
+     style="width:50%;float:left">
+<img src="/images/mtf4.jpg" 
+     style="width:50%;float:left">
+		 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<center>
+
+Figure 8: Parents and students dressed in traditional costumes and performed during Deepavali Celebration.
+	
+</center>
+
+**_Mother Tongue Language (MTL) Reading Programme_**
+
+The MTL Reading Programme is a school based curriculum aimed at promoting a reading culture in SKPS through structured curriculum reading periods, morning reading on every Thursday, reading cum reflection journals and various reading activities for all students. The reading of MTL stories, many of which are rich in cultural content, would in turn engender a love for the language and culture.
+
+<img src="/images/reading1.jpg" 
+     style="width:50%;float:left">
+<img src="/images/reading2.jpg" 
+     style="width:50%;float:left">
+		 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<center>
+
+Figure 9: MTL reading programme aims to inculcate reading skills and the enjoyment of reading amongst students and encourage them to read widely and at least one MTL book every month.
+	
+</center>
+
