@@ -26,7 +26,7 @@ third_nav_title: Info Communication & Tech
 		 
 <center>
 	
-**Students participating in the various activities that were organised during the Media Literacy Week.**
+Students participating in the various activities that were organised during the Media Literacy Week.
 
 </center>
 
@@ -44,7 +44,7 @@ Code for Fun (CFF) seeks to expose our P5 students to learn Computational Thinki
 <br><br>
 <center>
 
-**Students building and programming their own robots during the Code for Fun lesson.**
+Students building and programming their own robots during the Code for Fun lesson.
 
 </center>
 
@@ -61,7 +61,7 @@ The Digital Maker Programme is a joint initiative by IMDA and its partner Micros
 <br><br>
 <center>
 
-**Students attending the Micro:bit lesson and showcasing their final product.**
+Students attending the Micro:bit lesson and showcasing their final product.
 
 </center>
 
