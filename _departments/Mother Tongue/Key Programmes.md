@@ -29,3 +29,39 @@ Mooted in 2011, this 2-week long event is a platform for students to actively le
 Figure 2: Chinese Poetry and Painting becomes a fun way for students to learn Chinese language and culture.
 	
 </center>
+
+<img src="/images/mtf3.jpg" 
+     style="width:50%;float:left">
+<img src="/images/mtf4.jpg" 
+     style="width:50%;float:left">
+		 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<center>
+
+Figure 3: Students get to learn the proper way of making Bunga Manggar and appreciate the Malay culture, roots and tradition.
+	
+</center>
+
+<img src="/images/mtf5.jpg" 
+     style="width:50%;float:left">
+<img src="/images/mtf6.jpg" 
+     style="width:50%;float:left">
+		 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<center>
+
+Figure 4: Fun and engaging activities held for Tamil students: Learning the Kolattam dance
+	
+</center>
