@@ -51,3 +51,30 @@ The Primary 6 students learn how plants and sometimes animals live together in t
 **Other Programmes**
 
 The students go for 1 Science learning journey per year as we believe that joyful learning experiences can bring about motivation and improve learning engagement especially in the learning of Science where we can make the classroom come alive.
+
+**Science Learning Journey**
+
+|  |  | 
+| -------- | -------- | 
+| P3     | Diversity of animals & plants at the zoo     | 
+| P4 | Heat Science lesson at the Singapore Science Lesson
+| P5 | Plant parts and reproduction of flowering plants at Gardens by the Bay
+| P6 | Adaptations at Sungei Buloh
+
+**P1 & P2 Basic Science Programme**
+
+The P1 & P2 Basic Science Programme aims to increase students’ interest in Science. By exposing the pupils to topics in Science through selected STELLAR English lessons, the pupils would be able to link and understand the applicability of Science in our daily lives.
+
+**Environment Education Committee (EEC)**
+
+<img src="/images/eec.png" 
+     style="width:50%">
+
+**Our Programmes & Activities**
+
+The Environment Education Committee has initiated environmentally-friendly programmes to raise awareness on the importance of 3Rs in our daily lifestyles as well as raising funds for our financial-aided pupils. There are activities like Eco-Tues, Environment Week and collaborations with external agencies.
+
+  
+
+The external agencies include National Environment Agency (NEA), SembWaste, NParks, Residents Committee (RC) and more. These agencies provide support and advice in the recycling competitions and projects that the school has taken part in.
+
