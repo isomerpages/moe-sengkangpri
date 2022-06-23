@@ -67,9 +67,9 @@ Through these programmes, students learnt about the history and cultural roots o
 <br><br><br><br><br>
 <center>
 
-**_Left pic: Our P4 students performing as an Angklung ensemble in front of the P4 level._**
+Left pic: Our P4 students performing as an Angklung ensemble in front of the P4 level.
 
-**_Right pic: Our P3 students learning the Malay Dance._**
+Right pic: Our P3 students learning the Malay Dance.
 	
 </center>
 
@@ -82,7 +82,7 @@ Through these programmes, students learnt about the history and cultural roots o
 		 
 <center>
 
-**Combined P5 classes performing Sakura during recess.**
+Combined P5 classes performing Sakura during recess.
 	
 </center>
 
@@ -92,7 +92,7 @@ Through these programmes, students learnt about the history and cultural roots o
 
 <center>
 
-**Student works exhibited at Seng Kang Library.**
+Student works exhibited at Seng Kang Library.
 	
 </center>
 
