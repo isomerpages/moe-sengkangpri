@@ -40,3 +40,14 @@ The Primary 6 students learn how plants and sometimes animals live together in t
      style="width:30%;float:left">
 		 <img src="/images/terr3.jpg" 
      style="width:30%;float:left">
+		 
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+
+**Other Programmes**
+
+The students go for 1 Science learning journey per year as we believe that joyful learning experiences can bring about motivation and improve learning engagement especially in the learning of Science where we can make the classroom come alive.
