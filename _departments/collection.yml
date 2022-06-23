@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Framework.md
       - Science/Key Programme.md
       - Science/.keep
       - Mother Tongue/Department Message.md
