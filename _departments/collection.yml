@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue/Department Message.md
       - Mother Tongue/Framework.md
       - Mother Tongue/Key Programmes.md
       - Mother Tongue/.keep
