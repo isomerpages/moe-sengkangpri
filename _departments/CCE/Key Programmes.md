@@ -21,7 +21,9 @@ Seng Kang Primary School commemorated Total Defence Day on 17 February 2020 to m
      style="width:25%;float:left">
 		 <img src="/images/cce5.jpg" 
      style="width:25%;float:left">
-		 
+<br>
+<br>
+
 **_International Friendship Day_**  
 The school will be commemorating International Friendship Day (IFD) on Thursday, 9 April 2020. The activities will allow our students to learn about and appreciate other cultures in cosmopolitan Singapore. We hope to nurture in our students the spirit of friendship and collaboration amongst people of different culture, races and countries. The theme for this year is 'Beyond Borders'.  
   
