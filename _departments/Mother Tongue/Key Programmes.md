@@ -19,6 +19,6 @@ Mooted in 2011, this 2-week long event is a platform for students to actively le
 
 <center>
 
-**Figure 2: Chinese Poetry and Painting becomes a fun way for students to learn** **Chinese language and culture.**
+Figure 2: Chinese Poetry and Painting becomes a fun way for students to learn Chinese language and culture.
 	
 </center>
