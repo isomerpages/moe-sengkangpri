@@ -149,3 +149,10 @@ STAFF
 |Science Club| Sony Creative Science Award, Whizkid Award| Merit| LEE JIA JUN, DARIUS| 4 Faith
 |Science Club| Singapore Amazing Flying Machine Competition Time Aloft Category| 1st Runner-Up|DARREN KOH  <br>SHERMAINE LIM  <br>DELIA TAN| 6 Resilience<br>5 Resilience  <br>5 Faith
 |NE Ambassadors/ Prefects| Stamp Collecting Competion organised by Singapore Philatelic Museum| Silver Award| GWENDALYN TAN <br>RAHUL RAVI  <br>JAMES LEE  <br>CRYSTAL GOH  <br><br>MARC LIM  <br>CHARLYN WANG  <br>JADE GOH  <br>JIANG MING| 4 Kindness  <br>4 Hope  <br>4 Hope  <br>4 Faith  <br><br>5 Resilience  <br>5 Resilience  <br>5 Resilience  <br>5 Resilience
+|Modern Dance|Singapore Youth Festival (SYF)| Distinction| -|-|
+|Malay Dance| Singapore Youth Festival (SYF)| Accomplishment Award|-|-|
+|Handbells| Singapore Youth Festival (SYF)| Accomplishment Award|-|-|
+|Basketball|North Zone Primary Schools<br>Basketball Championship 2016| 1st Runner-Up| SENIOR GIRLS| -|
+|Hockey|National Hockey Championship|Champion|JUNIOR GIRLS|-|
+|Hockey|National Hockey Championship|2nd Runner-Up|SENIOR GIRLS|-
+|Hockey|National Hockey Championship|2nd Runner-Up|SENIOR BOYS|-|
