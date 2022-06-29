@@ -28,3 +28,5 @@ All Cub Scouts in Seng Kang Primary School will undergo training to build indivi
   
 
 We welcome boys from as young as Primary 2. If you are keen to challenge yourself and learn something new, come and join us!!!
+
+![](/images/Amendment%201.jpeg)
