@@ -311,3 +311,19 @@ Mdm Narasunaidu Manimekalay
 |Track and Field|80m Hurdles 'A' Girls|1st Position|Gao Ziwei|6 Faith
 |Track and Field|4 x 100m Relay|3rd Position|A Div Girls Team|-
 |Track and Field|4 x 300m Relay|2nd Position|A Div Girls Team|-
+
+**2013**
+
+**School:**  
+
+*   People Developer Standard (PDS)
+*   Green Audit Award - Lotus Award (Science Department)
+*   Greenwave Environment Care Competition - 2nd Place (Science Department)
+
+**Staff:**
+
+*   Mrs Miranda for winning the “Have You Got a Story to Tell?” 2012 Story Writing Contest
+*   Mdm Hadzar for winning the LEAP "Listening Education for Advancement and Progress" Award
+*   Mr Devindra being awarded the Long Service Medal by the President of the Republic of Singapore
+*   Mdm Lian Huan for winning the Second Prize of the National Story Writing Competition organized by SCCL (Primary School Category)
+*   Mdm Yang Caihui for winning the Merit Award in the National Story Writing Competition organized by SCCL (Pre-School Category)
