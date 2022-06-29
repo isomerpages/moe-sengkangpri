@@ -175,3 +175,40 @@ STAFF
 |Track and Field| 57th National Primary Schools Track and Field Championships 2016| 2nd Runner-Up|B Div boys 600 m<br>JHEN YAN|<br>6 Resilience|
 |Track and Field| Akira Swift Track and Field Event|2nd Runner-Up|U-11 Girls 100 m<br>ELY ARINI| <br> 5 Hope|
 |Track and Field| Akira Swift Track and Field Event|2nd Runner-Up|U-13 Boys  4 x 100 m  <br>FIRDAUS  <br>RYAN  <br>AILOV  <br>MUSTAQIM|<br> 6 Patience  <br>6 Patience   <br>5 Courage   <br>6 Patience
+
+
+**2015**
+
+
+**School:**
+
+*   **GLOW Award -** Aesthetics Department)
+*   Innergy Award 2015 (Bronze) - English Department
+
+**COMMITTEE:**
+
+|NAME  OF COMPETITION| NAME OF WINNERS | CLASS | ACHIEVEMENTS | 
+| -------- | -------- | -------- | -------- |
+|School Green Awards| SKPS| -| Lotus Sustained Achievement Award
+|Goold Award in the SEC - Starhub School Green Awards (SGA) and 3R Awarda 2015| SKPS| -| Gold
+
+**Staff:**
+
+*   Mrs Andrea Ki being awarded the MOE Service Excellence Award 2014
+*   Miss Kwan See Ling being awarded the Finalist of Outstanding Youth in Education Award 2015
+
+**Pupils:**
+
+|NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
+| -------- | -------- | -------- | -------- |-------- |
+|Modern Dance| Super 24 Dance Competition| Champion| - | -|
+|Basketball | NorthZone Primary Schools  
+Basketball Championship 2015 (Junior Girls)| 1st Runner-Up| - | -
+|Scouts| Frank Cooper Sands Award 2015| - | -|
+| ICT Club| Asia Pacific Youth Robotics Competition - Summer Games| Gold Medal| Jerrod Ng Peng Jie  <br>Lyon Lim Zi En| 6 Resilience  <br>6 Resilience
+| ICT Club| Asia Pacific Youth Robotics Competition - Summer Games| 2 Bronze Medal| Teng Hui Swen  <br>Rachel Tong Xin Ning |  6 Resilience  <br>6 Resilience
+|English Comes Alive| National Story Challenge (Team)| Semi Finals| Asihwarya Goyal Gouri Jain  <br>Arushi Pradhan <br>Aisha Uswa Sarfaraz| 4 Faith  <br>5 Resilience  <br> 6 Faith
+|English Comes Alive| National Story Challenge (Individual)| Semi Finals|Lim Jia Yi| 6 Resilience
+|English Comes Alive| Moo-O Awards (Team)| Participation| Sumitra Sunil Garse  <br>Ryotaro Hashimoto  <br>Erika Danielle Escriba| 3 Faith  <br>3 Faith  <br>3 Courage
+|English Comes Alive| The Big Spell 2015 (North Zone)| National Finals| Charlotte Chua Jia Xuan| 6 Resilience
+|English Comes Alive| Wits and Words (Inter-school debate)| Preliminary Round| Lim Jia Yi  <br>Kurt Rebellon <br>Nuur Zahraa  <br>Arushi Pradhan<br>Madapa Justin
