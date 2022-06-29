@@ -171,3 +171,7 @@ STAFF
 |Science Club| Singapore Amazing Flying Machine Competition Time Aloft Category| 1st Runner-Up| DARREN KOH<br>SHERMAINE LIM<br>DELIA TAN|6 Resilience  <br>5 Resilience  <br>5 Faith
 |Track and Field| 57th National Primary Schools Track and Field Championships 2016| 2nd Runner-Up| A Div Boys 4 x 100 m  <br>FIRDAUS  <br>RYAN  <br>AILOV  <br>MUSTAQIM|<br> 6 Patience  <br>6 patience  <br>5 Courage  <br>6 Patience
 |Track and Field| 57th National Primary Schools Track and Field Championships 2016| 2nd Runner-Up|  A Div Boys 4 x 300 m  <br>FIRDAUS  <br>RYAN  <br>AILOV  <br>MUSTAQIM|<br> 6 Patience  <br>6 patience  <br>5 Courage  <br>6 Patience
+|Track and Field| 57th National Primary Schools Track and Field Championships 2016| 1st Runner-Up| C Girls 300 m<br>ELY ARINI|<br>5 Hope
+|Track and Field| 57th National Primary Schools Track and Field Championships 2016| 2nd Runner-Up|B Div boys 600 m<br>JHEN YAN|<br>6 Resilience|
+|Track and Field| Akira Swift Track and Field Event|2nd Runner-Up|U-11 Girls 100 m<br>ELY ARINI| <br> 5 Hope|
+|Track and Field| Akira Swift Track and Field Event|2nd Runner-Up|U-13 Boys  4 x 100 m  <br>FIRDAUS  <br>RYAN  <br>AILOV  <br>MUSTAQIM|<br> 6 Patience  <br>6 Patience   <br>5 Courage   <br>6 Patience
