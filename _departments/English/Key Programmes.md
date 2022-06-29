@@ -11,8 +11,8 @@ Applied Learning Programmes (ALP): Enhance Spoken English Language Programme. P1
 <img src="/images/EL%2001.jpg" 
      style="width:25%;float:left"><img src="/images/EL%2002.jpg" 
      style="width:25%;float:left"><img src="/images/EL%2003.jpg" 
-     style="width:25%;float:left"><img src="/images/EL%2004.jpg" 
-     style="width:25%">
+     style="width:25%;float:left;height:84px"><img src="/images/EL%2004.jpg" 
+     style="width:25%;height:84px">
 		 
 <center>
 Our Confident and atriculate P1 students performing in front of their peers and parents.
@@ -23,7 +23,7 @@ Our Confident and atriculate P1 students performing in front of their peers and 
 <img src="/images/EL%2005a.jpg" 
      style="width:50%;float:left">
 <img src="/images/EL%2007.jpg" 
-     style="width:50%">
+     style="width:50%;height:178px">
 		 
 <center>
 P1 student hosting Talentime for their peers and participants singing and telling their stories.
@@ -38,7 +38,7 @@ its array of book related activities promote and sustain the love of, and joy in
 <img src="/images/EL%2010.jpg" 
      style="width:30%;float:left">
 <img src="/images/EL%2011.jpg" 
-     style="width:30%;float:left">
+     style="width:30%;float:left;height:170px">
 		 
 <br><br><br><br><br><br><br><br>
 		 
@@ -49,7 +49,7 @@ Wishing upon a "Book Tree" for a book.
 <img src="/images/EL%2012.jpg" 
      style="width:30%;float:left">
 <img src="/images/EL%2013.jpg" 
-     style="width:30%;float:left">
+     style="width:30%;float:left;height:100px">
 <img src="/images/EL%2014.jpg" 
      style="width:30%;float:left">
 		 
@@ -66,7 +66,7 @@ Book characters comes alive to spread the joy of reading to students.
 <img src="/images/EL%2015.jpg" 
      style="width:50%;float:left">
 <img src="/images/EL%2016.jpg" 
-     style="width:50%">
+     style="width:50%;height:163px">
 		 
 **ExcITE (Exciting Integrated Thematic Experience)**: This programme accords the lower primary students with the opportunity to co-plan lessons with their teachers and share their learning with their peers from another class.
 
@@ -77,7 +77,7 @@ Book characters comes alive to spread the joy of reading to students.
 <img src="/images/EL%2017.jpg" 
      style="width:50%;float:left">
 <img src="/images/EL%2018.jpg" 
-     style="width:50%">
+     style="width:50%;height:287px">
 
 <center>
 P1 and P2 students class representatives receiving prizes on behalf of their friends for completing the OPEL activity card.
