@@ -27,9 +27,7 @@ A. Pupil librarians will perform the following tasks twice a week during their r
 
   
 
-B. In addition, pupil librarians will also attend a Book Club Class
-
-every Friday from 0730-0930. They will learn the following;
+B. In addition, pupil librarians will also attend a Book Club Class every Friday from 0730-0930. They will learn the following;
 
 1\. the Art of Storytelling
 
