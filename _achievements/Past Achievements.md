@@ -78,4 +78,8 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 
 | RECIPIENT'S NAME | ACHIEVEMENTS | 
 | -------- | -------- |
-|Mdm Halinah Binte Halil  <br>Mdm Tan Meng Hui  <br>Mr Wong Chin Wei Aaron  <br>Mdm Chang Lan Li  <br>Mdm Leong Wee Hoon<br>Mrs Lye Chee Wah <br>Mdm Wang Yee Ling Karen  <br>Mdm Latifah Bte Abdul Aziz  <br>Mdm Ee (Leong) Laimun<br>Miss Mohana Durga d/o Rajaram  <br>Mdm Norahnisah Bte Abdol Rahman  <br>Miss Ong Shi Han  <br>Mdm Serene Tan  <br>Mdm Shabeena Begum Bte Azizzul Rahman<br>Mr Tan Jia Hui  <br>Mdm Waheeda Bte H Ali Ibrahim  <br>Mdm Nasuha Bte Hanafi  <br>Miss Toh Pei Min
+|Mdm Halinah Binte Halil  <br>Mdm Tan Meng Hui  <br>Mr Wong Chin Wei Aaron  <br>Mdm Chang Lan Li  <br>Mdm Leong Wee Hoon<br>Mrs Lye Chee Wah <br>Mdm Wang Yee Ling Karen  <br>Mdm Latifah Bte Abdul Aziz  <br>Mdm Ee (Leong) Laimun<br>Miss Mohana Durga d/o Rajaram  <br>Mdm Norahnisah Bte Abdol Rahman  <br>Miss Ong Shi Han  <br>Mdm Serene Tan  <br>Mdm Shabeena Begum Bte Azizzul Rahman<br>Mr Tan Jia Hui  <br>Mdm Waheeda Bte H Ali Ibrahim  <br>Mdm Nasuha Bte Hanafi  <br>Miss Toh Pei Min| MOE Service Excellence Award (MSEA) (Silver)
+|Mr Stanley Tan Hiang Meng  <br>Mr Mohammad Fairus Bin Masjueh| Innergy Award - Commendation Award
+|Mrs Ferlynn Han| PS21 Star Manager Award by Public Division Service
+
+**Department:**
