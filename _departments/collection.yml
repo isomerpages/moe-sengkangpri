@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/Department Messages.md
       - Mathematics/Framework.md
       - Mathematics/Key Programmes.md
       - Mathematics/.keep
