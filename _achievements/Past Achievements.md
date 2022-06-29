@@ -165,3 +165,8 @@ STAFF
 |English Comes Alive| National Story Challenge| Individual<br>Finals| AISHWARYA GOYAL| 5 Resilience
 |English Comes Alive| Moo-O Awards| Team<br>Participation| SANJANA RACHEL<br>GURU SAKETH VETCHA<br>ZACHARY TOK MIN EN|3 Faith <br>3 Faith  <br>3 Faith
 |English Comes Alive| Wits and Words- Inter-school Debate| North Zone<br>Top 5| GAURI JAIN<br>AISHWARYA GOYAL<br>ARUSHI PRADHAN<br>LEE JOOEI<br>ANDRE GHAZI| 5 Resilience<br>5 Resilience  <br>6 Resilience  <br>6 Resilience  <br>6 Resilience
+|English Comes Alive| Spin A Tale 2016| Participation| SANJANA RACHEL<br>COSTANTE JOSCHELLAH<br>AISHWARYA GOYAL| 3 Faith  <br>4 Faith  <br>5 Resilience
+|English Comes Alive| Babble and Speak| Finals - Team | ARUSHI PRADHAN| 6 Resilience
+|English Comes Alive| PESA| Preliminary| SANJANA RACHEL  <br>RACHAEL D’ SOUZA  <br>GAURI JAIN  <br>AISHWARYA GOYAL| 3 Faith<br>3 Faith<br>5 Resilience<br>5 Resilience
+|Science Club| Singapore Amazing Flying Machine Competition Time Aloft Category| 1st Runner-Up| DARREN KOH<br>SHERMAINE LIM<br>DELIA TAN|6 Resilience  <br>5 Resilience  <br>5 Faith
+|Track and Field| 57th National Primary Schools Track and Field Championships 2016| 2nd Runner-Up| A Div Boys 4 x 100 m  <br>FIRDAUS  <br>RYAN  <br>AILOV  <br>MUSTAQIM|<br> 6 Patience  <br>6 patience  <br>5 Courage  <br>6 Patience
