@@ -45,3 +45,18 @@ its array of book related activities promote and sustain the love of, and joy in
 <center>
 Wishing upon a "Book Tree" for a book.
 </center>
+
+<img src="/images/EL%2012.jpg" 
+     style="width:30%;float:left">
+<img src="/images/EL%2013.jpg" 
+     style="width:30%;float:left">
+<img src="/images/EL%2014.jpg" 
+     style="width:30%;float:left">
+		 
+<br><br><br><br><br><br>
+		 
+<center>
+Students having the opportunity to dress up as their favourite characters.
+
+Book characters comes alive to spread the joy of reading to students.
+</center>
