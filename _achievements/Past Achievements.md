@@ -41,3 +41,21 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |Mathematics| National Mathematical Olympiad of Singapore| Bronze<br>Honourable Mention  <br>Honourable Mention<br>Honourable Mention<br>Honourable Mention<br>Honourable Mention<br>Honourable Mention<br>Honourable Mention<br>Honourable Mention<br>Honourable Mention<br>Honourable Mention| Lai Jie Min Belinda<br>Chordiya Priyal Hemant  <br>Lam Ying Xuan, Gerye  <br>Lin Xinyi  <br>Sangepu Srija  <br>Shreeya Avinash Mandale  <br>Sirigineedi Haasini Priya<br>Aarav Siddhartha Arte  <br>Dylan Tan Jian Jun  <br>Wu Siyuan<br>Mohapatra Shlok| 5 Faith<br>5 Faith<br>5 Faith<br>5 Faith<br>5 Faith<br>5 Faith<br>5 Faith<br>5 Faith<br>5 Faith<br>5 Faith
 | Malay Language| Bulan Bahasa 2018 Pena Emas Competition| 1st| Eshly Qasrina <BR>Nur Damia Imanina <br>Syazlyn Nur Atiqah|5 Kindness <br>5 Kindness  <br>5 Kindness
 |Malay Language| Bulan Bahasa 2018 Mari Berpantun Competition| 3rd| Sarah Annabelle  <br>Nuralysha  <br>Muhammad Ariq Haziq| 4 Hope  <br>4 Patience  <br>4 Courage
+|English Comes Alive Club| Babble and Speak| Champion| Sanjana Rachel| 5 Faith|
+|English Comes Alive Club| Babble and Speak| Finalist| Rachael Kate| 5 Faith
+|IT/Media Club| Asia Pacific Youth Robotic Competition  (Team Fortress non-LEGO)| Bronze| Junior| - |
+|Basketball| National Inter-Primary School Basketball Championship 2018 (Northzone)| 3rd| Senior Girls| - |
+|Basketball| National Inter-Primary School Basketball Championship 2018 (Northzone)| 3rd | Junior Girls| - |
+|Hockey| National Primary School Hockey Championship 2018| 3rd | Junior Girls| - |
+|Hockey |Northzone Primary School Hockey Championship 2018|1st | Senior Boys| - |
+|Hockey |Northzone Primary School Hockey Championship 2018|1st | Junior Girls| - |
+|Hockey |Northzone Primary School Hockey Championship 2018|2nd | Junior Boys| - |
+|Malay Dance|Singapore Youth Festival (SYF) Arts Presentation| Distinction|-|-|
+|Modern Dance|Singapore Youth Festival (SYF) Arts Presentation| Accomplishment|-|-|
+|Handbells Ensemble |Singapore Youth Festival (SYF) Arts Presentation| Distinction|-|-|
+|Cub Scouts| Frank Cooper Sands Award | Gold Award|-|-|
+| Cub Scouts| North Area World Scout Day 2018| Most Aesthetically Pleasing Booth Game Booth (Gold Award)| -|-|
+|Brownies| Puan Noor Aishah Award| Bronze|-|-|
+|Brownies| Chief Commisioner Award| Chief Commisioner Award| Indah Nabilah| 6 Kindness|
+|Brownies| North Division Day 2018 Guiding Treasure Competition| 1st| Indah Nabilah  <br>Hanis| 6 Kindness  <br>5 Hope
+|English Comes Alive Club| Newsmaker Awards| Participation|Ayushi Pandey  <br>Iris Naveen  <br>Elianah Danielle Del Mundo| 4 Faith  <br>4 Faith  <br>4 Faith
