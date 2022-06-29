@@ -120,6 +120,4 @@ Hockey Championship| Champion| SENIOR GIRLS| -|
 |English Comes Alive| Babble and Speak| Gold award|  MADIRI SANJANA RACHEL| 4 Resilience|
 |English Comes Alive| Babble and Speak|Merit award|GOYAL AISHWARYA|6 Resilience|
 |English Comes Alive| Moo O Awards| Merit award|DEL MUNDO ELIANAH DANIELLE GARCIA  <br>YUSRA AHMED<br>JOEL JUNUS|3 Faith  <br>3 Faith <br>3 Faith|
-|English Comes Alive|National Story Challenge|Preliminary Round| GOYAL AISHWARYA  <br>GAURI JAIN  
-ADITI NIGHOJKAR  <br>MONISHA GOVENDER  
-CONSTANTE JOSCHELLAH MAGBITANG  <br>UMITRA SUNIL GARSE  <br>ZAKEERAH PERVEEN BINTE JAMALUDDIN  <br>FEI WEIJIE, GAVIN  <br>GURU SAKETH VETCHA  <br>MADIRI SANJANA RACHEL| 6 Resilience  <br>6 Resilience  <br>6 Faith  <br>6 Joy  <br>5 Resilience  <br>5 Resilience  <br>5 Joy  <br>5 Joy  <br>4 Faith  <br>4 Faith
+|English Comes Alive|National Story Challenge|Preliminary Round| GOYAL AISHWARYA  <br>GAURI JAIN  ADITI NIGHOJKAR  <br>MONISHA GOVENDER  <br>CONSTANTE JOSCHELLAH MAGBITANG  <br>UMITRA SUNIL GARSE  <br>ZAKEERAH PERVEEN BINTE JAMALUDDIN  <br>FEI WEIJIE, GAVIN  <br>GURU SAKETH VETCHA  <br>MADIRI SANJANA RACHEL| 6 Resilience  <br>6 Resilience  <br>6 Faith  <br>6 Joy  <br>5 Resilience  <br>5 Resilience  <br>5 Joy  <br>5 Joy  <br>4 Faith  <br>4 Faith
