@@ -298,3 +298,16 @@ Mdm Narasunaidu Manimekalay
 |English Comes Alive| Moo O Competition| Finals| Elaine Chong  <br>Kristen Tan  <br>Hoon Tien Tiang|3 Faith  <br>3 Faith  <br>3 Faith
 |English Comes Alive|Babble and Speak| Silver Award| Aisha Uswa| 5 Faith
 |English Comes Alive|Plain English Speaking Award| Preliminary Round| Aisha Uswa  <br>Lee Jooei <br>Aishwarya Goyal  <br>Elaine Chong| 5 Faith  <br>4 Faith  <br>3 Faith  <br>3 Faith
+|English Comes Alive| N1 Cluster Challenge (Spin A Tale)|Champion| Aisha Uswa|5 Faith
+|English Comes Alive| N1 Cluster Challenge (Spin A Tale)|1st Runner Up| Lim Jia Yi|5 Resilience
+|Handbells Ensemble| SYF 2014| Certificate of Accomplishment (Silver Award)|-|-
+|Malay Dance| SYF 2014|Certificate of Distinction|-|-
+|Modern Dance| SYF Arts Presentation 2014<br>(International Dance Category)|Certificate of Accomplishment (Silver Award)|-|-
+|Track and Field| 100m 'A' Div Boys| 1st Position| Salvo, Meldrick Gumban| 6 Faith
+|Track and Field| 200m 'A' Div Boys| 1st Position| Salvo, Meldrick Gumban| 6 Faith
+|Track and Field|High Jump 'B' Boys|2nd Position|Remus Ler Aik Tong|6 Kindness
+|Track and Field|110m Hurdles 'A' Girls| 2nd Position|Robles Caitinlei Denise|6 Joy
+|Track and Field|300m 'A' Girls|2nd Position| Trisha Alissandra Sayo|6 Joy
+|Track and Field|80m Hurdles 'A' Girls|1st Position|Gao Ziwei|6 Faith
+|Track and Field|4 x 100m Relay|3rd Position|A Div Girls Team|-
+|Track and Field|4 x 300m Relay|2nd Position|A Div Girls Team|-
