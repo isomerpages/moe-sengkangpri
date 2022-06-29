@@ -133,3 +133,19 @@ STAFF
 
 **[Click on link to read more.](https://www.moe.gov.sg/news/press-releases/oyea-2016-national-honours-for-inspirational-young-educators-1)**
 
+**COMMITTEE:**
+
+|NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
+| -------- | -------- | -------- | -------- |-------- |
+|ENVIRONMENT EDUCATION COMMITTEE (EEC)| School Green Awards| Hibiscus Award| -|-|
+
+**CCA GROUP:**
+
+|NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
+| -------- | -------- | -------- | -------- |-------- |
+|Math Department| RIPMWC Open Category  (Individual)|Credit|SAHISNU BASKAR|
+| Math Department|  RIPMWC Junior Category  (Individual)| Distinction| CHESLEY CHUA QI XUN  <BR>LIM JUN KIAT, MARC|
+| Math Department|  RIPMWC Junior Category  (Individual)|Credit|
+|Science Club| Sony Creative Science Award, Whizkid Award| Merit| LEE JIA JUN, DARIUS| 4 Faith
+|Science Club| Singapore Amazing Flying Machine Competition Time Aloft Category| 1st Runner-Up|DARREN KOH  <br>SHERMAINE LIM  <br>DELIA TAN| 6 Resilience<br>5 Resilience  <br>5 Faith
+|NE Ambassadors/ Prefects| Stamp Collecting Competion organised by Singapore Philatelic Museum| Silver Award| GWENDALYN TAN <br>RAHUL RAVI  <br>JAMES LEE  <br>CRYSTAL GOH  <br><br>MARC LIM  <br>CHARLYN WANG  <br>JADE GOH  <br>JIANG MING| 4 Kindness  <br>4 Hope  <br>4 Hope  <br>4 Faith  <br><br>5 Resilience  <br>5 Resilience  <br>5 Resilience  <br>5 Resilience
