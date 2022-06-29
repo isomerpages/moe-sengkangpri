@@ -230,3 +230,40 @@ Basketball Championship 2015 (Junior Girls)| 1st Runner-Up| - | -
 |Track and Field| High Jump 'D' Girls Division| 3rd| Nur Sabrina| 4 Patience
 | Track and Field| Sony Creative Science Award Scizkid Award (Primary 3 - 6)| Merit| Team 1 : Darius Lee and Ku Shang Hsuan| 4 Faith
 | Track and Field | | Merit| Term 2 : Chiam Jet Ming and Jarrett Heng| 4 Faith
+
+**2014**
+![](/images/IMG_2158b.png)
+
+**Inspiring Teacher Of English Award 2014**
+
+Mdm Lim Chwee Lian
+
+![](/images/NDA-2014a.png)
+
+**The Public Administration Medal (Bronze) 2014**  
+Mdm Rabiathul Bazriya d/o Abubakar  
+  
+**The Commendation Medal 2014**  
+Mdm Chiew Yan Seah  
+  
+**The Long Service Medal 2014**  
+Mr Lee Boon Kwee  
+Mdm Narasunaidu Manimekalay  
+
+  
+
+**School:**
+
+*   **ALP/LLP Award 2014**
+
+**Committee:**
+
+
+|NAME OF COMMITTEE | NAME OF COMPETITION |  ACHIEVEMENT
+| -------- | -------- | -------- |
+| ENVIRONMENT EDUCATION COMMITTEE (EEC)     | Community in Bloom     | Gold     |
+| ENVIRONMENT EDUCATION COMMITTEE (EEC)   |Gardeners' Cup|Champion
+| ENVIRONMENT EDUCATION COMMITTEE (EEC)   | Green Carpet Award| Merit
+| ENVIRONMENT EDUCATION COMMITTEE (EEC)   | School Green Awards| Lotus
+| ENVIRONMENT EDUCATION COMMITTEE (EEC)   | 3R Awards| Gold
+
