@@ -18,4 +18,23 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 | Mrs Jasmine Chan| National Day Award - Commendation Medal
 | Miss Siti Zuraidah Osman  <br>Mdm Lim Hwee Hong  <br>Mdm Yeo Ay Leng | National Day Award - Long Service Medal
 | Miss Toh Pei Min| Finalist of Outstanding Youth in Education (OYEA) Award
-| Mdm Chin Irnanie Binte Imran Chin <br>Miss Koh Zhuang Mun  <br>Miss Latifah Bte Abdul Aziz  <br>Mdm Loke Chuen Lam  <br>Miss Toh Pei Min  <br>Mr Lee Kah Soon Dexter  <br>Mdm Lian Huan  <br>Mdm Norhanim Bte Hashim  <br>Mr Lawrence Chan  <br>Mdm Hadzar Bte Misiri  <br>Mdm Noor Lizah Binte Matson  <br>Mdm Yeo Ay Leng  <br>Mr Devindra Sapai S/O Indrasapai  <br>Mdm Jaswant Kaur D/O Gurdit Singh  <br>Mrs Jasmine Chan Nee Williams
+| Mdm Chin Irnanie Binte Imran Chin <br>Miss Koh Zhuang Mun  <br>Miss Latifah Bte Abdul Aziz  <br>Mdm Loke Chuen Lam  <br>Miss Toh Pei Min  <br>Mr Lee Kah Soon Dexter  <br>Mdm Lian Huan  <br>Mdm Norhanim Bte Hashim  <br>Mr Lawrence Chan  <br>Mdm Hadzar Bte Misiri  <br>Mdm Noor Lizah Binte Matson  <br>Mdm Yeo Ay Leng  <br>Mr Devindra Sapai S/O Indrasapai  <br>Mdm Jaswant Kaur D/O Gurdit Singh  <br>Mrs Jasmine Chan Nee Williams| MOE Long Service Award
+| Mrs Lye Chee Wah Joyce  <br>Mdm Leong Wee Hoon Jennifer  <br>Mr Wong Chin Wei Aaron <br>Mrs Serene Tan  <br>Mr Seah Chin Liang Matthew|Caring Teacher Award
+
+**School:**
+
+
+| DEPARTMENT |ACHIEVEMENTS|
+| -------- | -------- | 
+| Science     | Community in Bloom Project (Gold Award)     | 
+|EEC| School Green Awards 2018 (Vanda Miss Joaquim Award)
+
+**CCA/Department:**
+
+
+
+|NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
+| -------- | -------- | -------- | -------- |-------- |
+| Sports Leaders    | Team Orienteering Relay Primary School Division (Girls)     | Champion     | Adifah Erina  <br>Anthea  <br>Khamis Soh Jia May| 5 Joy  <br>5 Faith  <br>4 Joy
+
+
