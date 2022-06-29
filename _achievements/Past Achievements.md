@@ -59,3 +59,23 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |Brownies| Chief Commisioner Award| Chief Commisioner Award| Indah Nabilah| 6 Kindness|
 |Brownies| North Division Day 2018 Guiding Treasure Competition| 1st| Indah Nabilah  <br>Hanis| 6 Kindness  <br>5 Hope
 |English Comes Alive Club| Newsmaker Awards| Participation|Ayushi Pandey  <br>Iris Naveen  <br>Elianah Danielle Del Mundo| 4 Faith  <br>4 Faith  <br>4 Faith
+|English Comes Alive Club| Spin a Tale|  Silver  <br>Bronze  <br>Participation| Kripa Anna Thariyan  <br>Eiianah Danielle Del Mundo  <br>Gavin Fei Wei Jie| 3 Faith  <br>4 Faith  <br>6 Joy
+|Chess Club | 70th National Schools Individual Chess Championship 2018  (Northzone Senior Boys)| Merit Award| Hee Wei Jie| 6 Resilience
+|Chess Club | 70th National Schools Individual Chess Championship 2018  (North Zone Lower Junior Boys Category)| Merit Award| Advaith Praveen| 2 Patience
+|Track and Field | Sports School Invitational 2018 (8 x 50m Relay)| 1st|-|-|
+|Track and Field |Sports School Invitational 2018 (Long Jump)| 3rd | -|-|
+|Track and Field| Sports School Invitational 2018 (Shot Put)| 3rd|-|-|
+|Track and Field| Track & Field 59th National Competition <br>(A Division Boys - 100m)| 4th| Suhaidi bin Sumardi| 6 Patience
+|Track and Field|Track & Field 59th National Competition <br>(A Division Boys - 100m hurdles)| 1st  <br>3rd|Muhd Khair  <br>Muhd Ammar| 6 Patience
+|Track and Field|Track & Field 59th National Competition <br>(A Division Boys - 200m)| 2nd| Mohd Khair| 6 Patience
+|Track and Field| Track & Field 59th National Competition<br>(A Division Boys - 300m)| 4th| Muhd Tahqim| 6 Patience
+|Track and Field| Track & Field 59th National Competition <br>(A Division Boys - 600m)| 3rd | Jia Syuan | 4 Faith
+|Track and Field|Track & Field 59th National Competition  <br>(A Division Boys - 4 x 300m)| 2nd| A Division Boys| 6 Patience
+|Track and Field|Track & Field 59th National Competition  <br>(A Division Boys - 4 x 100m)| 2nd |A Division Boys| 6 Patience
+|Track and Field| Track & Field 59th National Competition<br>(A Division Boys - Nationals)| 2nd |A Division Boys| 6 Patience
+
+**2017**
+
+| RECIPIENT'S NAME | ACHIEVEMENTS | 
+| -------- | -------- |
+|Mdm Halinah Binte Halil  <br>Mdm Tan Meng Hui  <br>Mr Wong Chin Wei Aaron  <br>Mdm Chang Lan Li  <br>Mdm Leong Wee Hoon<br>Mrs Lye Chee Wah <br>Mdm Wang Yee Ling Karen  <br>Mdm Latifah Bte Abdul Aziz  <br>Mdm Ee (Leong) Laimun<br>Miss Mohana Durga d/o Rajaram  <br>Mdm Norahnisah Bte Abdol Rahman  <br>Miss Ong Shi Han  <br>Mdm Serene Tan  <br>Mdm Shabeena Begum Bte Azizzul Rahman<br>Mr Tan Jia Hui  <br>Mdm Waheeda Bte H Ali Ibrahim  <br>Mdm Nasuha Bte Hanafi  <br>Miss Toh Pei Min
