@@ -267,3 +267,32 @@ Mdm Narasunaidu Manimekalay
 | ENVIRONMENT EDUCATION COMMITTEE (EEC)   | School Green Awards| Lotus
 | ENVIRONMENT EDUCATION COMMITTEE (EEC)   | 3R Awards| Gold
 
+
+**Staff:**
+
+*   **Mdm Nurul'Ain Bte Azilah for winning Academy Awards for Professional Development 2014 (Associate Award)**
+*   **Mdm Lian Huan and Mdm Yang Cai Hui for winning the Second and Excellent Award respectively in the open (adult) category of the National Story Writing Competition 2013**
+*   **Mdm Hadzar as the Finalist of the President's Award for Teachers 2014**
+
+**Pupils:**
+
+|NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
+| -------- | -------- | -------- | -------- |-------- |
+|Science Club| Singapore Amazing Flying Machine Competition| Gold| Hoo Fang Zhou<br> Edric Chie  <br>Clara Wong| 5 Resilience  <br>5 Resilience  <br>5 Faith
+|Science Club|13th Elementz Science Competition| Silver| Manasi Sing  <br>Pearlene Chua  <br>Pei Ling  <br>Bryan Loh  <br>Shao Yin Zhan  <br>Khoo Xiao Zhen| 4 Faith <br>5 Resilience   <br>5 Resilience   <br>6 Resilience   <br>6 Faith
+|Science Club|Raffles Institution Science Olympiad| Sliver|Lyon Lim Zi En| 5 Resilience
+|Hockey| NorthZone Junior Tournament| 3rd|-|-
+|Hockey| NorthZone Senior Tournament| 3rd|-|-
+|Hockey|Inter Primary School National Hockey Championship (Junior)| 4th|-|-
+|Hockey|Inter Primary School National Hockey Championship (Senior)| 4th|-|-
+|ICT Club| Asia Pacific Youth Robotics Competition Winter 2014 (Primary School Category) - Team Fortress| 3rd (Bronze)| Jerrod Ng  <br>Lim Zi En| 5 Resilience  <br>5 Resilience
+|ICT Club| Asia Pacific Youth Robotics Competition Winter 2014 (Primary School Category) - Transporter|3rd (Bronze)| Teng Hui Swen  <br>Tong Xin Ning| 5 Resilience <br>5 Resilience
+|ICT Club| Asia Pacific Youth Robotics Competition Winter 2014 (Primary, Secondary and Open Category)|Overall Sportsmanship Trophy|-|-|
+|Scouts| Frank Cooper Sands Award 2014| Gold Award|-|-
+|Chess Club| 66th National Schools Individual Championships 2014 - Lower Junior Boys Division| 19th Position (National - Merit)| Hee Wei Jie| 2 Courage
+|Chess Club|66th National Schools Individual Championships 2014 - Senior Boys Division|5th Position (National )<br>2nd Position (Northzone)|Hee Wei Yang|6 Resilience
+|Chess Club|1st Singapore Scholastic Chess Championship 2014 (National Under 12)|3rd Position|Hee Wei Yang|6 Resilience
+|English Comes Alive| 2014 Story Challenge (Group)|Finals| Lee Yi Xuan Rebellon<br> Kurt  Nuur Zahraa<br> Ashwirya Raqvi| 6 Resilience  <br>5 Faith  <br>5 Joy  
+|English Comes Alive| Story Challenge (Individual)| Semi-Finals| Lim Jia Yi| 5 Resilience
+|English Comes Alive| Page to Stage| Finals|Sumitra Garse <br>Madapa Justin| 2 Faith  <br>4 Hope
+|English Comes Alive| Moo O Competition| Finals| Elaine Chong  <br>Kristen Tan  <br>Hoon Tien Tiang|3 Faith  <br>3 Faith  <br>3 Fatih
