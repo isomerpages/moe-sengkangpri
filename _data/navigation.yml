@@ -8,3 +8,5 @@ links:
     collection: departments
   - title: CCA
     collection: cca
+  - title: Achievements
+    collection: achievements
