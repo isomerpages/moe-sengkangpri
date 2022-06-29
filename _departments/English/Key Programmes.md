@@ -11,8 +11,8 @@ Applied Learning Programmes (ALP): Enhance Spoken English Language Programme. P1
 <img src="/images/EL%2001.jpg" 
      style="width:25%;float:left"><img src="/images/EL%2002.jpg" 
      style="width:25%;float:left"><img src="/images/EL%2003.jpg" 
-     style="width:25%;float:left;height:84px"><img src="/images/EL%2004.jpg" 
-     style="width:25%;height:84px">
+     style="width:25%;float:left;height:160px"><img src="/images/EL%2004.jpg" 
+     style="width:25%;height:160px">
 		 
 <center>
 Our Confident and atriculate P1 students performing in front of their peers and parents.
