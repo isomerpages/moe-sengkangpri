@@ -115,4 +115,7 @@ Hockey Championship| Champion| SENIOR GIRLS| -|
 |Track and Field| Akira Cross Country Championship 2017 (U12 - 1KM Girls)| 3rd  <br>7th  <br>9th| ELY ARINI  <br>TRINITY WONG  <br>NUR SABRINA| 6 Joy  <br>6 Faith  <br>6 Courage
 |Track and Field| Akira Cross Country Championship 2017 (U12 - 1KM Boys)| 10th| FOONG RAEYAN|6 Faith
 |Track and Field|Singapore Sports School Invitational 2017  (8x50m Relay B Division)|3rd| JAVIEN LIEW  <br>LEE FENG KAI   <br>MOHD HYDER ANARQI   <br>DANISH ALFIAN   <br>RAFAEL IMAN   <br>MOHD AYMAN KHAN   <br>LEE YI CEN   <br>TOH YU YANG| 5 Faith  <br>5 Resilience  <br>5 Kindness  <br>5 Courage  <br>5 Joy  <br>5 Joy  <br>5 Faith  <br>5 Faith
-|English Comes Alive| Spin A Tale  <br>N1 Cluster Challenge
+|English Comes Alive| Spin A Tale  <br>N1 Cluster Challenge| Gold Award| SIYONA KHANDELWAI| 3 Kindness
+|English Comes Alive| Spin A Tale  <br>N1 Cluster Challenge| Paticipation| Kinjal Johri  <br>Hasini Vajja| 5 Resilience  <br>4 Hope
+|English Comes Alive| Babble and Speak| Gold award|  MADIRI SANJANA RACHEL| 4 Resilience|
+|English Comes Alive| Babble and Speak|Merit award|GOYAL AISHWARYA|6 Resilience|
