@@ -156,3 +156,11 @@ STAFF
 |Hockey|National Hockey Championship|Champion|JUNIOR GIRLS|-|
 |Hockey|National Hockey Championship|2nd Runner-Up|SENIOR GIRLS|-
 |Hockey|National Hockey Championship|2nd Runner-Up|SENIOR BOYS|-|
+|Hockey|North Zone Inter-Primary Hockey Championship|Champion|SENIOR BOYS|-
+|Hockey|North Zone Inter-Primary Hockey Championship|Champion|SENIOR GIRLS|-|
+|Hockey|North Zone Inter-Primary Hockey Championship|1st Runner-Up|JUNIOR BOYS|-
+|Hockey|North Zone Inter-Primary Hockey Championship|2nd Runner-Up|-
+|Chess Club| North Zone 68th National Schools Individual Chess Championship 2016| Merit Award| HEE WEI JIE| 4 Faith
+|English Comes Alive| National Story Challenge| Team<br>Semi - Finals| COSTANTE JOSCHELLAH<br>MONISHA GOVENDER<br>ADITI NIGHOJKAR<br>MADAPA JUSTIN|4 Faith  <br>5 Hope  <br>5 Faith  <br>6 Resilience
+|English Comes Alive| National Story Challenge| Individual<br>Finals| AISHWARYA GOYAL| 5 Resilience
+|English Comes Alive| Moo-O Awards| Team<br>Participation| SANJANA RACHEL<br>GURU SAKETH VETCHA<br>ZACHARY TOK MIN EN|3 Faith <br>3 Faith  <br>3 Faith
