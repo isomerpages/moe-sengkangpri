@@ -170,3 +170,4 @@ STAFF
 |English Comes Alive| PESA| Preliminary| SANJANA RACHEL  <br>RACHAEL D’ SOUZA  <br>GAURI JAIN  <br>AISHWARYA GOYAL| 3 Faith<br>3 Faith<br>5 Resilience<br>5 Resilience
 |Science Club| Singapore Amazing Flying Machine Competition Time Aloft Category| 1st Runner-Up| DARREN KOH<br>SHERMAINE LIM<br>DELIA TAN|6 Resilience  <br>5 Resilience  <br>5 Faith
 |Track and Field| 57th National Primary Schools Track and Field Championships 2016| 2nd Runner-Up| A Div Boys 4 x 100 m  <br>FIRDAUS  <br>RYAN  <br>AILOV  <br>MUSTAQIM|<br> 6 Patience  <br>6 patience  <br>5 Courage  <br>6 Patience
+|Track and Field| 57th National Primary Schools Track and Field Championships 2016| 2nd Runner-Up|  A Div Boys 4 x 300 m  <br>FIRDAUS  <br>RYAN  <br>AILOV  <br>MUSTAQIM|<br> 6 Patience  <br>6 patience  <br>5 Courage  <br>6 Patience
