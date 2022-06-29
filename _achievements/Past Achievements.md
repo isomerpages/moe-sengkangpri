@@ -36,5 +36,4 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 | Sports Leaders    | Team Orienteering Relay Primary School Division (Girls)     | Champion     | Adifah Erina  <br>Anthea  <br>Khamis Soh Jia May| 5 Joy  <br>5 Faith  <br>4 Joy
-
-
+| Lower Primary|  2018 Crea8 Sustainability Art Competition | 2nd  Runner-Up  <br>Winner  <br>Merit Winner| Dhanvin Prakash  <br> Arivalagan Ananyaa<br>Lee Kai Heng Eagan| 2 Charity  <br>3 Faith  <br>3 Faith
