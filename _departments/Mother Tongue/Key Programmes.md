@@ -22,6 +22,8 @@ Mooted in 2011, this 2-week long event is a platform for students to actively le
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 <center>
@@ -58,6 +60,8 @@ Figure 3: Students get to learn the proper way of making Bunga Manggar and appre
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 <center>
@@ -75,6 +79,8 @@ Students are taught to appreciate Singapore’s vibrant ethnic cultures and trad
 <img src="/images/mtf8.jpg" 
      style="width:50%;float:left">
 		 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -98,6 +104,8 @@ Figure 5: Students rejoice in singing “Gong Xi Gong Xi” to each other during
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 <center>
@@ -111,6 +119,8 @@ Figure 6: Our Tamil students go on a Learning Journey to Little India to witness
 <img src="/images/mtf12.jpg" 
      style="width:50%;float:left">
 		 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -134,6 +144,8 @@ Figure 7: Students learning about Malay customs and traditions during the Hara R
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 <center>
@@ -151,6 +163,8 @@ The MTL Reading Programme is a school based curriculum aimed at promoting a read
 <img src="/images/reading2.jpg" 
      style="width:50%;float:left">
 		 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -190,6 +204,8 @@ Participants of the programme will have the opportunity to experience school lif
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 <center>
@@ -203,6 +219,8 @@ Figure 10: Our partner school in Suzhou Industrial Park, China: Chefang Experime
 <img src="/images/suzhou4.jpg" 
      style="width:50%;float:left">
 		 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -244,6 +262,8 @@ Figure 12: Students learned how to make Chinese dumplings at Nanxiang Ancient To
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 <center>
@@ -257,6 +277,8 @@ Figure 13: Students learned how to make and fly their Chinese kites at Nanshan, 
 <img src="/images/suzhou10.jpg" 
      style="width:50%;float:left">
 		 
+<br>
+<br>
 <br>
 <br>
 <br>
