@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Club and Societies.md
       - Sports and Games.md
       - P3 Modular CCA.md
