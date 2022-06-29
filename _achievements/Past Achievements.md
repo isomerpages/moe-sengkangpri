@@ -103,3 +103,15 @@ Hockey Championship| Champion| SENIOR GIRLS| -|
 |Hockey| National School Games  Hockey Championship| 2nd Runner-Up| SENIOR BOYS| -| 
 |Hockey| North Zone Inter-Primary Hockey Championship| Champion| SENIOR GIRLS| -| 
 |Hockey| North Zone Inter-Primary Hockey Championship| 1st Runner-Up| JUNIOR BOYS | -|
+|Hockey| North Zone Inter-Primary Hockey Championship| 2nd Runner-Up| SENIOR BOYS | -|
+|Track and Field| National Track & Field Competition<br>(C Division - Shot Put)| 5th | RYOTARO HASHIMOTO | 5 Resilience|
+|Track and Field| National Track & Field Competition  <br>(B Division - 300 M)| 4th | ELY ARINI| 6 Joy
+|Track and Field| National Track & Field Competition  <br>(B Division - 600 M)| Finalist | ELY ARINI| 6 Joy
+|Track and Field|National Track & Field  Competition  <br>(B Division - Long Jump)| 9th | TRINITY WONG| 6 Faith
+|Track and Field| National Track & Field  Competition  <br>(C Division - 200 M)| 4th | HYDER ANARQI| 5 Kindness
+|Track and Field|National Track & Field  Competition  <br>(C Division - 4 x 100 M Relay)| 5th| HYDER ANARQI <br>LEE YI CEN  <br>MOHD AYMAN KHAN  <br>RAFAEL IMAN| 5 Kindness  <br>5 Faith  <br>5 Joy  <br>5 Joy
+|Track and Field|Akira Cross Country Championship 2017  (U9 - 500m dash)| 2nd | LIAO JIA SYUAN| 3 Faith
+|Track and Field|Akira Cross Country Championship 2017  (U10 - 500m Boys)| 5th |SIM JUN YEN| 4 Kindness
+|Track and Field| Akira Cross Country Championship 2017 (U12 - 1KM Girls)| 3rd  <br>7th  <br>9th| ELY ARINI  <br>TRINITY WONG  <br>NUR SABRINA| 6 Joy  <br>6 Faith  <br>6 Courage
+|Track and Field| Akira Cross Country Championship 2017 (U12 - 1KM Boys)| 10th| FOONG RAEYAN|6 Faith
+|Track and Field|Singapore Sports School Invitational 2017  (8x50m Relay B Division)|3rd| JAVIEN LIEW  <br>LEE FENG KAI   <br>MOHD HYDER ANARQI   <br>DANISH ALFIAN   <br>RAFAEL IMAN   <br>MOHD AYMAN KHAN   <br>LEE YI CEN   <br>TOH YU YANG
