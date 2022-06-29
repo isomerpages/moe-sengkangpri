@@ -40,7 +40,7 @@ its array of book related activities promote and sustain the love of, and joy in
 <img src="/images/EL%2011.jpg" 
      style="width:30%;float:left">
 		 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 		 
 <center>
 Wishing upon a "Book Tree" for a book.
