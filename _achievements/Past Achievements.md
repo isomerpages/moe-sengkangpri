@@ -212,3 +212,6 @@ Basketball Championship 2015 (Junior Girls)| 1st Runner-Up| - | -
 |English Comes Alive| Moo-O Awards (Team)| Participation| Sumitra Sunil Garse  <br>Ryotaro Hashimoto  <br>Erika Danielle Escriba| 3 Faith  <br>3 Faith  <br>3 Courage
 |English Comes Alive| The Big Spell 2015 (North Zone)| National Finals| Charlotte Chua Jia Xuan| 6 Resilience
 |English Comes Alive| Wits and Words (Inter-school debate)| Preliminary Round| Lim Jia Yi  <br>Kurt Rebellon <br>Nuur Zahraa  <br>Arushi Pradhan<br>Madapa Justin|6 Resilience  <br>6 Faith  <br>6 Joy  <br>5 Resilience  <br>5 Resilience
+|English Comes Alive| Wits and Words (Inter-school debate)| Best Speaker Award| Lim Jia Yi| 6 Resilience
+|English Comes Alive| Spin A Tale 2015 (Zonal)| 3rd  <br>Participation  <br>Participation| Lim Jia Yi  <br>Aisha Uswa Sarfaraz  <br>Sumitra Sunil Garse| 6 Resilience  <br>6 Faith <br>3 Faith
+|
