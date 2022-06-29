@@ -214,4 +214,19 @@ Basketball Championship 2015 (Junior Girls)| 1st Runner-Up| - | -
 |English Comes Alive| Wits and Words (Inter-school debate)| Preliminary Round| Lim Jia Yi  <br>Kurt Rebellon <br>Nuur Zahraa  <br>Arushi Pradhan<br>Madapa Justin|6 Resilience  <br>6 Faith  <br>6 Joy  <br>5 Resilience  <br>5 Resilience
 |English Comes Alive| Wits and Words (Inter-school debate)| Best Speaker Award| Lim Jia Yi| 6 Resilience
 |English Comes Alive| Spin A Tale 2015 (Zonal)| 3rd  <br>Participation  <br>Participation| Lim Jia Yi  <br>Aisha Uswa Sarfaraz  <br>Sumitra Sunil Garse| 6 Resilience  <br>6 Faith <br>3 Faith
-|
+|English Comes Alive| Babble and Speak | Finals| Arushi Pradhan| 5 Resilience
+|English Comes Alive| Page to Stage| 3rd  <br>Finals| Sumitra Sunil Garse  <br>Alyx Goh Wei Xuan| 3 Faith  <br>2 Hope
+|English Comes Alive|29th YMCA Plain English Speaking Award (PESA)| Bronze Honour Roll|Sumitra Sunil Garse|3 Faith
+|Hockey| National Hockey Championship (Senior Boys)| 2nd|-|-|
+|Hockey| National Hockey Championship  
+(Junior Girls)| 2nd| -| -|
+|Hockey| NorthZone Tournament (Junior Boys)|4th|-|-
+|Hockey| NorthZone Tournament (Junior Girls)| 2nd| -|-
+| | | Top Scorer| Nadiah Ong| 5 Resilience
+|Hockey| NorthZone Tournament (Senior Boys)| 1st| -|-|
+| | | Top Scorer| Mohammed Danish B Mohammed Ali| 6 Joy
+|Track and Field| Singapore Sports School - Singapore Athletics Association Invitational Meet - 300m| 3rd| Shawn Emmanuel Singh| 5 Kindness
+| Track and Field| 56th National Primary Schools Track & Field Championships 2015 - 300m 'C' Boys Division| 4th| Shawn Emmanuel Singh| 5 Kindness
+|Track and Field| High Jump 'D' Girls Division| 3rd| Nur Sabrina| 4 Patience
+| Track and Field| Sony Creative Science Award Scizkid Award (Primary 3 - 6)| Merit| Team 1 : Darius Lee and Ku Shang Hsuan| 4 Faith
+| Track and Field | | Merit| Term 2 : Chiam Jet Ming and Jarrett Heng| 4 Faith
