@@ -60,3 +60,21 @@ Students having the opportunity to dress up as their favourite characters.
 
 Book characters comes alive to spread the joy of reading to students.
 </center>
+
+**Spin-A-Tale N1 Cluster Storytelling Competition:** SKPS is proud to host the annual N1 Cluster storytelling competition for the primary schools in the cluster. At SKPS, we select our top three story tellers from a school-wide search, after allowing our students to experience the storytelling competitions at their respective levels.
+
+<img src="/images/EL%2015.jpg" 
+     style="width:50%;float:left">
+<img src="/images/EL%2016.jpg" 
+     style="width:50%">
+		 
+**ExcITE (Exciting Integrated Thematic Experience)**: This programme accords the lower primary students with the opportunity to co-plan lessons with their teachers and share their learning with their peers from another class.
+
+  
+
+**OPEL**: The Oral Proficiency in English Language (OPEL) cards for the lower primary students are a collection of activities the students complete to help them build and boost their speaking and presentation skills.
+
+<img src="/images/EL%2017.jpg" 
+     style="width:50%;float:left">
+<img src="/images/EL%2018.jpg" 
+     style="width:50%">
