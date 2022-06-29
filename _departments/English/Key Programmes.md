@@ -38,7 +38,7 @@ its array of book related activities promote and sustain the love of, and joy in
 <img src="/images/EL%2010.jpg" 
      style="width:30%;float:left">
 <img src="/images/EL%2011.jpg" 
-     style="width:30%;float:left;height:170px">
+     style="width:30%;float:left;height:340px">
 		 
 <br><br><br><br><br><br><br><br>
 		 
@@ -49,7 +49,7 @@ Wishing upon a "Book Tree" for a book.
 <img src="/images/EL%2012.jpg" 
      style="width:30%;float:left">
 <img src="/images/EL%2013.jpg" 
-     style="width:30%;float:left;height:100px">
+     style="width:30%;float:left;height:200px">
 <img src="/images/EL%2014.jpg" 
      style="width:30%;float:left">
 		 
@@ -66,7 +66,7 @@ Book characters comes alive to spread the joy of reading to students.
 <img src="/images/EL%2015.jpg" 
      style="width:50%;float:left">
 <img src="/images/EL%2016.jpg" 
-     style="width:50%;height:163px">
+     style="width:50%;height:300px">
 		 
 **ExcITE (Exciting Integrated Thematic Experience)**: This programme accords the lower primary students with the opportunity to co-plan lessons with their teachers and share their learning with their peers from another class.
 
@@ -75,9 +75,9 @@ Book characters comes alive to spread the joy of reading to students.
 **OPEL**: The Oral Proficiency in English Language (OPEL) cards for the lower primary students are a collection of activities the students complete to help them build and boost their speaking and presentation skills.
 
 <img src="/images/EL%2017.jpg" 
-     style="width:50%;float:left">
+     style="width:50%;float:left;height:320px">
 <img src="/images/EL%2018.jpg" 
-     style="width:50%;height:287px">
+     style="width:50%;height:320px">
 
 <center>
 P1 and P2 students class representatives receiving prizes on behalf of their friends for completing the OPEL activity card.
