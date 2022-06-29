@@ -100,9 +100,6 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |Scouts | Frank Cooper Sands' Award 2017| Pennant Honours Award| WHOLE UNIT| - |
 |Hockey| National School Games  
 Hockey Championship| Champion| SENIOR GIRLS| -| 
-|Hockey| National School Games  
-Hockey Championship| 2nd Runner-Up| SENIOR BOYS| -| 
-|Hockey| North Zone Inter-Primary  
-Hockey Championship| Champion| SENIOR GIRLS| -| 
-|Hockey| North Zone Inter-Primary  
-Hockey Championship| 1st Runner-Up| JUNIOR BOYS | -| 
+|Hockey| National School Games  Hockey Championship| 2nd Runner-Up| SENIOR BOYS| -| 
+|Hockey| North Zone Inter-Primary Hockey Championship| Champion| SENIOR GIRLS| -| 
+|Hockey| North Zone Inter-Primary Hockey Championship| 1st Runner-Up| JUNIOR BOYS | -|
