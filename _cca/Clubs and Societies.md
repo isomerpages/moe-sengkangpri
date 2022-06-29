@@ -98,3 +98,4 @@ Are you interested to learn Malay or Chinese creatively? Lots of exciting activi
 *   Appreciate MT movie and songs
 
 Join as for a wonderful learning journey now!
+![](/images/Amendment%202.jpeg)
