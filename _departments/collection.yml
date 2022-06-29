@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/Framework.md
       - English/Key Programmes.md
       - English/.keep
       - Mathematics/Department Message.md
