@@ -23,7 +23,7 @@ Our Confident and atriculate P1 students performing in front of their peers and 
 <img src="/images/EL%2005a.jpg" 
      style="width:50%;float:left">
 <img src="/images/EL%2007.jpg" 
-     style="width:50%;height:320px">
+     style="width:50%;height:330px">
 		 
 <center>
 P1 student hosting Talentime for their peers and participants singing and telling their stories.
