@@ -83,3 +83,14 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |Mrs Ferlynn Han| PS21 Star Manager Award by Public Division Service
 
 **Department:**
+
+|NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
+| -------- | -------- | -------- | -------- |-------- |
+|EEC| SEC-StarHub School Green Awards (SGA)| Lotus Award| 
+|English  Department| National English Writing Competition (NEW-C)| Merit Awards| ALYX GOH WEI XUAN| 4 Faith
+
+**CCA:**
+
+|NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
+| -------- | -------- | -------- | -------- |-------- |
+|Science Club | Sustainable Singapore School Art Competition| 2nd Runner Up  <br>(Lower primary)  <br><br>Merit Winner <br>(Upper primary)| ANANYAA ARIVALAGAN  <br><br>FION TAN YU WEI| 2 Charity  <br><br>3 Faith
