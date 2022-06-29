@@ -13,5 +13,9 @@ description: ""
 |Mdm Hadzar Binte Misiri| Fellow of Academy of Singapore Teachers Award 2018|
 |Miss Chang Lan Li  <br>Mrs Lye Chee Wah Joyce  
 Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS MOE Service Excellence Award (MSEA) (Gold)
-| Mdm Chin Irnanie Binte Imran Chin  <br>Miss Dulcie Lim Shao Jian  <br>Mrs Eswani Nicholas  <br>Mrs Chris Leong  <br>Mdm Haslinda Binte Asmin  <br>Mdm Lian Huan  <br>Mr Loe Weiqiang Timothy  <br>Mr Mohamed Salleh B Md Nooh  <br>Mdm Noor Lizah Binte Matson  <br>Mdm Nurzarifah Binte Masnam  <br>Mr Seah Chin Liang Matthew <br>Mdm Shanmugathai d/o Madasamy  <br>Mrs Siew-Gee Brenda  <br>Mr Suresh Kumar s/o Gemeni Ganasan  <br>Miss Tan Shi Min
-
+| Mdm Chin Irnanie Binte Imran Chin  <br>Miss Dulcie Lim Shao Jian  <br>Mrs Eswani Nicholas  <br>Mrs Chris Leong  <br>Mdm Haslinda Binte Asmin  <br>Mdm Lian Huan  <br>Mr Loe Weiqiang Timothy  <br>Mr Mohamed Salleh B Md Nooh  <br>Mdm Noor Lizah Binte Matson  <br>Mdm Nurzarifah Binte Masnam  <br>Mr Seah Chin Liang Matthew <br>Mdm Shanmugathai d/o Madasamy  <br>Mrs Siew-Gee Brenda  <br>Mr Suresh Kumar s/o Gemeni Ganasan  <br>Miss Tan Shi Min| SKPS MOE Service Excellence Award (MSEA) (Silver)
+|Mr Lawrence Chan  <br>Mr Clarence Tan  <br>Mr Matthew Seah  <br>Mrs Chris Leong| Innergy Award - Commendation
+| Mrs Jasmine Chan| National Day Award - Commendation Medal
+| Miss Siti Zuraidah Osman  <br>Mdm Lim Hwee Hong  <br>Mdm Yeo Ay Leng | National Day Award - Long Service Medal
+| Miss Toh Pei Min| Finalist of Outstanding Youth in Education (OYEA) Award
+| Mdm Chin Irnanie Binte Imran Chin <br>Miss Koh Zhuang Mun  <br>Miss Latifah Bte Abdul Aziz  <br>Mdm Loke Chuen Lam  <br>Miss Toh Pei Min  <br>Mr Lee Kah Soon Dexter  <br>Mdm Lian Huan  <br>Mdm Norhanim Bte Hashim  <br>Mr Lawrence Chan  <br>Mdm Hadzar Bte Misiri  <br>Mdm Noor Lizah Binte Matson  <br>Mdm Yeo Ay Leng  <br>Mr Devindra Sapai S/O Indrasapai  <br>Mdm Jaswant Kaur D/O Gurdit Singh  <br>Mrs Jasmine Chan Nee Williams
