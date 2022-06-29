@@ -78,3 +78,8 @@ Book characters comes alive to spread the joy of reading to students.
      style="width:50%;float:left">
 <img src="/images/EL%2018.jpg" 
      style="width:50%">
+
+<center>
+P1 and P2 students class representatives receiving prizes on behalf of their friends for completing the OPEL activity card.
+	
+	</center>
