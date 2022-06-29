@@ -327,3 +327,13 @@ Mdm Narasunaidu Manimekalay
 *   Mr Devindra being awarded the Long Service Medal by the President of the Republic of Singapore
 *   Mdm Lian Huan for winning the Second Prize of the National Story Writing Competition organized by SCCL (Primary School Category)
 *   Mdm Yang Caihui for winning the Merit Award in the National Story Writing Competition organized by SCCL (Pre-School Category)
+
+**Pupils:**
+
+|NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
+| -------- | -------- | -------- | -------- |-------- |
+|Hockey| NorthZone Senior Tournament| 4th|-|-
+|Hockey|NorthZone Junior Tournament|2nd|-|-
+|Chess Club|65th National Schools Individual  Chess Championships 2013 (U11  Category)|Won 5 out of 7|Hee Wei Yang|5 Resilience
+|Chess Club|65th National Schools Individual  Chess Championships 2013 (U12  Category)|25th placing - Won 4 out of 7| Hee Wei Yang| 5 Resilience
+|Chess Club|65th National Schools Individual  Chess Championships 2013 (U7  Category)|17th placing - Merit|Hee Wei Jie|1 Courage
