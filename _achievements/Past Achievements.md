@@ -295,4 +295,6 @@ Mdm Narasunaidu Manimekalay
 |English Comes Alive| 2014 Story Challenge (Group)|Finals| Lee Yi Xuan Rebellon<br> Kurt  Nuur Zahraa<br> Ashwirya Raqvi| 6 Resilience  <br>5 Faith  <br>5 Joy  
 |English Comes Alive| Story Challenge (Individual)| Semi-Finals| Lim Jia Yi| 5 Resilience
 |English Comes Alive| Page to Stage| Finals|Sumitra Garse <br>Madapa Justin| 2 Faith  <br>4 Hope
-|English Comes Alive| Moo O Competition| Finals| Elaine Chong  <br>Kristen Tan  <br>Hoon Tien Tiang|3 Faith  <br>3 Faith  <br>3 Fatih
+|English Comes Alive| Moo O Competition| Finals| Elaine Chong  <br>Kristen Tan  <br>Hoon Tien Tiang|3 Faith  <br>3 Faith  <br>3 Faith
+|English Comes Alive|Babble and Speak| Silver Award| Aisha Uswa| 5 Faith
+|English Comes Alive|Plain English Speaking Award| Preliminary Round| Aisha Uswa  <br>Lee Jooei <br>Aishwarya Goyal  <br>Elaine Chong| 5 Faith  <br>4 Faith  <br>3 Faith  <br>3 Faith
