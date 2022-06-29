@@ -120,3 +120,16 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |English Comes Alive| Babble and Speak|Merit award|GOYAL AISHWARYA|6 Resilience|
 |English Comes Alive| Moo O Awards| Merit award|DEL MUNDO ELIANAH DANIELLE GARCIA  <br>YUSRA AHMED<br>JOEL JUNUS|3 Faith  <br>3 Faith <br>3 Faith|
 |English Comes Alive|National Story Challenge|Preliminary Round| GOYAL AISHWARYA  <br>GAURI JAIN <br> ADITI NIGHOJKAR  <br>MONISHA GOVENDER  <br>CONSTANTE JOSCHELLAH MAGBITANG  <br>UMITRA SUNIL GARSE  <br>ZAKEERAH PERVEEN BINTE JAMALUDDIN  <br>FEI WEIJIE, GAVIN  <br>GURU SAKETH VETCHA  <br>MADIRI SANJANA RACHEL| 6 Resilience  <br>6 Resilience  <br>6 Faith  <br>6 Joy  <br>5 Resilience  <br>5 Resilience  <br>5 Joy  <br>5 Joy  <br>4 Faith  <br>4 Faith
+| Chess Club| 69th National Schools Individual Chess Championships 2017  (Senior Boys Division -North Zone)| Merit Award| HEE WEI JIE| 5 Resilience
+
+**2016**
+
+STAFF
+
+<img src="/images/Untitled.jpeg" 
+     style="width:30%;float:left">
+**Mrs Sheena Shidarta for winning**
+**Outstanding Youth in Education Award (OYEA) 2016**
+
+**[Click on link to read more.](https://www.moe.gov.sg/news/press-releases/oyea-2016-national-honours-for-inspirational-young-educators-1)**
+
