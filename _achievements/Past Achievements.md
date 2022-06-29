@@ -94,3 +94,15 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Science Club | Sustainable Singapore School Art Competition| 2nd Runner Up  <br>(Lower primary)  <br><br>Merit Winner <br>(Upper primary)| ANANYAA ARIVALAGAN  <br><br>FION TAN YU WEI| 2 Charity  <br><br>3 Faith
+|Modern Dance | Super 24 Dance Competition| 4th | - | -|
+|Brownies| North Division Day Telematch| 2nd | SYA'IRAH JASMIN  <br>MARIA RIANA GABRIEL  <br>TAN YING EN, KRISTEN  <br>ERIKA DANIELLE| 6 Courage  <br>6 Joy<br>6 Resilience  <br>5 Faith
+|Scouts | Frank Cooper Sands' Award 2017| Gold| WHOLE UNIT| - |
+|Scouts | Frank Cooper Sands' Award 2017| Pennant Honours Award| WHOLE UNIT| - |
+|Hockey| National School Games  
+Hockey Championship| Champion| SENIOR GIRLS| -| 
+|Hockey| National School Games  
+Hockey Championship| 2nd Runner-Up| SENIOR BOYS| -| 
+|Hockey| North Zone Inter-Primary  
+Hockey Championship| Champion| SENIOR GIRLS| -| 
+|Hockey| North Zone Inter-Primary  
+Hockey Championship| 1st Runner-Up| JUNIOR BOYS | -| 
