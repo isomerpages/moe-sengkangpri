@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - Parents/Achievement Band And Grading System.md
       - Parents/.keep
       - Thank You Message for Teachers.md
