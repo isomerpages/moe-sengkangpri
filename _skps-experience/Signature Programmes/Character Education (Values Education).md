@@ -15,7 +15,7 @@ The Character Education Approach in the school is pinned on 2 approaches to help
 		 
 <center>
 	
-**CHARACTER EDUCATION - VALUES EDUCATION**
+CHARACTER EDUCATION - VALUES EDUCATION
 	
 </center>
 
