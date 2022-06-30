@@ -26,9 +26,13 @@ During school operating hours, students should contact the&nbsp;**_School-based 
 *   Saturdays: 9:00 am -&nbsp;3:00 pm
 *   Closed on Sundays &amp; Public Holidays
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY7FczvysboI7Ba7d__Wslp3hfhUJ8oO9MBLcj8IyySndauLOJjIGu870TiBo6s3dKvb3Yc1AcDZK7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSY7FczvysboI7Ba7d__Wslp3hfhUJ8oO9MBLcj8IyySndauLOJjIGu870TiBo6s3dKvb3Yc1AcDZK7/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 *   [SLS Login Page (Click here)](https://vle.learning.moe.edu.sg/login)
 *   [SLS Guide - Initial&nbsp;Login Procedure](/files/Initial%20Login%20Procedure%20for%202020_SLS_Revised.pdf)
 *   [SLS Guide - How to Reset Password](/files/Password%20Reset%20for%202020_SLS_Revised.pdf)
 *   [SLS Guide - Frequently Asked Question](/files/SLS%20Guide_Frequently%20Asked%20Questions_FAQ.pdf)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRB76Bc7OVM_HvyhIELadt5YlkFQXTF9vnxG1pdBaR7nt_ypi396i2ZTaK-HkanH0rNQJtYRreWqOZ_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+*   [How To Use Zoom Video Conferencing](/files/Using%20Zoom%20for%20website.pdf)
