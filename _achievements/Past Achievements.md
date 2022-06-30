@@ -124,7 +124,7 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 
 **2016**
 
-STAFF
+**STAFF**
 
 <img src="/images/Untitled.jpeg" 
      style="width:30%;float:left">
@@ -132,6 +132,8 @@ STAFF
 **Outstanding Youth in Education Award (OYEA) 2016**
 
 **[Click on link to read more.](https://www.moe.gov.sg/news/press-releases/oyea-2016-national-honours-for-inspirational-young-educators-1)**
+
+<br><br>
 
 **COMMITTEE:**
 
