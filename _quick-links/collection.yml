@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Staff.md
-      - Parents/Students.md
       - Parents/Student Learning Space.md
       - Parents/Parents Gateway.md
       - Parents/Info on Sexuality Education Programme for P5 & P6 Students.md
