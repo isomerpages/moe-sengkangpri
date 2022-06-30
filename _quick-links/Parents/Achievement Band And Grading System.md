@@ -26,3 +26,11 @@ third_nav_title: Parents
 |7| 20 - 44
 |8|< 20|
 
+**Achievement Bands for Primary 5 and Primary 6 Foundation Level**
+
+
+| Achievement Level| Mark Range | Equivalent Standard Level AL|
+| -------- | -------- | -------- | 
+|A|75 - 100| 6
+|B|30 - 74| 7
+|C|< 30 | 8
