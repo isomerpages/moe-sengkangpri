@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Seng Kang Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -16,3 +16,4 @@ sections:
           description: ""
           url: /Latest-Happenings
 ---
+
