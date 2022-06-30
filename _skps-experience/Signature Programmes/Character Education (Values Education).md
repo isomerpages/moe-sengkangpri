@@ -33,11 +33,11 @@ National Education (N.E), Cyberwellness and Kindness Movement (SKM) as well as t
 		 <img src="/images/05.png" 
      style="width:50%;float:left">
 		 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 		 
 <center>
 	
-**ASSESSMENT**
+ASSESSMENT
 	
 </center>
 
