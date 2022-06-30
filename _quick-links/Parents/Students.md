@@ -24,3 +24,15 @@ Click on this title to find our more about 
 {Seng Kang Primary School Library Resources (OPAC)](https://schoolibrary.moe.edu.sg/sengkangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 </center>
+
+![](/images/SKSP%20OPAC.jpeg)
+
+<center>
+	
+Click on this title to find our more about   
+
+[My Skills Furture Website (Primary)](https://www.myskillsfuture.gov.sg/content/student/en/primary)
+
+</center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45Ry8h4fpew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
