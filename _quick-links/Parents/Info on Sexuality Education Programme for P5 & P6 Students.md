@@ -88,5 +88,8 @@ You may click [**here**](https://www.moe.gov.sg/education/programmes/social-and
 
 | UNIT | LESSON / DURATION | LESSON OBJECTIVES  <BR>At the end of the lesson, pupil will be able to: | TIME PERIOD|
 | -------- | -------- | -------- |-------- |
-| Gosh! I Am Changing     | What is Happening To Me?  <BR>(30 min)     | -   know what puberty is<br> -   identify the physical changes during puberty     |
-
+| Gosh! I Am Changing     | What is Happening To Me?  <BR>(30 min)     | -   know what puberty is<br> -   identify the physical changes during puberty     |During curriculum time
+| Gosh! I Am Changing     | What Can I Do? (Part 1) <BR>(30 min)     | -   identify the stresses caused by physical changes during puberty<br>-   describe ways to manage the stresses caused by physical changes during puberty|During curriculum time
+| Gosh! I Am Changing     | What Can I Do? (Part 2) <BR>(30 min)    | -   identify the stresses caused by physical and emotional changes during puberty<br>-   describe ways to manage the stresses caused by these changes during puberty|During curriculum time
+| Gosh! I Am Changing  |Main Task  <br>(30 min) | Description of the Main Task:  <br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.|During curriculum time
+|Where I Belong|What Are Families?  <br>(30 min)|-   know that there are different type of family structures<br>-   know that every family is a unique state that the three basic functions of families are to provide love, protection and guidance<br>-   identify the right sources of help to turn to when in need
