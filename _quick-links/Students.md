@@ -18,7 +18,7 @@ Click on this title to find out more about <br> [School eResources Repository, 
  
 Click on this title to find our more about 
 
-{Seng Kang Primary School Library Resources (OPAC)](https://schoolibrary.moe.edu.sg/sengkangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+[Seng Kang Primary School Library Resources (OPAC)](https://schoolibrary.moe.edu.sg/sengkangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 
 ![](/images/SKSP%20OPAC.jpeg)
