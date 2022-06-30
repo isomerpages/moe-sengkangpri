@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Staff.md
       - Parents/Students.md
       - Parents/Student Learning Space.md
       - Parents/Parents Gateway.md
