@@ -34,3 +34,13 @@ third_nav_title: Parents
 |A|75 - 100| 6
 |B|30 - 74| 7
 |C|< 30 | 8
+
+**Achievement Grades for Higher Mother Tongue Languages**
+
+
+| Grade| Mark Range |
+| -------- | -------- | 
+|Distinction| 80 and above
+|Merit|65 - 79
+|Pass|50 - 64|
+|Ungraded|Below 50
