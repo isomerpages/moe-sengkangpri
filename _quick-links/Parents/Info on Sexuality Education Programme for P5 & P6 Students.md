@@ -16,17 +16,11 @@ third_nav_title: Parents
 
   
 
-    (i)     To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on      
+(i)     To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 
-             human sexuality and the consequences of sexual activity;
+(ii)    To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
 
-    (ii)    To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-                               awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication,  
-
-             problem-solving and decision-making skills; and  
-
-    (iii)   To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of      
-
-             society, through the inculcation of positive mainstream values and attitudes about sexuality.
+(iii)   To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 
   
 
@@ -40,9 +34,7 @@ third_nav_title: Parents
 
     (iii)   Make responsible decisions for yourself, your family and society; and
 
-    (iv)   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your  
-
-             loved ones.
+    (iv)   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
   
 
@@ -102,7 +94,36 @@ You may click [**here**](https://www.moe.gov.sg/education/programmes/social-and
 
 | UNIT | LESSON / DURATION | LESSON OBJECTIVES  <BR>At the end of the lesson, pupil will be able to: | TIME PERIOD|
 | -------- | -------- | -------- |-------- |
-|Are We More Than Friends?|Who Are My Friends?   <br>(30 min)|-   identify the qualities of a healthy friendship<br>-   recognise the importance of making wise choices in friendship
-|Are We More Than Friends?|Am I A Good Friend?   <br>(30 min)|-   identify the qualities that they have as a friend<br>-   recognise the importance of developing in oneself the qualities of a good friend
-|Are We More Than Friends?|What Is Love?  <br>(30 min)|-   identify the characteristics of love and infatuation<br>-   distinguish between the characteristics of love versus infatuation
-|Are We More Than Friends?|Am I Falling In Love?  <br>(30 min)|-   identify strong feelings arising from infatuation<br>-   manage strong feelings arising from infatuation<br>-   identify ways to manage and cope with teasing from peers
+|Are We More Than Friends?|Who Are My Friends?   <br>(30 min)|-   identify the qualities of a healthy friendship<br>-   recognise the importance of making wise choices in friendship|During curriculum time
+|Are We More Than Friends?|Am I A Good Friend?   <br>(30 min)|-   identify the qualities that they have as a friend<br>-   recognise the importance of developing in oneself the qualities of a good friend|During curriculum time
+|Are We More Than Friends?|What Is Love?  <br>(30 min)|-   identify the characteristics of love and infatuation<br>-   distinguish between the characteristics of love versus infatuation|During curriculum time
+|Are We More Than Friends?|Am I Falling In Love?  <br>(30 min)|-   identify strong feelings arising from infatuation<br>-   manage strong feelings arising from infatuation<br>-   identify ways to manage and cope with teasing from peers|During curriculum time
+|Friends or Foes?|Are You Really My Friend?  <br>(30 min)|-   identify the pros and cons of forming relationships through social networking websites<br>-   know ways to keep themselves safe when using social networking websites|During curriculum time
+|Friends or Foes?|Is It All Safe?  <br>(30 min)|-   know that some information received through the Internet may be harmful<br>-   know ways to keep themselves safe when using the Internet|During curriculum time
+|Friends or Foes?|Main Task  <br>(30 min)|Description of the Main Task<br>Students are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and responsibility.|During curriculum time
+
+
+**INFORMATION FOR PARENTS**
+
+  
+
+8.        Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+  
+
+9.        Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents via Parents Gateway (PG) near the date of the programme and is also downloadable [here](/files/P5_P6%20Growing%20Year%202021%20Letter%20to%20Parents%20Opt%20Out%20Form.pdf)
+
+  
+
+10.     Parents can contact the school for discussion or to seek clarification about the school’s sexuality education programme at: 
+
+**Seng Kang Primary** 
+
+School Address: 21 Compassvale Walk Singapore 545166 
+Tel: 6384 0809 Fax: 6384 0839 
+
+Email: [skps@moe.edu.sg](mailto:skps@moe.edu.sg)
+
+  
+
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
