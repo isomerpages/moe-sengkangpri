@@ -65,10 +65,11 @@ In Lifeskills lessons, students learn about Design Thinking as an approach to lo
 		 <img src="/images/10.png" 
      style="width:50%;float:left">
 <br><br><br><br><br><br>
-
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <center>
 	
-**Student Leadership**  
+Student Leadership 
 	
 </center>
 
