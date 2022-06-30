@@ -46,3 +46,17 @@ Note that 2021 info will be updated as soon as possible: 
 Education Guide > Explore Schools:   
 Interactive information and guide on planning for your secondary school:  
 [https://go.gov.sg/exploreschools (Click Here)](https://go.gov.sg/exploreschools)
+
+<img src="/images/SecSchool%20Booklet.jpg" 
+     style="width:50%;float:left">
+		
+	
+Secondary School Educational Booklet: 
+[https://go.gov.sg/secsch-booklet (Click Here)](https://go.gov.sg/secsch-booklet)
+
+<br><br><br><br><br>
+<img src="/images/ECG%20Parentguide.jpg" 
+     style="width:50%;float:left">
+		 
+Education & Career Guidance Handbook for Parent: 
+[https://go.gov.sg/ecg-parentguide (Click Here)](https://go.gov.sg/ecg-parentguide)
