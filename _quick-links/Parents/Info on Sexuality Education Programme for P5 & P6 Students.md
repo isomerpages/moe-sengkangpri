@@ -102,3 +102,7 @@ You may click [**here**](https://www.moe.gov.sg/education/programmes/social-and
 
 | UNIT | LESSON / DURATION | LESSON OBJECTIVES  <BR>At the end of the lesson, pupil will be able to: | TIME PERIOD|
 | -------- | -------- | -------- |-------- |
+|Are We More Than Friends?|Who Are My Friends?   <br>(30 min)|-   identify the qualities of a healthy friendship<br>-   recognise the importance of making wise choices in friendship
+|Are We More Than Friends?|Am I A Good Friend?   <br>(30 min)|-   identify the qualities that they have as a friend<br>-   recognise the importance of developing in oneself the qualities of a good friend
+|Are We More Than Friends?|What Is Love?  <br>(30 min)|-   identify the characteristics of love and infatuation<br>-   distinguish between the characteristics of love versus infatuation
+|Are We More Than Friends?|Am I Falling In Love?  <br>(30 min)|-   identify strong feelings arising from infatuation<br>-   manage strong feelings arising from infatuation<br>-   identify ways to manage and cope with teasing from peers
