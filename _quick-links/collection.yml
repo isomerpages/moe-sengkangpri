@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Parents/Staff.md
       - Parents/Student Learning Space.md
       - Parents/Parents Gateway.md
       - Parents/Info on Sexuality Education Programme for P5 & P6 Students.md
