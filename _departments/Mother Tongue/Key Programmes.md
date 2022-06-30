@@ -15,7 +15,7 @@ Mooted in 2011, this 2-week long event is a platform for students to actively le
 <img src="/images/mtf.jpg" 
      style="width:50%;float:left">
 <img src="/images/mtf2.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 
 <br>
 <br>
@@ -35,7 +35,7 @@ Figure 2: Chinese Poetry and Painting becomes a fun way for students to learn Ch
 <img src="/images/mtf3.jpg" 
      style="width:50%;float:left">
 <img src="/images/mtf4.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -53,7 +53,7 @@ Figure 3: Students get to learn the proper way of making Bunga Manggar and appre
 <img src="/images/mtf5.jpg" 
      style="width:50%;float:left">
 <img src="/images/mtf6.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -77,7 +77,7 @@ Students are taught to appreciate Singapore’s vibrant ethnic cultures and trad
 <img src="/images/mtf7.jpg" 
      style="width:50%;float:left">
 <img src="/images/mtf8.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -97,7 +97,7 @@ Figure 5: Students rejoice in singing “Gong Xi Gong Xi” to each other during
 <img src="/images/mtf9.jpg" 
      style="width:50%;float:left">
 <img src="/images/mtf10.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -117,7 +117,7 @@ Figure 6: Our Tamil students go on a Learning Journey to Little India to witness
 <img src="/images/mtf11.jpg" 
      style="width:50%;float:left">
 <img src="/images/mtf12.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -137,7 +137,7 @@ Figure 7: Students learning about Malay customs and traditions during the Hara R
 <img src="/images/mtf13.jpg" 
      style="width:50%;float:left">
 <img src="/images/mtf4.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -161,7 +161,7 @@ The MTL Reading Programme is a school based curriculum aimed at promoting a read
 <img src="/images/reading1.jpg" 
      style="width:50%;float:left">
 <img src="/images/reading2.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -197,7 +197,7 @@ Participants of the programme will have the opportunity to experience school lif
 <img src="/images/suzhou.jpg" 
      style="width:50%;float:left">
 <img src="/images/suzhou2.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -217,7 +217,7 @@ Figure 10: Our partner school in Suzhou Industrial Park, China: Chefang Experime
 <img src="/images/suzhou3.jpg" 
      style="width:50%;float:left">
 <img src="/images/suzhou4.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -237,7 +237,7 @@ Figure 11: During the school visits to our partner schools in Suzhou, our studen
 <img src="/images/suzhou5.jpg" 
      style="width:50%;float:left">
 <img src="/images/suzhou6.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -255,7 +255,7 @@ Figure 12: Students learned how to make Chinese dumplings at Nanxiang Ancient To
 <img src="/images/suzhou7.jpg" 
      style="width:50%;float:left">
 <img src="/images/suzhou8.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
@@ -275,7 +275,7 @@ Figure 13: Students learned how to make and fly their Chinese kites at Nanshan, 
 <img src="/images/suzhou9.jpg" 
      style="width:50%;float:left">
 <img src="/images/suzhou10.jpg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <br>
 <br>
