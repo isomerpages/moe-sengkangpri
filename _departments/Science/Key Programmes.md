@@ -39,14 +39,8 @@ The Primary 6 students learn how plants and sometimes animals live together in t
 		 <img src="/images/terr2.jpg" 
      style="width:30%;float:left">
 		 <img src="/images/terr3.jpg" 
-     style="width:30%;float:left">
+     style="width:30%">
 		 
-<br>
-<br>
-<br>
-<br>
-<br><br>
-<br>
 
 **Other Programmes**
 
