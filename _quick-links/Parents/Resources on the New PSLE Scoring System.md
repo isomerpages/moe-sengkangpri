@@ -28,3 +28,21 @@ Learn about the changes to the PSLE scoring system, and how we are remaking seco
 
 <img src="/images/SecSchoolFinder.jpg" 
      style="width:50%;float:left">
+		 
+**Locate And Find Out More About Secondary Schools.**
+School Finder Tool:  
+[https://go.gov.sg/secschoolfinder (Click Here)](https://www.moe.gov.sg/schoolfinder/?journey=Secondary%20school)
+
+<img src="/images/Open%20House%202021.jpg" 
+     style="width:50%;float:left">
+
+Secondary School Open House Dates.  
+Note that 2021 info will be updated as soon as possible:   
+[https://go.gov.sg/openhouse-2021 (Click Here)](https://www.schoolbag.edu.sg/story/online-open-house-for-secondary-schools-2020)
+
+<img src="/images/Explore%20Schools.jpg" 
+     style="width:50%;float:left">
+
+Education Guide > Explore Schools:   
+Interactive information and guide on planning for your secondary school:  
+[https://go.gov.sg/exploreschools (Click Here)](https://go.gov.sg/exploreschools)
