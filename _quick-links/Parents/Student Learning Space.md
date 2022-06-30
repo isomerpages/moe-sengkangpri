@@ -25,3 +25,10 @@ During school operating hours, students should contact the **_School-based Help
 *   Mondays - Fridays: 4:00 pm - 9:00 pm
 *   Saturdays: 9:00 am - 3:00 pm
 *   Closed on Sundays & Public Holidays
+
+
+
+*   [SLS Login Page (Click here)](https://vle.learning.moe.edu.sg/login)
+*   [SLS Guide - Initial Login Procedure](/files/Initial%20Login%20Procedure%20for%202020_SLS_Revised.pdf)
+*   [SLS Guide - How to Reset Password](/files/Password%20Reset%20for%202020_SLS_Revised.pdf)
+*   [SLS Guide - Frequently Asked Question](/files/SLS%20Guide_Frequently%20Asked%20Questions_FAQ.pdf)
