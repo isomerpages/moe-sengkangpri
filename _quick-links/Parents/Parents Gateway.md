@@ -10,6 +10,8 @@ third_nav_title: Parents
 
 3\. The difference between Announcement and Consent [(Click here for PDF)](/files/Parents%20Gateway.pdf)
 
+![](/images/PG%201.jpg)
+![](/images/PG%202.jpg)
 
 
 **_Kindly download the Parents Gateway at..._**
