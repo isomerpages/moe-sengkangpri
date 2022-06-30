@@ -15,3 +15,12 @@ third_nav_title: Parents
 Click on this title to find out more about <br> [School eResources Repository, Library (SERR)](https://sengkangpri.moe.edu.sg/qql/slot/u532/Others/Students/SERR.jpg)
 	
 </center>
+
+![](/images/SERR.jpeg)
+
+<center> 
+Click on this title to find our more about 
+
+{Seng Kang Primary School Library Resources (OPAC)](https://schoolibrary.moe.edu.sg/sengkangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
+</center>
