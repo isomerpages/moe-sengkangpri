@@ -4,7 +4,6 @@ permalink: /departments/Science/key-programmes
 description: ""
 third_nav_title: Science
 ---
-
 _**Our key programmes are as follows:**_
 
   
@@ -70,6 +69,8 @@ The P1 & P2 Basic Science Programme aims to increase students’ interest in Sci
 
 <img src="/images/eec.png" 
      style="width:50%">
+		 
+<br><br><br><br>
 
 **Our Programmes & Activities**
 
@@ -78,4 +79,3 @@ The Environment Education Committee has initiated environmentally-friendly progr
   
 
 The external agencies include National Environment Agency (NEA), SembWaste, NParks, Residents Committee (RC) and more. These agencies provide support and advice in the recycling competitions and projects that the school has taken part in.
-
