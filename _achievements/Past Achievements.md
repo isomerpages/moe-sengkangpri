@@ -337,3 +337,63 @@ Mdm Narasunaidu Manimekalay
 |Chess Club|65th National Schools Individual  Chess Championships 2013 (U11  Category)|Won 5 out of 7|Hee Wei Yang|5 Resilience
 |Chess Club|65th National Schools Individual  Chess Championships 2013 (U12  Category)|25th placing - Won 4 out of 7| Hee Wei Yang| 5 Resilience
 |Chess Club|65th National Schools Individual  Chess Championships 2013 (U7  Category)|17th placing - Merit|Hee Wei Jie|1 Courage
+|Track and Field| 100m A Division Girls| 1st |Nur Athirah| 6 Patience
+| Track and Field| 80 m Hurdles A Division Girls| 3rd | Jalynn Peh|6 Patience
+| Track and Field| 80 m Hurdles A Division Girls| 4th | Nur Sabrina|6 Patience
+| Track and Field| 200m A Division Girls| 2nd | Nur Athirah|6 Patience
+|Track and Field| 4 x 100m Relay A Division Girls| 1st | Nur Athirah, Nurzairyn, Nur Shafirah, Khairunnisa|6 Patience
+| Track and Field| 4 x 300 m Relay B Division Boys| 3rd| Reinald Goh, Aloysius Ng, Meldrick Salvo, Joshua Chew| 6 Kindness, 6 Courage, 5 Hope, 6 Faith
+|Scouts| Frank Cooper Sands Award 2013| Gold Award|-|-
+|Science Club| 12th Elementz Science Investigative Competition| Gold Award| Joey Chan Kai Ting, Roanna Koh Yue Ting, Julien Chan Jia En, Tan Jia Le Dexter| 6 Resilience, 6 Hope, 6 Joy, 6 Joy
+|Science Club| F1 in Schools Race| Silver| Jewel Lim, Glenda Zhuo, Mabel Teo| 5 Resilience
+|Science Club| Singapore Amazing  Flying Machine Competition  (SAFMC)| Gold| Hoo Fang Zhou, Daniel Loh, Edric Chia Chee Kang| 4 Hope|
+|English Comes Alive| Story Challenge |Semi Finals|Siew Shi En, Reiko Tang Hui Yee Lucius Tan Kiang, Lee Yi Xuan|4 Courage, 6 Faith, 5 Resilience, 5 Resilience
+|English Comes Alive| National Spelling Championship  2013 (North Zone)| Finals| Nicholas Ng Kai Xiang|6 Resilience
+|English Comes Alive| "I Can Read", Page to Stage  Competition 2013| Finals|Aishwarya Goyal|2 Faith
+|English Comes Alive| Babble and Speak 2013| Finals| Lim Jia Yi|4 Faith
+|P5 Prefects| YEA Innovation Awards|Gold Award|P5 Prefects| -
+|Hockey Senior Boys|Nationals Tournament|Quarter Finalist|-|-
+|ICT Club| Asia Pacific Youth Robotics  Competition 2013 Winter Game| 1 Gold , 1 Silver and 1 Bronze<br>Best Sportsmanship Award|-|-
+|Handbells Ensemble| Largest Handbell Ensemble|Singapore Book of Records|-|-
+
+**2012**
+
+**School:**  
+
+*   Sharing Session at MOE EXCEL FEST 2012 on Project ExcITE by EL Department
+*   Sharing at iCTLT 2012 (International Conference on Teaching and Learning with Technology)-collaboration project by English, Science and ICT Department
+*   GOLD CHERISH Award
+*   Gold Award (1st) under the Primary Category of the 3R Awards 2012
+*   Sustained 3R Achievement Award for obtaining the Gold award for 3 consecutive years (2010, 2011, 2012)
+*   Second Prize Award in the Primary School Category under the Sembawang Shipyard's Green Wave Environment Care Project 2012
+
+**Staff:**
+
+*   Mdm Foo Tseh Chyn Champion of Step With It®, Singapore! 2011 award  (Award from Coca-Cola Singapore)
+*   Mdm Yang Caihui - Guest Speaker of Mother Tongue Languages Symposium on Enhancing Teaching & Learning of Mother Tongue through Newspapers.
+*   Miss Kwan See Ling - Sharing at Singapore Centre for Chinese Language (SCCL) on 'Use of video in guiding pupils on how to make mini picture books'.
+*   Mr Lawrence Chan (HOD ICT), Mr Aaron Wong Chin Wei and Miss Angie Dai Huiling - Presentation of Paper at 2012 International Conference on Teaching and Learning with Technology.
+*   Mdm Lim Chwee Lian (HOD EL) and Mrs Aini Rayyan Bulner (LH EL) - Presenetation of Keynote Speech on 'Whole-School Approach to Reading' at South Zone 7 Cluster English Language Sharing Day.
+*   Mrs Aini Rayyan Bulner (LH EL), Mdm Khadijah d/o Mohd Dawood Adam and Mdm Jaswant Kaur d/o Gurdit Singh (ST) - Presentation on Exciting Integrated Thematic Experience (ExcITE) at MOE ExCEL Fest 2012
+
+**Pupils:**
+
+|NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
+| -------- | -------- | -------- | -------- |-------- |
+|English Department|National Story Challenge 2012|Champion|Bryan Chia Chee Yong|6 Resilience
+|English Department|National Story Challenge 2012  (Team Category)|Runner-Up|Lee Yi Xuan, Lucius Tan Kiang, Lim Jia Yi|4 Faith, 4 Faith, 3 Faith
+|English Department|National Story Challenge 2012  (Team Category)|Top 6|Lee Xuan Jin|6 Resilience
+|Chinese Department|18th National On-The-Spot  Chinese Essay Writing  Competition (Category F)|3rd Prize|Niwa Allie|CL 4.1
+|Chinese Department| 18th National On-The-Spot  Chinese Essay Writing  Competition (Category A)|Merit Award| Tan Yi Lin|CL 6.1
+|Chess Club | 64th National Schools Individual  Chess Championships 2012  (U10 Category)| 15th Placing - Won 5 out of 7|Hee Wei Yang|4 Faith
+|Hockey |NorthZone Senior Tournament|3rd|-|-
+|Science Club| Singapore Amazing Flying  Machine Competition 2012  (Endurance)| Gold|Team Faith (Chiang Ting Shian, Daphne Sim, Renee Lay)|6 Faith
+|Science Club |Singapore Amazing Flying  Machine Competition 2012  (Theory of Flight)| Gold|Team Starbreakers (Hoo Fang Yu, Bryan Chia, Loh Yang Xian)|6 Resilience
+|Science Club (omega)| 11th Elementz Competition  (Solar Cooker)|Bronze|Zwe Htat Aung, Ng Hui Wen, Joey Chan Kai Ting, Jelin Ong|5 Resilience, 5 Resilience, 5 Resilience, 5 Joy
+|Eco-logic Club| SSYSF Stage! Drama Competition| 8th out of 30 and Best Prop Designs| -|-
+|Eco-logic Club|SSYSF Stage! Drama Competition|Best Performers of the Team|Bryan Chia Lee Xuan Jin|6 Resilience
+|Modern Dance Girls |SYF 2012 International Dance  Category| Bronze|-|-
+|Handbells/Handchimes Ensemble| SYF 2012  Handbells/Handchimes Category|Bronze|-|-
+|Malay Dance (Girls)|SYF 2012 Malay Dance Category| Silver|-|-
+|Malay Dance (Boys)|DanceWorks (Boys)|6th out of 15| -|-
+|Robotics Club (Team Fortress) | Asia Pacific Youth Robotics  Competition Winter Games| 1st Runner-Up|-|-
