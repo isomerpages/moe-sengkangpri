@@ -11,14 +11,8 @@ We believe that all students can learn and enjoy learning their MTL in school. W
 <img src="/images/mtl1.jpg" 
      style="width:50%;float:left">
 		 <img src="/images/mtl2.jpg" 
-     style="width:50%;float:left">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+     style="width:50%">
+		 
 <br><br><br><br><br><br>
 
 <center>
