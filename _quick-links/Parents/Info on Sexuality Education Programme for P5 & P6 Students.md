@@ -84,3 +84,9 @@ You may click [**here**](https://www.moe.gov.sg/education/programmes/social-and
 
 **TOPICS COVERED IN GY SERIES IN 2021 FOR PRIMARY 5**
 
+
+
+| UNIT | LESSON / DURATION | LESSON OBJECTIVES  <BR>At the end of the lesson, pupil will be able to: | TIME PERIOD|
+| -------- | -------- | -------- |-------- |
+| Gosh! I Am Changing     | What is Happening To Me?  <BR>(30 min)     | -   know what puberty is<br> -   identify the physical changes during puberty     |
+
