@@ -51,6 +51,8 @@ The new syllabus is using story-telling and questioning approach focusing on the
      style="width:50%;float:left">
 		 <img src="/images/08.png" 
      style="width:50%;float:left">
+		 
+<br><br><br><br>
 
 **Innovation and Values in Action**
 
