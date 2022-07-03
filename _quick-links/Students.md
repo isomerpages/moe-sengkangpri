@@ -10,7 +10,7 @@ description: ""
 *   [Micro:Bit Make Code Online Programming Website](https://makecode.microbit.org/)
 
 	
-Click on this title to find out more about <br> [School eResources Repository, Library (SERR)](https://sengkangpri.moe.edu.sg/qql/slot/u532/Others/Students/SERR.jpg)
+ School eResources Repository, Library (SERR)
 
 
 ![](/images/SERR.jpeg)
