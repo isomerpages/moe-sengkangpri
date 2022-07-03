@@ -11,22 +11,19 @@ You may still convey your heartfelt messages to your primary school teachers via
 
 Best wishes to  your studies. Keep safe and be well.
 
-To write a message or read other message please click on this link [https://thankyoucher.edu.sg](https://thankyoucher.edu.sg/) or image shown below.
+To write a message or read other message please click on this link [https://thankyoucher.edu.sg](https://thankyoucher.edu.sg/) 
 
-<a href="https://thankyoucher.edu.sg/">
-	
+
 ![](/images/Thankyoucher%20Website.jpg)
 	
-</a>
+
 
 Go to "Explore Map" features to read all the messages from our students, parents and teachers. Not to worry, instructions will be indicated on how you can navigate and access this messages. 
 
   
 
-Click on this link [https://thankyoucher.edu.sg/#explore\_map](https://thankyoucher.edu.sg/#explore_map) or image shown below.
+Click on this link [https://thankyoucher.edu.sg/#explore\_map](https://thankyoucher.edu.sg/#explore_map) 
 
-<a href="https://thankyoucher.edu.sg/#explore_map">
 	
 ![](/images/Explore%20Map%20Thankyoucher%202021.jpg)
 
-</a>
