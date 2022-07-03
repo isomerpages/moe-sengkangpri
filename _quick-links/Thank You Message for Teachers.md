@@ -28,5 +28,5 @@ Click on this link [https://thankyoucher.edu.sg/#explore\_map](https://thankyou
 <a href="https://thankyoucher.edu.sg/#explore_map">
 	
 ![](/images/Explore%20Map%20Thankyoucher%202021.jpg)
-	
+
 </a>
