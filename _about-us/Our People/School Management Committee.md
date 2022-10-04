@@ -1,15 +1,14 @@
 ---
 title: School Management Committee
-permalink: /about-us/Our-People/School-Management-Committee
+permalink: /about-us/Our-People/School-Management-Committee/
 description: ""
 third_nav_title: Our People
 ---
-
-
 | Designation | Name | Email |
 | -------- | -------- | -------- |
 | Principal     | Mrs Teo Whye Choo     | [skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)     |
-|Vice-Principal| Miss Thien Li Chin<br>Mr Mohamed Azhar Mohamed Noor|[skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)   
+|Vice-Principal| Miss Thien Li Chin|[skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)  
+|Vice-Principal| Mr Mohamed Azhar Mohamed Noor|[skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg) 
 |School Staff Developer| Mdm Chiew Yan Seah| [chiew\_yan\_seah@schools.gov.sg](mailto:chiew_yan_seah@schools.gov.sg)
 | HOD Character & Citizenship Education| Mr Devindra Sapai| [devindra\_sapai\_indrasapai@schools.gov.sg](mailto:devindra_sapai_indrasapai@schools.gov.sg)
 |HOD English| Mrs Jaswant Singh| [jaswant\_kaur\_gurdit\_singh@schools.gov.sg](mailto:jaswant_kaur_gurdit_singh@schools.gov.sg)|
@@ -40,4 +39,3 @@ third_nav_title: Our People
 |Senior Teacher (Science)| Mrs Thaifur Alias| [siswati\_ahmad@schools.gov.sg](mailto:siswati_ahmad@schools.gov.sg)
 |Administration Manager| Mdm Halinah Binte Halil| [halinah\_halil@schools.gov.sg](mailto:halinah_halil@schools.gov.sg)
 |Operations Manager| Mr Lim Tiong Cheah| [lim\_tiong\_cheah@schools.gov.sg](mailto:lim_tiong_cheah@schools.gov.sg)
-
