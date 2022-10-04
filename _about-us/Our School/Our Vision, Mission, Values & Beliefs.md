@@ -48,6 +48,9 @@ Everyone is Special
 
   
 OUR CORPORATE VALUES
+	
+	
+	
 
 Integrity the Foundation
 
