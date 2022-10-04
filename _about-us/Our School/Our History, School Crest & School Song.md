@@ -1,6 +1,6 @@
 ---
 title: Our History, School Crest & School Song
-permalink: /about-us/Our-School/Our-History-School-Crest-and-School-Song
+permalink: /about-us/Our-School/Our-History-School-Crest-and-School-Song/
 description: ""
 third_nav_title: Our School
 ---
@@ -15,11 +15,11 @@ On 3 January 1997, Seng Kang Primary School (SKPS) became the first school of Se
 
 **_The History_**
 
-  
+Sengkang which means – Prosperous Harbour in Chinese is located between two rivers – Serangoon River and Punggol River in the northeast of Singapore. In the 1950s and 1960s, fishing villages, rubber, pepper and pineapple plantations flourished in the area. In 1994, the HDB started conceptualizing a new town in Sengkang. Seng Kang Primary School was established in 1997 as the first school in Sengkang. Therefore, Seng Kang Primary School’s history is inextricably linked with the beginning of Sengkang as a modern residential town. Click [here](/files/VPA%20school%20website%20update.pdf) to read more. 
 
-Sengkang which means – Prosperous Harbour in Chinese is located between two rivers – Serangoon River and Punggol River in the northeast of Singapore. In the 1950s and 1960s, fishing villages, rubber, pepper and pineapple plantations flourished in the area. In 1994, the HDB started conceptualizing a new town in Sengkang. Seng Kang Primary School was established in 1997 as the first school in Sengkang. Therefore, Seng Kang Primary School’s history is inextricably linked with the beginning of Sengkang as a modern residential town. Click [here](/files/VPA%20school%20website%20update.pdf) to read more... 
+**Video by Seng Kang Primary**
 
-_**Video by Seng Kang Primary. Our History, Our Heritage, Our Future...**_
+**Our History, Our Heritage, Our Future.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eIKGpwjW6uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
