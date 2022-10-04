@@ -14,6 +14,9 @@ Amid the pandemic, we are grateful for our staff and students who have been adap
 May the year 2022 bring everyone good health, lots of positivity and bountiful blessings!   
 
 Yours in Education,
+
 Mrs Teo 
 
-"Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming. When nothing is certain, anything is possible"                                                                                                                 Mandy Hale
+"Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming. When nothing is certain, anything is possible"                            
+
+Mandy Hale
