@@ -6,7 +6,8 @@ third_nav_title: Our School
 ---
 <center>
 	
-**OUR VISION**
+OUR VISION
+
 
 Every Seng Kang Primary student
 
@@ -16,7 +17,7 @@ a Gracious Citizen
 	
 <br>
   
-**OUR MISSION**
+OUR MISSION
 
 Nurturing self-directed learners with inquiring minds,
 
@@ -26,7 +27,7 @@ anchored on moral values to lead, care and serve
 <br>
 	
 
-**OUR VALUES**
+OUR VALUES
 
 Graciousness
 
@@ -37,7 +38,7 @@ Confidence
 Resilience
 
 
-**OUR BELIEFS**
+OUR BELIEFS
 
 Everyone Can Learn
 
@@ -46,7 +47,7 @@ Everyone Can Serve
 Everyone is Special
 
   
-**OUR CORPORATE VALUES**
+OUR CORPORATE VALUES
 
 Integrity the Foundation
 
