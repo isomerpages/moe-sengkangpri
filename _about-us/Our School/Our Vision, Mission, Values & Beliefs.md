@@ -1,12 +1,12 @@
 ---
 title: Our Vision, Mission, Values & Beliefs
-permalink: /about-us/Our-School/Our-Vision-Mission-Values-and-Beliefs
+permalink: /about-us/Our-School/Our-Vision-Mission-Values-and-Beliefs/
 description: ""
 third_nav_title: Our School
 ---
 <center>
 	
-	OUR VISION
+**OUR VISION**
 
 Every Seng Kang Primary student
 
@@ -15,7 +15,7 @@ an Inventive Thinker, a Confident Leader and a Gracious Citizen
 <br>
   
 
-OUR MISSION
+**OUR MISSION**
 
 Nurturing self-directed learners with inquiring minds,
 
@@ -25,7 +25,7 @@ anchored on moral values to lead, care and serve
 <br>
 	
 
-OUR VALUES
+**OUR VALUES**
 
 Graciousness
 
@@ -37,7 +37,7 @@ Resilience
 
   
 
-OUR BELIEFS
+**OUR BELIEFS**
 
 Everyone Can Learn
 
@@ -47,7 +47,7 @@ Everyone is Special
 
   
 
-OUR CORPORATE VALUES
+**OUR CORPORATE VALUES**
 
 Integrity the Foundation
 
