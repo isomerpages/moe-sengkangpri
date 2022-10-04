@@ -5,11 +5,13 @@ description: ""
 third_nav_title: Our School
 ---
 <center>
+
+
 	
 OUR VISION
 
 
-Every Seng Kang Primary student
+**Every Seng Kang Primary student**
 
 an Inventive Thinker, a Confident Leader and 
 	
