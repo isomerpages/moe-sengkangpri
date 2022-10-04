@@ -16,7 +16,6 @@ a Gracious Citizen
 	
 <br>
   
-
 **OUR MISSION**
 
 Nurturing self-directed learners with inquiring minds,
@@ -37,7 +36,6 @@ Confidence
 
 Resilience
 
-  
 
 **OUR BELIEFS**
 
@@ -48,7 +46,6 @@ Everyone Can Serve
 Everyone is Special
 
   
-
 **OUR CORPORATE VALUES**
 
 Integrity the Foundation
