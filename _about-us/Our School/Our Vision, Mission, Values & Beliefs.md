@@ -10,7 +10,9 @@ third_nav_title: Our School
 
 Every Seng Kang Primary student
 
-an Inventive Thinker, a Confident Leader and a Gracious Citizen
+an Inventive Thinker, a Confident Leader and 
+	
+a Gracious Citizen
 	
 <br>
   
