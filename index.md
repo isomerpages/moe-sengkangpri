@@ -16,4 +16,3 @@ sections:
           description: ""
           url: /Latest-Happenings
 ---
-
