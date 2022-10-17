@@ -38,4 +38,4 @@ third_nav_title: Our People
 |Senior Teacher (Lower Primary)| Mdm Nasuha Bte Hanafi|[nasuha\_hanafi@schools.gov.sg](mailto:nasuha_hanafi@schools.gov.sg)
 |Senior Teacher (Science)| Mrs Thaifur Alias| [siswati\_ahmad@schools.gov.sg](mailto:siswati_ahmad@schools.gov.sg)
 |Administration Manager| Mdm Halinah Binte Halil| [halinah\_halil@schools.gov.sg](mailto:halinah_halil@schools.gov.sg)
-|Operations Manager| Mr Lim Tiong Cheah| [lim\_tiong\_cheah@schools.gov.sg](mailto:lim_tiong_cheah@schools.gov.sg)
+|Operations Manager| Mr Lim Tiong Cheah<br>Mr Thomas Chow| [lim\_tiong\_cheah@schools.gov.sg](mailto:lim_tiong_cheah@schools.gov.sg)
