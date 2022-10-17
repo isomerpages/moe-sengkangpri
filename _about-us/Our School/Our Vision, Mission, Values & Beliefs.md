@@ -6,7 +6,7 @@ third_nav_title: Our School
 ---
 <center>
 	
-**OUR VISION** 
+**OUR VISION**
 <br>
 Every Seng Kang Primary student
 <br>
