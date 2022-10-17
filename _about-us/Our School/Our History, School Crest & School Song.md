@@ -31,7 +31,7 @@ Sengkang which means – Prosperous Harbour in Chinese is located between two ri
 | 1997 | Moved to its permanent new building at 21 Compassvale Walk on 12th December.|
 | 1998 | Celebrated 1st Official Opening Ceremony.|
 | 2004 | Produced the National Top PSLE student, Foo Siang Peng with Aggregate Score of 285.|
-| 2005 | Started signature programme of Daily Physical Education.|
+| 2005 | Started signature programme of Daily Physical Education.|**
 
 **The School Crest**
 ![](/images/Sch%20Crest.jpg)
