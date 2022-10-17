@@ -39,41 +39,37 @@ Sengkang which means – Prosperous Harbour in Chinese is located between two ri
 <center>
 	
 We are happy students always on the go
-
+<br>
 Try to do the best we can
-
+<br>
 Teachers of our school reaching out their helping hands
-
+<br>
 to help us in our studies and our ways
 
 On our part we must try very hard
-
+<br>
 to be Creative and Confident
-
+<br>
 Now's the time to be self-respecting citizens
-
+<br>
 and caring individuals keen to learn
 
 There'll be Continuous growth towards Success and Good Health
-
+<br>
 Always striving for Excellence
-
+<br>
 Unity and Harmony, Nobility and Victory
-
+<br>
 For Seng Kang our dear school
-
-  
 
 There'll be Continuous growth towards Success and Good Health
-
+<br>
 Always striving for Excellence
-
+<br>
 Unity and Harmony, Nobility and Victory
-
-For Seng Kang our dear school
-
-  
-
+<br>
+For Seng Kang our dear school 
+<br>
 All for Seng Kang Our dear school
 	
 </center>
