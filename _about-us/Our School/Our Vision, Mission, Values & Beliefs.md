@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Our School
 ---
 <center>
-
-
 	
 **OUR VISION** <br>
 Every Seng Kang Primary student
@@ -23,11 +21,13 @@ Integrity<br>
 Confidence<br>
 Resilience<br>
 <br>
+	
 **OUR BELIEFS** <br>
 Everyone Can Learn<br>
 Everyone Can Serve<br>
 Everyone is Special<br>
 <br>
+	
 **OUR CORPORATE VALUES** <br>
 Integrity the Foundation<br>
 People our Focus<br>
