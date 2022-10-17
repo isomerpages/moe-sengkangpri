@@ -1,6 +1,6 @@
 ---
 title: Framework
-permalink: /departments/Mother-Tongue/framework
+permalink: /departments/Mother-Tongue/framework/
 description: ""
 third_nav_title: Mother Tongue
 ---
@@ -13,7 +13,7 @@ We believe that all students can learn and enjoy learning their MTL in school. W
 		 <img src="/images/mtl2.jpg" 
      style="width:50%">
 		 
-<br><br><br><br><br><br>
+
 
 <center>
 Figure 1: Using song and music as a motivation to inspire interest in learning MTL.
