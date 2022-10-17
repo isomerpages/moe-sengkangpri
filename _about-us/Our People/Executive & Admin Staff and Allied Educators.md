@@ -15,4 +15,5 @@ third_nav_title: Our People
 | Allied Educator (AED LBS) | Mdm Gereldine Ho <br> Mdm Yong Fong Ling <br> Mr Mohammad Azhari Bin Basiran|  [ho\_si\_yan\_gereldinne@schools.gov.sg](mailto:ho_si_yan_gereldinne@schools.gov.sg)<br>[yong\_fong\_ling@schools.gov.sg](mailto:yong_fong_ling@schools.gov.sg) <br> [mohd\_azhari\_basiran@schools.gov.sg](http://mohd_azhari_basiran@schools.gov.sg%20/)|
 |ICT Associate | Mr Mohammed Azhar Bin Mohd Shariff | [mohammed\_azhar\_mohd\_shariff@schools.gov.sg](mailto:mohammed_azhar_mohd_shariff@school.gov.sg) |
 |ICT Executive | Miss Nini Juliena Mohd Rafaat| [nini\_juliena\_mohd\_rafaat@moe.edu.sg](mailto:nini_juliena_mohd_rafaat@moe.edu.sg)
-| Desktop Engineer | Mr Leon Hon | [admin\_skps@moe.edu.s](mailto:admin_skps@moe.edu.sg)
+| Desktop Engineer | Mr Leon Hon | [admin\_skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)
+| Desktop Engineer | Mdm Periyasamy Uma  | [admin\_skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)
