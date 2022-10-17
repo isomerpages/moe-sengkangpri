@@ -12,7 +12,8 @@ Every Seng Kang Primary student
 <br>
   
 **OUR MISSION** <br>
-Nurturing self-directed learners with inquiring minds, anchored on moral values to lead, care and serve
+Nurturing self-directed learners with inquiring minds, <br>
+anchored on moral values to lead, care and serve
 <br>
 	
 **OUR VALUES** <br>
