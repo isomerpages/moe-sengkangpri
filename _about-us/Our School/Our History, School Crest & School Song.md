@@ -45,7 +45,8 @@ Try to do the best we can
 Teachers of our school reaching out their helping hands
 <br>
 to help us in our studies and our ways
-<br>
+
+
 
 On our part we must try very hard
 <br>
