@@ -31,7 +31,7 @@ Online Feedback: 
 [Click Here](https://go.gov.sg/skps-online-feedback)
 <br>
 <img src="/images/QR%20Code%20Feedback%202019.jpg" 
-     style="width:25%;float:left">
+     style="width:15%;float:left">
 <br>
 
 <div style="font-family:Calibri;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/634d170ea246ba00126f33c1">here</a>.</div>
