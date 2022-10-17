@@ -19,8 +19,7 @@ We believe that all students can learn and enjoy learning their MTL in school. W
 Figure 1: Using song and music as a motivation to inspire interest in learning MTL.
 </center>
 
-  
-
+ 
 Broadly, students are given opportunities to develop the six languages skills, namely, listening, speaking, reading, writing, interacting in spoken forms and interacting in written forms. A typical lesson might start with the teacher introducing some vocabulary, followed by teaching sentence-building skills, and then activities such as group work to allow interpersonal communication between students using the language, and oral presentations. In the classroom, we also engage students in learning through various ways, such as games and songs to infuse the joy of learning, and also using thinking routines and school-wide teaching strategies to enhance their competency in communication.
 
   
