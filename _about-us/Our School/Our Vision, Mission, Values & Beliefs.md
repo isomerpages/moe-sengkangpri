@@ -8,7 +8,7 @@ third_nav_title: Our School
 
 
 	
-**OUR VISION**<br>
+OUR VISION<br>
 Every Seng Kang Primary student
 <br>an Inventive Thinker, a Confident Leader and<br>a Gracious Citizen
 <br>
