@@ -21,7 +21,9 @@ Sengkang which means – Prosperous Harbour in Chinese is located between two ri
 <br>
 **Our History, Our Heritage, Our Future.**
 <br>
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eIKGpwjW6uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 | Year | Key Event |
 | -------- | -------- |
