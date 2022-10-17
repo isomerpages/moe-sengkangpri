@@ -17,6 +17,6 @@ Yours in Education,
 
 Mrs Teo 
 
-*"Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming. When nothing is certain, anything is possible"                            
+*"Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming. When nothing is certain, anything is possible"*                           
 
-Mandy Hale*
+Mandy Hale
