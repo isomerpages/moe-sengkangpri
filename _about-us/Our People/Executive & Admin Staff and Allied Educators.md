@@ -7,7 +7,8 @@ third_nav_title: Our People
 | Designation | Name | Email |
 | -------- | -------- | -------- |
 | Administration Manager     | Mdm Halinah Binte Halil     | [halinah\_halil@schools.gov.sg](mailto:halinah_halil@schools.gov.sg)     |
-|Operations Manager| Mr Lim Tiong Cheah<br> Mr Thomas Chow Wei Keong | [lim\_tiong\_cheah@schools.gov.sg](mailto:lim_tiong_cheah@schools.gov.sg)<br>[chow\_wei\_keong@schools.gov.sg](http://chow_wei_keong@schools.gov.sg%20/)|
+|Operations Manager| Mr Lim Tiong Cheah<br> | [lim\_tiong\_cheah@schools.gov.sg](mailto:lim_tiong_cheah@schools.gov.sg)<br>[chow\_wei\_keong@schools.gov.sg](http://chow_wei_keong@schools.gov.sg%20/)|
+|Operations Manager | Mr Thomas Chow Wei Keong  |[chow\_wei\_keong@schools.gov.sg](http://chow\_wei\_keong@schools.gov.sg)
 |Administrative Executive | Mdm Soh Sim Ping |[soh\_sim\_ping@schools.gov.sg](http://soh_sim_ping@schools.gov.sg%20/)
 | Corporate Service Officers (CSOs) | Mdm Celine Koh Yong Ngor <br> Mdm Haslinda Asmin | [koh\_yong\_ngor@schools.gov.sg](mailto:koh_yong_ngor@schools.gov.sg) <br> [haslinda\_asmin@schools.gov.sg](mailto:haslinda_asmin@school.gov.sg)
 | Student Welfare Officer | Mr Muhammad Abdillah Mohamed Arif |[muhammad\_abdillah\_mohamed\_arif@schools.gov.sg](http://muhammad_abdillah_mohamed_arif@schools.gov.sg%20/)
