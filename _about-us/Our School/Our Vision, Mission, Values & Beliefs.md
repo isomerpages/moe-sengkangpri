@@ -4,8 +4,7 @@ permalink: /about-us/Our-School/Our-Vision-Mission-Values-and-Beliefs/
 description: ""
 third_nav_title: Our School
 ---
-<center>
-	
+
 **OUR VISION**
 <br>
 Every Seng Kang Primary student
@@ -14,12 +13,12 @@ an Inventive Thinker, a Confident Leader
 <br>
 and a Gracious Citizen
 <br>
-  
-**OUR MISSION** 
+
+**OUR MISSION**
 <br>
-Nurturing self-directed learners with inquiring minds, 
+Nurturing self-directed learners with inquiring minds,
 <br>
-anchored on moral values to lead, care and serve
+anchored on moral values to lead,care and serve
 <br>
 	
 **OUR VALUES** 
