@@ -18,8 +18,6 @@ Yours in Education,
 Mrs Teo Whye Choo
 <br>
 
-***"Trust the wait. Embrace the uncertainty. Enjoy the beauty of***
-<br>
-***becoming. When nothing is certain, anything is possible"***
+***"Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming. When nothing is certain, anything is possible"***
 <br>
 ***Mandy Hale***
