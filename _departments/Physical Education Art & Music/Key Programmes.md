@@ -1,6 +1,6 @@
 ---
 title: Key Programmes
-permalink: /departments/Physical-Education-Art-and-Music/Key-Programmes
+permalink: /departments/Physical-Education-Art-and-Music/Key-Programmes/
 description: ""
 third_nav_title: Physical Education Art & Music
 ---
@@ -113,6 +113,6 @@ Through the programme, the school aims to develop students who are able to:
 
 **Intervention Programme**
 
-Low-ability (LA) PE intervention programme started in 2nd semester of 2016. It received positive feedback from teachers. The programme is designed to identify pupils who are behind their peer or age group in gross development skills. The programme is targeted to P1 & P3 as it is the foundation years for gross development skills. The main gross development skills is made of locomotor skills such as gallop and object control skills such as striking and throwing. These pupils will be supported by an Allied Educator (PE) in the main lesson to plan and scaffold the lesson for the pupils. The use of IPAD and online application called Coach’s eye was used to provide immediate feedback for the pupils so that they evaluate their performance and improve on their weakness and the teacher is able to modified the next lesson for the pupils.
+Low-ability (LA) PE intervention programme started in 2nd semester of 2016. It received positive feedback from teachers. The programme is designed to identify pupils who are behind their peer or age group in gross development skills. The programme is targeted to P1 & P3 as it is the foundation years for gross development skills. The main gross development skills is made of locomotor skills such as gallop and object control skills such as striking and throwing. These pupils will be supported by an Allied Educator (PE) in the main lesson to plan and scaffold the lesson for the pupils. The use of iPads and online application called Coach’s eye was used to provide immediate feedback for the pupils so that they evaluate their performance and improve on their weakness and the teacher is able to modified the next lesson for the pupils.
 
 ![](/images/pam10.jpg)
