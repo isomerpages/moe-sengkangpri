@@ -4,8 +4,6 @@ permalink: /about-us/Our-School/Our-Vision-Mission-Values-and-Beliefs/
 description: ""
 third_nav_title: Our School
 ---
-<center>
-
 **OUR VISION**
 <br>
 Every Seng Kang Primary student
@@ -54,5 +52,3 @@ Learning our Passion
 <br>
 Excellence our Pursuit
 <br>
-
-</center>
