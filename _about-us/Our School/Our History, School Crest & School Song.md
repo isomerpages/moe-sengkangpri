@@ -22,7 +22,7 @@ Sengkang which means – Prosperous Harbour in Chinese is located between two ri
 **Our History, Our Heritage, Our Future.**
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eIKGpwjW6uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+
 | Year | Key Event |
 | -------- | -------- |
 | 1997 | Started operation as the first school of Sengkang at the former builing of Hai Seng Girls' High along Upper Serangoon Road on 3rd January.|
