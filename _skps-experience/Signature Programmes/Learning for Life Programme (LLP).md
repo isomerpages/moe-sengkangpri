@@ -46,7 +46,7 @@ Through an inter-class game format, we hope to instil in pupils sportsmanship, c
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStuEH96zUe2mSu6wvdri7Sgg33MoJY8RDQ59kBYHLac3F6b_GJnaEwVbkNAntzUwlb4HQIvVjjB2MG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-**Positive Living Carnival - Upper Primary Sports Day (Primary 3 to 6)**&nbsp;
+**Positive Living Carnival - Upper Primary Sports Day (Primary 3 to 6)**
 
 The objective of the Positive Living Carnival is to promote mass participation and the awareness of leading a healthy and positive lifestyle among our pupils through physical activities, games, interactive exhibitions and lessons.
 
