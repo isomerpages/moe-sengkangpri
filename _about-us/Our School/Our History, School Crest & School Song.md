@@ -6,12 +6,9 @@ third_nav_title: Our School
 ---
 ![](/images/SKPS_Front_Landscape_w700%20(1).png)
 
-
 **_The Beginning_**
 <br>
 On 3 January 1997, Seng Kang Primary School (SKPS) became the first school of Sengkang Town. Mrs Chin Shin Wea (1997 to 2002) was appointed as the first Principal. As the school building was still under construction, SKPS started operations at the premises of the former Hai Seng Girls’ High along Upper Serangoon Road. The school had 327 students in 10 classes and 23 staff members. Mrs Chin promulgated the school’s beliefs that “Everyone is Special, Everyone can Learn, Everyone can Serve”. On 12 December 1997, the school moved to her current location at 21, Compassvale Walk. The school occupied 1.8 hectares of land which consisted an administrative block and two four-storey teaching/classroom blocks.
-
-  
 
 **_The History_**
 <br>
@@ -46,7 +43,6 @@ Teachers of our school reaching out their helping hands
 <br>
 to help us in our studies and our ways
 
-
 On our part we must try very hard
 <br>
 to be Creative and Confident
@@ -55,7 +51,6 @@ Now's the time to be self-respecting citizens
 <br>
 and caring individuals keen to learn
 
-
 There'll be Continuous growth towards Success and Good Health
 <br>
 Always striving for Excellence
@@ -63,7 +58,6 @@ Always striving for Excellence
 Unity and Harmony, Nobility and Victory
 <br>
 For Seng Kang our dear school
-
 
 There'll be Continuous growth towards Success and Good Health
 <br>
