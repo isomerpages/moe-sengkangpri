@@ -21,8 +21,8 @@ third_nav_title: Info Communication & Tech
      style="width:30%;float:left">
 		 <img src="/images/ict2.jpg" 
      style="width:30%;float:left">
-<br><br><br><br><br>
-<center>
+<br><br><br>
+
 Students participating in the various activities that were organised during the Media Literacy Week.
 
 </center>
@@ -55,9 +55,7 @@ The Digital Maker Programme is a joint initiative by IMDA and its partner Micros
 		 <img src="/images/ict6.jpg" 
      style="width:39%;float:left"><br>
 		 	 
-		 
-<br><br><br>
-
+<br><br>
 <center>
 Students attending the Micro:bit lesson and showcasing their final product.
 
