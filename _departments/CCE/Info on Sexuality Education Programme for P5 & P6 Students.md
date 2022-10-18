@@ -53,31 +53,22 @@ ii)To help students know themselves and build healthy and rewarding relationship
 | Are We More Than Friends? | Am i A Good Friend? <br> (30 min) | 1) Identify the qualities that they have as a friend.<br>2) Recognise the importance of developing in oneself the qualities of a good friend . | During curriculum time |
 | Are We More Than Friends? | What Is Love?<br> (30 min) | 1) Identify the characteristics of love and infatuation<br>2) Distinguish between the characteristics of love versus infatuation. | During curriculum time |
 | Are We More Than Friends? | Am I Falling In Love<br>(30 min) | 1) Identify strong feelings arising from infatuation<br>2) Manage strong feelings arising from infatuation<br>3) Identify ways to manage and cope with teasing from peers | During curriculum time |
-| Friends or Foes? | What Are Families?<br>(30 min) | 1) Know that there are different type of family structures.<br>2) Know that every family is a unique state that the three basic functions of families are to provide love, protection and guidance.<br>3) Identify the right sources of help to turn to when in need. | During curriculum time| 
-| Friends or Foes? | What is My Role?<br>(30 min) | 1) Know that gender is about being male or female.<br>2) Choose not to stereotype by gender. | During curriculum time |
-| Friends or Foes? | What is Safety?<br>(30 min) | 1) Know what sexual abuse is.<br>2) Know that there are laws in Singapore that can protect them from sexual abuse.<br>3) Know their rights in keeping themselves safe from sexual abuse. | During curriculum time |
+| Friends or Foes? | Are You Really My Friend?<br>(30 min) | 1) Identify the pros and cons of forming relationships through social networking websites.<br>2) Know ways to keep themselves safe when using social networking websites | During curriculum time| 
+| Friends or Foes? | Is It All Safe?<br>(30 min) | 1) Know that some information received through the Internet may be harmful.<br>2) Know ways to keep themselves safe when using the Internet. | During curriculum time |
+| Friends or Foes? | Main Task?<br>(30 min) | **Description of the Main Task**<br>Students are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and responsibility. | During curriculum time |
 
 
 **INFORMATION FOR PARENTS**
 
 8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-  
-
-9\. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to              parents via Parents Gateway (PG) near the date of the programme and is also downloadable [**here**](https://sengkangpri.moe.edu.sg/qql/slot/u532/Departments/CCE/2022/Info%20on%20Sexuality%20Education/P5_P6%20Growing%20Year%20%20Letter%20to%20Parents%20Opt%20Out%20Form.pdf) .
-
-  
-
+9\. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents via Parents Gateway (PG) near the date of the programme and is also downloadable [**here**](https://sengkangpri.moe.edu.sg/qql/slot/u532/Departments/CCE/2022/Info%20on%20Sexuality%20Education/P5_P6%20Growing%20Year%20%20Letter%20to%20Parents%20Opt%20Out%20Form.pdf) .
+ 
 10\. Parents can contact the school for discussion or to seek clarification about the school’s sexuality education programme at: 
 
-**Seng Kang Primary** 
-
-School Address: 21 Compassvale Walk Singapore 545166 
-
-Tel: 6384 0809 Fax: 6384 0839 
-
+**Seng Kang Primary** <br>
+School Address: 21 Compassvale Walk Singapore 545166<br>
+Tel: 6384 0809 Fax: 6384 0839 <br>
 Email: skps@moe.edu.sg
-
   
-
 11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
