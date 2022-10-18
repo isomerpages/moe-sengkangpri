@@ -1,6 +1,6 @@
 ---
 title: Key Programmes
-permalink: /departments/Info-Communication-and-Tech/Key-Programmes
+permalink: /departments/Info-Communication-and-Tech/Key-Programmes/
 description: ""
 third_nav_title: Info Communication & Tech
 ---
@@ -43,11 +43,10 @@ Code for Fun (CFF) seeks to expose our P5 students to learn Computational Thinki
      style="width:30%;float:left">
 		 
 <br><br>
-<br><br>
 
 <center>
 
-Students building and programming their own robots during the Code for Fun lesson.
+Students building and programming their own robots.
 
 </center>
 
