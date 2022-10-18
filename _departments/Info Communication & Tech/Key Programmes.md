@@ -24,7 +24,6 @@ third_nav_title: Info Communication & Tech
 <br><br>
 Students participating in the various activities that were organised during the Media Literacy Week
 
-</center>
 
 **P5 Code For Fun Programme (CFF)**
 
