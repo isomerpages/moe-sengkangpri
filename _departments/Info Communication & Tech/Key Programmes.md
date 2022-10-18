@@ -91,7 +91,5 @@ Pupils need to:
 
 *   have an understanding of the risks of harmful and illegal online behaviours, and learn how to protect themselves as well as to avoid dangers they may encounter online.
 *   be able to evaluate the consequences of their decisions/behaviours while online and make responsible choices to protect themselves and the community (e.g. not spending excessive amount of time chatting or playing games online, and reporting victims of cyberbullying to a trusted adult/authority).
-
-  
-
+ 
 Cyber Wellness Talks are conducted during the assembly and Lifeskills Lessons are integrated into the curriculum to further guide our pupils in protecting themselves in the Cyber World. Our school’s Cyber Wellness Ambassadors also planned and conducted Cyber Wellness Programme on School Learning Day.
