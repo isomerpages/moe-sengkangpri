@@ -18,11 +18,11 @@ third_nav_title: Info Communication & Tech
 *   P6 Microsoft Office Skills (Revision)
 
 <img src="/images/ict1.jpg" 
-     style="width:50%;float:left">
+     style="width:30%;float:left">
 		 <img src="/images/ict2.jpg" 
-     style="width:50%;float:left">
+     style="width:30%;float:left">
      <img src="/images/MOZZIE.jpg" 
-     style="width:50%;float:left">
+     style="width:20%;float:left">
 <br><br><br><br><br>
 <br><br><br><br><br>
 		 
