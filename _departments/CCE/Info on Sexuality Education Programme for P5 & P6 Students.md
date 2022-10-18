@@ -60,14 +60,14 @@ third_nav_title: CCE
 
 | Unit | Lessons/Duration | Lesson Objectives  |Time Period |
 | ------------ | -------- | -------- | -------- |
-| Gosh! I Am Changing |What is happening to Me? 30 min | 1) Know what puberty is<br>2) Identify the physical changes during puberty | During curriculum time |
-| Gosh! I Am Changing |What Can I Do? (Part 1)<br> (30 min) | 1) Identify the stresses caused by physical changes during puberty<br>2) Describe ways to manage the stresses caused by physical changes during puberty | During curriculum time |
-| Gosh! I Am Changing |What Can I Do? (Part 2)<br> (30 min) | 1) Identify the stresses caused by physical changes and emotional changes during puberty<br>2) Describe ways to manage the stresses caused by these changes during puberty | During curriculum time |
-| Gosh! I Am Changing | Main Task<br>(30 min) | ***Description of the Main Task:*** <br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through | During curriculum time |
-| Where I Belong | What Are Families?<br>(30 min) | 1) Know that there are different type of family structures<br>2) Know that every family is a unique state that the three basic functions of families are to provide love, protection and guidance<br>3) Identify the right sources of help to turn to when in need | During curriculum time| 
-| Where I Belong | What is My Role?<br>(30 min) | 1) Know that gender is about being male or female<br>2) Choose not to stereotype by gender | During curriculum time |
-| How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | 1) Know what sexual abuse is<br>2) Know that there are laws in Singapore that can protect them from sexual abuse<br>3) Know their rights in keeping themselves safe from sexual abuse | During curriculum time |
-| How Do I Keep Myself Safe? | Stop It! Run! Tell!<br>(30 min) | 1) Protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult<br>2) Know their responsibilities in minimising the risk of sexual harm | During curriculum time |
+| Gosh! I Am Changing |What is happening to Me? 30 min | 1) Know what puberty is.<br>2) Identify the physical changes during puberty. | During curriculum time |
+| Gosh! I Am Changing |What Can I Do? (Part 1)<br> (30 min) | 1) Identify the stresses caused by physical changes during puberty.<br>2) Describe ways to manage the stresses caused by physical changes during puberty. | During curriculum time |
+| Gosh! I Am Changing |What Can I Do? (Part 2)<br> (30 min) | 1) Identify the stresses caused by physical changes and emotional changes during puberty.<br>2) Describe ways to manage the stresses caused by these changes during puberty. | During curriculum time |
+| Gosh! I Am Changing | Main Task<br>(30 min) | ***Description of the Main Task:*** <br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. | During curriculum time |
+| Where I Belong | What Are Families?<br>(30 min) | 1) Know that there are different type of family structures.<br>2) Know that every family is a unique state that the three basic functions of families are to provide love, protection and guidance.<br>3) Identify the right sources of help to turn to when in need. | During curriculum time| 
+| Where I Belong | What is My Role?<br>(30 min) | 1) Know that gender is about being male or female.<br>2) Choose not to stereotype by gender. | During curriculum time |
+| How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | 1) Know what sexual abuse is.<br>2) Know that there are laws in Singapore that can protect them from sexual abuse.<br>3) Know their rights in keeping themselves safe from sexual abuse. | During curriculum time |
+| How Do I Keep Myself Safe? | Stop It! Run! Tell!<br>(30 min) | 1) Protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult.<br>2) Know their responsibilities in minimising the risk of sexual harm. | During curriculum time |
 	
 
 
