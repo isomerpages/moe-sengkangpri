@@ -54,9 +54,7 @@ third_nav_title: CCE
 
 7\. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise.
 
-  
-	
-	
+
 	
 	
 
