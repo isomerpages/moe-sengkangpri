@@ -43,7 +43,8 @@ Code for Fun (CFF) seeks to expose our P5 students to learn Computational Thinki
 
 Students building and programming their own robots.
 
-</center>
+</center><br>
+
 
 **P6 Digital Maker (Micro:bit) Programme**
 
