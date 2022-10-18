@@ -35,9 +35,6 @@ Code for Fun (CFF) seeks to expose our P5 students to learn Computational Thinki
      style="width:30%;float:left">
 		 <img src="/images/ict5.jpg" 
      style="width:29%;float:left">
-		 
-
-
 <center><br><br>
 	
 
