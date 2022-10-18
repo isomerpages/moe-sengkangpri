@@ -21,7 +21,8 @@ third_nav_title: Info Communication & Tech
      style="width:50%;float:left">
 		 <img src="/images/ict2.jpg" 
      style="width:50%;float:left">
-
+     <img src="/images/MOZZIE.jpg" 
+     style="width:50%;float:left">
 <br><br><br><br><br>
 <br><br><br><br><br>
 		 
