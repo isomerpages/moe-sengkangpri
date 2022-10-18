@@ -34,9 +34,9 @@ Online Feedback: 
 <img src="/images/SKPS%20Online%20Feedback%20Form%20-%20School%20Website%20FormSG.png" 
      style="width:25%;float:left">
 <br>
-
 <div style="font-family:Lato;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:5px">If the form below is not loaded,<br> you can also fill it in at <a href="https://form.gov.sg/634d170ea246ba00126f33c1">here</a>.</div>
 
+	
 <!-- Change the width and height values to suit you best -->
 <iframe id="iframe" src="https://form.gov.sg/634d170ea246ba00126f33c1" style="width:100%;height:500px"></iframe>
 
