@@ -57,12 +57,12 @@ The Digital Maker Programme is a joint initiative by IMDA and its partner Micros
 <img src="/images/ict5.jpg" 
      style="width:50%;float:left">
 		 <img src="/images/ict6.jpg" 
-     style="width:50%;float:left">
+     style="width:39%;float:left"><br>
+		 	 
 		 
-		 
-<br><br>
-<center>
+<br><br><br>
 
+<center>
 Students attending the Micro:bit lesson and showcasing their final product.
 
 </center>
