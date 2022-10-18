@@ -56,6 +56,14 @@ third_nav_title: CCE
 
 
 	
+
+
+| Unit | Lessons/Duration | Lesson Objectives  |Time Period |
+| ------------ | -------- | -------- | -------- |
+| Gosh! I Am Changing.|What is happening to Me? 30 min | *know what puberty is identify the physical changes during puberty | During curriculum time
+
+
+
 	
 
 
