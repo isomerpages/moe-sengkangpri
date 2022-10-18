@@ -30,10 +30,9 @@ Email: [skps@moe.edu.sg](mailto:skps@moe.edu.sg)
 Online Feedback: 
 [Click Here](https://go.gov.sg/skps-online-feedback)
 <br>
-
 <img src="/images/SKPS%20Online%20Feedback%20Form%20-%20School%20Website%20FormSG.png" 
      style="width:25%;float:center">
-<div style="font-family:Lato;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:5px"><br><Center>If the form below is not loaded,<br> you can also fill it in at <a href="https://form.gov.sg/634d170ea246ba00126f33c1">here</a>.</div>
+<div style="font-family:Lato;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:5px"><Center>If the form below is not loaded,<br> you can also fill it in at <a href="https://form.gov.sg/634d170ea246ba00126f33c1">here</a>.<br>
 
 	
 <!-- Change the width and height values to suit you best -->
