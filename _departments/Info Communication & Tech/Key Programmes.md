@@ -30,11 +30,11 @@ Students participating in the various activities that were organised during the 
 Code for Fun (CFF) seeks to expose our P5 students to learn Computational Thinking through coding. The students will participate in a 10-hour enrichment programme conducted in school. Through this programme, they will develop an appreciation of core computational thinking and coding concepts through simple visual programming-based lessons co-developed by MOE and IMDA. They would also be exposed to emerging technologies such as artificial intelligence.
 
 <img src="/images/ict3.jpg" 
-     style="width:30%;float:left">
+     style="width:33%;float:left">
 		 <img src="/images/ict4.jpg" 
      style="width:30%;float:left">
 		 <img src="/images/ict5.jpg" 
-     style="width:30%;float:left">
+     style="width:29%;float:left">
 		 
 <br><br><br>
 
