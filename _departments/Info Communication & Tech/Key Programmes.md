@@ -39,7 +39,7 @@ Code for Fun (CFF) seeks to expose our P5 students to learn Computational Thinki
 		 
 <br><br><br>
 
-<center>
+<center><br>
 
 Students building and programming their own robots.
 
