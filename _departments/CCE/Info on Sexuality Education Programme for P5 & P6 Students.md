@@ -46,6 +46,16 @@ ii)To help students know themselves and build healthy and rewarding relationship
 | How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | 1) Know what sexual abuse is.<br>2) Know that there are laws in Singapore that can protect them from sexual abuse.<br>3) Know their rights in keeping themselves safe from sexual abuse. | During curriculum time |
 | How Do I Keep Myself Safe? | Stop It! Run! Tell!<br>(30 min) | 1) Protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult.<br>2) Know their responsibilities in minimising the risk of sexual harm. | During curriculum time |
 	
+**TOPICS COVERED IN GY SERIES IN FOR PRIMARY 6**
+| Unit | Lessons/Duration | Lesson Objectives  |Time Period |
+| ------------ | -------- | -------- | -------- |
+| Are We More Than Friends? | Who Are My Friends?<br> 30 min | 1) Identify the qualities of a healthy friendship.<br>2) Recognise the importance of making wise choices in friendship. | During curriculum time |
+| Are We More Than Friends? | Am i A Good Friend? <br> (30 min) | 1) Identify the qualities that they have as a friend.<br>2) Recognise the importance of developing in oneself the qualities of a good friend . | During curriculum time |
+| Are We More Than Friends? | What Is Love?<br> (30 min) | 1) Identify the characteristics of love and infatuation<br>2) Distinguish between the characteristics of love versus infatuation. | During curriculum time |
+| Are We More Than Friends? | Am I Falling In Love<br>(30 min) | 1) Identify strong feelings arising from infatuation<br>2) Manage strong feelings arising from infatuation<br>3) Identify ways to manage and cope with teasing from peers | During curriculum time |
+| Friends or Foes? | What Are Families?<br>(30 min) | 1) Know that there are different type of family structures.<br>2) Know that every family is a unique state that the three basic functions of families are to provide love, protection and guidance.<br>3) Identify the right sources of help to turn to when in need. | During curriculum time| 
+| Friends or Foes? | What is My Role?<br>(30 min) | 1) Know that gender is about being male or female.<br>2) Choose not to stereotype by gender. | During curriculum time |
+| Friends or Foes? | What is Safety?<br>(30 min) | 1) Know what sexual abuse is.<br>2) Know that there are laws in Singapore that can protect them from sexual abuse.<br>3) Know their rights in keeping themselves safe from sexual abuse. | During curriculum time |
 
 
 **INFORMATION FOR PARENTS**
