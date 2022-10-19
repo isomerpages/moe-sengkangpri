@@ -15,6 +15,7 @@ Our Confident and atriculate P1 students performing in front of their peers and 
 
 **P1 Talentime:**<br>
 The Talentime programme for the P1 students is hosted by P1 students. The students are given this platform as part of their ‘Show and Tell’ to display their talents and creativity in areas such as singing, dancing or even story telling.<br>
+
 <img src="/images/EL%2005a.jpg" 
      style="width:50%;float:left;height:250px">
 <img src="/images/EL%2007.jpg" 
@@ -29,11 +30,11 @@ P1 student hosting Talentime for their peers and participants singing and tellin
 its array of book related activities promote and sustain the love of, and joy in, reading for the students.
 
 <img src="/images/EL%2009.jpg" 
-     style="width:30%;float:left;height:320px">
+     style="width:33.3%;float:left;height:320px">
 <img src="/images/EL%2010.jpg" 
-     style="width:30%;float:left;height:320px">
+     style="width:33.3%;float:left;height:320px">
 <img src="/images/EL%2011.jpg" 
-     style="width:30%;float:left;height:320px">
+     style="width:33.3%;float:left;height:320px">
 		 
 <br><br><br><br><br><br><br><br><br><br>		 
 
@@ -42,11 +43,11 @@ Wishing upon a "Book Tree" for a book.
 </center>
 
 <img src="/images/EL%2012.jpg" 
-     style="width:30%;float:left;height:200px">
+     style="width:33.3%;float:left;height:200px">
 <img src="/images/EL%2013.jpg" 
-     style="width:30%;float:left;height:200px">
+     style="width:33.3%;float:left;height:200px">
 <img src="/images/EL%2014.jpg" 
-     style="width:30%;float:left;height:200px">
+     style="width:33.3%;float:left;height:200px">
 		 
 <br><br><br><br><br><br>
 		 
