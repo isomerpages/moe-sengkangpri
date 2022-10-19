@@ -4,8 +4,7 @@ permalink: /departments/CCE/Key-Programmes/
 description: ""
 third_nav_title: CCE
 ---
-**_National Education_**  
-
+**_National Education_**  <br>
 National Education The School aims to develop national cohesion, the instinct for survival and to build confidence in the future of Singapore within the students and teachers. The events that are organized aim to create a Sense of Belonging, Sense of Reality and Sense of Hope in students and teachers. It also allows everyone to increase the sense of national identity. The activities, programmes and learning journeys include the “Head, Hearts and Hands” framework. This allows students to respond with respect (using their Hearts), reflect before responding (using their Heads), relate, and respond to the changes around them (using their Hands). The framework involves stakeholders; the educators, students and the community who are important in the delivery of NE.
 
 ![](/images/Slide1%20(2).jpeg)
@@ -23,9 +22,9 @@ Seng Kang Primary School commemorated Total Defence Day on 17 February 2020 to m
      style="width:25%;float:left">
 <br>
 <br>
+<br>
 
-
-***International Friendship Day***<br>
+***International Friendship Day*** <br>
 The school will be commemorating International Friendship Day (IFD) on Thursday, 9 April 2020. The activities will allow our students to learn about and appreciate other cultures in cosmopolitan Singapore. We hope to nurture in our students the spirit of friendship and collaboration amongst people of different culture, races and countries. The theme for this year is 'Beyond Borders'.  
   
 **_Racial Harmony Day_**  
