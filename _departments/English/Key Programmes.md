@@ -42,11 +42,11 @@ Wishing upon a "Book Tree" for a book.
 </center>
 
 <img src="/images/EL%2012.jpg" 
-     style="width:30%;float:left">
+     style="width:30%;float:left;height:200px">
 <img src="/images/EL%2013.jpg" 
      style="width:30%;float:left;height:200px">
 <img src="/images/EL%2014.jpg" 
-     style="width:30%;float:left">
+     style="width:30%;float:left;height:200px">
 		 
 <br><br><br><br><br><br>
 		 
@@ -59,7 +59,7 @@ Book characters comes alive to spread the joy of reading to students.
 **Spin-A-Tale N1 Cluster Storytelling Competition:** SKPS is proud to host the annual N1 Cluster storytelling competition for the primary schools in the cluster. At SKPS, we select our top three story tellers from a school-wide search, after allowing our students to experience the storytelling competitions at their respective levels.
 
 <img src="/images/EL%2015.jpg" 
-     style="width:50%;float:left">
+     style="width:50%;float:left;height:300px">
 <img src="/images/EL%2016.jpg" 
      style="width:50%;height:300px">
 		 
@@ -77,4 +77,4 @@ Book characters comes alive to spread the joy of reading to students.
 <center>
 P1 and P2 students class representatives receiving prizes on behalf of their friends for completing the OPEL activity card.
 	
-	</center>
+</center>
