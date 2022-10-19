@@ -33,12 +33,6 @@ Handbells Ensemble is a niche Performing Arts music instrumental CCA, which aims
 
 
 
-| CCA | Category | Achievement |
-| -------- | -------- | -------- |
-| Modern Dance     | Super 24 Competition <br> SYF 2012 - International Dance Category <br> DanceWorks   | 4th <br> Bronze Award<br> 6th place out of 15 schools    |
-| Malay Dance Girls | SYF 2012 | Silver Award
-| Handbells/Handchimes Ensemble| SYF 2012 - Handbells/Handchimes Dance Category| Bronze Award
-
 **Modern Dance**
 ![](/images/IMG-20180418-WA0003.jpg)
 ![](/images/12.jpg)
