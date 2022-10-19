@@ -1,6 +1,6 @@
 ---
 title: Key Programmes
-permalink: /departments/CCE/Key-Programmes
+permalink: /departments/CCE/Key-Programmes/
 description: ""
 third_nav_title: CCE
 ---
@@ -24,7 +24,8 @@ Seng Kang Primary School commemorated Total Defence Day on 17 February 2020 to m
 <br>
 <br>
 
-**_International Friendship Day_**  
+
+***International Friendship Day***<br>
 The school will be commemorating International Friendship Day (IFD) on Thursday, 9 April 2020. The activities will allow our students to learn about and appreciate other cultures in cosmopolitan Singapore. We hope to nurture in our students the spirit of friendship and collaboration amongst people of different culture, races and countries. The theme for this year is 'Beyond Borders'.  
   
 **_Racial Harmony Day_**  
@@ -37,7 +38,6 @@ On 7 August 2020, Seng Kang Primary School will celebrate National Day to commem
 In Seng Kang Primary School, we aim to enhance teacher awareness and understanding in contemporary issues and develop their capacity to facilitate and engage students in discussion of current issues. We also want to develop an age-appropriate approach to sensitize students to current affairs and introduce the discussion of contemporary issues to the classrooms.    
   
 **_Discipline - A Whole School Approach_**  
-
 The approach SKPS has created acclimate of care and concern. Students feel that the school has provided them with opportunities to have excellent relationships with their peers and teachers. They feel that a helping hand is always extended to all. This is due to the ‘discipline with care’ approach that is taken when dealing with students. 
 
 Presenting issues of students are taken into consideration by a team of trained teachers before any intervention is meted out. The team consists of teachers trained in special needs (learning needs), school counsellors (emotional needs) and discipline teachers (behavioural needs). The framework below shows how the Referral System works in the school. 
@@ -63,7 +63,6 @@ The school has identified the following leadership skills:
 3\. Planning & Organisational skills  
   
 **_Education & Career Guidance_**  
-
 Education & Career Guidance (ECG) comes under the school’s Character & Citizenship Education department framework and is an integral part of the character development of our students. Education and Career Guidance (ECG) equips students with the necessary knowledge, skills, and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives. Through ECG, social emotional competencies and qualities of proactivity, adaptability, and resilience are developed to prepare students for the 21st Century. In primary school, the emphasis is largely on creating an awareness of their future education and career options, to enable greater engagement and relevance in their current curricula, and better decision making for their next steps.     
   
 **_Family Tree of Careers (P1/P2)_**  <br>
@@ -77,30 +76,26 @@ Awareness: Who Am I?
 P2 students went on a learning journey to KidZania to learn about different occupations that they might be interested in. They interacted with a facilitator who put them through realistic situations like putting out a ‘fire’, operating on a ‘patient’, and flying in an aircraft simulator.  
   
 **_Assembly: Ryan Chan of Hubba Bubbas Band_**  <br>
-Experience: Where Am I Going?  
-
+Experience: Where Am I Going?<br>
 Students were treated to an engaging talk detailing the different lines of work Ryan has tried, and were even serenaded with one of his band’s latest songs. He encouraged them to continue to explore different occupations till they find the one they are passionate about.  
   
 **_Secondary School Exhibition (P6)_** <br>
-Advocacy: How Do I Get There?  
-  
+Advocacy: How Do I Get There? <br>
 Students visited schools that specialised in their CCA and/or other niche areas to find out if they would want to apply to them via DSA, to pursue these interests at a higher level.  
   
-**_Innovation and VIA Programme_**<br>
+**_Innovation and VIA Programme_** <br>
 Design Thinking is introduced into Lifeskills Curriculum. This is in line with the move by the school to introduce Graciousness as part of the school’s values. With the help of the new thinking tools, students learnt to empathize with the needs of the user by putting themselves into the shoes of the person that they are innovating for.  
   
 Through the teaching packages, students were equipped with skills to become inventive thinkers. Students learn to analyse issues from different perspectives, generate ideas, make better decisions and derive more effective solutions to problems. Skills learnt are also transferable to VIA projects and curriculum. Students also learnt that they are part of the community and have a responsibility to make the school a better place through their suggestions.  
 
-**_P4 and P5 VIA Projects_**
-
+**_P4 and P5 VIA Projects_**<br>
 VIA and innovation is infused into character education to provide an experiential approach fusing critical thinking in product design and product creation.
 
 These thinking and innovation approaches and skills are incorporated as part of the curriculum design of the school’s Lifeskills Curriculum for Values Education, which also includes Piaget’s Stages of Development and Kohlberg’s Moral Reasoning Theory.  Reflections is used as a means of encapsulating student learning whilst the storytelling approach is used in the books and role playing by students and student leaders to deepen their values acquisition. 
 
 P4 VIA and Innovation lesson also integrated with their IPW project. These new structure had invoked greater empathy in our P4 students as they were involved to better understand the cancer children’s challenges and how the funds raised would be used to meet their healthcare needs.
 
-**_P6 VIA Projects_**
-
+**_P6 VIA Projects_**<br>
 For 6 Charity, 2019, the objective of their VIA project is to show appreciation to the SBS bus captains.
 
 Students created Thank You cards to show appreciation to the bus captains. They also visited the SBS Transit exhibition, to understand more about inclusiveness on public transport.
