@@ -7,10 +7,10 @@ third_nav_title: English
 **Our key programmes are as follows;**  
 Applied Learning Programmes (ALP): Enhance Spoken English Language Programme. P1 to P4 students experience modules in spoken and written poetry in a spiral progression to enhance and built their skills in EL communication.<br>
 <img src="/images/EL%2001.jpg" 
-     style="width:25%;float:left;height:140px"><img src="/images/EL%2002.jpg" 
-     style="width:25%;float:left;height:140px"><img src="/images/EL%2003.jpg" 
-     style="width:25%;float:left;height:140px"><img src="/images/EL%2004.jpg" 
-     style="width:25%;height:140px"><br>		 
+     style="width:25%;float:left;height:200px"><img src="/images/EL%2002.jpg" 
+     style="width:25%;float:left;height:200px"><img src="/images/EL%2003.jpg" 
+     style="width:25%;float:left;height:200px"><img src="/images/EL%2004.jpg" 
+     style="width:25%;height:200px"><br>		 
 Our Confident and atriculate P1 students performing in front of their peers and parents.<br>
 
 **P1 Talentime:**<br>
