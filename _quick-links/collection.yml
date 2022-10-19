@@ -2,13 +2,13 @@ collections:
   quick-links:
     output: true
     order:
-      - Facebook.md
       - Students.md
       - Staff.md
+      - Parents/.keep
       - Parents/Student Learning Space.md
       - Parents/Parents Gateway.md
       - Parents/Info on Sexuality Education Programme for P5 & P6 Students.md
       - Parents/Resources on the New PSLE Scoring System.md
       - Parents/Achievement Band And Grading System.md
-      - Parents/.keep
+      - Facebook.md
       - Thank You Message for Teachers.md
