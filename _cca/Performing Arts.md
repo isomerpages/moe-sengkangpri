@@ -1,6 +1,6 @@
 ---
 title: Performing Arts
-permalink: /cca/performing-arts
+permalink: /cca/performing-arts/
 description: ""
 ---
 | CCA | DAY/TIME | TEACHER I/C| VENUE
@@ -14,7 +14,7 @@ description: ""
 
 **Modern Dance (Membership by school selection only)**
 
-Dance members are selected on their physicality and co-ordination skills through an audition held annually for P2 and P3 pupils.. Beginning dancers will go through at least one year of foundation training before they can take part in competitions (Singapore Youth Festival/DanceWorks) They will however, still be selected to perform in school-based performances and public performances (Pasir Ris Punggol GRC Racial Harmony Day Celebration)
+Dance members are selected on their physicality and co-ordination skills through an audition held annually for P2 and P3 pupils.. Beginning dancers will go through at least one year of foundation training before they can take part in competitions (Singapore Youth Festival/DanceWorks) They will however, still be selected to perform in school-based performances and public performances.
 
   
 
@@ -24,13 +24,12 @@ The objective of this CCA is to allow our pupils to appreciate a variety of danc
 
 **Malay Dance**  
 
-The different of Malay dance forms make up the multi-cultural mosaic that is Singapore. All pupils from primary 2 and 3 will go through an audition after SA2. Shortlisted pupils will be invited to join the CCA where they will explore the five basic Malay dance rhythms - Asli, Inang, Masri, Zapin, and Ronggeng (Joget) – while developing social awareness and relationship management. They will have a chance to represent the school in various competitions and performances such as Singapore Youth Festival and Punggol Street Parade.
-
+The different Malay dance forms make up the multi-cultural mosaic that is Singapore. All pupils will go through an audition. Shortlisted pupils will be invited to join the CCA where they will explore the five basic Malay dance rhythms - Asli, Inang, Masri, Zapin, and Ronggeng (Joget) – while developing social awareness and relationship management. They will have a chance to represent the school in various competitions and performances such as Singapore Youth Festival.
   
 
 **Handbells Ensemble (Membership by school selection only)**
 
-Handbells Ensemble is a niche Performing Arts music instrumental CCA, which aims to provide pupils with the experience and exposure to regular performances. Pupils learn music theory and acquire a high level of discipline and resilience through the regular practices. We have an exciting array of programmes for 2013 which includes 3 learning journeys to watch concerts, fun-filled Games Day, an intensive camp, a Performing Arts concert and an overseas learning journey. Pupils (P2/3 in 2012) are selected through formal auditions
+Handbells Ensemble is a niche Performing Arts music instrumental CCA, which aims to provide pupils with the experience and exposure to regular performances. Pupils learn music theory and acquire a high level of discipline and resilience through the regular practices. There are fun-filled Games Day, an intensive camp, a Performing Arts concert. Pupils are selected through formal auditions
 
 
 
