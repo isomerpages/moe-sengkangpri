@@ -1,15 +1,13 @@
 ---
 title: Staff
-permalink: /quick-links/Staff
+permalink: /quick-links/Staff/
 description: ""
 ---
-
-
 **_Administrative & HR Matters_**
 
 
 
-| Name of Application | URL (Left-Click Below) | 
+| Name of Application | URL | 
 | -------- | -------- |
 | iCON Email 2.0     | [https://icon.moe.edu.sg](https://icon.moe.edu.sg/)   | 
 |School Cockpit|[https://schoolcockpit.moe.gov.sg](https://schoolcockpit.moe.gov.sg/)
@@ -23,7 +21,7 @@ description: ""
 
 **_Teaching & Learning_**
 
-| Name of Application | URL (Left-Click Below) | 
+| Name of Application | URL  | 
 | -------- | -------- |
 |Academy of Singapore Teachers (AST)|[https://www.academyofsingaporeteachers.moe.gov.sg](https://www.academyofsingaporeteachers.moe.gov.sg/)
 |One Portal All Learners (OPAL 2.0)|[https://opal2.moe.edu.sg](https://opal2.moe.edu.sg/)
