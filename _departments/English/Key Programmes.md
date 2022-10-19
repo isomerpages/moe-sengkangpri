@@ -29,14 +29,14 @@ P1 student hosting Talentime for their peers and participants singing and tellin
 its array of book related activities promote and sustain the love of, and joy in, reading for the students.
 
 <img src="/images/EL%2009.jpg" 
-     style="width:30%;float:left">
+     style="width:30%;float:left;height:320px">
 <img src="/images/EL%2010.jpg" 
-     style="width:30%;float:left">
+     style="width:30%;float:left;height:320px">
 <img src="/images/EL%2011.jpg" 
-     style="width:30%;float:left;height:330px">
+     style="width:30%;float:left;height:320px">
 		 
-<br><br><br><br><br><br><br><br><br><br>
-		 
+<br><br><br><br><br><br><br><br><br><br>		 
+
 <center>
 Wishing upon a "Book Tree" for a book.
 </center>
