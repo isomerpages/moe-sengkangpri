@@ -1,6 +1,6 @@
 ---
 title: Primary 2
-permalink: /about-us/Our-People/primary-2
+permalink: /about-us/Our-People/primary-2/
 description: ""
 third_nav_title: Our People
 ---
@@ -19,7 +19,7 @@ Mrs Ferlynn Han-Tan Quek Khim
 | 2 Courage| Mrs Lim Jia Wei<br>Mdm Boon Lay Leng| [ang\_jia\_wei@schools.gov.sg](mailto:ang_jia_wei@schools.gov.sg)<br>[boon\_lay\_leng@schools.gov.sg](mailto:boon_lay_leng@schools.gov.sg)
 |2 Kindness| Mrs Lye Chee Wah Joyce<br>Mdm Farida Bee Bte Abdul Rahman|[lye\_chee\_wah@schools.gov.sg](mailto:lye_chee_wah@schools.gov.sg)<br>[farida\_bee\_abdul\_rahman@schools.gov.sg](mailto:farida_bee_abdul_rahman@schools.gov.sg)
 |2 Charity|Mrs Eswani Nicholas<br>Mr Welly Hardono<br>Mrs Ferlyn Han-Tan Quek Khim| [eswani\_salman\_mrs\_eswani@schools.gov.sg](mailto:eswani_salman_mrs_eswani@schools.gov.sg)<br>[welly\_hardono@schools.gov.sg](mailto:welly_hardono@schools.gov.sg)<br>[tan\_quek\_khim@schools.gov.sg](mailto:tan_quek_khim@schools.gov.sg)
-|2 Patience| Mdm Goh Hao Yun Chris<br>Miss Pathmaseri| [goh\_hao\_yun@schools.gov.sg](mailto:goh_hao_yun@schools.gov.sg)<br>[pathmaseri\_veeran\_visayan@schools.gov.sg](mailto:pathmaseri_veeran_visayan@schools.gov.sg)
+|2 Patience| Mdm Goh Hao Yun Chris<br>Miss Pathmaseri d/o Veeran Visayan | [goh\_hao\_yun@schools.gov.sg](mailto:goh_hao_yun@schools.gov.sg)<br>[pathmaseri\_veeran\_visayan@schools.gov.sg](mailto:pathmaseri_veeran_visayan@schools.gov.sg)
 |2 Confidence| Mdm Ng Cheng Li<br>Mdm Lim Swee Kuan| [ng\_cheng\_li@schools.gov.sg](mailto:ng_cheng_li@schools.gov.sg)<br>[lim\_swee\_kuan@schools.gov.sg](mailto:lim_swee_kuan@schools.gov.sg)
 |2 Graciousness| Mdm Nurulhuda Binte Mohamed Salleh<br>Miss Yeow An-Ning, Anna|[nurulhuda\_md\_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg)<br>[yeow\_anning\_anna@schools.gov.sg](mailto:yeow_anning_anna@schools.gov.sg)
 
