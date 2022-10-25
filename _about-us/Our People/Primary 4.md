@@ -1,6 +1,6 @@
 ---
 title: Primary 4
-permalink: /about-us/Our-People/Primary-4
+permalink: /about-us/Our-People/Primary-4/
 description: ""
 third_nav_title: Our People
 ---
@@ -19,7 +19,6 @@ Subject Based Banding [**(Click Here)**](/files/P4%20SBB%20Briefing%202022.pdf)
 |4 Kindness| Mr Muhammad Luqman Hakeem<br>Miss Dulcie Lim Shao Jian| [muhammad\_luqman\_hakeem\_mahmood\_shah@schools.gov.sg](mailto:muhammad_luqman_hakeem_mahmood_shah@schools.gov.sg)<br>[dulcie\_lim\_shao\_jian@schools.gov.sg](mailto:dulcie_lim_shao_jian@schools.gov.sg)
 |4 Patience| Mdm Julie Ng Yin Suan<br>Mdm Nurzarifah Binte Masnam<br>Mr Ruan Hui| [ng\_yin\_suan@schools.gov.sg](mailto:ng_yin_suan@schools.gov.sg)<br>[nurzarifah\_masnam@schools.gov.sg](mailto:nurzarifah_masnam@schools.gov.sg)<br>[ruan\_hui@schools.gov.sg](mailto:ruan_hui@schools.gov.sg)
 |4 Graciousness| Mrs Dorling Chan<br>Mr Ngeiw Chaw Yee| [tan\_kok\_ching\_dorling@schools.gov.sg](mailto:tan_kok_ching_dorling@schools.gov.sg)<br>[ngeiw\_chaw\_yee@schools.gov.sg](mailto:ngeiw_chaw_yee@schools.gov.sg)
-
 
 | Class | Venue| Subject Teacher | Email |
 | -------- | -------- | -------- | ---|
