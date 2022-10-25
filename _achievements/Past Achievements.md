@@ -1,12 +1,9 @@
 ---
 title: Past Achievements
-permalink: /achievements/Past-Achievements
+permalink: /achievements/Past-Achievements/
 description: ""
 ---
 **2018**
-
-
-
 | RECIPIENT'S NAME | ACHIEVEMENTS | 
 | -------- | -------- |
 | Mdm Nurul Ain Bte Azilah  <br>Mdm Nur Shabana Binte Syed Ismail <br>Mdm Siti Zuraidah Osman     | Associate of Academy of Singapore Teachers Award 2018     |
@@ -22,17 +19,12 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 | Mrs Lye Chee Wah Joyce  <br>Mdm Leong Wee Hoon Jennifer  <br>Mr Wong Chin Wei Aaron <br>Mrs Serene Tan  <br>Mr Seah Chin Liang Matthew|Caring Teacher Award
 
 **School:**
-
-
 | DEPARTMENT |ACHIEVEMENTS|
 | -------- | -------- | 
 | Science     | Community in Bloom Project (Gold Award)     | 
 |EEC| School Green Awards 2018 (Vanda Miss Joaquim Award)
 
 **CCA/Department:**
-
-
-
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 | Sports Leaders    | Team Orienteering Relay Primary School Division (Girls)     | Champion     | Adifah Erina  <br>Anthea  <br>Khamis Soh Jia May| 5 Joy  <br>5 Faith  <br>4 Joy
@@ -75,7 +67,6 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |Track and Field| Track & Field 59th National Competition<br>(A Division Boys - Nationals)| 2nd |A Division Boys| 6 Patience
 
 **2017**
-
 | RECIPIENT'S NAME | ACHIEVEMENTS | 
 | -------- | -------- |
 |Mdm Halinah Binte Halil  <br>Mdm Tan Meng Hui  <br>Mr Wong Chin Wei Aaron  <br>Mdm Chang Lan Li  <br>Mdm Leong Wee Hoon<br>Mrs Lye Chee Wah <br>Mdm Wang Yee Ling Karen  <br>Mdm Latifah Bte Abdul Aziz  <br>Mdm Ee (Leong) Laimun<br>Miss Mohana Durga d/o Rajaram  <br>Mdm Norahnisah Bte Abdol Rahman  <br>Miss Ong Shi Han  <br>Mdm Serene Tan  <br>Mdm Shabeena Begum Bte Azizzul Rahman<br>Mr Tan Jia Hui  <br>Mdm Waheeda Bte H Ali Ibrahim  <br>Mdm Nasuha Bte Hanafi  <br>Miss Toh Pei Min| MOE Service Excellence Award (MSEA) (Silver)
@@ -83,14 +74,12 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |Mrs Ferlynn Han| PS21 Star Manager Award by Public Division Service
 
 **Department:**
-
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |EEC| SEC-StarHub School Green Awards (SGA)| Lotus Award| 
 |English  Department| National English Writing Competition (NEW-C)| Merit Awards| ALYX GOH WEI XUAN| 4 Faith
 
 **CCA:**
-
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Science Club | Sustainable Singapore School Art Competition| 2nd Runner Up  <br>(Lower primary)  <br><br>Merit Winner <br>(Upper primary)| ANANYAA ARIVALAGAN  <br><br>FION TAN YU WEI| 2 Charity  <br><br>3 Faith
@@ -125,7 +114,6 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 **2016**
 
 **STAFF**
-
 <img src="/images/Untitled.jpeg" 
      style="width:30%;float:left">
 **Mrs Sheena Shidarta for winning**
@@ -136,13 +124,11 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 <br><br>
 
 **COMMITTEE:**
-
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |ENVIRONMENT EDUCATION COMMITTEE (EEC)| School Green Awards| Hibiscus Award| -|-|
 
 **CCA GROUP:**
-
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Math Department| RIPMWC Open Category  (Individual)|Credit|SAHISNU BASKAR|
@@ -178,9 +164,7 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |Track and Field| Akira Swift Track and Field Event|2nd Runner-Up|U-11 Girls 100 m<br>ELY ARINI| <br> 5 Hope|
 |Track and Field| Akira Swift Track and Field Event|2nd Runner-Up|U-13 Boys  4 x 100 m  <br>FIRDAUS  <br>RYAN  <br>AILOV  <br>MUSTAQIM|<br> 6 Patience  <br>6 Patience   <br>5 Courage   <br>6 Patience
 
-
 **2015**
-
 
 **School:**
 
@@ -188,19 +172,16 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 *   Innergy Award 2015 (Bronze) - English Department
 
 **COMMITTEE:**
-
 |NAME  OF COMPETITION| NAME OF WINNERS | CLASS | ACHIEVEMENTS | 
 | -------- | -------- | -------- | -------- |
 |School Green Awards| SKPS| -| Lotus Sustained Achievement Award
 |Goold Award in the SEC - Starhub School Green Awards (SGA) and 3R Awarda 2015| SKPS| -| Gold
 
 **Staff:**
-
 *   Mrs Andrea Ki being awarded the MOE Service Excellence Award 2014
 *   Miss Kwan See Ling being awarded the Finalist of Outstanding Youth in Education Award 2015
 
 **Pupils:**
-
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Modern Dance| Super 24 Dance Competition| Champion| - | -|
@@ -237,7 +218,6 @@ Basketball Championship 2015 (Junior Girls)| 1st Runner-Up| - | -
 ![](/images/IMG_2158b.png)
 
 **Inspiring Teacher Of English Award 2014**
-
 Mdm Lim Chwee Lian
 
 ![](/images/NDA-2014a.png)
@@ -252,14 +232,9 @@ Mdm Chiew Yan Seah
 Mr Lee Boon Kwee  
 Mdm Narasunaidu Manimekalay  
 
-  
-
 **School:**
-
 *   **ALP/LLP Award 2014**
-
 **Committee:**
-
 
 |NAME OF COMMITTEE | NAME OF COMPETITION |  ACHIEVEMENT
 | -------- | -------- | -------- |
@@ -269,7 +244,6 @@ Mdm Narasunaidu Manimekalay
 | ENVIRONMENT EDUCATION COMMITTEE (EEC)   | School Green Awards| Lotus
 | ENVIRONMENT EDUCATION COMMITTEE (EEC)   | 3R Awards| Gold
 
-
 **Staff:**
 
 *   **Mdm Nurul'Ain Bte Azilah for winning Academy Awards for Professional Development 2014 (Associate Award)**
@@ -277,7 +251,6 @@ Mdm Narasunaidu Manimekalay
 *   **Mdm Hadzar as the Finalist of the President's Award for Teachers 2014**
 
 **Pupils:**
-
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Science Club| Singapore Amazing Flying Machine Competition| Gold| Hoo Fang Zhou<br> Edric Chie  <br>Clara Wong| 5 Resilience  <br>5 Resilience  <br>5 Faith
@@ -315,15 +288,12 @@ Mdm Narasunaidu Manimekalay
 |Track and Field|4 x 300m Relay|2nd Position|A Div Girls Team|-
 
 **2013**
-
 **School:**  
-
 *   People Developer Standard (PDS)
 *   Green Audit Award - Lotus Award (Science Department)
 *   Greenwave Environment Care Competition - 2nd Place (Science Department)
 
 **Staff:**
-
 *   Mrs Miranda for winning the “Have You Got a Story to Tell?” 2012 Story Writing Contest
 *   Mdm Hadzar for winning the LEAP "Listening Education for Advancement and Progress" Award
 *   Mr Devindra being awarded the Long Service Medal by the President of the Republic of Singapore
@@ -331,7 +301,6 @@ Mdm Narasunaidu Manimekalay
 *   Mdm Yang Caihui for winning the Merit Award in the National Story Writing Competition organized by SCCL (Pre-School Category)
 
 **Pupils:**
-
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Hockey| NorthZone Senior Tournament| 4th|-|-
@@ -359,9 +328,7 @@ Mdm Narasunaidu Manimekalay
 |Handbells Ensemble| Largest Handbell Ensemble|Singapore Book of Records|-|-
 
 **2012**
-
 **School:**  
-
 *   Sharing Session at MOE EXCEL FEST 2012 on Project ExcITE by EL Department
 *   Sharing at iCTLT 2012 (International Conference on Teaching and Learning with Technology)-collaboration project by English, Science and ICT Department
 *   GOLD CHERISH Award
@@ -370,7 +337,6 @@ Mdm Narasunaidu Manimekalay
 *   Second Prize Award in the Primary School Category under the Sembawang Shipyard's Green Wave Environment Care Project 2012
 
 **Staff:**
-
 *   Mdm Foo Tseh Chyn Champion of Step With It®, Singapore! 2011 award  (Award from Coca-Cola Singapore)
 *   Mdm Yang Caihui - Guest Speaker of Mother Tongue Languages Symposium on Enhancing Teaching & Learning of Mother Tongue through Newspapers.
 *   Miss Kwan See Ling - Sharing at Singapore Centre for Chinese Language (SCCL) on 'Use of video in guiding pupils on how to make mini picture books'.
@@ -379,7 +345,6 @@ Mdm Narasunaidu Manimekalay
 *   Mrs Aini Rayyan Bulner (LH EL), Mdm Khadijah d/o Mohd Dawood Adam and Mdm Jaswant Kaur d/o Gurdit Singh (ST) - Presentation on Exciting Integrated Thematic Experience (ExcITE) at MOE ExCEL Fest 2012
 
 **Pupils:**
-
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |English Department|National Story Challenge 2012|Champion|Bryan Chia Chee Yong|6 Resilience
