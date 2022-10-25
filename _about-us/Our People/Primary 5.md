@@ -1,6 +1,6 @@
 ---
 title: Primary 5
-permalink: /about-us/Our-People/Primary-5
+permalink: /about-us/Our-People/Primary-5/
 description: ""
 third_nav_title: Our People
 ---
@@ -8,8 +8,6 @@ third_nav_title: Our People
 Mrs Ee (Leong) Lai Mun
 
 ![](/images/Primary%205.jpg)
-
-
 
 | Class | Form Teachers | Email |
 | -------- | -------- | -------- |
