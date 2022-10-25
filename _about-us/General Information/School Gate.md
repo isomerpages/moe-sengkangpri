@@ -9,22 +9,15 @@ All visitors to the school are to report at the Security Post. Visitors are not 
   
 Except in special cases, visitors are not allowed to see teachers when they are teaching in class. Visitors are requested to make prior appointments if they would like to meet up with the teachers to discuss about their child/ward.  
   
-
 Please refrain from parking along the road outside the school to ensure smoother traffic flow. If your child/ward cycles to school or uses the Personal Mobility Devices (PMD), do remind him/her to dismount and push his/her bicycle/PMD across pedestrian crossings, while on crowded pavements and adhere to the road safety rules. He/She should also wear safety equipment such as helmets, elbow/knee guards.
 
-  
-
 To ensure the safety of your child/ward, **no student is allowed to enter the school by the main gate (Gate 1) in the morning.** If you drive, **please do comply with the permitted speed limit of (15 km/h)** within school grounds and avoid over taking. Please understand that safety of every student is more important than convenience. The school reserves the right to stop errant drivers who do not adhere to our safety rules from entering the school.
-
-  
 
 Children walking to school are to enter the school by Gates 2A or 3A only.
 
 Children coming by cars, taxis, motorcycles are to be dropped off at the front porch after vehicle enters via Gate 1.
 
 **OPENING OF SCHOOL GATES (For Pedestrian Entry)**
-
-
 
 | Gate | Functioning Hours | Notes | Alternate Waiting Areas|
 | -------- | -------- | -------- | --- |
