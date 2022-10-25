@@ -1,6 +1,6 @@
 ---
 title: Primary 3
-permalink: /about-us/Our-People/Primary-3
+permalink: /about-us/Our-People/Primary-3/
 description: ""
 third_nav_title: Our People
 ---
@@ -17,7 +17,6 @@ Mrs Andrea Ki
 | 3 Courage| Mr Vikneswaran s/o Subramaniam<br>Mdm Rachael Ngiam Shi Ting| [vikneswaran\_subramaniam@schools.gov.sg](mailto:vikneswaran_subramaniam@schools.gov.sg)<br>[rachael\_ngiam\_shi\_ting@schools.gov.sg](mailto:rachael_ngiam_shi_ting@schools.gov.sg)|
 | 3 Kindness| Miss Ong Shi Han<br>Mdm G Vasantha Devi Naidu| [ong\_shi\_han\_b@schools.gov.sg](mailto:ong_shi_han_b@schools.gov.sg)<br>[g\_vasantha\_devi\_naidu@schools.gov.sg](mailto:g_vasantha_devi_naidu@schools.gov.sg)
 |3 Patience| Mr Wong Ming Long, Aloysius<br>Miss Nur Effah Binte Elias<br>Mrs Andrea Ki<br>Mr Mohamed Fazil| [aloysius\_wong\_ming\_long@schools.gov.sg](mailto:aloysius_wong_ming_long@schools.gov.sg)<br>[nur\_effah\_elias@schools.gov.sg](mailto:nur_effah_elias@schools.gov.sg)<br>[tan\_meng\_hui@schools.gov.sg](mailto:tan_meng_hui@schools.gov.sg)<br>[mohamed\_fazil@schools.gov.sg](mailto:mohamed_fazil@schools.gov.sg)|
-
 
 | Class | Venue| Subject Teacher | Email |
 | -------- | -------- | -------- | ---|
