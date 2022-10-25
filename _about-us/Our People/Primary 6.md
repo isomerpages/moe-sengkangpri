@@ -1,6 +1,6 @@
 ---
 title: Primary 6
-permalink: /about-us/Our-People/primary-6
+permalink: /about-us/Our-People/primary-6/
 description: ""
 third_nav_title: Our People
 ---
@@ -18,7 +18,6 @@ Miss Kwan See Ling
 | 6 Kindness | Mdm Leong Wee Hoon Jennifer <br> Mr Ng Kok Leong<br> Mr Ngo Yi Chye| [leong\_wee\_hoon@schools.gov.sg](mailto:leong_wee_hoon@schools.gov.sg)<br> [ng\_kok\_leong\_a@schools.gov.sg](mailto:ng_kok_leong_a@schools.gov.sg)<br>[ngo\_yi\_chye@schools.gov.sg](mailto:ngo_yi_chye@schools.gov.sg)
 |6 Patience | Mrs Jasmine Chan Nee Williams<br>Mr Lawrence Chan<br>Miss Kwan See Ling | [chan\_jasmine\_williams@schools.gov.sg](mailto:chan_jasmine_williams@schools.gov.sg)<br> [chan\_sian\_heng\_lawrence@schools.gov.sg](mailto:chan_sian_heng_lawrence@schools.gov.sg)<br>[kwan\_see\_ling@schools.gov.sg](mailto:kwan_see_ling@schools.gov.sg)
 |6 Charity |Mr Clarence Tan Teck Chuan<br> Mr Devindra Sapai s/o Indrasapai<br> Mr Tan Hiang Meng Stanley Ignatius| [tan\_teck\_chuan@schools.gov.sg](mailto:tan_teck_chuan@schools.gov.sg)<br> [devindra\_sapai\_indrasapai@schools.gov.sg](mailto:devindra_sapai_indrasapai@schools.gov.sg)<br> [tan\_hiang\_meng\_stanley@schools.gov.sg](mailto:tan_hiang_meng_stanley@schools.gov.sg)|
-
 
 | Class | Venue| Subject Teacher | Email |
 | -------- | -------- | -------- | ---|
