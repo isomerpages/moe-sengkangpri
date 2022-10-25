@@ -1,6 +1,6 @@
 ---
 title: School Hours
-permalink: /about-us/General-Information/School-Hours
+permalink: /about-us/General-Information/School-Hours/
 description: ""
 third_nav_title: General Information
 ---
@@ -18,9 +18,10 @@ third_nav_title: General Information
 | -------- | -------- | -------- |
 | Friday     | 7.30 a.m.     | 9.00 a.m.     |
 
-**RECESS SCHEDULE**
-
-
+**RECESS SCHEDULE**  
+  
+  
+	
 | Level | Time | 
 | -------- | -------- |
 | Primary 1     | 9.00 a.m. to 9.30 a.m.     |
@@ -36,11 +37,3 @@ third_nav_title: General Information
 | -------- | -------- |
 | Primary 1 - Primary 4| Between 11.00 a.m. to 12.30 p.m.
 |  Primary 5 - Primary 6 | Between 9.00 a.m. to 10.00 p.m.
-
-
-
-
-
-
-
-
