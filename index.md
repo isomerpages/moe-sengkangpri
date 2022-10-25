@@ -10,8 +10,8 @@ sections:
       background: /images/home.gif
       key_highlights:
         - title: Announcements
-          description: ""
-          url: /resources/announcements/permalink/
+          description: Click Here To Read More.
+          url: /resources/announcements
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings
