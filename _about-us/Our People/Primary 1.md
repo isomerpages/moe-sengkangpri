@@ -1,6 +1,6 @@
 ---
 title: Primary 1
-permalink: /about-us/Our-People/Primary-1
+permalink: /about-us/Our-People/Primary-1/
 description: ""
 third_nav_title: Our People
 ---
@@ -8,8 +8,6 @@ third_nav_title: Our People
 Mdm Wang Yee Ling Karen
 
 ![](/images/Primary%201.jpeg)
-
-
 
 | Class | Form Teachers | Email |
 | -------- | -------- | -------- |
@@ -21,7 +19,6 @@ Mdm Wang Yee Ling Karen
 | 1 Patience|Mdm Wang Yee Ling Karen<br>Mdm Du Liang<br>Mdm Waheeda Bte H Ali Ibrahim| [wang\_yee\_ling\_karen@schools.gov.sg](mailto:wang_yee_ling_karen@schools.gov.sg)<br>[du\_liang@schools.gov.sg](mailto:du_liang@schools.gov.sg)<br>[waheeda\_h\_ali\_ibrahim@schools.gov.sg](mailto:waheeda_h_ali_ibrahim@schools.gov.sg)
 |1 Confidence |Mdm Quek Leng Leng<br>Mdm Chin Irnanie Binte Imran Chin|[quek\_leng\_leng@schools.gov.sg](mailto:quek_leng_leng@schools.gov.sg)<br>[chin\_irnanie\_imran\_chin@schools.gov.sg](mailto:chin_irnanie_imran_chin@schools.gov.sg)|
 |1 Graciousness| Mrs Siew Gee Brenda<br>Mrs Suhaidah Binti Ahmad| [siew-gee\_brenda@schools.gov.sg](mailto:siew-gee_brenda@schools.gov.sg)<br>[suhaidah\_ahmad@schools.gov.sg](mailto:suhaidah_ahmad@schools.gov.sg)
-
 
 | Class | Venue| Subject Teacher | Email |
 | -------- | -------- | -------- | ---|
