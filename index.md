@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements
+          url: /resources/announcements/permalink/
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings
