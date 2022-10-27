@@ -4,6 +4,7 @@ collections:
     order:
       - Students.md
       - Staff.md
+      - Parents/Notifications.md
       - Parents/.keep
       - Parents/Student Learning Space.md
       - Parents/Parents Gateway.md
