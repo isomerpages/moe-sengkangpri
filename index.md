@@ -10,9 +10,9 @@ sections:
       background: /images/home.gif
       key_highlights:
         - title: Announcements
-          description: Click Here To Read More.
+          description: Click Here To Read More
           url: /resources/announcements
         - title: Latest Happenings
-          description: ""
+          description: Click Here To Read More
           url: /Latest-Happenings
 ---
