@@ -4,6 +4,7 @@ permalink: /achievements/Past-Achievements/
 description: ""
 ---
 **2018**
+
 | RECIPIENT'S NAME | ACHIEVEMENTS | 
 | -------- | -------- |
 | Mdm Nurul Ain Bte Azilah  <br>Mdm Nur Shabana Binte Syed Ismail <br>Mdm Siti Zuraidah Osman     | Associate of Academy of Singapore Teachers Award 2018     |
@@ -19,12 +20,14 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 | Mrs Lye Chee Wah Joyce  <br>Mdm Leong Wee Hoon Jennifer  <br>Mr Wong Chin Wei Aaron <br>Mrs Serene Tan  <br>Mr Seah Chin Liang Matthew|Caring Teacher Award
 
 **School:**
+
 | DEPARTMENT |ACHIEVEMENTS|
 | -------- | -------- | 
 | Science     | Community in Bloom Project (Gold Award)     | 
 |EEC| School Green Awards 2018 (Vanda Miss Joaquim Award)
 
 **CCA/Department:**
+
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 | Sports Leaders    | Team Orienteering Relay Primary School Division (Girls)     | Champion     | Adifah Erina  <br>Anthea  <br>Khamis Soh Jia May| 5 Joy  <br>5 Faith  <br>4 Joy
@@ -124,11 +127,13 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 <br><br>
 
 **COMMITTEE:**
+
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |ENVIRONMENT EDUCATION COMMITTEE (EEC)| School Green Awards| Hibiscus Award| -|-|
 
 **CCA GROUP:**
+
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Math Department| RIPMWC Open Category  (Individual)|Credit|SAHISNU BASKAR|
@@ -172,6 +177,7 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 *   Innergy Award 2015 (Bronze) - English Department
 
 **COMMITTEE:**
+
 |NAME  OF COMPETITION| NAME OF WINNERS | CLASS | ACHIEVEMENTS | 
 | -------- | -------- | -------- | -------- |
 |School Green Awards| SKPS| -| Lotus Sustained Achievement Award
@@ -251,6 +257,7 @@ Mdm Narasunaidu Manimekalay
 *   **Mdm Hadzar as the Finalist of the President's Award for Teachers 2014**
 
 **Pupils:**
+
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Science Club| Singapore Amazing Flying Machine Competition| Gold| Hoo Fang Zhou<br> Edric Chie  <br>Clara Wong| 5 Resilience  <br>5 Resilience  <br>5 Faith
@@ -345,6 +352,7 @@ Mdm Narasunaidu Manimekalay
 *   Mrs Aini Rayyan Bulner (LH EL), Mdm Khadijah d/o Mohd Dawood Adam and Mdm Jaswant Kaur d/o Gurdit Singh (ST) - Presentation on Exciting Integrated Thematic Experience (ExcITE) at MOE ExCEL Fest 2012
 
 **Pupils:**
+
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |English Department|National Story Challenge 2012|Champion|Bryan Chia Chee Yong|6 Resilience
