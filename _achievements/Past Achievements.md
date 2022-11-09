@@ -85,6 +85,7 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |English  Department| National English Writing Competition (NEW-C)| Merit Awards| ALYX GOH WEI XUAN| 4 Faith
 
 **CCA:**
+
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Science Club | Sustainable Singapore School Art Competition| 2nd Runner Up  <br>(Lower primary)  <br><br>Merit Winner <br>(Upper primary)| ANANYAA ARIVALAGAN  <br><br>FION TAN YU WEI| 2 Charity  <br><br>3 Faith
@@ -272,7 +273,7 @@ Mdm Narasunaidu Manimekalay
 |Hockey|Inter Primary School National Hockey Championship (Senior)| 4th|-|-
 |ICT Club| Asia Pacific Youth Robotics Competition Winter 2014 (Primary School Category) - Team Fortress| 3rd (Bronze)| Jerrod Ng  <br>Lim Zi En| 5 Resilience  <br>5 Resilience
 |ICT Club| Asia Pacific Youth Robotics Competition Winter 2014 (Primary School Category) - Transporter|3rd (Bronze)| Teng Hui Swen  <br>Tong Xin Ning| 5 Resilience <br>5 Resilience
-|ICT Club| Asia Pacific Youth Robotics Competition Winter 2014 (Primary, Secondary and Open Category)|Overall Sportsmanship Trophy|-|-|
+|ICT Club| Asia Pacific Youth Robotics Competition Winter 2014 (Primary, Secondary and Open Category)|Overall Sportsmanship Trophy|||
 |Scouts| Frank Cooper Sands Award 2014| Gold Award|-|-
 |Chess Club| 66th National Schools Individual Championships 2014 - Lower Junior Boys Division| 19th Position (National - Merit)| Hee Wei Jie| 2 Courage
 |Chess Club|66th National Schools Individual Championships 2014 - Senior Boys Division|5th Position (National )<br>2nd Position (Northzone)|Hee Wei Yang|6 Resilience
@@ -285,17 +286,17 @@ Mdm Narasunaidu Manimekalay
 |English Comes Alive|Plain English Speaking Award| Preliminary Round| Aisha Uswa  <br>Lee Jooei <br>Aishwarya Goyal  <br>Elaine Chong| 5 Faith  <br>4 Faith  <br>3 Faith  <br>3 Faith
 |English Comes Alive| N1 Cluster Challenge (Spin A Tale)|Champion| Aisha Uswa|5 Faith
 |English Comes Alive| N1 Cluster Challenge (Spin A Tale)|1st Runner Up| Lim Jia Yi|5 Resilience
-|Handbells Ensemble| SYF 2014| Certificate of Accomplishment (Silver Award)|-|-
-|Malay Dance| SYF 2014|Certificate of Distinction|-|-
-|Modern Dance| SYF Arts Presentation 2014<br>(International Dance Category)|Certificate of Accomplishment (Silver Award)|-|-
+|Handbells Ensemble| SYF 2014| Certificate of Accomplishment (Silver Award)| |
+|Malay Dance| SYF 2014|Certificate of Distinction| |
+|Modern Dance| SYF Arts Presentation 2014<br>(International Dance Category)|Certificate of Accomplishment (Silver Award)| |
 |Track and Field| 100m 'A' Div Boys| 1st Position| Salvo, Meldrick Gumban| 6 Faith
 |Track and Field| 200m 'A' Div Boys| 1st Position| Salvo, Meldrick Gumban| 6 Faith
 |Track and Field|High Jump 'B' Boys|2nd Position|Remus Ler Aik Tong|6 Kindness
 |Track and Field|110m Hurdles 'A' Girls| 2nd Position|Robles Caitinlei Denise|6 Joy
 |Track and Field|300m 'A' Girls|2nd Position| Trisha Alissandra Sayo|6 Joy
 |Track and Field|80m Hurdles 'A' Girls|1st Position|Gao Ziwei|6 Faith
-|Track and Field|4 x 100m Relay|3rd Position|A Div Girls Team|-
-|Track and Field|4 x 300m Relay|2nd Position|A Div Girls Team|-
+|Track and Field|4 x 100m Relay|3rd Position|A Div Girls Team|
+|Track and Field|4 x 300m Relay|2nd Position|A Div Girls Team|
 
 **2013**
 **School:**  
@@ -311,6 +312,7 @@ Mdm Narasunaidu Manimekalay
 *   Mdm Yang Caihui for winning the Merit Award in the National Story Writing Competition organized by SCCL (Pre-School Category)
 
 **Pupils:**
+
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Hockey| NorthZone Senior Tournament| 4th|-|-
