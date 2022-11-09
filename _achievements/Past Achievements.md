@@ -70,6 +70,7 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |Track and Field| Track & Field 59th National Competition<br>(A Division Boys - Nationals)| 2nd |A Division Boys| 6 Patience
 
 **2017**
+
 | RECIPIENT'S NAME | ACHIEVEMENTS | 
 | -------- | -------- |
 |Mdm Halinah Binte Halil  <br>Mdm Tan Meng Hui  <br>Mr Wong Chin Wei Aaron  <br>Mdm Chang Lan Li  <br>Mdm Leong Wee Hoon<br>Mrs Lye Chee Wah <br>Mdm Wang Yee Ling Karen  <br>Mdm Latifah Bte Abdul Aziz  <br>Mdm Ee (Leong) Laimun<br>Miss Mohana Durga d/o Rajaram  <br>Mdm Norahnisah Bte Abdol Rahman  <br>Miss Ong Shi Han  <br>Mdm Serene Tan  <br>Mdm Shabeena Begum Bte Azizzul Rahman<br>Mr Tan Jia Hui  <br>Mdm Waheeda Bte H Ali Ibrahim  <br>Mdm Nasuha Bte Hanafi  <br>Miss Toh Pei Min| MOE Service Excellence Award (MSEA) (Silver)
@@ -77,6 +78,7 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 |Mrs Ferlynn Han| PS21 Star Manager Award by Public Division Service
 
 **Department:**
+
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |EEC| SEC-StarHub School Green Awards (SGA)| Lotus Award| 
@@ -188,6 +190,7 @@ Miss Toh Pei Min  <br>Mdm Wang Yee Ling Karen  <br>Mr Wong Chin Wei Aaron| SKPS 
 *   Miss Kwan See Ling being awarded the Finalist of Outstanding Youth in Education Award 2015
 
 **Pupils:**
+
 |NAME  OF CCA| NAME OF COMPETITION | ACHIEVEMENTS | WINNERS | CLASS
 | -------- | -------- | -------- | -------- |-------- |
 |Modern Dance| Super 24 Dance Competition| Champion| - | -|
