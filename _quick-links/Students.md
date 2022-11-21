@@ -1,6 +1,6 @@
 ---
 title: Students
-permalink: /quick-links/students
+permalink: /quick-links/students/
 description: ""
 ---
 *   [MOE Student ICON Google Workspace Dashboard (Email) Login Page](https://workspace.google.com/dashboard)

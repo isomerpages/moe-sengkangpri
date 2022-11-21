@@ -1,6 +1,6 @@
 ---
 title: Uniform Groups
-permalink: /cca/uniform-groups
+permalink: /cca/uniform-groups/
 description: ""
 ---
 | CCA | DAY/TIME | TEACHER I/C| VENUE

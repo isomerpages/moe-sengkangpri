@@ -1,6 +1,6 @@
 ---
 title: Clubs and Societies
-permalink: /cca/Clubs-and-Societies
+permalink: /cca/Clubs-and-Societies/
 description: ""
 ---
 | CCA | DAY/TIME | TEACHER I/C| VENUE
