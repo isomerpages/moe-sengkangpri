@@ -1,0 +1,16 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - Students.md
+      - Staff.md
+      - Parents/Resources.md
+      - Parents/.keep
+      - Parents/Student Learning Space.md
+      - Parents/Parents Gateway.md
+      - Parents/Info on Sexuality Education Programme for P5 & P6 Students.md
+      - Parents/New PSLE Scoring System.md
+      - Parents/Achievement Band And Grading System.md
+      - Facebook.md
+      - MOE Instagram.md
+      - Thank You Message for Teachers.md

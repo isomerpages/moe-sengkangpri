@@ -1,0 +1,9 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Performing Arts.md
+      - Uniform Groups.md
+      - Clubs and Societies.md
+      - Sports and Games.md
+      - P3 Modular CCA.md
