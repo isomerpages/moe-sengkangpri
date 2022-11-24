@@ -8,21 +8,22 @@ third_nav_title: General Information
 
 <center> Single Session </center>
 
-| Day | Start Time | Dismissal Time |
+| Day (Monday to Friday) | Start Time | Dismissal Time |
 | -------- | -------- | -------- |
-| Monday to Friday     | 7.30 a.m.     | Primary 1 & 2 - 1.20 p.m.<br>Primary 3 & 4 - 1.30 p.m.  <br>Primary 5 & 6 - 1.40 p.m.     |
+|Primary 1 - Primary 2   | 7.30 a.m.     | 1.25 p.m.     |
+|Primary 3 - Primary 6   | 7.30 a.m.     | 1.30 p.m.     |
 
 **CCA TIMING**
 
-| Day | Start Time | Dismissal Time |
+| Day (Friday) | Start Time | Dismissal Time |
 | -------- | -------- | -------- |
-| Friday     | 7.30 a.m.     | 9.00 a.m.     |
+| Primary 3 - Primary 6     | 7.30 a.m.     | 9.00 a.m.     |
 
 **RECESS SCHEDULE**  
   
   
 	
-| Level | Time | 
+| Day (Monday to Friday)  | Time | 
 | -------- | -------- |
 | Primary 1     | 9.00 a.m. to 9.30 a.m.     |
 | Primary 4 | 9.00 a.m. to 9.30 a.m.
@@ -33,7 +34,7 @@ third_nav_title: General Information
 
 **SNACK BREAK**
 
-| Level | Time | 
+| Day (Monday to Friday) | Time | 
 | -------- | -------- |
 | Primary 1 - Primary 4| Between 11.00 a.m. to 12.30 p.m.
 |  Primary 5 - Primary 6 | Between 9.00 a.m. to 10.00 p.m.
