@@ -5,21 +5,21 @@ description: ""
 third_nav_title: Parents
 ---
 **Primary 1 to Primary 6 Book and Stationery Lists - 2023**<br>
-*   [Book and Stationery List Primary 1 - 2023](/files/Parent%20Resources/ParentResourcesP1Student2023/P1%20Orientation%20Booklet%202023.pdf)
+*   [Book and Stationery List Primary 1 - 2023](/files/Parent%20Resources/Booklist2023/P1%20Booklist%202023.pdf)
 
-*  [Book and Stationery List Primary 2 - 2023](/files/Parent%20Resources/ParentResourcesP1Student2023/Parent%20Child%20Activity%20ReadySetGo.pdf)
+*  [Book and Stationery List Primary 2 - 2023](/files/Parent%20Resources/Booklist2023/P2%20Booklist%202023.pdf)
 
-*  [Book and Stationery List Primary 3 - 2023](/files/Parent%20Resources/ParentResourcesP1Student2023/Parent%20Child%20Activity%20ReadySetGo.pdf)
+*  [Book and Stationery List Primary 3 - 2023](/files/Parent%20Resources/Booklist2023/P3%20Booklist%202023.pdf)
 
-*  [Book and Stationery List Primary 4 - 2023](/files/Parent%20Resources/ParentResourcesP1Student2023/Parent%20Child%20Activity%20ReadySetGo.pdf)
+*  [Book and Stationery List Primary 4 - 2023](/files/Parent%20Resources/Booklist2023/P4%20Booklist%202023.pdf)
 
-*  [Book and Stationery List Primary 5 - 2023](/files/Parent%20Resources/ParentResourcesP1Student2023/Parent%20Child%20Activity%20ReadySetGo.pdf)
+*  [Book and Stationery List Primary 5 - 2023](/files/Parent%20Resources/Booklist2023/P5%20Booklist%202023.pdf)
 
-*  [Book and Stationery List Primary 5 Foundation - 2023](/files/Parent%20Resources/ParentResourcesP1Student2023/Parent%20Child%20Activity%20ReadySetGo.pdf)
+*  [Book and Stationery List Primary 5 Foundation - 2023](/files/Parent%20Resources/Booklist2023/P5%20Foundation%20Booklist%202023.pdf)
 
-*  [Book and Stationery List Primary 6 - 2023](/files/Parent%20Resources/ParentResourcesP1Student2023/Parent%20Child%20Activity%20ReadySetGo.pdf)
+*  [Book and Stationery List Primary 6 - 2023](/files/Parent%20Resources/Booklist2023/P6%20Booklist%202023.pdf)
 
-*  [Book and Stationery List Primary 6 Foundation - 2023](/files/Parent%20Resources/ParentResourcesP1Student2023/Parent%20Child%20Activity%20ReadySetGo.pdf)
+*  [Book and Stationery List Primary 6 Foundation - 2023](/files/Parent%20Resources/Booklist2023/P6%20Foundation%20Booklist%202023.pdf)
 
 
 **Primary 1 Student - 2023**<br>
