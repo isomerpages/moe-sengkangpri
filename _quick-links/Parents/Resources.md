@@ -94,8 +94,3 @@ third_nav_title: Parents
 *   [Primary 1 Parent Teacher Connect - 15th January 2021](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Staff/Primary%201/2021/P1%20PTC%202021%20Part%201%20School%20Website.pdf)
 *   [Primary 3 Parent Teacher Connect - 22nd January 2021](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Staff/Primary%203/2021/PTC%202021_P3%20YH%2020%20Jan.pdf)[](https://sengkangpri-moe-edu-sg-admin.cwp.sg/)
 *   [Primary 5 Parent Teacher Connect - 29th January 2021](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Staff/Primary%205/2021/P5%20PTC%202021_YH.pdf)
-
-**Parent's Resources - 2022**<br>
-
-
-**Resources from before Semester 1 - 2022**<br>
