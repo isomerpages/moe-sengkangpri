@@ -42,7 +42,7 @@ You may click [**here**](https://www.moe.gov.sg/education/programmes/social-and
 
   
 
-**OVERVIEW OF SENG KANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2021**
+**OVERVIEW OF SENG KANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME**
 
 4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -74,7 +74,7 @@ You may click [**here**](https://www.moe.gov.sg/education/programmes/social-and
 
   
 
-**TOPICS COVERED IN GY SERIES IN 2021 FOR PRIMARY 5**
+**TOPICS COVERED IN GY SERIES FOR PRIMARY 5**
 
 
 
@@ -90,7 +90,7 @@ You may click [**here**](https://www.moe.gov.sg/education/programmes/social-and
 |How Do I Keep Myself Safe?|Stop It! Run! Tell!  <br>(30 min)|-   protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult<br>-   know their responsibilities in minimising the risk of sexual harm|During curriculum time
 
 
-**TOPICS COVERED IN GY SERIES IN 2021 FOR PRIMARY 6**
+**TOPICS COVERED IN GY SERIES FOR PRIMARY 6**
 
 | UNIT | LESSON / DURATION | LESSON OBJECTIVES  <BR>At the end of the lesson, pupil will be able to: | TIME PERIOD|
 | -------- | -------- | -------- |-------- |
