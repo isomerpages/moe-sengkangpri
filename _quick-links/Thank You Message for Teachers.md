@@ -26,4 +26,3 @@ Click on this link [https://thankyoucher.edu.sg/#explore\_map](https://thankyou
 
 	
 ![](/images/Explore%20Map%20Thankyoucher%202021.jpg)
-
