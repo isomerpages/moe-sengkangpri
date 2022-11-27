@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Students/Student iCON Quick Guide.md
       - Students/Student Learning Space.md
       - Students/Website Links.md
       - Students/.keep
