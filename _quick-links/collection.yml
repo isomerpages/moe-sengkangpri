@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Students/Student iCON Quick Guide.md
-      - Students/Student Learning Space.md
+      - Students/Student Learning Space Quick Guide.md
       - Students/Website Links.md
       - Students/.keep
       - Staff.md
