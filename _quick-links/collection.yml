@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Students/Student Learning Space.md
       - Students/Website Links.md
       - Students/.keep
       - Staff.md
