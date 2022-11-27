@@ -4,10 +4,6 @@ permalink: /quick-links/Parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
-
-
-
-
 **YMCA Seng Kang Primary School 2023 Intake**
 
 ![YMCA 2023 Registration.jpg](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/Parents%20Resources/2022/YMCA%202023%20Registration.jpg) 
