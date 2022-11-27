@@ -10,4 +10,3 @@ description: ""
 *   [Micro:Bit Make Code Programming Website](https://makecode.microbit.org/)
 *   [MakerSpace Google Site](https://sites.google.com/view/skps-makerspace-2021)
 *   [SKPS Library Resources (OPAC)](https://schoolibrary.moe.edu.sg/sengkangpri)
-
