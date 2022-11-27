@@ -68,6 +68,6 @@ Alternatively, you can proceed to use&nbsp;**_Incognito Mode_**&nbsp;on your bro
 
 **To Contact School Based Helpline**
 <br>Contact No.: 6384 0809
-<br>Email: mohammed\_azhar\_mohd\_shariff@schools.gov.sg
+<br>Email: [mohammed_azhar_mohd_shariff@schools.gov.sg](mohammed_azhar_mohd_shariff@schools.gov.sg)
 <br>Operating Hours: Monday to Friday (8:00 AM to 5:00 PM) 
 <br>Closed on Saturday, Sunday &amp; Public Holiday
