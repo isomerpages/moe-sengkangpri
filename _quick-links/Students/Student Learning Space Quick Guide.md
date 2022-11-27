@@ -1,9 +1,11 @@
 ---
-title: Student Learning Space
+title: Student Learning Space Quick Guide
 permalink: /quick-links/Parents/Student-Learning-Space/
 description: ""
-third_nav_title: Parents
+third_nav_title: Students
 ---
+
+
 <center>Support for Home-Based Learning</center>
 
 During school operating hours, students should contact the&nbsp;**_School-based Helpline_**&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.&nbsp;For non-school operating hours, students should contact the&nbsp;_**SLS Helpdesk**_&nbsp;for support.&nbsp;When emailing the SLS Helpdesk, students should include their&nbsp;**_Full Name, Name of School and Form Class._**
