@@ -4,7 +4,6 @@ permalink: /quick-links/Parents/Resources-on-the-New-PSLE-Scoring-System/
 description: ""
 third_nav_title: Parents
 ---
-
 **TOP QUESTIONS ON THE NEW PSLE SCORING SYSTEM**
 
 <img src="/images/Top%20Question.jpg" 
@@ -38,8 +37,8 @@ School Finder Tool:
      style="width:50%">
 
 Secondary School Open House Dates.  
-Note that 2021 info will be updated as soon as possible:   
-[https://go.gov.sg/openhouse-2021 (Click Here)](https://www.schoolbag.edu.sg/story/online-open-house-for-secondary-schools-2020)
+Note that 2022  
+[https://go.gov.sg/openhouse-2022 (Click Here)](https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022)
 
 <img src="/images/Explore%20Schools.jpg" 
      style="width:50%">
