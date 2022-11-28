@@ -46,42 +46,7 @@ third_nav_title: Parents
 | Instagram/MOESingapore | [https://www.instagram.com/moesingapore/?hl=en](https://www.instagram.com/moesingapore/?hl=en)[](https://schoolcockpit.moe.gov.sg/)[](https://opal2.moe.edu.sg/)[](https://schoolcockpit.moe.gov.sg/) |
 | Instagram/Parentingwith.MOESG | [](https://www.hrp.gov.sg/)[https://www.instagram.com/parentingwith.moesg/?hl=en](https://www.instagram.com/parentingwith.moesg/?hl=en)[](https://go.gov.sg/SFEd)  |
 | Twitter/MOESG | [https://twitter.com/moesg?lang=en](https://twitter.com/moesg?lang=en)[](https://intranet.moe.gov.sg/hronline)[](https://vle.learning.moe.edu.sg/) |
-| TikTok/MOESingapore | [https://www.tiktok.com/@moesingapore](https://www.tiktok.com/@moesingapore)[](https://intranet.moe.gov.sg/)[](https://www.myskillsfuture.sg/primary) |
+| TikTok/MOESingapore | [https://www.tiktok.com/@moesingapore](https://www.tiktok.com/@moesingapore)[](https://intranet.moe.gov.sg/)[](https://www.myskillsfuture.sg/primary)|
 | Youtube/MOESingapore  | [https://www.youtube.com/user/moespore](https://www.youtube.com/user/moespore)[](https://pacgov.agd.gov.sg/) |
-| SchoolBag/The Education News Site  | [](https://iexams.seab.gov.sg%20/)[https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/)  |
+| SchoolBag/The Education News Site  | [](https://iexams.seab.gov.sg%20/)[https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/) |
 | SchoolBag/Telegram  | [](https://pg.moe.edu.sg%20/)[https://t.me/schoolbag\_edu\_sg](https://t.me/schoolbag_edu_sg) |
-
-
-
-**Parent's Resources - 2022**<br>
-*   [Celebrating SKPS 25th Anniversary - '25 km Run for Charity' Donation Drive Letter - 21st March 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/25th%20Anniversary%20Donation%20Drive%20Letter.pdf)
-
-*   [Primary 2 PTC PowerPoint Slides - 18th February 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/P2%20YH%20PTC%202022_For%20parents.pdf)
-
-*   [Primary 4 PTC PowerPoint Slides - 11th February 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/P4%20PTC%202022_11%20Feb.pdf)
-
-*   [Primary 4 Subject Based Banding Briefing PowerPoint Slides - 11th February 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Staff/Primary%204/2022/P4%20SBB%20Briefing%202022.pdf)
-
-*   [Primary 5 PTC PowerPoint Slides - 4th February 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/P5%20PTC%202022.pdf)
-
-*   [Primary 6 PTC PowerPoint Slides - 28th January 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/P6%20PTC%202022_Year%20Head%2028%20Jan%20PDF.pdf)
-
-*   [Primary 6 PTC PowerPoint Slides - Changes to PSLE Scoring & S1 Posting System - 28th January 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/P6%20SL%20PTC%202022%20on%20PSLE_28%20Jan.pdf)
-
-*   [Primary 3 PTC PowerPoint Slides - 21st January 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/P3%20PTC%202022.pdf)
-
-*   [Primary 1 PTC PowerPoint Slides (Part 1) - 14th January 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/P1%202022%20PTC_part%201.pdf)
-
-*   [Primary 1 PTC PowerPoint Slides (Part 2) - 14th January 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/P1%202022%20PTC_part%202.pdf)
-
-*   [Term 1 Letter to Parents - 5th January 2022](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/Term%201%20Letter%20to%20Parents%202022.pdf)
-
-*   [Guidelines for School - Home Partnership Leaflet](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Partners/2022/Resources/guidelines-for-school-home-partnership.pdf)
-
-*   [Parent Kit on Student Vaccination Exercise Leaflet](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Others/Announcements/2021/Info%20on%20Stdnt%20Vaccination%20Exercise/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
-
-*   [Infographic on Student Vaccination Exercise Leaflet](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Others/Announcements/2021/Info%20on%20Stdnt%20Vaccination%20Exercise/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
-
-*   [New PSLE System  and Progressing to Secondary School - MOE Website](https://www.moe.gov.sg/microsites/psle-fsbb/index.html)
-
-*   [MySkillsFuture Education Guide (Exploring Secondary School)  - MySkillsFuture Website](https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/explore-school.html)
