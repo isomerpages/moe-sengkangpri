@@ -8,11 +8,8 @@ third_nav_title: Mother Tongue
 
 We believe that all students can learn and enjoy learning their MTL in school. We hope to excite them in learning MTL, so that they develop a lasting interest in the language and culture well after leaving school. When planning for appropriate MTL learning experience, we consider student’s interests, needs and abilities.
 
-<img src="/images/mtl1.jpg" 
-     style="width:50%;float:left">
-		 <img src="/images/mtl2.jpg" 
-     style="width:50%">
-		 
+![](/images/DepartmentsSubPage/MotherTongueDepartment2022/mtl1.jpg)
+![](/images/DepartmentsSubPage/MotherTongueDepartment2022/mtl2.jpg)
 
 
 <center>
