@@ -30,9 +30,9 @@ Using the Kolhberg and Piaget theories of moral development and cognitive develo
 
 National Education (N.E), Cyberwellness and Kindness Movement (SKM) as well as the Values in Education (VIA) into the syllabus. This is to ensure that pupils learn that the values and behaviour they display do not just affect them but the nation as a whole in the long run. The curriculum thus aides in developing them to be gracious citizens, one of the school missions. The Celebration of the core NE Events is deepened with the introduction of Contemporary Issues for the blocks in the Upper Primary to deepen the conversations amongst the children
 
-<img src="/images/04.png" 
+<img src="/images/SKPSExperienceSubPage/SignatureProgrammes/CharacterEduValuesEdu/04.png" 
      style="width:50%;float:left">
-		 <img src="/images/05.png" 
+		 <img src="/images/SKPSExperienceSubPage/SignatureProgrammes/CharacterEduValuesEdu/05.png" 
      style="width:50%;float:left">
 		 
 <br><br><br><br><br><br><br><br>
@@ -43,15 +43,15 @@ ASSESSMENT
 	
 </center>
 
-<img src="/images/06.png" 
+<img src="/images/SKPSExperienceSubPage/SignatureProgrammes/06.png" 
      style="width:50%">
 		 
 		 
 The new syllabus is using story-telling and questioning approach focusing on the 4 school values. The value moment and lifeskills curriculum messages are aligned weekly. Thus student focus on the same message in one week. At the end of each term they will use the rubrics in the Lifeskills booklets to assess themselves and their peers on the value taught for the term. The rubrics in the Lifeskills booklets are aligned to the HDP- I will statements. After assessing, they have to give their peers who have imbue the values taught with the cut-out certificate found in the Lifeskills booklet.
 
-<img src="/images/07.png" 
+<img src="/images/SKPSExperienceSubPage/SignatureProgrammes/CharacterEduValuesEdu/07.png" 
      style="width:50%;float:left">
-		 <img src="/images/08.png" 
+		 <img src="/images/SKPSExperienceSubPage/SignatureProgrammes/CharacterEduValuesEdu/08.png" 
      style="width:50%;float:left">
 		 
 <br><br><br><br>
@@ -62,9 +62,9 @@ The process of Innovation and Values in Action are intertwined to ensure that th
 
 In Lifeskills lessons, students learn about Design Thinking as an approach to look at problems from the perspective of the end-user.  The approach allows students to look at the end user perspectives, developing empathy and evolving Gracious Citizens.
 
-<img src="/images/09.png" 
+<img src="/images/SKPSExperienceSubPage/SignatureProgrammes/CharacterEduValuesEdu/09.png" 
      style="width:50%;float:left">
-		 <img src="/images/10.png" 
+		 <img src="/images/SKPSExperienceSubPage/SignatureProgrammes/CharacterEduValuesEdu/10.png" 
      style="width:50%;float:left">
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>
@@ -75,7 +75,7 @@ Student Leadership
 	
 </center>
 
-<img src="/images/11.png" 
+<img src="/images/SKPSExperienceSubPage/SignatureProgrammes/CharacterEduValuesEdu/11.png" 
      style="width:50%">
 
 Student Leadership in the school is broken up into 3 Tiers.  Tier 1 develops leaders in the class.  Tier 2 develops pupils who serve in the school outside the classroom.  At the highest Tier, the Prefects occupy this place.  The idea is to ensure that leadership is a spiral development and, at each level, how the pupils are developed.
