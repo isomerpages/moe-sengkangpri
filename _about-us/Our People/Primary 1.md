@@ -8,7 +8,6 @@ third_nav_title: Our People
 **Mrs Ferlynn Han-Tan Quek Khim**
 
 
-
 | Class | Form Teachers | Email |
 | -------- | -------- | -------- |
 |  1 Faith  |  Mdm Nasuha Bte Hanafi<br>Mdm Chiew Yan Seah  | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)<br>[chiew_yan_seah@schools.gov.sg](chiew_yan_seah@schools.gov.sg)
