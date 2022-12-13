@@ -4,7 +4,7 @@ permalink: /about-us/Our-People/Primary-1/
 description: ""
 third_nav_title: Our People
 ---
-**Assistant Year Head:**<br> 
+**Year Head:**<br> 
 **Mrs Ferlynn Han-Tan Quek Khim**
 
 
