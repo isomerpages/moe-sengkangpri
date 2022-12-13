@@ -56,7 +56,7 @@ The new syllabus is using story-telling and questioning approach focusing on the
 		 
 <br><br><br><br>
 
-**Innovation and Values in Action**
+**Innovation and Values in Action**<br>
 
 The process of Innovation and Values in Action are intertwined to ensure that the development of the projects is linked with the innovation whilst the actual project and products will be on the values in action.
 
@@ -68,10 +68,11 @@ In Lifeskills lessons, students learn about Design Thinking as an approach to lo
      style="width:50%;float:left">
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>
-<br><br><br><br><br><br>
+
+
 <center>
 	
-Student Leadership 
+	Student Leadership<br>
 	
 </center>
 
