@@ -16,4 +16,4 @@ third_nav_title: Our People
 | SEN Officer |  Mdm Yong Fong Ling <br> Mr Mohammad Azhari Bin Basiran<br>Nazaratul Farhana Ridzuan Ajmain |[yong\_fong\_ling@schools.gov.sg](mailto:yong_fong_ling@schools.gov.sg)<br> [mohd\_azhari\_basiran@schools.gov.sg](http://mohd_azhari_basiran@schools.gov.sg%20/)<br>[nazaratul_farhana@schools.gov.sg](nazaratul_farhana@schools.gov.sg)|
 |ICT Associate | Mr Mohammed Azhar Bin Mohd Shariff | [mohammed\_azhar\_mohd\_shariff@schools.gov.sg](mailto:mohammed_azhar_mohd_shariff@school.gov.sg) |
 |ICT Executive | Miss Nini Juliena Mohd Rafaat| [nini\_juliena\_mohd\_rafaat@moe.edu.sg](mailto:nini_juliena_mohd_rafaat@moe.edu.sg)
-| Desktop Engineer | Mr Leon Hon <br>  Mdm Periyasamy Uma | [admin\_skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)
+| Desktop Engineers | Mr Leon Hon <br>  Mdm Periyasamy Uma | [admin\_skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)
