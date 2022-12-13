@@ -10,7 +10,7 @@ third_nav_title: Physical Education Art & Music
 
 We value the artistic development of our students and strive to help every child achieve their fullest potential in the arts. Through the Inspire, Aspire, Grow approach, our Art and Music curricula are centered on themes that would relate to and extend students' prior experiences in their daily lives. Through a diverse range of programmes within the curriculum, we aim to nurture thinking and socio-culturally sensitive individuals.
 
-![](/images/pam.png)
+![](/images/DepartmentsSubPage/PAMDepartment2022/pam.png)
 
 **_Physical Education (PE)_**
 
