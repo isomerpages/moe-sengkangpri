@@ -17,4 +17,3 @@ Information on Subject Based Banding [(Click Here)](/files/P4%20SBB%20Briefing%
 |  4 Courage  | Mdm Julie Ng Yin Suan<br> Mr Ngo Yi Chye  | [ng_yin_suan@schools.gov.sg](ng_yin_suan@schools.gov.sg)<br>[ngo_yi_chye@schools.gov.sg](ngo_yi_chye@schools.gov.sg)
 |  4 Kindness  | Miss Ong Shi Han<br>Mdm Cheo Xin Ying  | [ong_shi_han_b@schools.gov.sg](ong_shi_han_b@schools.gov.sg)<br>[cheo_xin_ying@schools.gov.sg](cheo_xin_ying@schools.gov.sg)
 |  4 Patience  | Mr Wong Ming Long Aloysius<br>Mdm Faridah Binte Ab Razak  | [aloysius_wong_ming_long@schools.gov.sg](aloysius_wong_ming_long@schools.gov.sg)<br>[faridah_a_razak@schools.gov.sg](faridah_a_razak@schools.gov.sg)
-
