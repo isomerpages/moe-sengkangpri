@@ -17,4 +17,3 @@ third_nav_title: Our People
 |  5 Kindness  | Mdm Leong Wee Hoon Jennifer<br>Mr Muhamad Aerfi Bin Abdullah<br>Mdm Farida Bee Bte Abdul Rahman  | [leong_wee_hoon@schools.gov.sg](leong_wee_hoon@schools.gov.sg)<br>[muhamad_aerfi_abdullah@schools.gov.sg](muhamad_aerfi_abdullah@schools.gov.sg)<br>[farida_bee_abdul_rahman@schools.gov.sg](farida_bee_abdul_rahman@schools.gov.sg)
 |  5 Patience  | Mr Kalai Selven<br>Mdm Ngian Bang Yee  |[kalai_selven_sadanadom@schools.gov.sg](kalai_selven_sadanadom@schools.gov.sg)<br>[ngian_bang_yee@schools.gov.sg](ngian_bang_yee@schools.gov.sg)
 |  5 Graciousness  | Mr Mohamed Fazil<br>Mr Chan Sian Heng Lawrence  |[mohamed_fazil@schools.gov.sg](mohamed_fazil@schools.gov.sg)<br>[chan_sian_heng_lawrence@schools.gov.sg](chan_sian_heng_lawrence@schools.gov.sg)
-
