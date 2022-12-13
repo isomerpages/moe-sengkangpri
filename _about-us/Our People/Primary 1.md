@@ -19,4 +19,3 @@ third_nav_title: Our People
 |  1 Patience  |  Mrs Eswani Nicholas<br>Mdm G Vasantha Devi Naidu  | [eswani_salman_mrs_eswani@schools.gov.sg](eswani_salman_mrs_eswani@schools.gov.sg)<br>[g_vasantha_devi_naidu@schools.gov.sg](g_vasantha_devi_naidu@schools.gov.sg)
 |  1 Confidence  |  Mdm Ng Cheng Li<br>Mdm Quek Leng Leng  |  [ng_cheng_li@schools.gov.sg](ng_cheng_li@schools.gov.sg)<br>[quek_leng_leng@schools.gov.sg](quek_leng_leng@schools.gov.sg)
 |  1 Graciousness  |  Mdm Nurulhuda Binte Mohamed Salleh<br>Mdm Lim Hwee Hong  | [nurulhuda_md_salleh@schools.gov.sg](nurulhuda_md_salleh@schools.gov.sg)<br>[lim_hwee_hong_a@schools.gov.sg](lim_hwee_hong_a@schools.gov.sg)
-
