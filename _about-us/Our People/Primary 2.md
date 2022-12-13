@@ -7,7 +7,6 @@ third_nav_title: Our People
 **Year Head:**  <br>
 Mrs Ferlynn Han-Tan Quek Khim
 
-![](/images/Primary%202.jpeg)
 
 | Class | Form Teachers | Email |
 | -------- | -------- | -------- |
