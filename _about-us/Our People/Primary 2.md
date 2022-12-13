@@ -4,8 +4,8 @@ permalink: /about-us/Our-People/primary-2/
 description: ""
 third_nav_title: Our People
 ---
-**Year Head:**  <br>
-Mrs Ferlynn Han-Tan Quek Khim
+**Assistant Year Head:**<br>
+**Mdm Wang Yee Ling Karen**
 
 
 | Class | Form Teachers | Email |
