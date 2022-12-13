@@ -4,7 +4,7 @@ permalink: /departments/Mathematics/framework/
 description: ""
 third_nav_title: Mathematics
 ---
-![](/images/Maths_Framework.jpg)<br>
+![](/images/DepartmentsSubPage/MathDepartment2022/Maths_Framework.jpg)<br>
 **Aims of Mathematics Education in Schools**
 * Acquire the necessary mathematical knowledge and skills to develop critical thinking processes and apply them in mathematical situations that they will meet in life
 

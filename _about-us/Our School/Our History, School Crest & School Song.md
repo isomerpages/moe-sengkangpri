@@ -4,7 +4,7 @@ permalink: /about-us/Our-School/Our-History-School-Crest-and-School-Song/
 description: ""
 third_nav_title: Our School
 ---
-![](/images/SKPS_Front_Landscape_w700%20(1).png)
+![](/images/AboutUsSubPage/OurSchool/OurHistorySchoolCrest&Song/SKPS_Front_Landscape_w700%20(1).png)
 
 **_The Beginning_**
 <br>
@@ -31,7 +31,7 @@ Sengkang which means – Prosperous Harbour in Chinese is located between two ri
 | 2005 | Started signature programme of Daily Physical Education.|**
 
 **The School Crest**
-![](/images/Sch%20Crest.jpg)
+![](/images/AboutUsSubPage/OurSchool/OurHistorySchoolCrest&Song/Sch%20Crest.jpg)
 
 **The School Song (lyrics)**
 <br>	

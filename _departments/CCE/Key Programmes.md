@@ -12,13 +12,13 @@ National Education The School aims to develop national cohesion, the instinct fo
 **_Total Defence Day_**  
 Seng Kang Primary School commemorated Total Defence Day on 17 February 2020 to mark Singapore’s fall to the Japanese in 1942. Total Defence Day serves to remind our students that Singapore is worth defending and that we ourselves must defend Singapore. Through the activities planned, we created an awareness that they can play their part too.  The focus for this year was “Together we keep Singapore strong”.
 
-<img src="/images/cce2.jpg" 
+<img src="/images/DepartmentsSubPage/CCEDepartment2022/cce2.jpg" 
      style="width:25%;float:left">
-<img src="/images/cce3.jpg" 
+<img src="/images/DepartmentsSubPage/CCEDepartment2022/cce3.jpg" 
      style="width:25%;float:left">
-		 <img src="/images/cce4.jpg" 
+		 <img src="/images/DepartmentsSubPage/CCEDepartment2022/cce4.jpg" 
      style="width:25%;float:left">
-		 <img src="/images/cce5.jpg" 
+		 <img src="/images/DepartmentsSubPage/CCEDepartment2022/cce5.jpg" 
      style="width:25%;float:left">
 <br>
 <br>

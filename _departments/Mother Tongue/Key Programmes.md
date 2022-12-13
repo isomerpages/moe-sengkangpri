@@ -117,12 +117,11 @@ Figure 8: Parents and students dressed in traditional costumes and performed dur
 
 The MTL Reading Programme is a school based curriculum aimed at promoting a reading culture in SKPS through structured curriculum reading periods, morning reading on every Thursday, reading cum reflection journals and various reading activities for all students. The reading of MTL stories, many of which are rich in cultural content, would in turn engender a love for the language and culture.
 
-<img src="/images/reading1.jpg" 
-     style="width:50%;float:left">
-<img src="/images/reading2.jpg" 
-     style="width:50%">
-		
 
+
+![](/images/reading1.jpg)
+![](/images/DepartmentsSubPage/MotherTongueDepartment2022/reading2.jpg)
+		
 
 
 <center>
@@ -147,9 +146,9 @@ Every year, our school organizes an overseas school immersion programme to our p
 
 Participants of the programme will have the opportunity to experience school life in a different cultural setting, make new friends of another nationality and learn alongside their peers in Suzhou primary schools. The application for the immersion programme is open to all Primary 5 students.
 
-<img src="/images/suzhou.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou.jpg" 
      style="width:50%;float:left">
-<img src="/images/suzhou2.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou2.jpg" 
      style="width:50%">
 		
 
@@ -161,9 +160,9 @@ Figure 10: Our partner school in Suzhou Industrial Park, China: Chefang Experime
 	
 </center>
 
-<img src="/images/suzhou3.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou3.jpg" 
      style="width:50%;float:left">
-<img src="/images/suzhou4.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou4.jpg" 
      style="width:50%">
 		 
 
@@ -174,9 +173,9 @@ Figure 11: During the school visits to our partner schools in Suzhou, our studen
 	
 </center>
 
-<img src="/images/suzhou5.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou5.jpg" 
      style="width:50%;float:left">
-<img src="/images/suzhou6.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou6.jpg" 
      style="width:50%">
 		 
 
@@ -187,9 +186,9 @@ Figure 12: Students learned how to make Chinese dumplings at Nanxiang Ancient To
 	
 </center>
 
-<img src="/images/suzhou7.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou7.jpg" 
      style="width:50%;float:left">
-<img src="/images/suzhou8.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou8.jpg" 
      style="width:50%">
 		 
 
@@ -199,9 +198,9 @@ Figure 13: Students learned how to make and fly their Chinese kites at Nanshan, 
 	
 </center>
 
-<img src="/images/suzhou9.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou9.jpg" 
      style="width:50%;float:left">
-<img src="/images/suzhou10.jpg" 
+<img src="/images/DepartmentsSubPage/MotherTongueDepartment2022/suzhou10.jpg" 
      style="width:50%">
 		 
 

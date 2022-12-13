@@ -26,13 +26,13 @@ Children coming by cars, taxis, motorcycles are to be dropped off at the front p
 | 3A  <br>(Entry & Pick Up only) | 6.45 a.m. - 7.25 a.m. <br>1.20 p.m. - 2.00 p.m. (Monday - Friday)  <br>3.30 p.m. - 4.00 p.m.  (Monday, Tuesday &  Thursday) | Pupils may enter and exit by this Gate.<br>This will be the only exit for pupils to use after CCA.  Parents who have pupils in the After School Care will have to pick up their children from this exit.| Void Deck of Block 225C
 
 **LOCATION OF SCHOOL GATES (Entrance and Exit)**
-![](/images/Slide1%20(1).jpg)
+![](/images/AboutUsSubPage/GeneralInformation/Slide1%20(1).jpg)
 
 **PEDESTRIAN GATE 2A**
-![](/images/Slide1.jpeg)
+![](/images/AboutUsSubPage/GeneralInformation/Slide1.jpeg)
  
  **ALTERNATIVE DROP OFF POINT**
- ![](/images/Slide2.jpeg)
+ ![](/images/AboutUsSubPage/GeneralInformation/Slide2.jpeg)
 
 **OPENING OF SCHOOL GATES (For Vehicle Entry)**
 
@@ -40,10 +40,10 @@ Children coming by cars, taxis, motorcycles are to be dropped off at the front p
 | -------- | -------- | -------- | --- |
 |1  <br>(Entry and Drop Off only) | 6.30 a.m. - 7.25 a.m. | Parents are allowed to drive into the school to drop off their child. Parents are not allowed to park in the school premise.| Car park 236A or 233A 
 
-![](/images/Slide1.jpeg)
+![](/images/AboutUsSubPage/GeneralInformation/Slide1.jpeg)
 
 **DROP OFF POINT**
-![](/images/Slide3.jpg)
+![](/images/AboutUsSubPage/GeneralInformation/Slide3.jpg)
 
 **REMINDER**
-![](/images/Reminder%20(1).jpg)
+![](/images/AboutUsSubPage/GeneralInformation/Reminder%20(1).jpg)

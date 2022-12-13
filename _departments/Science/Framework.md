@@ -8,6 +8,5 @@ third_nav_title: Science
 
 The E 3 – Explore, Experience and Excite with Science – approach serves as a guide in planning and implementing the Science programmes.
 
-![](/images/e3%20sci.jpg)
-<img src="/images/sci2.jpg" 
-     style="width:50%">
+![](/images/DepartmentsSubPage/ScienceDepartment2022/e3%20sci.jpg)
+![](/images/DepartmentsSubPage/ScienceDepartment2022/sci2.jpg)

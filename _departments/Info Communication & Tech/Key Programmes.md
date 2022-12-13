@@ -17,11 +17,8 @@ third_nav_title: Info Communication & Tech
 *   P5 Microsoft Word, PowerPoint, Excel, Revision of P1 to P4 skills and Internet Skills
 *   P6 Microsoft Office Skills (Revision)
 
-<img src="/images/ict1.jpg" 
-     style="width:30%;float:left">
-	 <img src="/images/ict2.jpg" 
-     style="width:30%;centre float:left">
-<br>
+![](/images/DepartmentsSubPage/ICTDepartment2022/ict1.jpg)
+![](/images/DepartmentsSubPage/ICTDepartment2022/ict2.jpg)<br>
 Students participating in the various activities that were organised during the Media Literacy Week
 
 <br>
@@ -29,22 +26,13 @@ Students participating in the various activities that were organised during the 
 
 Code for Fun (CFF) seeks to expose our P5 students to learn Computational Thinking through coding. The students will participate in a 10-hour enrichment programme conducted in school. Through this programme, they will develop an appreciation of core computational thinking and coding concepts through simple visual programming-based lessons co-developed by MOE and IMDA. They would also be exposed to emerging technologies such as artificial intelligence.
 
-<img src="/images/ict3.jpg" 
-     style="width:33%;float:left">
-		 <img src="/images/ict4.jpg" 
-     style="width:30%;float:left">
-		 <img src="/images/ict5.jpg" 
-     style="width:29%;float:left">
-<br>
+
+![](/images/DepartmentsSubPage/ICTDepartment2022/ict3.jpg)
+![](/images/DepartmentsSubPage/ICTDepartment2022/ict4.jpg)
+![](/images/DepartmentsSubPage/ICTDepartment2022/ict5.jpg)
 
 
-<center><br><br><br>
-	
-
-Students building and programming their own robots.
-
-</center><br>
-
+<center>Students building and programming their own robots.</center><br>
 
 **P6 Digital Maker (Micro:bit) Programme**
 
@@ -58,7 +46,6 @@ The Digital Maker Programme is a joint initiative by IMDA and its partner Micros
 <br><br>
 <center>
 Students attending the Micro:bit lesson and showcasing their final product.
-
 </center>
 
 
@@ -68,7 +55,7 @@ Students attending the Micro:bit lesson and showcasing their final product.
 
 The school adopts the MOE Cyber Wellness Framework. The Framework focuses on developing the child’s instinct to protect himself and empower him to take responsibility for his own well-being in cyberspace. Thus, this framework highlights two principles to guide pupils in their actions, describes a 3-step process to explore cyber wellness issues and encourages schools to partner parents in promoting cyber wellness among pupils.
 
-<img src="/images/ict8.gif" 
+<img src="/images/DepartmentsSubPage/ICTDepartment2022/ict8.gif" 
      style="width:50%">
 
 **Principles**
