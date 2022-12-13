@@ -17,4 +17,3 @@ third_nav_title: Our People
 |  6 Kindness  | Mr Loe Weiqiang Timothy<br>Mdm Reshmi Rai  | [loe_weiqiang_timothy@schools.gov.sg](loe_weiqiang_timothy@schools.gov.sg)<br>[reshmi_rai@schools.gov.sg](reshmi_rai@schools.gov.sg)
 |  6 Patience  | Mrs Thaifur Alias<br>Mr Ngeiw Chaw Yee  | [siswati_ahmad@schools.gov.sg](siswati_ahmad@schools.gov.sg)<br>[ngeiw_chaw_yee@schools.gov.sg](ngeiw_chaw_yee@schools.gov.sg)
 |  6 Confidence  |Mr Vikneswaran s/o Subramaniam<br> Mr Devindra Sapai s/o Indrasapai<br>Mr Tan Hiang Meng Stanley Ignatius  | [vikneswaran_subramaniam@schools.gov.sg](vikneswaran_subramaniam@schools.gov.sg)<br>[devindra_sapai_indrasapai@schools.gov.sg](devindra_sapai_indrasapai@schools.gov.sg)<br>[tan_hiang_meng_stanley@schools.gov.sg](tan_hiang_meng_stanley@schools.gov.sg)
-
