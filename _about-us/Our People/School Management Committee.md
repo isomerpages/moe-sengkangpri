@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 | Designation | Name | Email |
 | -------- | -------- | -------- |
-| Principal     | Mrs Teo Whye Choo     | [skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)     |
+| Principal     | Mrs Tan Siew Hong     | [skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)     |
 |Vice-Principal| Miss Thien Li Chin|[skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg)  
 |Vice-Principal| Mr Mohamed Azhar Mohamed Noor|[skps@moe.edu.sg](mailto:admin_skps@moe.edu.sg) 
 |School Staff Developer| Mdm Chiew Yan Seah| [chiew\_yan\_seah@schools.gov.sg](mailto:chiew_yan_seah@schools.gov.sg)
