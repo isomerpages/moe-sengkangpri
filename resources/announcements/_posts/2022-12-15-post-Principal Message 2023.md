@@ -6,7 +6,6 @@ layout: post
 description: Principal Message 2023 updated as at 15th December 2022
 image: /images/8d04d162c_4610.jpg
 ---
-
 Welcome to Seng Kang Primary School where every SKLite is an inventive thinker, a confident leader, and a gracious citizen!
 
 It is my privilege to have the opportunity to lead Seng Kang Primary School and I would like to express my appreciation to my predecessor, Mrs Teo Whye Choo for her six years of leadership. Last year, our school celebrated our Silver Jubilee since the founding of the school in 1997. Throughout the years, we remain steadfast in our school beliefs that ‘Everyone can learn, Everyone can serve and Everyone is Special’. Our school crest symbolizes that every SKLite and every staff is a gem to be treasured and nurtured. These enduring beliefs will continue to be the cornerstones in our educational philosophy.
