@@ -9,10 +9,10 @@ The English Language Department of Seng Kang Primary believes in providing our s
 The AP modules are as follows:
 
 **Primary 1 Poetry Recitation & Jingles & Primary 2 Storytelling**
-![DSC_0058.JPG](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/ALP%202022/DSC_0058.JPG)  
-![DSC_0094.JPG](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/ALP%202022/DSC_0094.JPG)  
-![DSC_0148.JPG](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/ALP%202022/DSC_0148.JPG)  
-![DSC_0150.JPG](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/ALP%202022/DSC_0150.JPG)  
+![](/images/SKPSExperienceSubPage/ALP/DSC_0058.jpg)
+![](/images/SKPSExperienceSubPage/ALP/DSC_0094.jpg)
+![](/images/SKPSExperienceSubPage/ALP/DSC_0148.jpg)
+![](/images/SKPSExperienceSubPage/ALP/DSC_0150.jpg)
  
 **Primary 3 Readers' Theater & Primary 4 Readers' Theater and Scripting**
 ![](/images/SKPSExperienceSubPage/ALP/P1010216.jpg)
