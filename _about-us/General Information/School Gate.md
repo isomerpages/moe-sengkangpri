@@ -40,7 +40,7 @@ Children coming by cars, taxis, motorcycles are to be dropped off at the front p
 | -------- | -------- | -------- | --- |
 |1  <br>(Entry and Drop Off only) | 6.30 a.m. - 7.25 a.m. | Parents are allowed to drive into the school to drop off their child. Parents are not allowed to park in the school premise.| Car park 236A or 233A 
 
-![](/images/AboutUsSubPage/GeneralInformation/Slide1.jpeg)
+![](/images/AboutUsSubPage/GeneralInformation/Entrance%20and%20Exit.jpg)
 
 **DROP OFF POINT**
 ![](/images/AboutUsSubPage/GeneralInformation/Slide3.jpg)
