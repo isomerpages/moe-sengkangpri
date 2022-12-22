@@ -15,7 +15,8 @@ The AP modules are as follows:
 ![DSC_0150.JPG](https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/ALP%202022/DSC_0150.JPG)  
  
 **Primary 3 Readers' Theater & Primary 4 Readers' Theater and Scripting**
-
+![](/images/SKPSExperienceSubPage/ALP/P1010216.jpg)
+![](/images/SKPSExperienceSubPage/ALP/P1010020.jpg)
 
   
 Our programmes look at developing our P1 and P2 students in areas of voice projection, proper performance posture, correct pronunciation and pace of speech. At P3 and P4 they put into practice skills picked up at lower primary for the Readers’ Theatre modules. 
