@@ -18,7 +18,6 @@ The AP modules are as follows:
 ![](/images/SKPSExperienceSubPage/ALP/P1010216.jpg)
 ![](/images/SKPSExperienceSubPage/ALP/P1010020.jpg)
 
-  
-Our programmes look at developing our P1 and P2 students in areas of voice projection, proper performance posture, correct pronunciation and pace of speech. At P3 and P4 they put into practice skills picked up at lower primary for the Readers’ Theatre modules. 
+  Our programmes look at developing our P1 and P2 students in areas of voice projection, proper performance posture, correct pronunciation and pace of speech. At P3 and P4 they put into practice skills picked up at lower primary for the Readers’ Theatre modules. 
 
 To practise their oral skills through free expression and voicing of opinions on current affairs, our primary 3 and 4 students read articles from the Little Red Dot and some primary 4, all of primary 5 and 6 students read What’s Up newspapers. The students are made to write their response to an article, using thinking routines, so that they not only become confident but effective too in their expression of thought, word and speech.  Our more competent users of EL take part in various competitive platforms to benchmark their skills with their peers in cluster, zonal and national arenas.
