@@ -9,7 +9,7 @@ description: ""
 |English Comes Alive (Language/Arts Club)|Friday<br>7.30am - 9.30am|Mrs Eswani Nicholas (i/c)<br>Mr Wong Chin Wei Aaron (2 i/c)<br>Mdm Joyce Tan<br>Mr Md Luqman Hakeem Mahmood Shah|Teaching Lab / Library
 | Chinese Language Club| Friday<br>7.30am - 9.30am| Mdm Yang Cai Hui (i/c)<br>Mdm Hung Mei ling (2 i/c)  <br>Mr Ruan Hui|Classroom
 |Art Club| Friday<br>7.30am - 9.30am|Ms Faridah Bee (i/c)<br>Mdm Reshmi Rai (2 i/c)<br>Mdm Nurzarifah Bte Masnam  <br>Mdm Nurul'Ain| Art Room
-| IT/Media  <br>Club | Friday<br>7.30am - 9.30am| Mr Clarence Tan (i/c)<br>Mdm Loke Chuen Lan (2 i/c)<br>Mrs Dorling Chan| Computer Lab 3
+| IT/Media  <br>Club | Friday<br>7.30am - 9.30am| Mdm Loke Chuen Lan (i/c)<br>Mrs Dorling Chan| Computer Lab 3
 |Chess Club| Friday<br>7.30am - 9.30am|Mdm Lim Hwee Hong (i/c<br>Mrs Siti Osman| CCA Room
 
 
