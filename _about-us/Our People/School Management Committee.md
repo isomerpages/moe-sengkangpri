@@ -15,7 +15,7 @@ third_nav_title: Our People
 | HOD Math| Mr Dexter Lee| [lee\_kah\_soon\_dexter@schools.gov.sg](mailto:lee_kah_soon_dexter@schools.gov.sg)
 | HOD Science| Mrs Michelle Lim| [ngian\_bang\_yee@schools.gov.sg](mailto:ngian_bang_yee@schools.gov.sg)
 |HOD Mother Tongue| Mr Ng Kok Leong| [ng\_kok\_leong\_a@schools.gov.sg](mailto:ng_kok_leong_a@schools.gov.sg)
-|HOD ICT and Data Management| Mr Lawrence Chan| [chan\_sian\_heng\_lawrence@schools.gov.sg](mailto:chan_sian_heng_lawrence@schools.gov.sg)
+|HOD ICT| Mr Lawrence Chan| [chan\_sian\_heng\_lawrence@schools.gov.sg](mailto:chan_sian_heng_lawrence@schools.gov.sg)
 | HOD PE/CCA/PAL/AES| Mr Stanley Tan| [tan\_hiang\_meng\_stanley@schools.gov.sg](mailto:tan_hiang_meng_stanley@schools.gov.sg)
 | HOD Discipline & Leadership| Mdm Jennifer Leong| [leong\_wee\_hoon@schools.gov.sg](mailto:leong_wee_hoon@schools.gov.sg)
 | Year Head (Middle Block)| Mrs Andrea Ki| [tan\_meng\_hui@schools.gov.sg](mailto:tan_meng_hui@schools.gov.sg)
