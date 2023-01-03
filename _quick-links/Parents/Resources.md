@@ -4,6 +4,12 @@ permalink: /quick-links/Parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
+**Resources - 2023 (All Level)**<br>
+*  [Term 1 Letter To Parents (30th December 2022)](/files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents%202023.pdf)
+
+*  [Presentation shared during "P1 Meet & Greet Session" (3rd January 2023)](/files/Parent%20Resources/2023/P1%20Meet%20&%20Greet%20Session%20as%20at%203%20Jan%20%202023.pdf)
+
+
 **Primary 1 to Primary 6 Book and Stationery Lists - 2023**<br>
 *   [Book and Stationery List Primary 1 - 2023](/files/Parent%20Resources/Booklist2023/P1%20Booklist%202023.pdf)
 
@@ -31,9 +37,9 @@ third_nav_title: Parents
 
 *   [Parent Kit - Starting Your Primary 1 Journey](/files/Parent%20Resources/ParentResourcesP1Student2023/Parent%20Kit%20Starting%20Your%20Primary%201%20Journey.pdf)
 
-*   [PowerPoint Slides Shared During Primary 1 Parent Orientation - 8th November 2022](/files/Parent%20Resources/ParentResourcesP1Student2023/PowerPoint%20Slides%20Shared%20During%20P1%20Parent%20Orientation%202022%208th%20Nov%2022.pdf)
+*   [PowerPoint Slides Shared During Primary 1 Parent Orientation (8th November 2022)](/files/Parent%20Resources/ParentResourcesP1Student2023/PowerPoint%20Slides%20Shared%20During%20P1%20Parent%20Orientation%202022%208th%20Nov%2022.pdf)
 
-*   [Primary 1 Parent Orientation Frequently Asked Questions - 8th November 2022](/files/Parent%20Resources/ParentResourcesP1Student2023/P1%20Parent%20Orientation%20FAQ%208th%20Nov%202022.pdf)
+*   [Primary 1 Parent Orientation Frequently Asked Questions (8th November 2022)](/files/Parent%20Resources/ParentResourcesP1Student2023/P1%20Parent%20Orientation%20FAQ%208th%20Nov%202022.pdf)
 
 *   [Parent Kit for Home-Based Learning&nbsp;(Part 1)](/files/resource-kit---hbl-(part-1).pdf)
 
