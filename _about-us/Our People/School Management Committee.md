@@ -32,6 +32,7 @@ third_nav_title: Our People
 |Lead Teacher (Art)| Mdm Nurul 'Ain Binte Azilah| [nurulain\_azilah@schools.gov.sg](mailto:nurulain_azilah@schools.gov.sg)
 |Senior Teacher (High Ability)| Mrs Serene Tan| [chen\_xiaoying\_serene@schools.gov.sg](mailto:chen_xiaoying_serene@schools.gov.sg)
 |Senior Teacher (English)| Mrs Jasmine Chan<br>Mrs Dorling Chan| [chan\_jasmine\_williams@schools.gov.sg](mailto:chan_jasmine_williams@schools.gov.sg)<br>[tan_kok_ching_dorling@schools.gov.sg](tan_kok_ching_dorling@schools.gov.sg)
+|Senior Teacher (Math)| Ms Par Hwee Ling | [par_hwee_ling@schools.gov.sg](par_hwee_ling@schools.gov.sg)
 |Senior Teacher (Math)| Mr Canisius Ching Tze Meng | [canisius_ching_tze_meng@schools.gov.sg](canisius_ching_tze_meng@schools.gov.sg)
 |Senior Teacher (Malay Language)| Mdm Ruhaizah Bte Osman| [ruhaizah\_osman@schools.gov.sg](mailto:ruhaizah_osman@schools.gov.sg)
 |Senior Teacher (Chinese Language)| Mdm Yang Caihui|[yang\_caihui@schools.gov.sg](mailto:yang_caihui@schools.gov.sg)
