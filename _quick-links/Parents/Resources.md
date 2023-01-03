@@ -4,7 +4,7 @@ permalink: /quick-links/Parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
-**Circular & Notification - 2023 (All Level)**<br>
+**Resources - 2023 (All Level)**<br>
 *  [Term 1 Letter To Parents (30th December 2022)](/files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents%202023.pdf)
 
 *  [Presentation shared during "P1 Meet & Greet Session" (3rd January 2023)](/files/Parent%20Resources/2023/P1%20Meet%20&%20Greet%20Session%20as%20at%203%20Jan%20%202023.pdf)
