@@ -37,9 +37,9 @@ third_nav_title: Parents
 
 *   [Parent Kit - Starting Your Primary 1 Journey](/files/Parent%20Resources/ParentResourcesP1Student2023/Parent%20Kit%20Starting%20Your%20Primary%201%20Journey.pdf)
 
-*   [PowerPoint Slides Shared During Primary 1 Parent Orientation - 8th November 2022](/files/Parent%20Resources/ParentResourcesP1Student2023/PowerPoint%20Slides%20Shared%20During%20P1%20Parent%20Orientation%202022%208th%20Nov%2022.pdf)
+*   [PowerPoint Slides Shared During Primary 1 Parent Orientation (8th November 2022)](/files/Parent%20Resources/ParentResourcesP1Student2023/PowerPoint%20Slides%20Shared%20During%20P1%20Parent%20Orientation%202022%208th%20Nov%2022.pdf)
 
-*   [Primary 1 Parent Orientation Frequently Asked Questions - 8th November 2022](/files/Parent%20Resources/ParentResourcesP1Student2023/P1%20Parent%20Orientation%20FAQ%208th%20Nov%202022.pdf)
+*   [Primary 1 Parent Orientation Frequently Asked Questions (8th November 2022)](/files/Parent%20Resources/ParentResourcesP1Student2023/P1%20Parent%20Orientation%20FAQ%208th%20Nov%202022.pdf)
 
 *   [Parent Kit for Home-Based Learning&nbsp;(Part 1)](/files/resource-kit---hbl-(part-1).pdf)
 
