@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 ---
 **Circular & Notification - 2023 (All Level)**<br>
-*  [Term 1 Letter To Parents - 30th December 2022](/files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents.pdf)
+*  [Term 1 Letter To Parents - 30th December 2022](https://moe-sengkangpri-staging.netlify.app//files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents.pdf)
 
 
 **Primary 1 to Primary 6 Book and Stationery Lists - 2023**<br>
