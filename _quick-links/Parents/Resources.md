@@ -4,6 +4,9 @@ permalink: /quick-links/Parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
+**Circular & Notification - 2023 (All Level)**<br>
+*   [Term 1 Letter To Parents - 30th December Orientation Booklet](/files/Parent%20Resources/ParentResources2023/Term1%201%20Letter%20To%20Parents.pdf)
+
 **Primary 1 to Primary 6 Book and Stationery Lists - 2023**<br>
 *   [Book and Stationery List Primary 1 - 2023](/files/Parent%20Resources/Booklist2023/P1%20Booklist%202023.pdf)
 
