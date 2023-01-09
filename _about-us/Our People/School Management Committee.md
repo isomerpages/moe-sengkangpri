@@ -12,8 +12,7 @@ third_nav_title: Our People
 |School Staff Developer| Mdm Chiew Yan Seah| [chiew\_yan\_seah@schools.gov.sg](mailto:chiew_yan_seah@schools.gov.sg)
 | HOD Character & Citizenship Education| Mr Devindra Sapai| [devindra\_sapai\_indrasapai@schools.gov.sg](mailto:devindra_sapai_indrasapai@schools.gov.sg)
 |HOD English| Mrs Jaswant Singh| [jaswant\_kaur\_gurdit\_singh@schools.gov.sg](mailto:jaswant_kaur_gurdit_singh@schools.gov.sg)|
-| HOD Math| Mr Dexter Lee| [lee\_kah\_soon\_dexter@schools.gov.sg](mailto:lee_kah_soon_dexter@schools.gov.sg)
-| HOD Science| Mrs Michelle Lim| [ngian\_bang\_yee@schools.gov.sg](mailto:ngian_bang_yee@schools.gov.sg)
+| HOD Math| Mr Dexter Lee| [lee\_kah\_soon\_dexter@schools.gov.sg](mailto:lee_kah_soon_dexter@schools.gov.sg)|
 |HOD Mother Tongue| Mr Ng Kok Leong| [ng\_kok\_leong\_a@schools.gov.sg](mailto:ng_kok_leong_a@schools.gov.sg)
 |HOD ICT| Mr Lawrence Chan| [chan\_sian\_heng\_lawrence@schools.gov.sg](mailto:chan_sian_heng_lawrence@schools.gov.sg)
 | HOD PE/CCA/PAL/AES| Mr Stanley Tan| [tan\_hiang\_meng\_stanley@schools.gov.sg](mailto:tan_hiang_meng_stanley@schools.gov.sg)
