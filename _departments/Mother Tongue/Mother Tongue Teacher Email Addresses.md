@@ -22,7 +22,6 @@ third_nav_title: Mother Tongue
 | Mr Ngeiw Chaw Yee | [ngeiw_chaw_yee@schools.gov.sg](ngeiw_chaw_yee@schools.gov.sg)
 | Mdm Boon Lay Leng | [boon_lay_leng@schools.gov.sg](boon_lay_leng@schools.gov.sg)
 | Mdm Cheo Xin Ying | [cheo_xin_ying@schools.gov.sg](cheo_xin_ying@schools.gov.sg)
-
 <br>
 
 | Tamil Language Teachers | Email |
@@ -32,7 +31,6 @@ third_nav_title: Mother Tongue
 | Miss Pathmaseri | [pathmaseri_veeran_visayan@schools.gov.sg](pathmaseri_veeran_visayan@schools.gov.sg)
 | Mrs Rajan | [bhanumathi_tangarajan@schools.gov.sg](bhanumathi_tangarajan@schools.gov.sg)
 | Mr Ramesh S/O Kunasegaran | [ramesh_kunasegaran@schools.gov.sg](ramesh_kunasegaran@schools.gov.sg)
-
 <br>
 
 | Malay Language Teachers | Email |
