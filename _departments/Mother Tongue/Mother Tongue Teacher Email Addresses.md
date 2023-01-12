@@ -23,6 +23,8 @@ third_nav_title: Mother Tongue
 | Mdm Boon Lay Leng | [boon_lay_leng@schools.gov.sg](boon_lay_leng@schools.gov.sg)
 | Mdm Cheo Xin Ying | [cheo_xin_ying@schools.gov.sg](cheo_xin_ying@schools.gov.sg)
 
+<br>
+<br>
 
 
 | Tamil Language Teachers | Email |
@@ -33,6 +35,8 @@ third_nav_title: Mother Tongue
 | Mrs Rajan | [bhanumathi_tangarajan@schools.gov.sg](bhanumathi_tangarajan@schools.gov.sg)
 | Mr Ramesh S/O Kunasegaran | [ramesh_kunasegaran@schools.gov.sg](ramesh_kunasegaran@schools.gov.sg)
 
+<br>
+<br>
 
 
 | Malay Language Teachers | Email |
