@@ -24,8 +24,6 @@ third_nav_title: Mother Tongue
 | Mdm Cheo Xin Ying | [cheo_xin_ying@schools.gov.sg](cheo_xin_ying@schools.gov.sg)
 
 <br>
-<br>
-
 
 | Tamil Language Teachers | Email |
 | -------- | -------- |
@@ -36,8 +34,6 @@ third_nav_title: Mother Tongue
 | Mr Ramesh S/O Kunasegaran | [ramesh_kunasegaran@schools.gov.sg](ramesh_kunasegaran@schools.gov.sg)
 
 <br>
-<br>
-
 
 | Malay Language Teachers | Email |
 | -------- | -------- |
