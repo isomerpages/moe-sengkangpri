@@ -27,20 +27,20 @@ third_nav_title: Mother Tongue
 
 | Tamil Language Teachers | Email |
 | -------- | -------- |
-| Mdm Jayasutha d/o Vijaya Kumaran | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Mdm G Vasantha Devi Naidu | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Miss Pathmaseri | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Mrs Rajan | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Mr Ramesh S/O Kunasegaran | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
+| Mdm Jayasutha d/o Vijaya Kumaran | [jayasutha_vijaya_kumaran@schools.gov.sg](jayasutha_vijaya_kumaran@schools.gov.sg)
+| Mdm G Vasantha Devi Naidu | [g_vasantha_devi_naidu@schools.gov.sg](g_vasantha_devi_naidu@schools.gov.sg)
+| Miss Pathmaseri | [pathmaseri_veeran_visayan@schools.gov.sg](pathmaseri_veeran_visayan@schools.gov.sg)
+| Mrs Rajan | [bhanumathi_tangarajan@schools.gov.sg](bhanumathi_tangarajan@schools.gov.sg)
+| Mr Ramesh S/O Kunasegaran | [ramesh_kunasegaran@schools.gov.sg](ramesh_kunasegaran@schools.gov.sg)
 
 
 
 | Malay Language Teachers | Email |
 | -------- | -------- |
-| Mdm Azizah Ali | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Mdm Faridah Binte Ab Razak | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Miss Nur Effah Elias | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Mdm Nur Shabana Syed Ismail | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Mdm Ruhaizah Osman | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Mdm Siti Zuraidah Bte Osman | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
-| Mdm Suhaidah Ahmad | [nasuha_hanafi@schools.gov.sg](nasuha_hanafi@schools.gov.sg)
+| Mdm Azizah Ali | [azizah_ali@schools.gov.sg](azizah_ali@schools.gov.sg)
+| Mdm Faridah Binte Ab Razak | [faridah_a_razak@schools.gov.sg](faridah_a_razak@schools.gov.sg)
+| Miss Nur Effah Elias | [nur_effah_elias@schools.gov.sg](nur_effah_elias@schools.gov.sg)
+| Mdm Nur Shabana Syed Ismail | [nur_shabana_syed_ismail@schools.gov.sg](nur_shabana_syed_ismail@schools.gov.sg)
+| Mdm Ruhaizah Osman | [ruhaizah_osman@schools.gov.sg](ruhaizah_osman@schools.gov.sg)
+| Mdm Siti Zuraidah Bte Osman | [siti_zuraidah_osman@schools.gov.sg](siti_zuraidah_osman@schools.gov.sg)
+| Mdm Suhaidah Ahmad | [suhaidah_ahmad@schools.gov.sg](suhaidah_ahmad@schools.gov.sg)
