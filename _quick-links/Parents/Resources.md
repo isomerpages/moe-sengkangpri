@@ -5,11 +5,19 @@ description: ""
 third_nav_title: Parents
 ---
 **Resources - 2023 (All Level)**<br>
-*  [Term 1 Letter To Parents (30th December 2022)](/files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents%202023.pdf)
+*  [Presentation shared during "P2 Parent Teacher Connect" (17th January 2023)](/files/Parent%20Resources/2023/P2%20PTC%202023.pdf)
+
+*  [Presentation shared during "P4 Parent Teacher Connect" (12th January 2023)](/files/Parent%20Resources/2023/P4%20PTC%202023.pdf)
+
+*  [Presentation shared during "P5 Parent Teacher Connect" (12th January 2023)](/files/Parent%20Resources/2023/P5%20PTC%202023.pdf)
 
 *  [Presentation shared during "P1 Meet & Greet Session" (3rd January 2023)](/files/Parent%20Resources/2023/P1%20Meet%20&%20Greet%20Session%20as%20at%203%20Jan%202023.pdf)
 
-*  [Presentation shared during "P5 Parent Teacher Connect" (12th January 2023)](/files/Parent%20Resources/2023/P5%20PTC%202023.pdf)
+*  [Term 1 Letter To Parents (30th December 2022)](/files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents%202023.pdf)
+
+
+
+
 
 
 **Primary 1 to Primary 6 Book and Stationery Lists - 2023**<br>
