@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Parents
 ---
 **Resources - 2023 (All Level)**<br>
+*  [Presentation shared during "P3 Parent Teacher Connect" (17th January 2023)](/files/Parent%20Resources/2023/P3%20PTC%202023.pdf)
+
 *  [Presentation shared during "P2 Parent Teacher Connect" (17th January 2023)](/files/Parent%20Resources/2023/P2%20PTC%202023.pdf)
 
 *  [Presentation shared during "P4 Parent Teacher Connect" (12th January 2023)](/files/Parent%20Resources/2023/P4%20PTC%202023.pdf)
