@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Parents
 ---
 **Resources - 2023 (All Level)**<br>
+*  [Primary 6 Curriculum Information, Expectations & Routines as shared during "P6 Parent Teacher Connect" (January 2023)](/files/Parent%20Resources/2023/P6%20Curriculum%20Info%20Expectations%20Routines.pdf)
+
 *  [Presentation shared during "P3 Parent Teacher Connect" (17th January 2023)](/files/Parent%20Resources/2023/P3%20PTC%202023.pdf)
 
 *  [Presentation shared during "P2 Parent Teacher Connect" (17th January 2023)](/files/Parent%20Resources/2023/P2%20PTC%202023.pdf)
