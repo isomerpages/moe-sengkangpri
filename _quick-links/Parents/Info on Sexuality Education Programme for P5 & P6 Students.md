@@ -40,13 +40,13 @@ third_nav_title: Parents
 
   
 
-You may [**click here**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
+You may [**CLICK HERE**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
   
 
 **OVERVIEW OF SENG KANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 
-4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may [**CLICK HERE**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
 
   
@@ -55,8 +55,7 @@ You may [**click here**](https://www.moe.gov.sg/education-in-sg/our-programmes/
 
   
 
-      a.   Science
-
+      a.   Science<br>
       c.   Character and Citizenship Education (CCE)
 
   
@@ -96,10 +95,9 @@ You may [**click here**](https://www.moe.gov.sg/education-in-sg/our-programmes/
 
 **PLEASE NOTE**<BR>**For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 5 cohort.**
 
-**INFORMATION FOR PARENTS**
-
+**INFORMATION FOR PARENTS**<br>
 8.        Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
  
-9.        Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed via Parents Gateway(PG) to parents and is also downloadable click here. The completed opt-out form is to be submitted by 10/03/2023.  [here](/files/P5_P6%20Growing%20Year%202021%20Letter%20to%20Parents%20Opt%20Out%20Form.pdf)
+9.        Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed via Parents Gateway(PG) to parents and is also downloadable [click here]. The completed opt-out form is to be submitted by 10/03/2023.
 
 10.     Parents can contact the school at 63840809 0r email skps@moe.edu.sg for discussion or to seek clarification about the school's sexuality education programme.
