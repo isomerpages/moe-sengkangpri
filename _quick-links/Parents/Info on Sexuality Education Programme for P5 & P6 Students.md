@@ -80,6 +80,6 @@ You may [**CLICK HERE**](https://www.moe.gov.sg/education-in-sg/our-programmes/
 **INFORMATION FOR PARENTS**<br>
 8.        Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
  
-9.        Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed via Parents Gateway(PG) to parents and is also downloadable [click here]. The completed opt-out form is to be submitted by 10/03/2023.
+9.        Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed via Parents Gateway(PG) to parents and is also downloadable [**CLICK HERE**](/files/Parent%20Resources/2023/Annex%20A-Opt%20out%20GYS.pdf). The completed opt-out form is to be submitted by 10/03/2023.
 
 10.     Parents can contact the school at 63840809 0r email skps@moe.edu.sg for discussion or to seek clarification about the school's sexuality education programme.
