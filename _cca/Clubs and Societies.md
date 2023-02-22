@@ -3,14 +3,14 @@ title: Clubs and Societies
 permalink: /cca/Clubs-and-Societies/
 description: ""
 ---
-| CCA | DAY/TIME | TEACHER I/C| VENUE
-| -------- | -------- | -------- |-------- |
-|Library| Friday<br>7.30am - 9.30am| Mrs Jasmine Chan (i/c)<br>Mr Aloysius Wong (2 i/c)<br>Mdm Ng Yin Suan Julie<br>Miss G Vasantha Devi| Library
-|English Comes Alive (Language/Arts Club)|Friday<br>7.30am - 9.30am|Mrs Eswani Nicholas (i/c)<br>Mr Wong Chin Wei Aaron (2 i/c)<br>Mdm Joyce Tan<br>Mr Md Luqman Hakeem Mahmood Shah|Teaching Lab / Library
-| Chinese Language Club| Friday<br>7.30am - 9.30am| Mdm Yang Cai Hui (i/c)<br>Mdm Hung Mei ling (2 i/c)  <br>Mr Ruan Hui|Classroom
-|Art Club| Friday<br>7.30am - 9.30am|Ms Faridah Bee (i/c)<br>Mdm Reshmi Rai (2 i/c)<br>Mdm Nurzarifah Bte Masnam  <br>Mdm Nurul'Ain| Art Room
-| IT/Media  <br>Club | Friday<br>7.30am - 9.30am| Mdm Loke Chuen Lan (i/c)<br>Mrs Dorling Chan| Computer Lab 3
-|Chess Club| Friday<br>7.30am - 9.30am|Mdm Lim Hwee Hong (i/c<br>Mrs Siti Osman| CCA Room
+| CCA | DAY/TIME | TEACHER I/C | VENUE | WET WEATHER VENUE |
+| -------- | -------- | -------- | -------- | -------- |
+|Library| Friday<br>7.30am - 9.30am| Mr Aloysius Wong (i/c)<br>Mrs Jasmine Chan (2 i/c)<br>Mdm Ng Yin Suan Julie | Library |
+| English Comes Alive | Friday<br>7.30am - 9.30am| Mdm Joyce Tan (i/c)<br>Mr Wong Chin Wei Aaron (2 i/c)<br>Mr Md Luqman Hakeem Mahmood Shah (SDP) |Teaching Lab / Library
+| Chinese Language Club| Friday<br>7.30am - 9.30am| Mdm Yang Cai Hui (i/c)<br>Mdm Hung Mei ling (2 i/c)<br>Mr Ruan Hui (SDP) |Classroom
+|Art Club| Friday<br>7.30am - 9.30am| Ms Faridah Bee (i/c)<br>Mdm Reshmi Rai (2 i/c)(SDP)<br>Mdm Nurul'Ain Bte Azila (Advisor) | Art Room
+| IT/Media<br>Club | Friday<br>7.30am - 9.30am| Mdm Lim Yu An (i/c)<br>Mdm Loke Chuen Lan (2 i/c)<br>Mdm Tan Kok Ching Dorling (SDP) | Computer Lab 3
+|Chess Club| Friday<br>7.30am - 9.30am|Mdm Lim Hwee Hong (i/c)<br>Mr Aerfi Bin Abdullah (2 i/c)<br>Mrs Siti Osman (SDP) | CCA Room 1 & CCA Room 2 |
 
 
 **Synopsis**
