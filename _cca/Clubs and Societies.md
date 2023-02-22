@@ -5,7 +5,7 @@ description: ""
 ---
 | CCA | DAY/TIME | TEACHER I/C | VENUE | WET WEATHER VENUE |
 | -------- | -------- | -------- | -------- | -------- |
-|Library| Friday<br>7.30am - 9.30am| Mr Aloysius Wong (i/c)<br>Mrs Jasmine Chan (2 i/c)<br>Mdm Ng Yin Suan Julie | Library |
+|Library| Friday<br>7.30am - 9.30am| Mr Aloysius Wong (i/c)<br>Mrs Jasmine Chan (2 i/c)<br>Mdm Ng Yin Suan Julie (SDP) | Library |
 | English Comes Alive | Friday<br>7.30am - 9.30am| Mdm Joyce Tan (i/c)<br>Mr Wong Chin Wei Aaron (2 i/c)<br>Mr Md Luqman Hakeem Mahmood Shah (SDP) |Teaching Lab / Library
 | Chinese Language Club| Friday<br>7.30am - 9.30am| Mdm Yang Cai Hui (i/c)<br>Mdm Hung Mei ling (2 i/c)<br>Mr Ruan Hui (SDP) |Classroom
 |Art Club| Friday<br>7.30am - 9.30am| Ms Faridah Bee (i/c)<br>Mdm Reshmi Rai (2 i/c)(SDP)<br>Mdm Nurul'Ain Bte Azila (Advisor) | Art Room
