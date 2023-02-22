@@ -6,9 +6,9 @@ description: ""
 | CCA | DAY/TIME | TEACHER I/C | VENUE | WET WEATHER VENUE |
 | -------- | -------- | -------- | -------- | -------- |
 | Athletics     | Monday<BR>(During Competition) 3.30 pm - 5.30 pm<BR>Wednesday<BR>2.00 pm - 4.00 pm<BR>Friday<BR>7.30 am - 9.30 am     | Mr Didy Romanee (i/c)<BR>Mr Welly Hardono (2 i/c)<BR>Mrs Eswani Nicholas (SDP)<br>Mdm Boon Lay Eng<BR>Mrs Serene Tan<BR>Miss Ong Shi Han<BR>Mr Mohamed Fazil | Parade Square / Running Track / Bus Bay | Classrooms |
-| Basketball | Monday and Thursday<BR>3.30 pm - 5.30 pm | Mrs Adeline Lim (i/c)<BR>Mdm Lim Jia Wei (2 i/c)<BR>Mr Timothy Loe (SDP)  <BR>Mr Daniel Li<BR>Miss Toh Pei Min<BR>Mdm Shanmugathai<BR>Miss Dora Yeo | Indoor Sports Hall (ISH | Indoor Sports Hall (ISH |
+| Basketball | Monday and Thursday<BR>3.30 pm - 5.30 pm | Mrs Adeline Lim (i/c)<BR>Mdm Lim Jia Wei (2 i/c)<BR>Mr Timothy Loe (SDP)  <BR>Mr Daniel Li<BR>Miss Toh Pei Min<BR>Mdm Shanmugathai<BR>Miss Dora Yeo | Indoor Sports Hall (ISH) | Indoor Sports Hall (ISH) |
 |Hockey| Monday and Thursday<BR>3.45 pm - 5.30 pm| Miss Dulcie Lim (i/c)<BR>Mr Vikneswaran (2 i/c)<BR>Mr Suresh Kumar (SDP)<BR>Mdm Luthfiyyah Binte Kwajah Mohamed<br>Miss Pathmaseri Veeran Visayan<br>Mr Tan Jia Hui<br>Mdm Chin Irnanie Bte Imran Chin | Field / Basketball Court | Classrooms |
-| Softball  Tuesday <br>3.30 pm - 5.30 pm  <br>Friday<br>2.30 pm - 4.30 pm| Miss Wu Mei Qi (i/c)<br>Mr Ngo Yi Chye (2 i/c)<br>Mdm Yeo Ay Leng (SDP)<br>Mr Ngeiw Chaw Yee<br>Mrs Lim Huey San<br>Mdm Joyce Ng Cheng Li<br>Mdm Wang Yee Ling Karen<br>| Field / Basketball Court | Classrooms |
+| Softball  |  Tuesday <br>3.30 pm - 5.30 pm  <br>Friday<br>2.30 pm - 4.30 pm| Miss Wu Mei Qi (i/c)<br>Mr Ngo Yi Chye (2 i/c)<br>Mdm Yeo Ay Leng (SDP)<br>Mr Ngeiw Chaw Yee<br>Mrs Lim Huey San<br>Mdm Joyce Ng Cheng Li<br>Mdm Wang Yee Ling Karen<br>| Field / Basketball Court | Classrooms |
 
 **Synopsis**
 
