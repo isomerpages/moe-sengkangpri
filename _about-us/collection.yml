@@ -3,11 +3,13 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - Our School/.keep
       - Our School/Our Vision, Mission, Values & Beliefs.md
       - Our School/Our History, School Crest & School Song.md
       - Our School/Our Facilities.md
       - Our School/Learning Dispositions.md
-      - Our School/.keep
+      - School Advisory Committee (SAC).md
+      - Our People/.keep
       - Our People/School Management Committee.md
       - Our People/Primary 1.md
       - Our People/Primary 2.md
@@ -16,7 +18,7 @@ collections:
       - Our People/Primary 5.md
       - Our People/Primary 6.md
       - Our People/Executive & Admin Staff and Allied Educators.md
-      - Our People/.keep
+      - Parents Support Group (PSG).md
       - General Information/.keep
       - General Information/School Hours.md
       - General Information/School Gate.md
