@@ -9,3 +9,15 @@ The PSG complements the school by aligning with the school’s objectives, suppo
 
 
 Our 2022 to 2023 PSG EXCO members are:
+
+| Designation | Name | 
+| -------- | -------- |
+| Chariman | Mr Royston D'Souza | 
+| Vice-Chariman | Mdm Chewy Tong | 
+| EXCO Member | Mdm Eileen Chee | 
+| EXCO Member | Mrs Sarita D'Souza | 
+| EXCO Member | Mdm Ernawaty Bte Sengari | 
+| EXCO Member | Mdm Subhashree Manoharan | 
+| EXCO Member | Mdm Jennifer Lim | 
+| EXCO Member | Mdm Rita Lim | 
+| EXCO Member | Mdm Ngai May Yoke | 
