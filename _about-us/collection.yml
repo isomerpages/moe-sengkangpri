@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Parents Support Group (PSG).md
       - Principal's Message.md
       - Our School/.keep
       - Our School/Our Vision, Mission, Values & Beliefs.md
@@ -19,6 +18,7 @@ collections:
       - Our People/Primary 5.md
       - Our People/Primary 6.md
       - Our People/Executive & Admin Staff and Allied Educators.md
+      - Parents Support Group (PSG).md
       - General Information/.keep
       - General Information/School Hours.md
       - General Information/School Gate.md
