@@ -19,7 +19,7 @@ The School Advisory COmmittee (SAC) is a vital part of our school community, com
 
 The Service to Education Award recognises members of public who have volunteered their services in School Advisory Committee, School Management Committee or Board of Governors.
 
-The following SAC members have been conferred the Service to Education Award:
+**The following SAC members have been conferred the Service to Education Award:**
 
 | Name | Award | 
 | -------- | -------- |
