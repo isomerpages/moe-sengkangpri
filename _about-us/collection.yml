@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Advisory Committee (SAC).md
       - Principal's Message.md
       - Our School/Our Vision, Mission, Values & Beliefs.md
       - Our School/Our History, School Crest & School Song.md
