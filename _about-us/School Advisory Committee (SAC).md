@@ -3,9 +3,6 @@ title: School Advisory Committee (SAC)
 permalink: /about-us/School-Advisory-Committee/
 description: ""
 ---
-
-
-
 **Our current SAC Members are:**
 
 | Designation | Name | 
@@ -26,4 +23,4 @@ The following SAC members have been conferred the Service to Education Award:
 | Mr Stephen Yap | Service to Education Award 2022 (5-9 Years) | 
 | Mr Stanwin Siow | Service to Education Award 2022 (5-9 Years) | 
 | Mr Thomas Tham | Service to Education Award 2022 (5-9 Years) | 
-| Mdm Maggie Chia | Service to Education Award 2022 (5-9 Years) | 
+| Mdm Maggie Chia | Service to Education Award 2022 (5-9 Years) |
