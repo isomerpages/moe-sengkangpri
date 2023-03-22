@@ -14,7 +14,7 @@ The School Advisory COmmittee (SAC) is a vital part of our school community, com
 | Vice-Chariman | Mr Stanwin Siow | 
 | Honorary Treasurer | Mr Thomas Tham | 
 | Member | Mdm Maggie Chia | 
-| Member | Dr Stephanie Chye | 
+| Member | Dr Stefanie Chye | 
 | Member | Mr Asraf Belal | 
 
 The Service to Education Award recognises members of public who have volunteered their services in School Advisory Committee, School Management Committee or Board of Governors.
