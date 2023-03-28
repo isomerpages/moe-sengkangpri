@@ -14,5 +14,5 @@ sections:
           url: https://staging.d2ik2hqedykue0.amplifyapp.com/resources/announcements/
         - title: Latest Happenings
           description: Click Here To Read More
-          url: /resources/latest-happenings/
+          url: https://staging.d2ik2hqedykue0.amplifyapp.com/resources/latest-happenings/
 ---
