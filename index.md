@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click Here To Read More
-          url: /resources/announcements
+          url: https://staging.d2ik2hqedykue0.amplifyapp.com/resources/announcements/
         - title: Latest Happenings
           description: Click Here To Read More
           url: /resources/latest-happenings/
