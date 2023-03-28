@@ -14,5 +14,5 @@ sections:
           url: /resources/announcements
         - title: Latest Happenings
           description: Click Here To Read More
-          url: /Latest Happenings
+          url: /resources/latest-happenings/
 ---
