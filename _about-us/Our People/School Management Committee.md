@@ -20,12 +20,9 @@ third_nav_title: Our People
 | Year Head (Upper Block)| Miss Kwan See Ling| [kwan\_see\_ling@schools.gov.sg](mailto:kwan_see_ling@schools.gov.sg)
 | Year Head (Middle Block)| Mrs Andrea Ki| [tan\_meng\_hui@schools.gov.sg](mailto:tan_meng_hui@schools.gov.sg)
 | Year Head (Lower Block)| Mrs Ferlynn Han - Tan Quek Khim| [tan\_quek\_khim@schools.gov.sg](mailto:tan_quek_khim@schools.gov.sg)
-|Assistant Year Head (Upper Block) | Mrs Ee (Leong) Lai Mun | [leong\_laimun@schools.gov.sg] 
-(mailto:leong\_laimun@schools.gov.sg)
-|Assistant Year Head (Middle Block) | Mdm Nurzarifah Binte Masnam|
-[nurzarifah\_masnam@schools.gov.sg]
-(mailto:nurzarifah\_masnam@schools.gov.sg
-|Assistant Year Head (Lower Block)| Mdm Wang Yee Ling Karen| wang\_yee\_ling\_karen@schools.gov.sg |
+|Assistant Year Head (Upper Block) | Mrs Ee (Leong) Lai Mun | [leong_laimun@schools.gov.sg](leong_laimun@schools.gov.sg) |
+| Assistant Year Head (Middle Block) | Mdm Nurzarifah Binte Masnam| [nurzarifah_masnam@schools.gov.sg](nurzarifah_masnam@schools.gov.sg)|
+|Assistant Year Head (Lower Block)| Mdm Wang Yee Ling Karen | [wang_yee_ling_karen@schools.gov.sg](wang_yee_ling_karen@schools.gov.sg) |
 |Level Head English| Mr Kalai Selven| [kalai\_selven\_sadanadom@schools.gov.sg](mailto:kalai_selven_sadanadom@schools.gov.sg)| 
 |Level Head Math| Mdm Shanmugathai d/o Madasamy| [shanmugathai\_madasamy@schools.gov.sg](mailto:shanmugathai_madasamy@schools.gov.sg)
 | Level Head Science| Mrs Lim Huey Sian| [goh\_huey\_sian@schools.gov.sg](mailto:goh_huey_sian@schools.gov.sg)
@@ -35,7 +32,8 @@ third_nav_title: Our People
 |Subject Head Student Well-being| Miss Ong Shi Han| [ong\_shi\_han\_b@schools.gov.sg](mailto:ong_shi_han_b@schools.gov.sg%C2%A0)
 |Lead Teacher (Art)| Mdm Nurul 'Ain Binte Azilah| [nurulain\_azilah@schools.gov.sg](mailto:nurulain_azilah@schools.gov.sg)
 |Senior Teacher (High Ability)| Mrs Serene Tan| [chen\_xiaoying\_serene@schools.gov.sg](mailto:chen_xiaoying_serene@schools.gov.sg)
-|Senior Teacher (English)| Mrs Jasmine Chan<br>Mrs Dorling Chan| [chan\_jasmine\_williams@schools.gov.sg](mailto:chan_jasmine_williams@schools.gov.sg)<br>[tan_kok_ching_dorling@schools.gov.sg](tan_kok_ching_dorling@schools.gov.sg)
+|Senior Teacher (English)| Mrs Jasmine Chan | [chan\_jasmine\_williams@schools.gov.sg](mailto:chan_jasmine_williams@schools.gov.sg) |
+|Senior Teacher (English)| Mrs Dorling Chan |[tan_kok_ching_dorling@schools.gov.sg](tan_kok_ching_dorling@schools.gov.sg) |
 |Senior Teacher (Math)| Ms Par Hwee Ling | [par_hwee_ling@schools.gov.sg](par_hwee_ling@schools.gov.sg)
 |Senior Teacher (Math)| Mr Canisius Ching Tze Meng | [canisius_ching_tze_meng@schools.gov.sg](canisius_ching_tze_meng@schools.gov.sg)
 |Senior Teacher (Malay Language)| Mdm Ruhaizah Bte Osman| [ruhaizah\_osman@schools.gov.sg](mailto:ruhaizah_osman@schools.gov.sg)
