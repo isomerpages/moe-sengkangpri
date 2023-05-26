@@ -8,7 +8,7 @@ third_nav_title: Parents
 
 *  **(NEW)** [For Parents Briefing on PSLE Matters 2023](/files/Parent%20Resources/2023/(for%20parents)%20briefing%20on%20psle%20matters%202023.pdf)
 
-*  **(NEW)** [Primary 4 SBB Briefing 2023](/files/Parent%20Resources/2023/p4%20sbb%20briefing%202023.pdf)
+*  **(NEW)** [Primary 4 Subject-based Banding Briefing 2023](/files/Parent%20Resources/2023/p4%20sbb%20briefing%202023.pdf)
 
 *  [Primary 6 Curriculum Information, Expectations &amp; Routines as shared during "P6 Parent Teacher Connect" (January 2023)](/files/Parent%20Resources/2023/P6%20Curriculum%20Info%20Expectations%20Routines.pdf)
 
