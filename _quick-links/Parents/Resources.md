@@ -6,6 +6,8 @@ third_nav_title: Parents
 ---
 **Resources - 2023 (All Level)**<br>
 
+*  **(NEW)** [Response to queries regarding P4 Subject Based Banding](/files/Parent%20Resources/2023/p4%20sbb%20query%20response.pdf)
+
 *  **(NEW)** [For Parents Briefing on PSLE Matters 2023](/files/Parent%20Resources/2023/(for%20parents)%20briefing%20on%20psle%20matters%202023.pdf)
 
 *  **(NEW)** [Primary 4 Subject-based Banding Briefing 2023](/files/Parent%20Resources/2023/p4%20sbb%20briefing%202023.pdf)
