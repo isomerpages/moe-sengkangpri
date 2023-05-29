@@ -4,7 +4,7 @@ permalink: /quick-links/Parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
-#### **Resources - 2023 (All Level)**<br>
+#### **Resources - 2023 (All Level)**<br><br>
 
 *  **(NEW)** [Responses to P6 Briefing on 26 May 2023](/files/Parent%20Resources/2023/responses%20to%20p6%20briefing%20on%2026%20may%202023.pdf)
 
@@ -30,7 +30,7 @@ third_nav_title: Parents
 
 
 
-#### **Primary 1 to Primary 6 Book and Stationery Lists - 2023**<br>
+#### **Primary 1 to Primary 6 Book and Stationery Lists - 2023**<br><br>
 
 *   [Book and Stationery List Primary 1 - 2023](/files/Parent%20Resources/Booklist2023/P1%20Booklist%202023.pdf)
 
@@ -49,7 +49,7 @@ third_nav_title: Parents
 *  [Book and Stationery List Primary 6 Foundation - 2023](/files/Parent%20Resources/Booklist2023/P6%20Foundation%20Booklist%202023.pdf)
 
 
-#### **Primary 1 Student - 2023**<br>
+#### **Primary 1 Student - 2023**<br><br>
 
 *   [Primary 1 Orientation Booklet](/files/Parent%20Resources/ParentResourcesP1Student2023/P1%20Orientation%20Booklet%202023.pdf)
 
