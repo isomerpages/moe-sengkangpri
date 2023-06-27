@@ -6,13 +6,15 @@ third_nav_title: Parents
 ---
 #### **Resources - 2023 (All Level)**<br><br>
 
-*  **(NEW)** [Responses to P6 Briefing on 26 May 2023](/files/Parent%20Resources/2023/responses%20to%20p6%20briefing%20on%2026%20may%202023.pdf)
+*  **(NEW)** [Term 3 Letter to Parents (23rd June 2023) ](/files/Parent%20Resources/2023/2023%20term%203%20letter%20to%20parents.pdf)
 
-*  **(NEW)** [Response to queries regarding P4 Subject Based Banding](/files/Parent%20Resources/2023/p4%20sbb%20query%20response.pdf)
+*  [Responses to P6 Briefing on 26 May 2023](/files/Parent%20Resources/2023/responses%20to%20p6%20briefing%20on%2026%20may%202023.pdf)
 
-*  **(NEW)** [For Parents Briefing on PSLE Matters 2023](/files/Parent%20Resources/2023/(for%20parents)%20briefing%20on%20psle%20matters%202023.pdf)
+*  [Response to queries regarding P4 Subject Based Banding](/files/Parent%20Resources/2023/p4%20sbb%20query%20response.pdf)
 
-*  **(NEW)** [Primary 4 Subject-based Banding Briefing 2023](/files/Parent%20Resources/2023/p4%20sbb%20briefing%202023.pdf)
+*  [For Parents Briefing on PSLE Matters 2023](/files/Parent%20Resources/2023/(for%20parents)%20briefing%20on%20psle%20matters%202023.pdf)
+
+*  [Primary 4 Subject-based Banding Briefing 2023](/files/Parent%20Resources/2023/p4%20sbb%20briefing%202023.pdf)
 
 *  [Primary 6 Curriculum Information, Expectations &amp; Routines as shared during "P6 Parent Teacher Connect" (January 2023)](/files/Parent%20Resources/2023/P6%20Curriculum%20Info%20Expectations%20Routines.pdf)
 
