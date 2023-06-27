@@ -30,11 +30,11 @@ third_nav_title: General Information
 | Primary 2 | 9.30 a.m. to 10.00 a.m.
 | Primary 3 | 9.30 a.m. to 10.00 a.m.
 | Primary 5 | 10.00 a.m. to 10.30 a.m.
-| Primary 6 | 10.30 a.m. to 11.00 p.m.
+| Primary 6 | 10.30 a.m. to 11.00 a.m.
 
 **SNACK BREAK**
 
 | Day (Monday to Friday) | Time | 
 | -------- | -------- |
 | Primary 1 - Primary 4| Between 11.00 a.m. to 12.30 p.m.
-|  Primary 5 - Primary 6 | Between 9.00 a.m. to 10.00 p.m.
+| &nbsp;Primary 5 - Primary 6 | Between 9.00 a.m. to 10.00 a.m.
