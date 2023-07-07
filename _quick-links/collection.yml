@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - SKPS Facebook/.keep
       - Students/.keep
       - Students/Website Links.md
       - Students/Student Learning Space Quick Guide.md
