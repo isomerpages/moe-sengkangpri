@@ -11,12 +11,12 @@ The School Advisory COmmittee (SAC) is a vital part of our school community, com
 | Designation | Name | 
 | -------- | -------- |
 | Chariman | Mr Stephen Yap Soon Tian| 
-| Vice-Chariman | Dr Stefanie Chye | 
-| Member | Mr Asraf Belal s/o Kader Maideen | 
-| Member | Ms Gan Su-Lin | 
+| Vice-Chariman | Dr Stefanie Chye |
+| Member | Mdm Maggie Chia Chui Mingg | 
+| Member | Mr Asraf Belal S/O Kader Maideen | 
+| Member | Ms Lee May Lin |
+| Member | Dr Gan Su-Lin | 
 | Member | Mr Jayson Davamoni-Thomas | 
-| Member | Ms Lee May Lin | 
-| Member | Ms Maggie Chia Chui Mingg | 
 | Member | Mr Tang Yong Song Sean |
 
 
