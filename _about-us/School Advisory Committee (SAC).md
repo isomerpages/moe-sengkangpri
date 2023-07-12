@@ -12,7 +12,7 @@ The School Advisory Committee (SAC) is a vital part of our school community, com
 | -------- | -------- |
 | Chairman | Mr Stephen Yap Soon Tian| 
 | Vice-Chairman | Dr Stefanie Chye |
-| Honorary Secretary | Dr Gan Su-Lin |
+| Honorary Secretary | Dr Gan Su-lin |
 | Member | Mdm Maggie Chia Chui Mingg | 
 | Member | Mr Asraf Belal S/O Kader Maideen | 
 | Member | Ms Lee May Lin |
