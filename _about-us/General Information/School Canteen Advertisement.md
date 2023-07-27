@@ -10,9 +10,8 @@ third_nav_title: General Information
 | -------- | -------- | -------- |
 | Muslim Food     | 11 August 2023     | NIL     |
 
-<br>
 
- #### **Application Procedure**
+#### **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy
 from the School’s General Office. <br>
