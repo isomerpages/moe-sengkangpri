@@ -5,6 +5,7 @@ description: ""
 third_nav_title: General Information
 ---
 #### **School Canteen Advertisement**
+
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Muslim Food | 11 August 2023 | NIL |
