@@ -14,7 +14,7 @@ third_nav_title: General Information
 #### **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy
-from the School’s General Office. <br>
+from the School’s General Office. <br><br>
  [Application Form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
 <br><br>
 
