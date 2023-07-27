@@ -4,14 +4,14 @@ permalink: /about-us/general-information/school-canteen-advertisement/
 description: ""
 third_nav_title: General Information
 ---
-#### **School Canteen Advertisement**
+### **School Canteen Advertisement**
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Muslim Food     | 11 August 2023     | NIL     |
 
 
- ##### Application Procedure
+ #### **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy
 from the School’s General Office. <br>
@@ -30,11 +30,11 @@ from the School’s General Office. <br>
 * Email: [skps@moe.edu.sg](mailto:skps@moe.edu.sg)
 * Contact Person: Mr Thomas Chow / Mdm Soh Sim Ping
 
-##### How to get there?
+#### **How to get there?**
 
-**Nearest MRT: NE16 Sengkang , 10 minutes walk to the school**
+Nearest MRT: NE16 Sengkang , 10 minutes walk to the school
 
-##### Interested applicants must meet the following criteria:
+#### **Interested applicants must meet the following criteria:**
 
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall
 assistant.
@@ -48,7 +48,7 @@ Programme (HMSP)” guidelines (see [link](https://www.hpb.gov.sg/schools/school
 * Must be in personal attendance at the stall during operating hours.
 * Prior experience in running a school canteen stall is an added advantage.
 
-##### Applicants should preferably fulfil the following criteria:
+#### **Applicants should preferably fulfil the following criteria:**
 
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food
 Hygiene Certificate.
