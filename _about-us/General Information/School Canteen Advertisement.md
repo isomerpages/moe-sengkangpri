@@ -41,7 +41,7 @@ assistant.
 determined in consultation with the school.
 * Able to provide cooked food that meets the health / nutritional standards set by
 the Health Promotion Board (HPB) under the “Healthy Meals in Schools
-Programme (HMSP)” guidelines (see&nbsp;[link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+Programme (HMSP)” guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 * Must be in personal attendance at the stall during operating hours.
