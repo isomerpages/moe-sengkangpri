@@ -8,7 +8,7 @@ third_nav_title: General Information
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Food     | 11 August 2023     | NIL     |
+| Muslim Food     | 4 August 2023     | NIL     |
 
 
 #### **Application Procedure**
