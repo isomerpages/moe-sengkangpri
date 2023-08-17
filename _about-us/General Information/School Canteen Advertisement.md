@@ -8,7 +8,7 @@ third_nav_title: General Information
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Food     | 4 August 2023     | NIL     |
+| Light bites / <br>Japanese Food / <br>Korean Food     | 29 September 2023     | NIL     |
 
 
 #### **Application Procedure**
@@ -21,7 +21,7 @@ from the School’s General Office. <br><br>
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
-* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
+* Photocopy of Workforce Skills Qualification (WSQ) Food Safety Course Level 1 of Applicant and Assistant (if any)
 
 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 * Address: Seng Kang Primary School 21 Compassvale Walk Singapore
@@ -46,12 +46,12 @@ Programme (HMSP)” guidelines (see [link](https://www.hpb.gov.sg/schools/school
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 * Must be in personal attendance at the stall during operating hours.
+* Shall not provide disposables for dine-in meals in the canteen.
 * Prior experience in running a school canteen stall is an added advantage.
 
 #### **Applicants should preferably fulfil the following criteria:**
 
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food
-Hygiene Certificate.
+* Successful applicant and stall assistant(s) must possess the Workforce Skills Qualification (WSQ) Food Safety Course Level 1.
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore
 Food Agency (SFA). They may apply the License from GoBusiness website.
