@@ -9,4 +9,3 @@ Inspired by our teachers? Received exemplary service from our staff? Share your 
 
 
 ![In Appreciation of.....](/images/QuickLinksSubPage/ThankYouMessageForTeachers/tchrs%20day%20formsg%202023.jpg)[https://go.gov.sg/skps-in-appreciation-of](https://go.gov.sg/skps-in-appreciation-of)
-
