@@ -7,7 +7,7 @@ description: ""
 | -------- | -------- | -------- | -------- | -------- |
 | Malay Dance | Monday<br>3.30 pm - 5.30 pm<br>Friday<br>7.30 am - 9.30 am| Mdm Nur Shabana (i/c)  <br>Miss Geraldine Neo (2 i/c)<br>Mdm Faridah Bte Abdul Razak<br>Mdm Diana (SDP) <br>Mdm Ow Pei Fern Yvonne<br>Mdm Quek Leng Leng| Dance Studio | Dance Studio |
 |Modern Dance | Monday and Thursday<br>3.30 pm - 5.30 pm<br>Friday<br>7.30 am - 9.30 am| Mr Mohamed Salleh (i/c)<br>Mdm Lian Huan (2 i/c)<br>Miss Nur Effah(SDP) <br>Mdm Nurulhuda<br>Mdm Jayasutha<br>Mdm Yap Seok Wee Tania<br>Mdm Joyce Lye| PAL Room | PAL Room |
-|Handbells Ensemble|  Monday and Tuesday<br>3.30 pm - 5.30 pm<br>Friday<br>7.30 am - 9.30 am|Mdm Rachael Ngiam  (i/c)<br>Mrs Thaifur Alias (2 i/c)<br>Mdm Norahnisah (SDP)<br>Mdm Ng Gek Shan Claire<br>Mr Wang Hup Ann<br>Miss G Vasantha Devi Naidu<br>Mr Ramesh s/o Kunasegaran | Band Room & Music Rooms | Band Room & Music Rooms |
+|Handbells Ensemble|  Monday and Tuesday<br>3.30 pm - 5.30 pm<br>Friday<br>7.30 am - 9.30 am|Mdm Rachael Ngiam&nbsp; (i/c)<br>Mrs Thaifur Alias (2 i/c)<br>Mdm Ng Gek Shan Claire<br>Mr Wang Hup Ann<br>Miss G Vasantha Devi Naidu<br>Mr Ramesh s/o Kunasegaran | Band Room &amp; Music Rooms | Band Room &amp; Music Rooms |
 
 **Synopsis**
 
@@ -45,4 +45,4 @@ Handbells Ensemble is a niche Performing Arts music instrumental CCA, which aims
 **Handbells/Handchimes Ensemble**
 ![](/images/DSC_0047.jpeg)
 ![](/images/HB13-11.jpg)
-<iframe width="580" height="335" src="https://www.youtube.com/embed/pVZSw7lZbBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="580" height="335" src="https://www.youtube.com/embed/pVZSw7lZbBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
