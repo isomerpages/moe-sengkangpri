@@ -11,4 +11,4 @@ third_nav_title: Parents
 <img src="/images/QuickLinksSubPage/Parents/ymca-skscc-roi-qr-code.png" style="width:50%;float:center;">
 
 <div style="font-family:Lato;font-size:16px;color:#000;opacity:0.9;padding-top:0px;padding-bottom:0px;margin:0px"><center><b> For more information or any other enquiries:</b> <br> Email: <a href="mailto:skscc@ymca.edu.sg">skscc@ymca.edu.sg</a> <br>
-Website: <a href="www.ymca.org.sg/cdcscc">www.ymca.org.sg/cdcscc</a></center></div>
+Website: <a href="https://www.ymca.org.sg/cdcscc">www.ymca.org.sg/cdcscc</a></center></div>
