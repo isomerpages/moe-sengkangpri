@@ -8,8 +8,8 @@ third_nav_title: Parents
 
 ***To register your interest your interest ([Click Here](https://forms.office.com/r/ZXbPHZ7Uq4)) or scan on the QR Code shown below***
 
-<img src="/images/QuickLinksSubPage/Parents/ymca-skscc-roi-qr-code.png" style="width:50%;float:center;">
-
+<img src="/images/QuickLinksSubPage/Parents/ymca-skscc-roi-qr-code.png" style="width:50%;float:left;">
+<br><br><br><br><br><br><br><br>
 
 ***For more information or any other enquiries:*** <br>
 YMCA SCC @ Sengkang <br>
