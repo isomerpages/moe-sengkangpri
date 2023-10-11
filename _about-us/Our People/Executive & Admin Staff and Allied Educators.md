@@ -7,7 +7,7 @@ third_nav_title: Our People
 | Designation | Name | Email |
 | -------- | -------- | -------- |
 | Administration Manager     | Mdm Halinah Binte Halil     | [halinah\_halil@schools.gov.sg](mailto:halinah_halil@schools.gov.sg)     |
-|Operations Manager| Mr Thomas Chow Wei | [chow\_wei\_keong@schools.gov.sg](mailto:chow_wei_keong@schools.gov.sg)|
+|Operations Manager| Mr Thomas Chow | [chow\_wei\_keong@schools.gov.sg](mailto:chow_wei_keong@schools.gov.sg)|
 |Administrative Executive | Mdm Soh Sim Ping |[soh\_sim\_ping@schools.gov.sg](mailto:soh_sim_ping@schools.gov.sg)
 | Corporate Service Officers (CSOs) | Mdm Celine Koh Yong Ngor <br> Mdm Haslinda Asmin | [koh\_yong\_ngor@schools.gov.sg](mailto:koh_yong_ngor@schools.gov.sg) <br> [haslinda\_asmin@schools.gov.sg](mailto:haslinda_asmin@school.gov.sg)
 | Senior School Counsellor | Miss Chee Hsieh Mei Charmaine | [charmaine_chee_hsieh_mei@schools.gov.sg](mailto:charmaine_chee_hsieh_mei@schools.gov.sg)
