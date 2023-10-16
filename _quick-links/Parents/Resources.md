@@ -4,9 +4,14 @@ permalink: /quick-links/Parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
+#### **Primary 1 Student - 2024**<br><br>
+
+*  **(NEW)** [Primary 1 Orientation Booklet](/files/Parent%20Resources/2023/primary%201%20orientation%20booklet.pdf)
+*  **(NEW)** [Primary 1 Parent Orientation (FAQ)](/files/Parent%20Resources/2023/frequently%20asked%20questions_p1%20parent%20orientation.pdf)
+
 #### **Resources - 2023 (All Level)**<br><br>
 
-*  **(NEW)** [Term 3 Letter to Parents (23rd June 2023) ](/files/Parent%20Resources/2023/2023%20term%203%20letter%20to%20parents.pdf)
+*  [Term 3 Letter to Parents (23rd June 2023) ](/files/Parent%20Resources/2023/2023%20term%203%20letter%20to%20parents.pdf)
 
 *  [Responses to P6 Briefing on 26 May 2023](/files/Parent%20Resources/2023/responses%20to%20p6%20briefing%20on%2026%20may%202023.pdf)
 
