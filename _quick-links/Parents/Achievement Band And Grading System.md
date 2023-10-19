@@ -20,7 +20,7 @@ third_nav_title: Parents
 | 3 | 50 - 69 |
 | 4 | Below 50 |
 
-##### **Achievement Bands for Primary 5 and Primary 6 (Standard Level)**
+##### **Achievement Levels for Primary 5 and Primary 6 (Standard Level)**
 
 
 | Achievement Level| Mark Range | 
@@ -34,7 +34,7 @@ third_nav_title: Parents
 | 7 | 20 - 44 |
 | 8 | **&lt;** 20 |
 
-##### **Achievement Bands for Primary 5 and Primary 6 (Foundation Level)**
+##### **Achievement Levels for Primary 5 and Primary 6 (Foundation Level)**
 
 
 | Achievement Level| Mark Range | Equivalent Standard Level AL|
