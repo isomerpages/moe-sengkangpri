@@ -4,14 +4,14 @@ permalink: /quick-links/Parents/Achievement-Band-And-Grading-System/
 description: ""
 third_nav_title: Parents
 ---
-##### General Descriptions of Attainment Levels for Primary 1 and Primary 2 Learning Outcomes
+##### **General Descriptions of Attainment Levels for Primary 1 and Primary 2 Learning Outcomes**
 
 
 | Beginning | Developing | Competent |
 | -------- | -------- | -------- |
 | Shows misconceptions or faces challenges in understanding of the concept.  <br><br>Able to demonstrate understanding of the concept with much guidance. <br><br>Able to apply the concept at least once.     | Shows basic understanding of the concept.  <br><br>Able to demonstrate understanding of the concept with some guidance.<br><br>Able to apply the concept of frequently.     | Shows a complete and accurate&nbsp; understanding of the concept.&nbsp;  <br><br>Able to demonstrate understanding of the concept independently.  <br><br>Able to apply the concept consistently.     |
 
-##### Achievement Bands for Primary 3 and Primary 4
+##### **Achievement Bands for Primary 3 and Primary 4**
 
 | Achievement Level| Mark Range | 
 | -------- | -------- | 
@@ -20,7 +20,7 @@ third_nav_title: Parents
 | 3 | 50 - 69 |
 | 4 | Below 50 |
 
-##### Achievement Bands for Primary 5 and Primary 6 (Standard Level)
+##### **Achievement Bands for Primary 5 and Primary 6 (Standard Level)**
 
 
 | Achievement Level| Mark Range | 
@@ -34,7 +34,7 @@ third_nav_title: Parents
 | 7 | 20 - 44 |
 | 8 | **&lt;** 20 |
 
-##### Achievement Bands for Primary 5 and Primary 6 (Foundation Level)
+##### **Achievement Bands for Primary 5 and Primary 6 (Foundation Level)**
 
 
 | Achievement Level| Mark Range | Equivalent Standard Level AL|
@@ -43,7 +43,7 @@ third_nav_title: Parents
 |B|30 - 74| 7
 |C|**&lt;** 30 | 8
 
-**Achievement Grades for Higher Mother Tongue Languages**
+##### **Achievement Grades for Higher Mother Tongue Languages**
 
 
 | Grade| Mark Range |
