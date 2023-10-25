@@ -11,6 +11,8 @@ third_nav_title: Parents
 
 #### **Resources - 2023 (All Level)**<br><br>
 
+*  **(NEW)** [Term 4 Letter to Parents](/files/Parent%20Resources/2023/2023%20term%204%20term_notification.pdf)
+
 *  [Term 3 Letter to Parents (23rd June 2023) ](/files/Parent%20Resources/2023/2023%20term%203%20letter%20to%20parents.pdf)
 
 *  [Responses to P6 Briefing on 26 May 2023](/files/Parent%20Resources/2023/responses%20to%20p6%20briefing%20on%2026%20may%202023.pdf)
