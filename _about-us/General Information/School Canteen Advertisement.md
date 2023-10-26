@@ -9,6 +9,7 @@ third_nav_title: General Information
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Light bites / <br>Japanese Food / <br>Korean Food     | 29 September 2023     | NIL     |
+| Muslim Stall (Noodles)  | 30 November 2023     | NIL     |
 
 
 #### **Application Procedure**
