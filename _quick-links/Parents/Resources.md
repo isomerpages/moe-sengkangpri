@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 #### **Primary 1 Student - 2024**<br><br>
 
-*  **(NEW)** [Primary 1 Orientation Booklet](/files/Parent%20Resources/2023/primary%201%20orientation%20booklet.pdf)
+*  **(NEW)** [2024 P1 Orientation Booklet](/files/Parent%20Resources/2023/2024%20p1%20orientation%20booklet.pdf)
 *  **(NEW)** [Primary 1 Parent Orientation (FAQ)](/files/Parent%20Resources/2023/frequently%20asked%20questions_p1%20parent%20orientation.pdf)
 
 #### **Resources - 2023 (All Level)**<br><br>
