@@ -12,6 +12,24 @@ variant: markdown
 *  [2024 Primary 1 Orientation Booklet](/files/Parent%20Resources/2023/2024%20p1%20orientation%20booklet.pdf)
 *  [Primary 1 Parent Orientation (FAQ)](/files/Parent%20Resources/2023/frequently%20asked%20questions_p1%20parent%20orientation.pdf)
 
+#### **Primary 1 to Primary 6 Book and Stationery Lists - 2024**<br><br>
+
+*  **(NEW)** [Book and Stationery List Primary 1 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P1.pdf)
+
+* **(NEW)** [Book and Stationery List Primary 2 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P2.pdf)
+
+* **(NEW)** [Book and Stationery List Primary 3 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P3.pdf)
+
+* **(NEW)** [Book and Stationery List Primary 4 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P4.pdf)
+
+* **(NEW)** [Book and Stationery List Primary 5 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P5.pdf)
+
+* **(NEW)** [Book and Stationery List Primary 5 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P5__FDN_.pdf)
+
+* **(NEW)** [Book and Stationery List Primary 6 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6.pdf)
+
+* **(NEW)** [Book and Stationery List Primary 6 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6__FDN_.pdf)
+
 #### **Resources - 2023 (All Level)**<br><br>
 
 *  [Term 4 Letter to Parents](/files/Parent%20Resources/2023/2023%20term%204%20term_notification.pdf)
@@ -39,26 +57,6 @@ variant: markdown
 *  [Presentation shared during "P1 Meet &amp; Greet Session" (3rd January 2023)](/files/Parent%20Resources/2023/P1%20Meet%20&amp;%20Greet%20Session%20as%20at%203%20Jan%202023.pdf)
 
 *  [Term 1 Letter To Parents (30th December 2022)](/files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents%202023.pdf)
-
-
-
-#### **Primary 1 to Primary 6 Book and Stationery Lists - 2023**<br><br>
-
-*   [Book and Stationery List Primary 1 - 2023](/files/Parent%20Resources/Booklist2023/P1%20Booklist%202023.pdf)
-
-*  [Book and Stationery List Primary 2 - 2023](/files/Parent%20Resources/Booklist2023/P2%20Booklist%202023.pdf)
-
-*  [Book and Stationery List Primary 3 - 2023](/files/Parent%20Resources/Booklist2023/P3%20Booklist%202023.pdf)
-
-*  [Book and Stationery List Primary 4 - 2023](/files/Parent%20Resources/Booklist2023/P4%20Booklist%202023.pdf)
-
-*  [Book and Stationery List Primary 5 - 2023](/files/Parent%20Resources/Booklist2023/P5%20Booklist%202023.pdf)
-
-*  [Book and Stationery List Primary 5 Foundation - 2023](/files/Parent%20Resources/Booklist2023/P5%20Foundation%20Booklist%202023.pdf)
-
-*  [Book and Stationery List Primary 6 - 2023](/files/Parent%20Resources/Booklist2023/P6%20Booklist%202023.pdf)
-
-*  [Book and Stationery List Primary 6 Foundation - 2023](/files/Parent%20Resources/Booklist2023/P6%20Foundation%20Booklist%202023.pdf)
 
 <br>
 
