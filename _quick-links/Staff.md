@@ -2,6 +2,7 @@
 title: Staff
 permalink: /quick-links/Staff/
 description: ""
+variant: markdown
 ---
 **_Administrative & HR Matters_**
 
@@ -13,11 +14,10 @@ description: ""
 | HRP Portal | [](https://www.hrp.gov.sg/)[www.hrp.gov.sg](https://www.hrp.gov.sg/)[](https://go.gov.sg/SFEd) |
 | Human Resource (HR Online) | [https://intranet.moe.gov.sg/hronline](https://intranet.moe.gov.sg/hronline)[](https://intranet.moe.gov.sg/hronline)[](https://vle.learning.moe.edu.sg/) |
 | MOE Intranet | [https://intranet.moe.gov.sg](https://intranet.moe.gov.sg/)[](https://intranet.moe.gov.sg/)[](https://www.myskillsfuture.sg/primary) |
-| PaC@Gov | [https://pacgov.agd.gov.sg](https://pacgov.agd.gov.sg/)[](https://pacgov.agd.gov.sg/) |
 | SEAB iExams 2 | [](https://iexams.seab.gov.sg%20/)[https://iexams.seab.gov.sg](https://iexams.seab.gov.sg/)   |
 | Parents Gateway | [](https://pg.moe.edu.sg%20/)[https://pg.moe.edu.sg](https://pg.moe.edu.sg/)  |
 | SC Mobile | [](https://scmobile.moe.edu.sg/)[https://scmobile.moe.edu.sg](https://scmobile.moe.edu.sg/)   |
-| iCON Email 2.0  | [icon.moe.edu.sg](https://icon.moe.edu.sg/)  |
+| iCON Email 2.0  | [https://icon.moe.edu.sg](https://icon.moe.edu.sg/)  |
 
   
 
