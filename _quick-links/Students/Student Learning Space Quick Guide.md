@@ -15,17 +15,17 @@ During school operating hours, students should contact the&nbsp;**_School-based 
 
 **School Operating Hours**
 
-*   Call School-based Helpline at&nbsp;&nbsp;63840809&nbsp; &nbsp;
+*   Call School-based Helpline at&nbsp;&nbsp;6384 0809&nbsp; &nbsp;
 *   Email School-based Helpline at&nbsp;[azlan_shah_rahman@moe.edu.sg](mailto:azlan_shah_rahman@moe.edu.sg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-*   Mondays - Fridays: 8:00 am - 4:00 pm
+*   Mondays - Fridays: 8:00 AM - 4:00 PM
 
 **Non-School Operating Hours**
 
 *   Call SLS Helpdesk at&nbsp;6702 6513
 *   Email SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
-*   Mondays - Fridays: 4:00 pm - 9:00 pm
-*   Saturdays: 9:00 am -&nbsp;3:00 pm
-*   Closed on Sundays &amp; Public Holidays
+*   Mondays - Fridays: 4:00 PM - 9:00 PM
+*   Saturdays: 9:00 AM -&nbsp;3:00 PM
+*   Closed on Sunday &amp; Public Holidays
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSY7FczvysboI7Ba7d__Wslp3hfhUJ8oO9MBLcj8IyySndauLOJjIGu870TiBo6s3dKvb3Yc1AcDZK7/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
