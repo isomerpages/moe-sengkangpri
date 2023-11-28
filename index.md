@@ -14,7 +14,7 @@ sections:
           url: /resources/announcements/
         - title: Latest Happenings
           description: Click Here To Read More
-          url: https://staging.d2ik2hqedykue0.amplifyapp.com/resources/latest-happenings/
+          url: /resources/latest-happenings/
         - title: SKPS Facebook
           description: Visit our FB page for updates!
           url: https://www.facebook.com/SengKangPrimarySchool/
