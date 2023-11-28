@@ -11,7 +11,6 @@ variant: markdown
 | MIMS Portal  | [idp.mims.moe.gov.sg](https://idp.mims.moe.gov.sg/nidp/saml2/sso)  |
 | School Cockpit (Admin & Reports) | [https://schoolcockpit.moe.gov.sg](https://schoolcockpit.moe.gov.sg/)[](https://schoolcockpit.moe.gov.sg/)
 | School Cockpit (Result Processing) | [https://schoolcockpit.moe.gov.sg/academic](https://schoolcockpit.moe.gov.sg/academic)  |
-| OPAL 2.0 | [https://opal2.moe.edu.sg](https://opal2.moe.edu.sg/)[](https://schoolcockpit.moe.gov.sg/) |
 | HRP Portal | [](https://www.hrp.gov.sg/)[https://www.hrp.gov.sg](https://www.hrp.gov.sg/)[](https://go.gov.sg/SFEd) |
 | Human Resource (HR Online) | [https://intranet.moe.gov.sg/hronline](https://intranet.moe.gov.sg/hronline)[](https://intranet.moe.gov.sg/hronline) |
 | MOE Intranet | [https://intranet.moe.gov.sg](https://intranet.moe.gov.sg/)[](https://intranet.moe.gov.sg/)[](https://www.myskillsfuture.sg/primary) |
