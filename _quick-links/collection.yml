@@ -2,11 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Students/.keep
-      - Students/Website Links.md
-      - Students/Student Learning Space Quick Guide.md
-      - Students/Student iCON Quick Guide.md
-      - Staff.md
       - Parents/.keep
       - Parents/Resources.md
       - Parents/Achievement Band And Grading System.md
@@ -14,4 +9,8 @@ collections:
       - Parents/Parents Gateway.md
       - Parents/Info on Sexuality Education Programme for P5 & P6 Students.md
       - Parents/YMCA Sengkang Primary School 2024 Intake.md
-      - Thank You Message for Teachers.md
+      - Students/.keep
+      - Students/Website Links.md
+      - Students/Student Learning Space Quick Guide.md
+      - Students/Student iCON Quick Guide.md
+      - Staff.md

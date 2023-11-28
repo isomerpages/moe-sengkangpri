@@ -3,6 +3,7 @@ title: Student iCON Quick Guide
 permalink: /quick-links/Students/permalink/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 **Frequently Asked Questions**  
 
@@ -68,6 +69,6 @@ Alternatively, you can proceed to use&nbsp;**_Incognito Mode_**&nbsp;on your bro
 
 **To Contact School Based Helpline**
 <br>Contact No.: 6384 0809
-<br>Email: [mohammed_azhar_mohd_shariff@schools.gov.sg](mohammed_azhar_mohd_shariff@schools.gov.sg)
-<br>Operating Hours: Monday to Friday (8:00 AM to 5:00 PM) 
+<br>Email: [azlan_shah_rahman@moe.edu.sg](mailto:azlan_shah_rahman@moe.edu.sg)
+<br>Operating Hours: Monday to Friday (8:00 AM to 4:00 PM) 
 <br>Closed on Saturday, Sunday &amp; Public Holiday
