@@ -3,9 +3,8 @@ title: Student Learning Space Quick Guide
 permalink: /quick-links/Parents/Student-Learning-Space/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
-
-
 <center>Support for Home-Based Learning</center>
 
 During school operating hours, students should contact the&nbsp;**_School-based Helpline_**&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.&nbsp;For non-school operating hours, students should contact the&nbsp;_**SLS Helpdesk**_&nbsp;for support.&nbsp;When emailing the SLS Helpdesk, students should include their&nbsp;**_Full Name, Name of School and Form Class._**
@@ -17,7 +16,7 @@ During school operating hours, students should contact the&nbsp;**_School-based 
 **School Operating Hours**
 
 *   Call School-based Helpline at&nbsp;&nbsp;63840809&nbsp; &nbsp;
-*   Email School-based Helpline at&nbsp;[mohammed\_azhar\_mohd\_shariff@schools.gov.sg](mailto:mohammed_azhar_mohd_shariff@schools.gov.sg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+*   Email School-based Helpline at&nbsp;[azlan_shah_rahman@moe.edu.sg](mailto:azlan_shah_rahman@moe.edu.sg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 *   Mondays - Fridays: 8:00 am - 4:00 pm
 
 **Non-School Operating Hours**
