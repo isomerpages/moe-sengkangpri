@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-us/Our-People/School-Management-Committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Designation | Name | Email |
 | -------- | -------- | -------- |
@@ -29,7 +30,7 @@ third_nav_title: Our People
 |Subject Head Mother Tongue| Mdm Jayasutha d/o Vijaya Kumaran| [jayasutha\_vijaya\_kumaran@schools.gov.sg](mailto:jayasutha_vijaya_kumaran@schools.gov.sg)
 | Subject Head Values Education| Miss Toh Pei Min| [toh\_pei\_min@schools.gov.sg](mailto:toh_pei_min@schools.gov.sg)
 | Subject Head Character &amp; Citizenship Education| Mdm Joyce Ng| [ng\_cheng\_li@schools.gov.sg](mailto:ng_cheng_li@schools.gov.sg)
-|Subject Head Student Well-being| Miss Ong Shi Han| [ong\_shi\_han\_b@schools.gov.sg](mailto:ong_shi_han_b@schools.gov.sg%C2%A0)
+|Subject Head ICT| Miss Ong Shi Han| [ong\_shi\_han\_b@schools.gov.sg](mailto:ong_shi_han_b@schools.gov.sg%C2%A0)
 |Lead Teacher (Art)| Mdm Nurul 'Ain Binte Azilah| [nurulain\_azilah@schools.gov.sg](mailto:nurulain_azilah@schools.gov.sg)
 |Senior Teacher (High Ability)| Mrs Serene Tan| [chen\_xiaoying\_serene@schools.gov.sg](mailto:chen_xiaoying_serene@schools.gov.sg)
 |Senior Teacher (English)| Mrs Jasmine Chan | [chan\_jasmine\_williams@schools.gov.sg](mailto:chan_jasmine_williams@schools.gov.sg) |
