@@ -3,13 +3,14 @@ title: School Canteen Advertisement
 permalink: /about-us/general-information/school-canteen-advertisement/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 ### **School Canteen Advertisement**
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Light bites / <br>Japanese Food / <br>Korean Food     | 29 September 2023     | NIL     |
-| Muslim Stall (Noodles)  | 30 November 2023     | NIL     |
+| Light bites /<br>Korean Food     | 31 January 2024     | NIL     |
+| Muslim Stall (Noodles)  | 31 January 2024     | NIL     |
 
 
 #### **Application Procedure**
