@@ -9,7 +9,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Light Bites /<br>Korean Food     | 31 January 2024     | NIL     |
+| Light Bites     | 31 January 2024     | NIL     |
 | Muslim Stall (Noodles)  | 31 January 2024     | NIL     |
 
 
