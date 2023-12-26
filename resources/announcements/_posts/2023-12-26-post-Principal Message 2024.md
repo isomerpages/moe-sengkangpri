@@ -1,7 +1,10 @@
 ---
-title: Principal's Message
-permalink: /about-us/Principals-Message/
-description: ""
+title: Principal Message 2024
+permalink: /about-us/principals-message/
+date: 2023-12-26
+layout: post
+description: Principal Message 2024 updated as at 26 December 2023
+image: /images/8d04d162c_4610.jpg
 variant: tiptap
 ---
 <p>Welcome to Seng Kang Primary School where every SKLite is <strong>an inventive thinker, a confident leader, and a gracious citizen!</strong></p><p>Since our school’s founding, we have remained steadfast in our <strong>school beliefs</strong> that <strong>‘Everyone can learn, Everyone can serve and Everyone is Special’</strong>. Our school crest symbolizes that every SKLite and every staff is a gem to be treasured and nurtured. These enduring beliefs will continue to be the cornerstones in our educational philosophy.</p><p>In this fast-changing world, we want to develop our SKLites to be grounded in values and be adaptive in the face of change. Through their six years of primary education with us and from the rich learning opportunities and experiences which we have curated for them, our SKLites will develop the <strong>school values of graciousness, integrity, resilience, and confidence</strong> to help them navigate the world they are in. &nbsp;</p><p>We are equally committed to enhance the well-being of our staff and to strengthen their capabilities to enhance their teaching and learning approaches to be more intentional in enabling SKLites to learn through inquiry, experiential learning and to explore new areas of interests so that we continue to stay current and relevant in a fast-evolving world environment.</p><p>As the saying goes, it takes a village to raise a child. I am thankful for the strong partnership with our parents, Parent Support Group (PSG), School Advisory Committee (SAC) and community partners. They are committed to journey with my team of dedicated and caring staff to develop the <strong>five key learning dispositions</strong> in every SKLite: <strong>Curiosity, Open-mindedness, Responsibility, Resilience and Enthusiasm (COR2E).</strong></p><p>I wish you a fulfilling and rewarding experience with Seng Kang Primary School!</p><p>Mrs Tan Siew Hong<br>Principal</p>
