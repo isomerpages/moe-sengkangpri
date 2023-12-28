@@ -2,9 +2,10 @@
 title: Primary 2
 permalink: /about-us/Our-People/primary-2/
 description: ""
+variant: markdown
 ---
 **Assistant Year Head:**<br>
-**Mdm Wang Yee Ling Karen**
+**Mrs Ferlynn Han-Tan Quek Khim**
 
 
 | Class | Form Teachers | Email |
