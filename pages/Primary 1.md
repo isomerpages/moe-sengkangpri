@@ -16,5 +16,4 @@ variant: markdown
 |  1 Joy  |  Mdm Gee Brenda<br>Mrs Suhaidah Binti Ahmad  |  [siew-gee_brenda@schools.gov.sg](mailto:siew-gee_brenda@schools.gov.sg)<br>[suhaidah_ahmad@schools.gov.sg](mailto:suhaidah_ahmad@schools.gov.sg)
 |  1 Courage  |  Mdm Chin Irnanie Binte Imran Chin<br>Miss Toh Pei Min  | [chin_irnanie_imran_chin@schools.gov.sg](mailto:chin_irnanie_imran_chin@schools.gov.sg)<br>[toh_pei_min@schools.gov.sg](mailto:toh_pei_min@schools.gov.sg)
 |  1 Patience  |  Mdm Yeo Ay Leng<br>Mr Ramesh s/o Kunasegaran  | [yeo_ay_leng@schools.gov.sg](mailto:yeo_ay_leng@schools.gov.sg)<br>[ramesh_kunasegaran@schools.gov.sg](mailto:ramesh_kunasegaran@schools.gov.sg)
-|  1 Confidence  |  Mdm Ng Cheng Li<br>Mdm Quek Leng Leng  |  [ng_cheng_li@schools.gov.sg](mailto:ng_cheng_li@schools.gov.sg)<br>[quek_leng_leng@schools.gov.sg](mailto:quek_leng_leng@schools.gov.sg)
 |  1 Graciousness  |  Mdm Yap Seok Wee Tania<br>Mdm Lian Huan  | [yap_seok_wee@schools.gov.sg](mailto:yap_seok_wee@schools.gov.sg)<br>[lian_huan@schools.gov.sg](mailto:lian_huan@schools.gov.sg)
