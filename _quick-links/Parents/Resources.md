@@ -5,30 +5,34 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+#### **Resources - 2024 (All Level)**<br><br>
+
+* **(NEW)** [Term 1 Letter To Parents (29 December 2023)](/files/Parent%20Resources/2024/2024_term_1_notification.pdf)
+
 #### **Primary 1 Student - 2024**<br><br>
 
-*  **(NEW)** [Primary One Orientation 2024 (Briefing on 7 Nov 2023)](/files/Parent%20Resources/2023/primary%20one%20orientation%202024%20(briefing%20on%207%20nov%202023).pdf)
-*  **(NEW)** [Primary 1 Orientation November 2023 (Video)](https://drive.google.com/file/d/1UAny3tHnpIYKkC8MFH6xSZEw2S2grvvb/view?usp=sharing)
+*  [Primary One Orientation 2024 (Briefing on 7 Nov 2023)](/files/Parent%20Resources/2023/primary%20one%20orientation%202024%20(briefing%20on%207%20nov%202023).pdf)
+*  [Primary 1 Orientation November 2023 (Video)](https://drive.google.com/file/d/1UAny3tHnpIYKkC8MFH6xSZEw2S2grvvb/view?usp=sharing)
 *  [2024 Primary 1 Orientation Booklet](/files/Parent%20Resources/2023/2024%20p1%20orientation%20booklet.pdf)
 *  [Primary 1 Parent Orientation (FAQ)](/files/Parent%20Resources/2023/frequently%20asked%20questions_p1%20parent%20orientation.pdf)
 
 #### **Primary 1 to Primary 6 Book and Stationery Lists - 2024**<br><br>
 
-*  **(NEW)** [Book and Stationery List Primary 1 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P1.pdf)
+* [Book and Stationery List Primary 1 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P1.pdf)
 
-* **(NEW)** [Book and Stationery List Primary 2 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P2.pdf)
+* [Book and Stationery List Primary 2 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P2.pdf)
 
-* **(NEW)** [Book and Stationery List Primary 3 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P3.pdf)
+* [Book and Stationery List Primary 3 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P3.pdf)
 
-* **(NEW)** [Book and Stationery List Primary 4 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P4.pdf)
+* [Book and Stationery List Primary 4 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P4.pdf)
 
-* **(NEW)** [Book and Stationery List Primary 5 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P5.pdf)
+* [Book and Stationery List Primary 5 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P5.pdf)
 
-* **(NEW)** [Book and Stationery List Primary 5 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P5__FDN_.pdf)
+* [Book and Stationery List Primary 5 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P5__FDN_.pdf)
 
-* **(NEW)** [Book and Stationery List Primary 6 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6.pdf)
+* [Book and Stationery List Primary 6 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6.pdf)
 
-* **(NEW)** [Book and Stationery List Primary 6 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6__FDN_.pdf)
+* [Book and Stationery List Primary 6 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6__FDN_.pdf)
 
 #### **Resources - 2023 (All Level)**<br><br>
 
