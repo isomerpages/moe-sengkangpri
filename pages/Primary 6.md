@@ -2,9 +2,10 @@
 title: Primary 6
 permalink: /about-us/Our-People/primary-6/
 description: ""
+variant: markdown
 ---
-**Assistant Year Head:** <br>
-**Mrs Ee (Leong) Lai Mun**
+**Year Head:** <br>
+**Miss Kwan See Ling**
 
 
 | Class | Form Teachers | Email |
