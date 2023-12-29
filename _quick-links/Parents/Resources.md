@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+#### **Resources - 2024 (All Level)**<br><br>
+
+* **(NEW)** [Term 1 Letter To Parents (29 December 2023)](/files/Parent%20Resources/2024/2024_term_1_notification.pdf)
+
 #### **Primary 1 Student - 2024**<br><br>
 
 *  **(NEW)** [Primary One Orientation 2024 (Briefing on 7 Nov 2023)](/files/Parent%20Resources/2023/primary%20one%20orientation%202024%20(briefing%20on%207%20nov%202023).pdf)
