@@ -4,7 +4,7 @@ permalink: /about-us/Our-People/Primary-4/
 description: ""
 variant: markdown
 ---
-**Year Head:**<br>
+**Assistant Year Head:**<br>
 **Mdm Nurzarifah Binte Masnam**<br>
 Information on Subject Based Banding&nbsp;[(Click Here)](/files/P4%20SBB%20Briefing%202022.pdf)
 
