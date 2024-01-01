@@ -3,6 +3,7 @@ title: Primary 3
 permalink: /about-us/Our-People/Primary-3/
 description: ""
 variant: markdown
+third_nav_title: Our People
 ---
 **Assistant Year Head:**<br>
 **Mrs Ee (Leong) Lai Mun**

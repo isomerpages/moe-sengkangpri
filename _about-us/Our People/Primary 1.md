@@ -3,6 +3,7 @@ title: Primary 1
 permalink: /about-us/Our-People/Primary-1/
 description: ""
 variant: markdown
+third_nav_title: Our People
 ---
 **Year Head:**<br> 
 **Mrs Ferlynn Han-Tan Quek Khim**<br>

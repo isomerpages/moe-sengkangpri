@@ -3,6 +3,7 @@ title: Primary 5
 permalink: /about-us/Our-People/Primary-5/
 description: ""
 variant: markdown
+third_nav_title: Our People
 ---
 **Year Head:**  
 **Mdm Tan Meng Hui**

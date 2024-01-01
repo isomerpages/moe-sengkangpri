@@ -3,6 +3,7 @@ title: Primary 6
 permalink: /about-us/Our-People/primary-6/
 description: ""
 variant: markdown
+third_nav_title: Our People
 ---
 **Year Head:** <br>
 **Miss Kwan See Ling**
