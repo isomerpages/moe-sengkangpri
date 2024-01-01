@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Our People
 ---
-**Assistant Year Head:**<br>
+**Year Head:**<br>
 **Mrs Ferlynn Han-Tan Quek Khim**
 
 | Class | Form Teachers | Email |
