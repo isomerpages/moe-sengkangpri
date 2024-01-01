@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 third_nav_title: Our People
 ---
+**Year Head:**<br>
+**Miss Kwan See Ling**<br>
 **Assistant Year Head:**<br>
 **Mrs Ee (Leong) Lai Mun**
 
