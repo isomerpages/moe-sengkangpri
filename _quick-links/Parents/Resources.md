@@ -11,6 +11,7 @@ variant: markdown
 
 #### **Primary 1 Student - 2024**<br><br>
 
+* **(NEW)** [Primary One Parent Briefing 2024 (Briefing on 2 Jan 2024)](/files/Parent%20Resources/2024/P1_Parent_Briefing_2024_2_Jan_1_.pdf)
 *  [Primary One Orientation 2024 (Briefing on 7 Nov 2023)](/files/Parent%20Resources/2023/primary%20one%20orientation%202024%20(briefing%20on%207%20nov%202023).pdf)
 *  [Primary 1 Orientation November 2023 (Video)](https://drive.google.com/file/d/1UAny3tHnpIYKkC8MFH6xSZEw2S2grvvb/view?usp=sharing)
 *  [2024 Primary 1 Orientation Booklet](/files/Parent%20Resources/2023/2024%20p1%20orientation%20booklet.pdf)
