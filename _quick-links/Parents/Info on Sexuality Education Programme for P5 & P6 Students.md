@@ -56,6 +56,8 @@ You may&nbsp;[**CLICK HERE**](https://www.moe.gov.sg/education-in-sg/our-program
 
 **2024 SEXUALITY EDUCATION LESSONS IN CCE 2021**
 
+**TOPICS COVERED IN GY SERIES FOR PRIMARY 6**
+
 | UNIT | LESSON / DURATION | LESSON OVERVIEW | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 | -------- | -------- | -------- |-------- |
 |  Growing Years  |  The Changes in Me <br>(60 min) |  This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>*This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*  |  Term 2, Week 6  |
@@ -73,8 +75,8 @@ You may&nbsp;[**CLICK HERE**](https://www.moe.gov.sg/education-in-sg/our-program
 |  Growing Years  |  Are We More than Friends? Lesson 2<br>(60 min)  | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.  |  Term 4 Week 7  |
 
 **INFORMATION FOR PARENTS**<br>
-8.&nbsp; &nbsp; &nbsp; &nbsp; Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved&nbsp;external providers.
+8.&nbsp; &nbsp; &nbsp; &nbsp; Parents may opt their children out of Sex Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved&nbsp;external providers.
  
-9.&nbsp; &nbsp; &nbsp; &nbsp; Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed via Parents Gateway(PG) to parents and is also downloadable [**CLICK HERE**](/files/Parent%20Resources/2023/Annex%20A-Opt%20out%20GYS.pdf). The completed opt-out form is to be submitted by 10/03/2023.
+9.&nbsp; &nbsp; &nbsp; &nbsp; Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed via Parents Gateway(PG) to parents and is also downloadable [**CLICK HERE**](/files/Parent%20Resources/2024/Annex_A_Opt_out_GYS_2024.pdf).The completed opt-out form is to be submitted by **31/01/2024**.
 
 10.&nbsp; &nbsp; &nbsp;Parents can contact the school at 6384 0809 or email us at [skps@moe.edu.sg](mailto:skps@moe.edu.sg) for discussion or to seek clarification about the school's Sexuality Education programme.
