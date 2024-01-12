@@ -35,7 +35,7 @@ variant: markdown
 
 * [Book and Stationery List Primary 6 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6__FDN_.pdf)
 
-#### **Resources - 2023 (All Level)**<br><br>
+<!-- #### **Resources - 2023 (All Level)**<br><br>
 
 *  [Term 4 Letter to Parents](/files/Parent%20Resources/2023/2023%20term%204%20term_notification.pdf)
 
@@ -61,7 +61,7 @@ variant: markdown
 
 *  [Presentation shared during "P1 Meet &amp; Greet Session" (3rd January 2023)](/files/Parent%20Resources/2023/P1%20Meet%20&amp;%20Greet%20Session%20as%20at%203%20Jan%202023.pdf)
 
-*  [Term 1 Letter To Parents (30th December 2022)](/files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents%202023.pdf)
+*  [Term 1 Letter To Parents (30th December 2022)](/files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents%202023.pdf) -->
 
 <br>
 
