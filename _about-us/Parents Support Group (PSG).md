@@ -2,6 +2,7 @@
 title: Parents Support Group (PSG)
 permalink: /about-us/parents-support-group/
 description: ""
+variant: markdown
 ---
 Our Parent Support Group (PSG) plays a significant role in bringing parents together, promoting a collaborative relationship between parents and the school. They are made up of parents who are dedicated to support our school in the holistic development of our students. They contribute their time, effort and talent to support the school’s programmes and initiatives. The PSG is managed by an Executive Committee (EXCO).
 
@@ -13,12 +14,11 @@ The PSG complements the school by aligning with the school’s objectives, suppo
 
 | Designation | Name | 
 | -------- | -------- |
-| Chariman | Mr Royston D'Souza | 
-| Vice-Chariman | Mdm Chewy Tong | 
+| Chairman | Mr Royston D'Souza | 
+| Vice-Chairman | Mdm Chewy Teng | 
 | EXCO Member | Mdm Eileen Chee | 
 | EXCO Member | Mrs Sarita D'Souza | 
-| EXCO Member | Mdm Ernawaty Bte Sengari | 
+| EXCO Member | Mdm Sivasankari | 
 | EXCO Member | Mdm Subhashree Manoharan | 
-| EXCO Member | Mdm Jennifer Lim | 
 | EXCO Member | Mdm Rita Lim | 
 | EXCO Member | Mdm Ngai May Yoke |
