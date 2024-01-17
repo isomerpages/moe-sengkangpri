@@ -18,7 +18,8 @@ The PSG complements the school by aligning with the school’s objectives, suppo
 | Vice-Chairman | Mdm Chewy Teng | 
 | EXCO Member | Mdm Eileen Chee | 
 | EXCO Member | Mrs Sarita D'Souza | 
-| EXCO Member | Mdm Sivasankari | 
+| EXCO Member | Mdm Ernawaty Bte Sengari | 
 | EXCO Member | Mdm Subhashree Manoharan | 
+| EXCO Member | Mdm Jennifer Lim | 
 | EXCO Member | Mdm Rita Lim | 
 | EXCO Member | Mdm Ngai May Yoke |
