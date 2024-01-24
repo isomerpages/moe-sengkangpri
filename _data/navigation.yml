@@ -1,0 +1,14 @@
+logo: /images/letterhead.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: SKPS Experience
+    collection: skps-experience
+  - title: Departments
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Achievements
+    collection: achievements
+  - title: Quick Links
+    collection: quick-links

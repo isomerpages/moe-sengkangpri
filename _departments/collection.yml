@@ -1,0 +1,35 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English/Department Message.md
+      - English/Framework.md
+      - English/Key Programmes.md
+      - English/.keep
+      - Mathematics/Department Message.md
+      - Mathematics/Framework.md
+      - Mathematics/Key Programmes.md
+      - Mathematics/.keep
+      - Science/Department Message.md
+      - Science/Framework.md
+      - Science/Key Programmes.md
+      - Science/.keep
+      - Mother Tongue/Mother Tongue Fortnight.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Department Message.md
+      - Mother Tongue/Framework.md
+      - Mother Tongue/Key Programmes.md
+      - Mother Tongue/Mother Tongue Teacher Email Addresses.md
+      - Physical Education Art & Music/Department Message.md
+      - Physical Education Art & Music/Framework.md
+      - Physical Education Art & Music/Key Programmes.md
+      - Physical Education Art & Music/.keep
+      - Info Communication & Tech/Department Message.md
+      - Info Communication & Tech/Framework.md
+      - Info Communication & Tech/Key Programmes.md
+      - Info Communication & Tech/.keep
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Department Message.md
+      - CCE/Framework.md
+      - CCE/Key Programmes.md
