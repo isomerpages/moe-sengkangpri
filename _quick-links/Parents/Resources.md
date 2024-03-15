@@ -7,12 +7,12 @@ variant: markdown
 ---
 #### **Resources - 2024 (All Level)**<br><br>
 
-
-* **(NEW)** [P6 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P6_Curriculum_Info__Expectations___Routines_2024_website.pdf)
-* **(NEW)** [P5 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P5_PTC_2024_for_website__3_.pdf)
-* **(NEW)** [P4 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P4_PTC_2024_11_Jan.pdf)
-* **(NEW)** [P3 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P3_Curriculum_Information__Expectations_and_Routines_2024.pdf)
-*  **(NEW)** [P2 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P2_PTC_2024_upload__1_.pdf)
+* **(NEW)** [Term 2 Letter To Parents (15 March 2024)](/files/Parent%20Resources/2024/2024_Term_2_Term_Notification.pdf)
+* [P6 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P6_Curriculum_Info__Expectations___Routines_2024_website.pdf)
+* [P5 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P5_PTC_2024_for_website__3_.pdf)
+* [P4 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P4_PTC_2024_11_Jan.pdf)
+* [P3 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P3_Curriculum_Information__Expectations_and_Routines_2024.pdf)
+* [P2 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P2_PTC_2024_upload__1_.pdf)
 * [Term 1 Letter To Parents (29 December 2023)](/files/Parent%20Resources/2024/2024_term_1_notification.pdf)
 
 #### **Primary 1 Student - 2024**<br><br>
@@ -41,33 +41,7 @@ variant: markdown
 
 * [Book and Stationery List Primary 6 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6__FDN_.pdf)
 
-<!-- #### **Resources - 2023 (All Level)**<br><br>
 
-*  [Term 4 Letter to Parents](/files/Parent%20Resources/2023/2023%20term%204%20term_notification.pdf)
-
-*  [Term 3 Letter to Parents (23rd June 2023) ](/files/Parent%20Resources/2023/2023%20term%203%20letter%20to%20parents.pdf)
-
-*  [Responses to P6 Briefing on 26 May 2023](/files/Parent%20Resources/2023/responses%20to%20p6%20briefing%20on%2026%20may%202023.pdf)
-
-*  [Response to queries regarding P4 Subject Based Banding](/files/Parent%20Resources/2023/p4%20sbb%20query%20response.pdf)
-
-*  [For Parents Briefing on PSLE Matters 2023](/files/Parent%20Resources/2023/(for%20parents)%20briefing%20on%20psle%20matters%202023.pdf)
-
-*  [Primary 4 Subject-based Banding Briefing 2023](/files/Parent%20Resources/2023/p4%20sbb%20briefing%202023.pdf)
-
-*  [Primary 6 Curriculum Information, Expectations &amp; Routines as shared during "P6 Parent Teacher Connect" (January 2023)](/files/Parent%20Resources/2023/P6%20Curriculum%20Info%20Expectations%20Routines.pdf)
-
-*  [Presentation shared during "P3 Parent Teacher Connect" (17th January 2023)](/files/Parent%20Resources/2023/P3%20PTC%202023.pdf)
-
-*  [Presentation shared during "P2 Parent Teacher Connect" (17th January 2023)](/files/Parent%20Resources/2023/P2%20PTC%202023.pdf)
-
-*  [Presentation shared during "P4 Parent Teacher Connect" (12th January 2023)](/files/Parent%20Resources/2023/P4%20PTC%202023.pdf)
-
-*  [Presentation shared during "P5 Parent Teacher Connect" (12th January 2023)](/files/Parent%20Resources/2023/P5%20PTC%202023.pdf)
-
-*  [Presentation shared during "P1 Meet &amp; Greet Session" (3rd January 2023)](/files/Parent%20Resources/2023/P1%20Meet%20&amp;%20Greet%20Session%20as%20at%203%20Jan%202023.pdf)
-
-*  [Term 1 Letter To Parents (30th December 2022)](/files/Parent%20Resources/2023/Term%201%20Letter%20to%20Parents%202023.pdf) -->
 
 <br>
 
