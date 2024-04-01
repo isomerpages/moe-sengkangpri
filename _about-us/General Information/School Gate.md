@@ -23,8 +23,8 @@ Children coming by cars, taxis, motorcycles are to be dropped off at the front p
 | Gate | Functioning Hours | Notes | Alternate Waiting Areas|
 | -------- | -------- | -------- | --- |
 | 2A<br>(Entry &amp; Pick Up)     | 6.45 a.m. - 7.25 a.m.     | Parents can drop off the children at the entrance of the gates.     |  Void Deck of Block 236| 
-|2A <br>(Entry &amp; Pick Up) | 1.30 p.m. - 2.00 p.m.<br>3.30 p.m. - 4.00 p.m. | Parents can pick up their children from this Gate.<br>Parents of Primary 1 pupils can proceed to the basketball court to pick their children up.| Void Deck of Block 236
-| 3A  <br>(Entry &amp; Pick Up only) | 6.45 a.m. - 7.25 a.m. <br>1.30 p.m. - 2.00 p.m. (Monday - Friday)  <br>3.30 p.m. - 4.00 p.m.  (Monday, Tuesday &amp;&nbsp; Thursday) | Pupils may enter and exit by this Gate.<br>This will be the only exit for pupils to use after CCA.  Parents who have pupils in the After School Care will have to pick up their children from this exit.| Void Deck of Block 225C
+|2A <br>(Entry &amp; Pick Up) | 1.20 p.m. - 2.00 p.m.<br>3.30 p.m. - 4.00 p.m. | Parents can pick up their children from this Gate.<br>Parents of Primary 1 pupils can proceed to the basketball court to pick their children up.| Void Deck of Block 236
+| 3A  <br>(Entry &amp; Pick Up only) | 6.45 a.m. - 7.25 a.m. <br>1.20 p.m. - 2.00 p.m. (Monday - Friday)  <br>3.30 p.m. - 4.00 p.m.  (Monday, Tuesday &amp;&nbsp; Thursday) | Pupils may enter and exit by this Gate.<br>This will be the only exit for pupils to use after CCA.  Parents who have pupils in the After School Care will have to pick up their children from this exit.| Void Deck of Block 225C
 
 **LOCATION OF SCHOOL GATES (Entrance and Exit)**
 ![](/images/AboutUsSubPage/GeneralInformation/Slide1%20(1).jpg)
