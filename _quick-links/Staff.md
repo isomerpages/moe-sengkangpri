@@ -24,7 +24,7 @@ variant: markdown
 
 | Name of Application  | URL (Left-Click Below) |
 | --- | --- |
-| Academy of Singapore Teachers (AST) | [https://www.academyofsingaporeteachers.moe.gov.sg](https://www.academyofsingaporeteachers.moe.gov.sg/)[](https://icon.moe.edu.sg/) |
+| Academy of Singapore Teachers (AST) | [https://academyofsingaporeteachers.moe.edu.sg/](https://www.academyofsingaporeteachers.moe.gov.sg/)[](https://icon.moe.edu.sg/) |
 | One Portal All Learners (OPAL 2.0) | [https://opal2.moe.edu.sg](https://opal2.moe.edu.sg/)[](https://schoolcockpit.moe.gov.sg/) |
 | Skills Future for Educators (SFEd) | [https://go.gov.sg/SFEd](https://go.gov.sg/SFEd)  |
 | Student Learning Space (SLS) | [](https://go.gov.sg/SFEd)[https://vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg/)  |
