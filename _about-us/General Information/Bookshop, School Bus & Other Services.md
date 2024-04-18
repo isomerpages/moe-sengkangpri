@@ -3,6 +3,7 @@ title: Bookshop, School Bus & Other Services
 permalink: /about-us/General-Information/Bookshop-School-Bus-and-Other-Services/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 **_Library Opening Hours:_**<br>
 8.30 a.m. to 4.00 p.m.<br>
@@ -25,9 +26,6 @@ Email: sales@pacificbookstores.com<br>
 **_School Uniform:_**<br>
 Jeep Sing Fashion  
 School uniform and P.E. attire are now available at Jeep Sing Fashion's  
-Online store via this URL:<br>
-[https://jeepsinguniform.com/collections/seng-kang-primary-school](https://jeepsinguniform.com/collections/seng-kang-primary-school) <br>
-[Click here for Purchase Guide](/files/Jeep%20Seng_School%20Uniform_Guide_Online%20Purchase.pdf)
   
 Walk-in purhcase at retail outlet is strictly by Appointment only, please be reminded to book  your time slots via this URL:<br>[https://jeepsinguniform.com/pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking)
 
@@ -39,5 +37,5 @@ Walk-in purhcase at retail outlet is strictly by Appointment only, please be rem
 **_Student Care Centre:_**<br>
 YMCA SCC @ Seng kang<br>
 Tel: 9151 3590<br>
-Email: [**skscc@ymca.edu.sg**](mailto:skscc@ymca.edu.sg)<br>
-Website: [**www.ymca.org.sg/cdcscc**](http://www.ymca.org.sg/cdcscc)
+Email:&nbsp;[**skscc@ymca.edu.sg**](mailto:skscc@ymca.edu.sg)<br>
+Website:&nbsp;[**www.ymca.org.sg/cdcscc**](http://www.ymca.org.sg/cdcscc)
