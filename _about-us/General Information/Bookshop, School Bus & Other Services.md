@@ -31,7 +31,7 @@ Walk-in purchase at retail outlet is strictly by Appointment only, please be rem
 
 | Retail Address | Opening Hours | Mode of Payment |
 | -------- | -------- | -------- |
-| BLK 4012 Ang Mo Kio 10 <br>#01-09 Techplace 1 <br>Singapore 569628<br>Tel: 3136 6074     | Monday to Friday: 10:00 am to 6:00 pm<br>Lunch break and sanitising of store: 1.00 pm to 2.00 pm<br><br>Saturday: 10:00 am to 2:00 pm<br>Closed on Sunday and Public Holidays     | Cash, Nets, PayNow and DBS Paylah!    |
+| BLK 4012 Ang Mo Kio 10 <br>#01-09 Techplace 1 <br>Singapore 569628<br>Tel: 6452 9723     | Monday to Friday: 10:00 am to 6:00 pm<br>Lunch break: 1.00 pm to 2.00 pm<br><br>Saturday: 10:00 am to 2:00 pm<br>Closed on Sunday and Public Holidays     | Cash, Nets, PayNow and DBS Paylah!    |
 
 
 **_Student Care Centre:_**<br>
