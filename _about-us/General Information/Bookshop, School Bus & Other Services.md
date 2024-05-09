@@ -10,7 +10,7 @@ variant: markdown
 Monday - Friday
 
 **_School Dental Health Service:_**<br>
-Tel No.: 63840761
+Tel No.: 6384 0761
 
 **_School Bus Services:_**<br>
 KH NG Bus Transport<br>
