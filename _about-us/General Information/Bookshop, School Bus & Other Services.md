@@ -25,7 +25,7 @@ Email: sales@pacificbookstores.com<br>
 
 **_School Uniform:_**<br>
 Jeep Sing Fashion  
-School uniform and P.E. attire are now available at Jeep Sing Fashion's  
+School uniform and P.E. attire are now available at Jeep Sing Fashion
   
 Walk-in purchase at retail outlet is strictly by Appointment only, please be reminded to call and arrange with them:
 
