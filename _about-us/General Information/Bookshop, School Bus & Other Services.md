@@ -35,7 +35,7 @@ Walk-in purchase at retail outlet is strictly by Appointment only, please be rem
 
 
 **_Student Care Centre:_**<br>
-YMCA SCC @ Seng kang<br>
+YMCA SCC @ Seng Kang<br>
 Tel: 9151 3590<br>
 Email:&nbsp;[**skscc@ymca.edu.sg**](mailto:skscc@ymca.edu.sg)<br>
 Website:&nbsp;[**www.ymca.org.sg/cdcscc**](http://www.ymca.org.sg/cdcscc)
