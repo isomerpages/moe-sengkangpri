@@ -10,8 +10,8 @@ variant: tiptap
 <h3><strong>SKPS Open House 2024</strong></h3>
 <p>Registration is now closed! Our Open House will be happening on Friday,
 17 May 2024 from 8 a.m. to 9.30 a.m.</p>
-<p>Please feel free to contact us if you wish to register and join us for
-this occasion.</p>
+<p>Please feel free to contact us if you still would like to join us for
+this event.</p>
 <h4><strong>Contact Us</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
