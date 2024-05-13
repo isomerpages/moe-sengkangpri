@@ -22,7 +22,8 @@ sections:
       title: SKPS Open House 2024
       subtitle: 22 April 2024
       id: infopic
-      description: Join us for our Annual Open House! Register with us by 10 May!
+      description: Registration is now closed! Our Open House will be happening on
+        Friday, 17 May 2024 from 8 a.m. to 9.30 a.m.
       button: Click here for more info
       url: /skps-open-house-2024/
       image: /images/SKPS_Open_House_final_extended_deadline.jpg
