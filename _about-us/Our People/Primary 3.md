@@ -62,12 +62,13 @@ third_nav_title: Our People
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Yu An
-<br>Mdm Cheo Xin Ying</p>
+<p>Mdm Lim Yu An</p>
+<p>Mdm Cheo Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yu_an@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yu_an@schools.gov.sg</a>
-<br><a href="mailto:cheo_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheo_xin_ying@schools.gov.sg</a>
+</p>
+<p><a href="mailto:cheo_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheo_xin_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -76,12 +77,13 @@ third_nav_title: Our People
 <p>3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Li Dahao
-<br>Mrs Thaifur Alias</p>
+<p>Mr Daniel Li Dahao</p>
+<p>Mrs Thaifur Alias</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:daniel_li_da_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_li_da_hao@schools.gov.sg</a>
-<br><a href="mailto:siswati_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siswati_ahmad@schools.gov.sg</a>
+</p>
+<p><a href="mailto:siswati_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siswati_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -90,12 +92,13 @@ third_nav_title: Our People
 <p>3 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julie Ng Yin Suan
-<br>Mdm Hung Mei Ling</p>
+<p>Mdm Julie Ng Yin Suan</p>
+<p>Mdm Hung Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_yin_suan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yin_suan@schools.gov.sg</a>
-<br><a href="mailto:hung_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hung_mei_ling@schools.gov.sg</a>
+</p>
+<p><a href="mailto:hung_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hung_mei_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -104,12 +107,13 @@ third_nav_title: Our People
 <p>3 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teng Pei Fang
-<br>Mdm Nurul'Ain Bte Azilah</p>
+<p>Ms Teng Pei Fang</p>
+<p>Mdm Nurul'Ain Bte Azilah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teng_pei_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_pei_fang@schools.gov.sg</a>
-<br><a href="mailto:nurulain_azilah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurulain_azilah@schools.gov.sg</a>
+</p>
+<p><a href="mailto:nurulain_azilah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurulain_azilah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
