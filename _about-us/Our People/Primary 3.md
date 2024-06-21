@@ -2,20 +2,116 @@
 title: Primary 3
 permalink: /about-us/Our-People/Primary-3/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Our People
 ---
-**Year Head:**<br>
-**Miss Kwan See Ling**<br>
-**Assistant Year Head:**<br>
-**Mrs Ee (Leong) Lai Mun**
-
-
-| Class | Form Teachers | Email |
-| -------- | -------- | -------- |
-|  3 Faith  | Mr Muhammad Luqman Hakeem<br>Miss Li Xiujing Rachael  |[muhammad_luqman_hakeem_mahmood_shah@schools.gov.sg](mailto:muhammad_luqman_hakeem_mahmood_shah@schools.gov.sg)<br>[li_xiujing_rachael@schools.gov.sg](mailto:li_xiujing_rachael@schools.gov.sg)
-|  3 Hope  | Mrs Ee (Leong) Lai Mun<br>Mdm Farida Bee Bte Abdul Rahman  | [leong_laimun@schools.gov.sg](mailto:leong_laimun@schools.gov.sg)<br>[farida_bee_abdul_rahman@schools.gov.sg](mailto:farida_bee_abdul_rahman@schools.gov.sg)
-|  3 Joy  | Mdm Lim Yu An<br>Mdm Cheo Xin Ying  | [lim_yu_an@schools.gov.sg](mailto:lim_yu_an@schools.gov.sg)<br>[cheo_xin_ying@schools.gov.sg](mailto:cheo_xin_ying@schools.gov.sg)
-|  3 Courage  | Mr Daniel Li Dahao<br>Mrs Thaifur Alias  | [daniel_li_da_hao@schools.gov.sg](mailto:daniel_li_da_hao@schools.gov.sg)<br>[siswati_ahmad@schools.gov.sg](mailto:siswati_ahmad@schools.gov.sg)
-|  3 Patience  | Mdm Julie Ng Yin Suan<br>Mdm Hung Mei Ling  | [ng_yin_suan@schools.gov.sg](mailto:ng_yin_suan@schools.gov.sg)<br>[hung_mei_ling@schools.gov.sg](mailto:hung_mei_ling@schools.gov.sg)
-|  3 Graciousness  | Ms Teng Pei Fang<br>Mdm Nurul'Ain Bte Azilah  | [teng_pei_fang@schools.gov.sg](mailto:teng_pei_fang@schools.gov.sg)<br>[nurulain_azilah@schools.gov.sg](mailto:nurulain_azilah@schools.gov.sg)
+<p><strong>Year Head:</strong>
+<br><strong>Miss Kwan See Ling</strong>
+<br><strong>Assistant Year Head:</strong>
+<br><strong>Mrs Ee (Leong) Lai Mun</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Faith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Luqman Hakeem
+<br>Miss Li Xiujing Rachael</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_luqman_hakeem_mahmood_shah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_luqman_hakeem_mahmood_shah@schools.gov.sg</a>
+<br><a href="mailto:li_xiujing_rachael@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_xiujing_rachael@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Hope</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ee (Leong) Lai Mun
+<br>Mdm Farida Bee Bte Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_laimun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_laimun@schools.gov.sg</a>
+<br><a href="mailto:farida_bee_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farida_bee_abdul_rahman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Joy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Yu An
+<br>Mdm Cheo Xin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yu_an@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yu_an@schools.gov.sg</a>
+<br><a href="mailto:cheo_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheo_xin_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Li Dahao
+<br>Mrs Thaifur Alias</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:daniel_li_da_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_li_da_hao@schools.gov.sg</a>
+<br><a href="mailto:siswati_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siswati_ahmad@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Patience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Julie Ng Yin Suan
+<br>Mdm Hung Mei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_yin_suan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yin_suan@schools.gov.sg</a>
+<br><a href="mailto:hung_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hung_mei_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Graciousness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teng Pei Fang
+<br>Mdm Nurul'Ain Bte Azilah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_pei_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_pei_fang@schools.gov.sg</a>
+<br><a href="mailto:nurulain_azilah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurulain_azilah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
