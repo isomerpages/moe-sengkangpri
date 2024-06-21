@@ -45,13 +45,12 @@ third_nav_title: Our People
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Luthfiyyah Binte Kwajah Mohamed</p>
-<p>Mdm Boon Lay Leng</p>
+<p>Mdm Luthfiyyah Binte Kwajah Mohamed
+<br>Mdm Boon Lay Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:luthfiyyah_kwajah_mohamed_moinuddeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luthfiyyah_kwajah_mohamed_moinuddeen@schools.gov.sg</a>
-</p>
-<p><a href="mailto:boon_lay_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">boon_lay_leng@schools.gov.sg</a>
+<br><a href="mailto:boon_lay_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">boon_lay_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
