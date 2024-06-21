@@ -91,11 +91,13 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Par Hwee Ling
-<br>Mdm Siti Zuraidah Bte Osman</p>
+<br>Mdm Siti Zuraidah Bte Osman
+<br>Mdm Nurzarifah Binte Masnam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:par_hwee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">par_hwee_ling@schools.gov.sg</a>
 <br><a href="mailto:siti_zuraidah_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zuraidah_osman@schools.gov.sg</a>
+<br><a href="mailto:nurzarifah_masnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurzarifah_masnam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -104,13 +106,11 @@ third_nav_title: Our People
 <p>4 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurzarifah Binte Masnam
-<br>Mdm Goh Hao Yun
+<p>Mdm Goh Hao Yun
 <br>Mr Ngo Yi Chye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurzarifah_masnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurzarifah_masnam@schools.gov.sg</a>
-<br><a href="mailto:goh_hao_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hao_yun@schools.gov.sg</a>
+<p><a href="mailto:goh_hao_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hao_yun@schools.gov.sg</a>
 <br><a href="mailto:ngo_yi_chye@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngo_yi_chye@schools.gov.sg</a>
 </p>
 </td>
