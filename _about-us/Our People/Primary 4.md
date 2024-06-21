@@ -76,13 +76,12 @@ third_nav_title: Our People
 <p>4 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suresh Kumar s/o Gemeni Ganasan</p>
-<p>Miss Yeow An-Ning Anna</p>
+<p>Mr Suresh Kumar s/o Gemeni Ganasan
+<br>Miss Yeow An-Ning Anna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suresh_kumar_gemeni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suresh_kumar_gemeni@schools.gov.sg</a>
-</p>
-<p><a href="mailto:yeow_anning_anna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_anning_anna@schools.gov.sg</a>
+<br><a href="mailto:yeow_anning_anna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_anning_anna@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -105,16 +104,14 @@ third_nav_title: Our People
 <p>4 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurzarifah Binte Masnam</p>
-<p>Mdm Goh Hao Yun</p>
-<p>Mr Ngo Yi Chye</p>
+<p>Mdm Nurzarifah Binte Masnam
+<br>Mdm Goh Hao Yun
+<br>Mr Ngo Yi Chye</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurzarifah_masnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurzarifah_masnam@schools.gov.sg</a>
-</p>
-<p><a href="mailto:goh_hao_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hao_yun@schools.gov.sg</a>
-</p>
-<p><a href="mailto:ngo_yi_chye@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngo_yi_chye@schools.gov.sg</a>
+<br><a href="mailto:goh_hao_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hao_yun@schools.gov.sg</a>
+<br><a href="mailto:ngo_yi_chye@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngo_yi_chye@schools.gov.sg</a>
 </p>
 </td>
 </tr>
