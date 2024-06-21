@@ -87,16 +87,14 @@ third_nav_title: Our People
 <p>5 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ngeiw Chaw Yee</p>
-<p>Mdm Lum Foong Chun Phyllis</p>
-<p>Mrs Andrea Ki</p>
+<p>Mr Ngeiw Chaw Yee
+<br>Mdm Lum Foong Chun Phyllis
+<br>Mrs Andrea Ki</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ngeiw_chaw_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngeiw_chaw_yee@schools.gov.sg</a>
-</p>
-<p><a href="mailto:lum_foong_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lum_foong_chun@schools.gov.sg</a>
-</p>
-<p><a href="mailto:tan_meng_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_meng_hui@schools.gov.sg</a>
+<br><a href="mailto:lum_foong_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lum_foong_chun@schools.gov.sg</a>
+<br><a href="mailto:tan_meng_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_meng_hui@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
