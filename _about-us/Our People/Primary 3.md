@@ -47,12 +47,13 @@ third_nav_title: Our People
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ee (Leong) Lai Mun
-<br>Mdm Farida Bee Bte Abdul Rahman</p>
+<p>Mrs Ee (Leong) Lai Mun</p>
+<p>Mdm Farida Bee Bte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_laimun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_laimun@schools.gov.sg</a>
-<br><a href="mailto:farida_bee_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farida_bee_abdul_rahman@schools.gov.sg</a>
+</p>
+<p><a href="mailto:farida_bee_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farida_bee_abdul_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
