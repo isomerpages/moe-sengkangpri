@@ -2,18 +2,117 @@
 title: Primary 5
 permalink: /about-us/Our-People/Primary-5/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Our People
 ---
-**Year Head:**<br>
-**Mrs Andrea Ki**
-
-
-| Class | Form Teachers | Email |
-| -------- | -------- | -------- |
-|  5 Faith  | Miss Ong Shi Han<br>Mr Didy Romanee Bin Ahmad  | [ong_shi_han_b@schools.gov.sg](mailto:ong_shi_han_b@schools.gov.sg)<br>[didy_romanee_ahmad@schools.gov.sg](mailto:didy_romanee_ahmad@schools.gov.sg)
-|  5 Hope  | Mdm Tan Hui Hong Joyce<br>Mrs Lim Huey Sian  | [tan_hui_hong_joyce@schools.gov.sg](mailto:tan_hui_hong_joyce@schools.gov.sg)<br>[goh_huey_sian@schools.gov.sg](mailto:goh_huey_sian@schools.gov.sg)
-|  5 Joy  | Mr Loe Weiqiang Timothy<br>Mdm Azizah Ali  | [loe_weiqiang_timothy@schools.gov.sg](mailto:loe_weiqiang_timothy@schools.gov.sg)<br>[azizah_ali@schools.gov.sg](mailto:azizah_ali@schools.gov.sg)
-|  5 Courage  | Mr Edwin Chee Yu Sin<br>Mdm Faridah Binte Ab Razak  | [chee_yu_sin_edwin@schools.gov.sg](mailto:chee_yu_sin_edwin@schools.gov.sg)<br>[faridah_a_razak@schools.gov.sg](mailto:faridah_a_razak@schools.gov.sg)
-|  5 Patience  | Mrs Dorling Chan<br>Mr Ngeiw Chaw Yee |[tan_kok_ching_dorling@schools.gov.sg](mailto:tan_kok_ching_dorling@schools.gov.sg)<br>[ngeiw_chaw_yee@schools.gov.sg](mailto:ngeiw_chaw_yee@schools.gov.sg) |
-|  5 Graciousness  | Mr Mohamed Fazil<br>Miss Wu Meiqi |[mohamed_fazil@schools.gov.sg](mailto:mohamed_fazil@schools.gov.sg)<br>[wu_meiqi@schools.gov.sg](mailto:wu_meiqi@schools.gov.sg)
+<p><strong>Year Head:</strong>
+<br><strong>Mrs Andrea Ki</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Faith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ong Shi Han
+<br>Mr Didy Romanee Bin Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_shi_han_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_han_b@schools.gov.sg</a>
+<br><a href="mailto:didy_romanee_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">didy_romanee_ahmad@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Hope</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Hui Hong Joyce
+<br>Mrs Lim Huey Sian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_hui_hong_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_hong_joyce@schools.gov.sg</a>
+<br><a href="mailto:goh_huey_sian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huey_sian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Joy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loe Weiqiang Timothy
+<br>Mdm Azizah Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loe_weiqiang_timothy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loe_weiqiang_timothy@schools.gov.sg</a>
+<br><a href="mailto:azizah_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azizah_ali@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Edwin Chee Yu Sin
+<br>Mdm Faridah Binte Ab Razak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_yu_sin_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_yu_sin_edwin@schools.gov.sg</a>
+<br><a href="mailto:faridah_a_razak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faridah_a_razak@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Patience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ngeiw Chaw Yee
+<br>Mdm Lum Foong Chun Phyllis
+<br>Mrs Andrea Ki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ngeiw_chaw_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngeiw_chaw_yee@schools.gov.sg</a>
+<br><a href="mailto:lum_foong_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lum_foong_chun@schools.gov.sg</a>
+<br><a href="mailto:tan_meng_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_meng_hui@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Graciousness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Fazil
+<br>Miss Wu Meiqi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_fazil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_fazil@schools.gov.sg</a>
+<br><a href="mailto:wu_meiqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_meiqi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
