@@ -103,8 +103,8 @@ third_nav_title: Our People
 <p>1 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lian Huan</p>
-<p>Mdm Waheeda Bte H Ali Ibrahim</p>
+<p>Mdm Lian Huan
+<br>Mdm Waheeda Bte H Ali Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lian_huan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lian_huan@schools.gov.sg</a>
