@@ -50,8 +50,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_jasmine_williams@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jasmine_williams@schools.gov.sg</a>
-</p>
-<p><a href="mailto:tan_jia_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_hui_a@schools.gov.sg</a>
+<br><a href="mailto:tan_jia_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_hui_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -88,16 +87,14 @@ third_nav_title: Our People
 <p>6 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Wee Hoon Jennifer</p>
-<p>Mr Muhamad Aerfi Bin Abdullah</p>
-<p>Mdm Jayasutha d/o Vijaya Kumaran</p>
+<p>Mdm Leong Wee Hoon Jennifer
+<br>Mr Muhamad Aerfi Bin Abdullah
+<br>Mdm Jayasutha d/o Vijaya Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_wee_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wee_hoon@schools.gov.sg</a>
-</p>
-<p><a href="mailto:muhamad_aerfi_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_aerfi_abdullah@schools.gov.sg</a>
-</p>
-<p><a href="jayasutha_vijaya_kumaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jayasutha_vijaya_kumaran@schools.gov.sg</a>
+<br><a href="mailto:muhamad_aerfi_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_aerfi_abdullah@schools.gov.sg</a>
+<br><a href="jayasutha_vijaya_kumaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jayasutha_vijaya_kumaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -121,15 +118,13 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lawrence Chan
-<br>Mdm Jaswant Kaur d/o Gurdit Singh</p>
-<p>Mr Mohamed Salleh Bin Md Nooh</p>
+<br>Mdm Jaswant Kaur d/o Gurdit Singh
+<br>Mr Mohamed Salleh Bin Md Nooh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_sian_heng_lawrence@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_sian_heng_lawrence@schools.gov.sg</a>
-</p>
-<p><a href="mailto:jaswant_kaur_gurdit_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaswant_kaur_gurdit_singh@schools.gov.sg</a>
-</p>
-<p><a href="mailto:mohamed_salleh_md_nooh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_salleh_md_nooh@schools.gov.sg</a>
+<br><a href="mailto:jaswant_kaur_gurdit_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaswant_kaur_gurdit_singh@schools.gov.sg</a>
+<br><a href="mailto:mohamed_salleh_md_nooh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_salleh_md_nooh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -138,16 +133,14 @@ third_nav_title: Our People
 <p>6 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vikneswaran s/o Subramaniam</p>
-<p>Mr Devindra Sapai s/o Indrasapai</p>
-<p>Mr Tan Hiang Meng Stanley Ignatius</p>
+<p>Mr Vikneswaran s/o Subramaniam
+<br>Mr Devindra Sapai s/o Indrasapai
+<br>Mr Tan Hiang Meng Stanley Ignatius</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vikneswaran_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vikneswaran_subramaniam@schools.gov.sg</a>
-</p>
-<p><a href="mailto:devindra_sapai_indrasapai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">devindra_sapai_indrasapai@schools.gov.sg</a>
-</p>
-<p><a href="mailto:tan_hiang_meng_stanley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hiang_meng_stanley@schools.gov.sg</a>
+<br><a href="mailto:devindra_sapai_indrasapai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">devindra_sapai_indrasapai@schools.gov.sg</a>
+<br><a href="mailto:tan_hiang_meng_stanley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hiang_meng_stanley@schools.gov.sg</a>
 </p>
 </td>
 </tr>
