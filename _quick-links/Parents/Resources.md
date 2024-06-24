@@ -7,7 +7,8 @@ variant: markdown
 ---
 #### **Resources - 2024 (All Level)**<br><br>
 
-* **(NEW)** [Term 2 Letter To Parents (15 March 2024)](/files/Parent%20Resources/2024/2024_Term_2_Term_Notification.pdf)
+* **(NEW)**
+* [Term 2 Letter To Parents (15 March 2024)](/files/Parent%20Resources/2024/2024_Term_2_Term_Notification.pdf)
 * [P6 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P6_Curriculum_Info__Expectations___Routines_2024_website.pdf)
 * [P5 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P5_PTC_2024_for_website__3_.pdf)
 * [P4 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P4_PTC_2024_11_Jan.pdf)
