@@ -6,7 +6,12 @@ third_nav_title: General Information
 variant: tiptap
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,7 +29,7 @@ variant: tiptap
 <p>Muslim Stall (Noodles)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2024</p>
+<p>31 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
