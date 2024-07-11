@@ -18,6 +18,5 @@ services to the following schools:</p>
 <p>Anchor Green Primary School</p>
 </li>
 </ul>
-<p>To apply, please click this link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.northvistapri.moe.edu.sg/parents-and-students/school-bus-ad/</a>
+<p>To apply, please click this link: <a href="https://www.northvistapri.moe.edu.sg/parents-and-students/school-bus-ad/" rel="noopener noreferrer nofollow" target="_blank">https://www.northvistapri.moe.edu.sg/parents-and-students/school-bus-ad/</a>
 </p>
-<p></p>
