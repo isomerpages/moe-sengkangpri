@@ -14,9 +14,12 @@ Tel No.: 6384 0761
 
 **_School Bus Services:_**<br>
 KH NG Bus Transport<br>
-Mr Ng Kim Hock<br>
-Tel No.: 6281 9003<br>
-Hp No.: 9665 9003
+This is a grouped school bus service. Bus vendor is expected to provide services to the following schools:
+* North Vista Primary School
+* Seng Kang Primary School
+* Anchor Green Primary School
+
+To apply, please click this link:          [https://www.northvistapri.moe.edu.sg/parents-and-students/school-bus-ad/](https://www.northvistapri.moe.edu.sg/parents-and-students/school-bus-ad/)
 
 **_School Bookshop_**<br>
 Pacific Bookstores Pte Ltd<br>
