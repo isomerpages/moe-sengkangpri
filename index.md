@@ -18,4 +18,12 @@ sections:
         - title: SKPS Facebook
           description: Visit our FB page for updates!
           url: https://www.facebook.com/SengKangPrimarySchool/
+  - infobar:
+      title: Muslim Canteen Stall (Noodles)
+      subtitle: School advertisement
+      id: infobar
+      description: We have an opening for the mentioned stall. For further details,
+        please click on the link below.
+      button: Click Here
+      url: /about-us/general-information/school-canteen-advertisement/
 ---
