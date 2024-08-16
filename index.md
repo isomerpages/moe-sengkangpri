@@ -21,6 +21,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Cepat Tepat
+          description: Catch our SKLites in action on Suria or meWATCH in this year's
+            Cepat Tepat!
+          linktext: Learn more
+          url: https://www.moe.gov.sg/news/press-releases/20240816-language-game-show-set-to-spark-students-interest-in-malay-language-and-culture
         - title: Happy 59th Birthday Singapore!
           description: SKPS celebrated Singapore's 59th birthday with vibrancy and color!
           linktext: Learn more
@@ -33,11 +38,6 @@ sections:
           description: SKPS sent two groups to this year's exhibition, and won accolades!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0dnB1k7y5D2u3Vx33Qj7zi8xHSvtcS3EmA1XA5yjM7FNaY8nUNWJH1rU8JRZSj6i9l
-        - title: Clean Plate Campaign
-          description: SKLites are against food wastage, and have proven that in this
-            campaign!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0pxLS8BxavKC5nLKieRJZ34Qo8GdHqKS4KPdj9bdXkCqqPRAWCjcPLeTm1pTFaiyHl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
