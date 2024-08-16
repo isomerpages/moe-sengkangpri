@@ -37,7 +37,7 @@ sections:
           description: SKLites are against food wastage, and have proven that in this
             campaign!
           linktext: Learn more
-          url: ""
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0pxLS8BxavKC5nLKieRJZ34Qo8GdHqKS4KPdj9bdXkCqqPRAWCjcPLeTm1pTFaiyHl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
