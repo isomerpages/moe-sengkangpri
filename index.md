@@ -22,8 +22,7 @@ sections:
       description: This is what we have been up to recently.
       cards:
         - title: Happy 59th Birthday Singapore!
-          description: SKPS celebrated Singapore's 59th birthday on 8 Aug with vibrancy
-            and color!
+          description: SKPS celebrated Singapore's 59th birthday with vibrancy and color!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid028kv97BLapQANi3s7AHZQbSAEgyU69pthK1R93ucnD4iSdwtPQdoowgcjADVyKseKl
         - title: Math Olympiad 2024
