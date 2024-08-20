@@ -22,10 +22,10 @@ sections:
       description: This is what we have been up to recently.
       cards:
         - title: Cepat Tepat
-          description: Catch our SKLites in action on Suria or meWATCH in this year's
-            Cepat Tepat!
+          description: Well done SKLites for reaching the semi-finals in this year's Cepat
+            Tepat!
           linktext: Learn more
-          url: https://www.moe.gov.sg/news/press-releases/20240816-language-game-show-set-to-spark-students-interest-in-malay-language-and-culture
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0SNMzZN7SKr82HazJHidF88PmQjETWq43wCRHjCSAN51U1uZYkxzaYHqa8AoZzF1Vl
         - title: Happy 59th Birthday Singapore!
           description: SKPS celebrated Singapore's 59th birthday with vibrancy and color!
           linktext: Learn more
