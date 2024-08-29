@@ -21,6 +21,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Rise & Shine!
+          description: In our latest podcast, SKPS talks about the school holidays!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/videos/1904187073419201/
         - title: Cepat Tepat
           description: Well done SKLites for reaching the semi-finals in this year's Cepat
             Tepat!
@@ -34,10 +38,6 @@ sections:
           description: Kudos to our SKLites who participated in this year's Math Olympiad!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02t8gUq53zaMtaReFkWcrUaYTaWxBFgMi8rbtfgQ23a5TjnbAnNwC5i7bWAM3QBDFel
-        - title: 22nd Elementz Science Exhibition
-          description: SKPS sent two groups to this year's exhibition, and won accolades!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0dnB1k7y5D2u3Vx33Qj7zi8xHSvtcS3EmA1XA5yjM7FNaY8nUNWJH1rU8JRZSj6i9l
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
