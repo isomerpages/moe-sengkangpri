@@ -25,7 +25,7 @@ sections:
           description: SKLites performed at Sengkang CC's National Day Observance Ceremony!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0n59cQfZxHzJPsmNEnDqH8WxuGnbyycJb7iEzTLgN3VsgnSJUUx64go78Cmf1yhDDl
-        - title: NSG Basketball Championship
+        - title: NSG Basketball Championship!
           description: SKPS' b-ball girls clinched First Place in their respective leagues
             at the NSG!
           linktext: Learn more
