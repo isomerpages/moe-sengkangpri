@@ -21,7 +21,7 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
-        - title: NSG Basketball
+        - title: NSG Basketball Championship
           description: SKPS' b-ball girls clinched First Place in their respective leagues
             at the NSG!
           linktext: Learn more
