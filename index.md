@@ -21,6 +21,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Handbells Ensemble
+          description: SKLites performed at Sengkang CC's National Day Observance Ceremony!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0n59cQfZxHzJPsmNEnDqH8WxuGnbyycJb7iEzTLgN3VsgnSJUUx64go78Cmf1yhDDl
         - title: NSG Basketball Championship
           description: SKPS' b-ball girls clinched First Place in their respective leagues
             at the NSG!
@@ -34,11 +38,6 @@ sections:
           description: In our latest podcast, SKPS talks about the school holidays!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/videos/1904187073419201/
-        - title: Cepat Tepat
-          description: Well done SKLites for reaching the semi-finals in this year's Cepat
-            Tepat!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0SNMzZN7SKr82HazJHidF88PmQjETWq43wCRHjCSAN51U1uZYkxzaYHqa8AoZzF1Vl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
