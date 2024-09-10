@@ -21,23 +21,24 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
-        - title: Rise & Shine!
-          description: In our latest podcast, SKPS talks about the school holidays!
+        - title: Handbells Ensemble
+          description: SKLites performed at Sengkang CC's National Day Observance Ceremony!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/videos/1904187073419201/
-        - title: Cepat Tepat
-          description: Well done SKLites for reaching the semi-finals in this year's Cepat
-            Tepat!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0n59cQfZxHzJPsmNEnDqH8WxuGnbyycJb7iEzTLgN3VsgnSJUUx64go78Cmf1yhDDl
+        - title: NSG Basketball Championship!
+          description: SKPS' b-ball girls clinched First Place in their respective leagues
+            at the NSG!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0SNMzZN7SKr82HazJHidF88PmQjETWq43wCRHjCSAN51U1uZYkxzaYHqa8AoZzF1Vl
-        - title: Happy 59th Birthday Singapore!
-          description: SKPS celebrated Singapore's 59th birthday with vibrancy and color!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02mhJiNuisBkymj1RHFj9u8yrtRukvb94gC2U23CysUbBTWG8BVMJK4BemL5PSWpS4l
+        - title: Super Cyber Champions!
+          description: Presenting SKLites' Super Cyber Champions for Term 3!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid028kv97BLapQANi3s7AHZQbSAEgyU69pthK1R93ucnD4iSdwtPQdoowgcjADVyKseKl
-        - title: Math Olympiad 2024
-          description: Kudos to our SKLites who participated in this year's Math Olympiad!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0AuDKZoEbSHECHHzNc4Le75Lme6jxfjmKHrdGFpiEywx7WuTA8fwMRxTKoBzML6Gpl
+        - title: Math Recess Play
+          description: SKPS had their Math Recess Play last term, from what they had
+            learnt in class!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02t8gUq53zaMtaReFkWcrUaYTaWxBFgMi8rbtfgQ23a5TjnbAnNwC5i7bWAM3QBDFel
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0udC2qZoyz2bsywb3tp4WYfTH4B3QXrQNjNtDKQ53GutXY1FY3gxrhee6TmvCMJXrl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
