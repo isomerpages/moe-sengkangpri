@@ -21,6 +21,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: NSG Basketball
+          description: SKPS' b-ball girls clinched First Place in their respective leagues
+            at the NSG!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02mhJiNuisBkymj1RHFj9u8yrtRukvb94gC2U23CysUbBTWG8BVMJK4BemL5PSWpS4l
         - title: Super Cyber Champions!
           description: Presenting SKLites' Super Cyber Champions for Term 3!
           linktext: Learn more
@@ -34,10 +39,6 @@ sections:
             Tepat!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0SNMzZN7SKr82HazJHidF88PmQjETWq43wCRHjCSAN51U1uZYkxzaYHqa8AoZzF1Vl
-        - title: Happy 59th Birthday Singapore!
-          description: SKPS celebrated Singapore's 59th birthday with vibrancy and color!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid028kv97BLapQANi3s7AHZQbSAEgyU69pthK1R93ucnD4iSdwtPQdoowgcjADVyKseKl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
