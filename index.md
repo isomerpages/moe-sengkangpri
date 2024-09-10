@@ -21,6 +21,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Super Cyber Champions!
+          description: Presenting SKLites' Super Cyber Champions for Term 3!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0AuDKZoEbSHECHHzNc4Le75Lme6jxfjmKHrdGFpiEywx7WuTA8fwMRxTKoBzML6Gpl
         - title: Rise & Shine!
           description: In our latest podcast, SKPS talks about the school holidays!
           linktext: Learn more
@@ -34,10 +38,6 @@ sections:
           description: SKPS celebrated Singapore's 59th birthday with vibrancy and color!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid028kv97BLapQANi3s7AHZQbSAEgyU69pthK1R93ucnD4iSdwtPQdoowgcjADVyKseKl
-        - title: Math Olympiad 2024
-          description: Kudos to our SKLites who participated in this year's Math Olympiad!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02t8gUq53zaMtaReFkWcrUaYTaWxBFgMi8rbtfgQ23a5TjnbAnNwC5i7bWAM3QBDFel
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
