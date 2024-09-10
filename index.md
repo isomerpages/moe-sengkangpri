@@ -34,10 +34,11 @@ sections:
           description: Presenting SKLites' Super Cyber Champions for Term 3!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0AuDKZoEbSHECHHzNc4Le75Lme6jxfjmKHrdGFpiEywx7WuTA8fwMRxTKoBzML6Gpl
-        - title: Rise & Shine!
-          description: In our latest podcast, SKPS talks about the school holidays!
+        - title: Math Recess Play
+          description: SKPS had their Math Recess Play last term, from what they had
+            learnt in class!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/videos/1904187073419201/
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0udC2qZoyz2bsywb3tp4WYfTH4B3QXrQNjNtDKQ53GutXY1FY3gxrhee6TmvCMJXrl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
