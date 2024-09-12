@@ -21,6 +21,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: NPGC3 2024!
+          description: SKPS are Champions at this yr's Nation Pri Games Creation & Coding
+            Competition!
+          linktext: Learn more
+          url: https://sites.google.com/view/skps-makerspace-2021/npgc3-2024-champion-of-best-game-award
         - title: Handbells Ensemble
           description: SKLites performed at Sengkang CC's National Day Observance Ceremony!
           linktext: Learn more
@@ -34,11 +39,6 @@ sections:
           description: Presenting SKLites' Super Cyber Champions for Term 3!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0AuDKZoEbSHECHHzNc4Le75Lme6jxfjmKHrdGFpiEywx7WuTA8fwMRxTKoBzML6Gpl
-        - title: Math Recess Play
-          description: SKPS had their Math Recess Play last term, from what they had
-            learnt in class!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0udC2qZoyz2bsywb3tp4WYfTH4B3QXrQNjNtDKQ53GutXY1FY3gxrhee6TmvCMJXrl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
