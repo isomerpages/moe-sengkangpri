@@ -22,7 +22,7 @@ sections:
       description: This is what we have been up to recently.
       cards:
         - title: NPGC3 2024!
-          description: SKPS are Champions at this yr's Nation Pri Games Creation & Coding
+          description: SKPS are Champions at the National Primary Games Creation & Coding
             Competition!
           linktext: Learn more
           url: https://sites.google.com/view/skps-makerspace-2021/npgc3-2024-champion-of-best-game-award
