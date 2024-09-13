@@ -25,7 +25,7 @@ sections:
           description: SKPS are Champions at the National Primary Games Creation & Coding
             Competition!
           linktext: Learn more
-          url: https://sites.google.com/view/skps-makerspace-2021/npgc3-2024-champion-of-best-game-award
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02d33tbnFkyQp6vNgJKCRQLZ3MzVJ2jiV6THYDdLw3zGdVtPDZdcG3GcJhjxriGbrsl
         - title: Handbells Ensemble
           description: SKLites performed at Sengkang CC's National Day Observance Ceremony!
           linktext: Learn more
