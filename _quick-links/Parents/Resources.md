@@ -16,8 +16,10 @@ variant: markdown
 * [P2 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P2_PTC_2024_upload__1_.pdf)
 * [Term 1 Letter To Parents (29 December 2023)](/files/Parent%20Resources/2024/2024_term_1_notification.pdf)
 
-#### **Primary 4 Student - 2024**<br><br>
-* 
+#### **(NEW) Primary 4 Student - 2024**<br><br>
+
+* **(NEW)** [P4 SBB Briefing 2024](/files/P4_SBB_Briefing_2024.pdf)
+* **(NEW)** [P4 SBB FAQ 2024](/files/P4_SBB_FAQ_2024.pdf)
 
 #### **Primary 1 Student - 2024**<br><br>
 
