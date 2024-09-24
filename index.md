@@ -21,6 +21,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Team Chess Winners!
+          description: Our SKLites won 3rd place at the national chess championships this
+            year!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid028bSMRmwRhreDE2e7SRBkvtsSMBRDhqU8jQ47KC2iTM2mZeh6Ac5331nUpA8fTdbql
         - title: NPGC3 2024!
           description: SKPS are Champions at the National Primary Games Creation & Coding
             Competition!
@@ -35,10 +40,6 @@ sections:
             at the NSG!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02mhJiNuisBkymj1RHFj9u8yrtRukvb94gC2U23CysUbBTWG8BVMJK4BemL5PSWpS4l
-        - title: Super Cyber Champions!
-          description: Presenting SKLites' Super Cyber Champions for Term 3!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0AuDKZoEbSHECHHzNc4Le75Lme6jxfjmKHrdGFpiEywx7WuTA8fwMRxTKoBzML6Gpl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
