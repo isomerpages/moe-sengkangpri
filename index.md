@@ -21,6 +21,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Most Inspiring Tamil Teacher Award
+          description: SKLites' Mdm Jayasutha received the award for her passion in
+            teaching the TL!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0LWr9S64keSWuSGt2KQQpSJ8YSPdED9BJ1sh7p6PaQTooCiT8F33ozAGXHUqN316cl
         - title: Schools Digital Media Award
           description: SKPS is proud to clinch commendation at the Schools Digital Media
             Award!
@@ -36,10 +41,6 @@ sections:
             Competition!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02d33tbnFkyQp6vNgJKCRQLZ3MzVJ2jiV6THYDdLw3zGdVtPDZdcG3GcJhjxriGbrsl
-        - title: Handbells Ensemble
-          description: SKLites performed at Sengkang CC's National Day Observance Ceremony!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0n59cQfZxHzJPsmNEnDqH8WxuGnbyycJb7iEzTLgN3VsgnSJUUx64go78Cmf1yhDDl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
