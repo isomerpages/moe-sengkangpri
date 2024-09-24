@@ -22,8 +22,8 @@ sections:
       description: This is what we have been up to recently.
       cards:
         - title: Team Chess Winners!
-          description: Our SKLites won 3rd place at the national chess championships this
-            year!
+          description: Our SKLites won 3rd place at this year's national chess
+            championships!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid028bSMRmwRhreDE2e7SRBkvtsSMBRDhqU8jQ47KC2iTM2mZeh6Ac5331nUpA8fTdbql
         - title: NPGC3 2024!
