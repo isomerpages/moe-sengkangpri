@@ -21,6 +21,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Schools Digital Media Award
+          description: SKPS is proud to clinch commendation at the Schools Digital Media
+            Award!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid027Z3Yjha4KMGUfwCTHrr6JoehxmJnqx44zdJqvjC8kH2Dr8jSUTmFGhz8KgzQXfs6l
         - title: Team Chess Winners!
           description: Our SKLites won 3rd place at this year's national chess
             championships!
@@ -35,11 +40,6 @@ sections:
           description: SKLites performed at Sengkang CC's National Day Observance Ceremony!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0n59cQfZxHzJPsmNEnDqH8WxuGnbyycJb7iEzTLgN3VsgnSJUUx64go78Cmf1yhDDl
-        - title: NSG Basketball Championship!
-          description: SKPS' b-ball girls clinched First Place in their respective leagues
-            at the NSG!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02mhJiNuisBkymj1RHFj9u8yrtRukvb94gC2U23CysUbBTWG8BVMJK4BemL5PSWpS4l
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
