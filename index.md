@@ -21,6 +21,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Cyber Wellness Carnival!
+          description: SKPS had a great time at today's Cyber Wellness & Media Literacy
+            Carnival!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/videos/808202718194491
         - title: Most Inspiring Tamil Teacher Award
           description: SKLites' Mdm Jayasutha received the award for her passion in
             teaching the TL!
@@ -36,11 +41,6 @@ sections:
             championships!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid028bSMRmwRhreDE2e7SRBkvtsSMBRDhqU8jQ47KC2iTM2mZeh6Ac5331nUpA8fTdbql
-        - title: NPGC3 2024!
-          description: SKPS are Champions at the National Primary Games Creation & Coding
-            Competition!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02d33tbnFkyQp6vNgJKCRQLZ3MzVJ2jiV6THYDdLw3zGdVtPDZdcG3GcJhjxriGbrsl
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
