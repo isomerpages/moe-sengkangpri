@@ -48,7 +48,7 @@ sections:
       description: To register your interest for YMCA student care service, please
         click on the link below.
       button: Click Here
-      url: /about-us/general-information/school-canteen-advertisement/
+      url: /quick-links/parents/ymca-skps-2025-intake/
   - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
