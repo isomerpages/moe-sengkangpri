@@ -42,6 +42,14 @@ sections:
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid028bSMRmwRhreDE2e7SRBkvtsSMBRDhqU8jQ47KC2iTM2mZeh6Ac5331nUpA8fTdbql
   - infobar:
+      title: Registration of Interest for YMCA Student Care Service
+      subtitle: FOR 2025 PRIMARY ONE PARENTS
+      id: infobar
+      description: To register your interest for YMCA student care service, please
+        click on the link below.
+      button: Click Here
+      url: /about-us/general-information/school-canteen-advertisement/
+  - infobar:
       title: Muslim Canteen Stall (Noodles)
       subtitle: School advertisement
       id: infobar
