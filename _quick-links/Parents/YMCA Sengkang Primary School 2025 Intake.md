@@ -5,15 +5,10 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h2><strong>Registration of Interest Form for YMCA Student Care Service (2025 Primary One)</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_01_145117.png">
+</div>
 <ul data-tight="true" class="tight">
-<li>
-<p>Please complete all sections of the form and submit by <strong>20 October 2024 (Sunday)</strong>.
-Only duly completed forms will be processed. You will be notified the outcome
-of the application status <strong>by email on 31 October 2024 (Thursday)</strong>.
-<br><em>*Please submit ONE form per child</em>
-</p>
-</li>
 <li>
 <p>To register your interest, click on or scan the QR code below:</p>
 </li>
