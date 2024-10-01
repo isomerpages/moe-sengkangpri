@@ -11,7 +11,7 @@ variant: tiptap
 <p>Please complete all sections of the form and submit by <strong>20 October 2024 (Sunday)</strong>.
 Only duly completed forms will be processed. You will be notified the outcome
 of the application status <strong>by email on 31 October 2024 (Thursday)</strong>.
-<br><em>*Please only submit ONE form per child</em>
+<br><em>*Please submit ONE form per child</em>
 </p>
 </li>
 <li>
