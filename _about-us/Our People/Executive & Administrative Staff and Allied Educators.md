@@ -98,22 +98,50 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Special Education Needs Officers (SENOs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mariati Bte Yusoff
-<br>Mdm Yong Fong Ling
-<br>Mr Mohammad Azhari Bin Basiran
-<br>Mdm Nazaratul Farhana Ridzuan Ajmain
-<br>Mr Ong Chun Han</p>
+<p>Mdm Mariati Bte Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mariati_yusoff@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariati_yusoff@schools.gov.sg</a>
-<br><a href="mailto:yong_fong_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_fong_ling@schools.gov.sg</a>
-<br><a href="mailto:mohd_azhari_basiran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_azhari_basiran@schools.gov.sg</a>
-<br><a href="mailto:nazaratul_farhana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazaratul_farhana@schools.gov.sg</a>
-<br><a href="mailto:ong_chun_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chun_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yong Fong Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yong_fong_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_fong_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Azhari Bin Basiran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_azhari_basiran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_azhari_basiran@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nazaratul Farhana Ridzuan Ajmain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nazaratul_farhana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazaratul_farhana@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Chun Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_chun_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chun_han@schools.gov.sg</a>
 </p>
 </td>
 </tr>
