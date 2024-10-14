@@ -55,11 +55,11 @@ variant: markdown
 
 | Name of MOE Social Media | URL (Left-Click Below) |
 | --- | --- |
-| Facebook/MOESingapore | [https://www.facebook.com/moesingapore/](https://www.facebook.com/moesingapore/)[](https://icon.moe.edu.sg/)[](https://www.academyofsingaporeteachers.moe.gov.sg/)[](https://icon.moe.edu.sg/) |
+| Facebook/MOESingapore | [https://www.facebook.com/moesingapore/](https://www.facebook.com/moesingapore/) |
 | Instagram/MOESingapore | [https://www.instagram.com/moesingapore/?hl=en](https://www.instagram.com/moesingapore/?hl=en)[](https://schoolcockpit.moe.gov.sg/)[](https://opal2.moe.edu.sg/)[](https://schoolcockpit.moe.gov.sg/) |
-| Instagram/Parentingwith.MOESG | [](https://www.hrp.gov.sg/)[https://www.instagram.com/parentingwith.moesg/?hl=en](https://www.instagram.com/parentingwith.moesg/?hl=en)[](https://go.gov.sg/SFEd)  |
-| Twitter/MOESG | [https://twitter.com/moesg?lang=en](https://twitter.com/moesg?lang=en)[](https://intranet.moe.gov.sg/hronline)[](https://vle.learning.moe.edu.sg/) |
-| TikTok/MOESingapore | [https://www.tiktok.com/@moesingapore](https://www.tiktok.com/@moesingapore)[](https://intranet.moe.gov.sg/)[](https://www.myskillsfuture.sg/primary)|
-| Youtube/MOESingapore  | [https://www.youtube.com/user/moespore](https://www.youtube.com/user/moespore)[](https://pacgov.agd.gov.sg/) |
+| Instagram/Parentingwith.MOESG | [](https://www.hrp.gov.sg/)[https://www.instagram.com/parentingwith.moesg/?hl=en](https://www.instagram.com/parentingwith.moesg/?hl=en)[](https://go.gov.sg/SFEd) |
+| Twitter/MOESG | [https://twitter.com/moesg?lang=en](https://twitter.com/moesg?lang=en) |
+| TikTok/MOESingapore | [https://www.tiktok.com/@moesingapore](https://www.tiktok.com/@moesingapore) |
+| Youtube/MOESingapore  | [https://www.youtube.com/user/moespore](https://www.youtube.com/user/moespore) |
 | SchoolBag/The Education News Site  | [](https://iexams.seab.gov.sg%20/)[https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/) |
 | SchoolBag/Telegram  | [](https://pg.moe.edu.sg%20/)[https://t.me/schoolbag\_edu\_sg](https://t.me/schoolbag_edu_sg) |
