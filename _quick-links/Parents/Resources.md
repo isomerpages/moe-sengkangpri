@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+#### **(NEW) Primary 1 Student - 2025**<br><br>
+
+* **(NEW)** [2025 Primary 1 Orientation Booklet](/files/2025_Primary_1_Orientation_Booklet.pdf)
+*  **(NEW)** [Primary 1 Orientation (FAQ)](/files/Primary_One_Orientation__FAQ_.pdf)
+
+
 #### **(NEW) Primary 4 Student - 2024**<br><br>
 
 * **(NEW)** [P4 SBB Briefing 2024](/files/P4_SBB_Briefing_2024.pdf)
@@ -22,14 +28,6 @@ variant: markdown
 * [P2 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P2_PTC_2024_upload__1_.pdf)
 * [Term 1 Letter To Parents (29 December 2023)](/files/Parent%20Resources/2024/2024_term_1_notification.pdf)
 
-
-#### **Primary 1 Student - 2024**<br><br>
-
-* [Primary One Parent Briefing 2024 (Briefing on 2 Jan 2024)](/files/Parent%20Resources/2024/P1_Parent_Briefing_2024_2_Jan_1_.pdf)
-*  [Primary One Orientation 2024 (Briefing on 7 Nov 2023)](/files/Parent%20Resources/2023/primary%20one%20orientation%202024%20(briefing%20on%207%20nov%202023).pdf)
-*  [Primary 1 Orientation November 2023 (Video)](https://drive.google.com/file/d/1UAny3tHnpIYKkC8MFH6xSZEw2S2grvvb/view?usp=sharing)
-*  [2024 Primary 1 Orientation Booklet](/files/Parent%20Resources/2023/2024%20p1%20orientation%20booklet.pdf)
-*  [Primary 1 Parent Orientation (FAQ)](/files/Parent%20Resources/2023/frequently%20asked%20questions_p1%20parent%20orientation.pdf)
 
 #### **Primary 1 to Primary 6 Book and Stationery Lists - 2024**<br><br>
 
