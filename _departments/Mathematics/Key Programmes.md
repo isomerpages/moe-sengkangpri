@@ -25,8 +25,6 @@ variant: markdown
 
 2. [Mathwords](http://www.mathwords.com/)
 
-3. [A Maths Dictionary for Kids](http://www.amathsdictionaryforkids.com)
-
 
 **MOE Excel Fest**
 
