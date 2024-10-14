@@ -49,17 +49,15 @@ variant: markdown
 
 * [Book and Stationery List Primary 6 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6__FDN_.pdf)
 
-
-
 <br>
 
 | Name of MOE Social Media | URL (Left-Click Below) |
 | --- | --- |
 | Facebook/MOESingapore | [https://www.facebook.com/moesingapore/](https://www.facebook.com/moesingapore/) |
 | Instagram/MOESingapore | [https://www.instagram.com/moesingapore/?hl=en](https://www.instagram.com/moesingapore/?hl=en) |
-| Instagram/Parentingwith.MOESG | [](https://www.hrp.gov.sg/)[https://www.instagram.com/parentingwith.moesg/?hl=en](https://www.instagram.com/parentingwith.moesg/?hl=en)[](https://go.gov.sg/SFEd) |
+| Instagram/Parentingwith.MOESG | [https://www.instagram.com/parentingwith.moesg/?hl=en](https://www.instagram.com/parentingwith.moesg/?hl=en) |
 | Twitter/MOESG | [https://twitter.com/moesg?lang=en](https://twitter.com/moesg?lang=en) |
 | TikTok/MOESingapore | [https://www.tiktok.com/@moesingapore](https://www.tiktok.com/@moesingapore) |
 | Youtube/MOESingapore  | [https://www.youtube.com/user/moespore](https://www.youtube.com/user/moespore) |
-| SchoolBag/The Education News Site  | [](https://iexams.seab.gov.sg%20/)[https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/) |
-| SchoolBag/Telegram  | [](https://pg.moe.edu.sg%20/)[https://t.me/schoolbag\_edu\_sg](https://t.me/schoolbag_edu_sg) |
+| SchoolBag/The Education News Site  | [https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/) |
+| SchoolBag/Telegram  | [https://t.me/schoolbag\_edu\_sg](https://t.me/schoolbag_edu_sg) |
