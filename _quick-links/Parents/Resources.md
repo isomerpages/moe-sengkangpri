@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+#### **(NEW) Primary 1 Student - 2025**<br><br>
+
+* **(NEW)** [2025 Primary 1 Orientation Booklet](/files/2025_Primary_1_Orientation_Booklet.pdf)
+*  **(NEW)** [Primary 1 Orientation (FAQ)](/files/Primary_One_Orientation__FAQ_.pdf)
+
 #### **(NEW) Primary 4 Student - 2024**<br><br>
 
 * **(NEW)** [P4 SBB Briefing 2024](/files/P4_SBB_Briefing_2024.pdf)
