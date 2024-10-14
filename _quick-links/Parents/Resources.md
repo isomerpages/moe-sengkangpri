@@ -56,7 +56,7 @@ variant: markdown
 | Name of MOE Social Media | URL (Left-Click Below) |
 | --- | --- |
 | Facebook/MOESingapore | [https://www.facebook.com/moesingapore/](https://www.facebook.com/moesingapore/) |
-| Instagram/MOESingapore | [https://www.instagram.com/moesingapore/?hl=en](https://www.instagram.com/moesingapore/?hl=en)[](https://schoolcockpit.moe.gov.sg/)[](https://opal2.moe.edu.sg/)[](https://schoolcockpit.moe.gov.sg/) |
+| Instagram/MOESingapore | [https://www.instagram.com/moesingapore/?hl=en](https://www.instagram.com/moesingapore/?hl=en) |
 | Instagram/Parentingwith.MOESG | [](https://www.hrp.gov.sg/)[https://www.instagram.com/parentingwith.moesg/?hl=en](https://www.instagram.com/parentingwith.moesg/?hl=en)[](https://go.gov.sg/SFEd) |
 | Twitter/MOESG | [https://twitter.com/moesg?lang=en](https://twitter.com/moesg?lang=en) |
 | TikTok/MOESingapore | [https://www.tiktok.com/@moesingapore](https://www.tiktok.com/@moesingapore) |
