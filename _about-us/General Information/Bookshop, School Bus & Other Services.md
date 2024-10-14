@@ -38,4 +38,4 @@ Walk-in purchase at retail outlet is strictly by Appointment only, please be rem
 YMCA SCC @ Seng Kang<br>
 Tel: 9151 3590<br>
 Email:&nbsp;[**skscc@ymca.edu.sg**](mailto:skscc@ymca.edu.sg)<br>
-Website:&nbsp;[**www.ymca.org.sg/cdcscc**](http://www.ymca.org.sg/cdcscc)
+Website:&nbsp;**[YMCA Education Services | YMCA of Singapore](https://www.ymca.org.sg/education/ymca-education-services/)**
