@@ -21,6 +21,15 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Math Learning Day
+          description: SKPS explored Math via interactive games with much learning and
+            discovery!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid031mfzbwCzvxnwtpVWNdoNkruq4UdPdzMx7Yo3Wya1LyoV6uVrKCd77As2oXd3Nexyl
+        - title: Children's Day!
+          description: Our SKLites celebrated Children's Day with colours galore!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0DoREHE1R9Vrk2o1TcQcVrW6ios3x5DDid2duT5ma7S9Sm1ERuZUgAhhPTFPjxwjEl
         - title: Cyber Wellness Carnival!
           description: SKPS had a great time at today's Cyber Wellness & Media Literacy
             Carnival!
@@ -31,16 +40,6 @@ sections:
             teaching the TL!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0LWr9S64keSWuSGt2KQQpSJ8YSPdED9BJ1sh7p6PaQTooCiT8F33ozAGXHUqN316cl
-        - title: Schools Digital Media Award
-          description: SKPS is proud to clinch commendation at the Schools Digital Media
-            Award!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid027Z3Yjha4KMGUfwCTHrr6JoehxmJnqx44zdJqvjC8kH2Dr8jSUTmFGhz8KgzQXfs6l
-        - title: Team Chess Winners!
-          description: Our SKLites won 3rd place at this year's national chess
-            championships!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid028bSMRmwRhreDE2e7SRBkvtsSMBRDhqU8jQ47KC2iTM2mZeh6Ac5331nUpA8fTdbql
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
       subtitle: FOR 2025 PRIMARY ONE PARENTS
