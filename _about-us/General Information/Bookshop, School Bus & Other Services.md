@@ -20,7 +20,7 @@ Hp No.: 9665 9003
 
 **_School Bookshop_**<br>
 Pacific Bookstores Pte Ltd<br>
-Tel: 6875 4294<br>
+Tel: 9435 5961 (Whatsapp only)<br>
 Email: sales@pacificbookstores.com<br>
 
 **_School Uniform:_**<br>
