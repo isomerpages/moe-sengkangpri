@@ -21,6 +21,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: SKLites Rise & Shine!
+          description: In this podcast, let's find out who to reach out to when we are down!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/videos/915187070533074
         - title: Math Learning Day
           description: SKPS explored Math via interactive games with much learning and
             discovery!
@@ -35,11 +39,6 @@ sections:
             Carnival!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/videos/808202718194491
-        - title: Most Inspiring Tamil Teacher Award
-          description: SKLites' Mdm Jayasutha received the award for her passion in
-            teaching the TL!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0LWr9S64keSWuSGt2KQQpSJ8YSPdED9BJ1sh7p6PaQTooCiT8F33ozAGXHUqN316cl
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
       subtitle: FOR 2025 PRIMARY ONE PARENTS
