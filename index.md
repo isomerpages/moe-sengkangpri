@@ -21,24 +21,25 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: SKPS@Instagram!
+          description: SKPS is excited to share its Instagram @sengkangprimaryschool with
+            everyone!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0radLSAm26w5aG2TUNA4GKGW92RfKy5SVxFxfgBq3u2hX8vobfhCgJQXtQSkjxoGAl
+        - title: Food Rescue@SKPS!
+          description: Our SKLites learnt about best practices and good habits on reducing
+            food waste!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02iyXXFc8EpkzafrsGNchmHyScAyaPjNGdHzoccFXeJYxKfQtWVfzwbYHJTojAkNkPl
+        - title: Creative Design Challenge!
+          description: SKPS' P6s took on a creative design challenge to envision a
+            sustainable school!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02sd276FsKu2cjczVurpHaLZbkvrKUTCykGtkwFB4h3jAf7BeepeHQFjw4uh34yM6ul
         - title: SKLites Rise & Shine!
           description: In this podcast, let's find out who to reach out to when we are down!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/videos/915187070533074
-        - title: Math Learning Day
-          description: SKPS explored Math via interactive games with much learning and
-            discovery!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid031mfzbwCzvxnwtpVWNdoNkruq4UdPdzMx7Yo3Wya1LyoV6uVrKCd77As2oXd3Nexyl
-        - title: Children's Day!
-          description: Our SKLites celebrated Children's Day with colours galore!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0DoREHE1R9Vrk2o1TcQcVrW6ios3x5DDid2duT5ma7S9Sm1ERuZUgAhhPTFPjxwjEl
-        - title: Cyber Wellness Carnival!
-          description: SKPS had a great time at today's Cyber Wellness & Media Literacy
-            Carnival!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/videos/808202718194491
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
       subtitle: FOR 2025 PRIMARY ONE PARENTS
