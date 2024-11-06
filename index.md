@@ -21,25 +21,26 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Muara Festival 2024!
+          description: Our SKLites' Malay Dance team were invited to perform at the Muara
+            Festival!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0rdaXpHce3bTJaTMmgnCgDrc4ewDD1gYAZfekMJzZdNZH3Qy1FzFuu6GiNUnmPEAnl
+        - title: Sec School Showcase!
+          description: SKPS welcomed 8 sec schools at this year's showcase, for our P6s to
+            know more!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0W8PaTSJj2gcxcvUzTAPcqih5tYh4xQEtjB1kpF1MmafYZqjEzh8YX3dCdGNvuC1Jl
+        - title: Rosyth Imagine Cup Challenge!
+          description: It was a pleasant surprise as 5 SKLites clinched Gold at this
+            year's ICC!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02kjeADkHDj9pd1mQVqMs719Synv2XuFuxHBhdkiWfcXc4dFEuq9n2pAJwgEXyQ58Ul
         - title: SKPS@Instagram!
           description: SKPS is excited to share its Instagram @sengkangprimaryschool with
             everyone!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0radLSAm26w5aG2TUNA4GKGW92RfKy5SVxFxfgBq3u2hX8vobfhCgJQXtQSkjxoGAl
-        - title: Food Rescue@SKPS!
-          description: Our SKLites learnt about best practices and good habits on reducing
-            food waste!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02iyXXFc8EpkzafrsGNchmHyScAyaPjNGdHzoccFXeJYxKfQtWVfzwbYHJTojAkNkPl
-        - title: Creative Design Challenge!
-          description: SKPS' P6s took on a creative design challenge to envision a
-            sustainable school!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02sd276FsKu2cjczVurpHaLZbkvrKUTCykGtkwFB4h3jAf7BeepeHQFjw4uh34yM6ul
-        - title: SKLites Rise & Shine!
-          description: In this podcast, let's find out who to reach out to when we are down!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/videos/915187070533074
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
       subtitle: FOR 2025 PRIMARY ONE PARENTS
