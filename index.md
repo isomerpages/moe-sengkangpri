@@ -21,26 +21,25 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
-        - title: Muara Festival 2024!
-          description: Our SKLites' Malay Dance team were invited to perform at the Muara
-            Festival!
+        - title: PinnaCle Challenge!
+          description: Our SKLites' seniors took part in the event, clinching 1st in Math
+            and Sci!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0rdaXpHce3bTJaTMmgnCgDrc4ewDD1gYAZfekMJzZdNZH3Qy1FzFuu6GiNUnmPEAnl
-        - title: Sec School Showcase!
-          description: SKPS welcomed 8 sec schools at this year's showcase, for our P6s to
-            know more!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02AFMECvCFYohKEXneDqyRhWN8d8S61t1C1VbKkaPfdyHWUnSzgNcA9WtK8uvWhrGpl
+        - title: Post Spin-a-Tale!
+          description: SKPS hosted a memorable post Spin-a-Tale event for participating
+            cluster schs!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0W8PaTSJj2gcxcvUzTAPcqih5tYh4xQEtjB1kpF1MmafYZqjEzh8YX3dCdGNvuC1Jl
-        - title: Rosyth Imagine Cup Challenge!
-          description: It was a pleasant surprise as 5 SKLites clinched Gold at this
-            year's ICC!
+        - title: Drone Xperience!
+          description: SKLites' seniors were treated to an experiential drone e(X)perience!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02kjeADkHDj9pd1mQVqMs719Synv2XuFuxHBhdkiWfcXc4dFEuq9n2pAJwgEXyQ58Ul
-        - title: SKPS@Instagram!
-          description: SKPS is excited to share its Instagram @sengkangprimaryschool with
-            everyone!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02rUqnbKci2QhzDDahyx9J7chpyJJWRcP3LZnnqRZhYAFawdQt95BSTmK8Jup9i8X9l
+        - title: Festival of Lights!
+          description: SKPS is excited to share its Deepavali school celebrations held
+            recently!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0radLSAm26w5aG2TUNA4GKGW92RfKy5SVxFxfgBq3u2hX8vobfhCgJQXtQSkjxoGAl
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02ms4PPceRW5FWGtHKimD2L4t8oD2mHCjzQmzg2HZW2hVmNPcp5RJSDgwgXzJTHVMjl
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
       subtitle: FOR 2025 PRIMARY ONE PARENTS
