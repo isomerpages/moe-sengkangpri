@@ -40,6 +40,26 @@ sections:
             recently!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02ms4PPceRW5FWGtHKimD2L4t8oD2mHCjzQmzg2HZW2hVmNPcp5RJSDgwgXzJTHVMjl
+  - infopic:
+      title: President's Award for Teachers (PAT)
+      subtitle: MOE Advertisement
+      id: infopic
+      description: Nominations for this year's PAT is now open! Kindly click on the
+        link below to nominate the teachers deserving of the award.
+      button: Click Here
+      url: https://go.gov.sg/pat2025
+      image: /images/Slide1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Outstanding Youth in Education Award (OYEA)
+      subtitle: MOE Advertisement
+      id: infopic
+      description: Nominations for the OYEA 2025 is now open! Kindly click on the link
+        below to nominate the teachers deserving of the award.
+      button: Click Here
+      url: https://go.gov.sg/oyea2025
+      image: /images/Slide2.jpg
+      alt: Image alt text
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
       subtitle: FOR 2025 PRIMARY ONE PARENTS
