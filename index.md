@@ -21,6 +21,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Learning is Fun Carnival!
+          description: SKPS' lower primary students had a fun day of learning at the
+            carnival!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02434sWVXG4Erncf5cbXCkhsZECPQocHQKL18vqWZ1aYHmBzscPKdVr6VZuTKiVYyol
         - title: PinnaCle Challenge!
           description: Our SKLites' seniors took part in the event, clinching 1st in Math
             and Sci!
@@ -35,11 +40,26 @@ sections:
           description: SKLites' seniors were treated to an experiential drone e(X)perience!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02rUqnbKci2QhzDDahyx9J7chpyJJWRcP3LZnnqRZhYAFawdQt95BSTmK8Jup9i8X9l
-        - title: Festival of Lights!
-          description: SKPS is excited to share its Deepavali school celebrations held
-            recently!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02ms4PPceRW5FWGtHKimD2L4t8oD2mHCjzQmzg2HZW2hVmNPcp5RJSDgwgXzJTHVMjl
+  - infopic:
+      title: President's Award for Teachers (PAT)
+      subtitle: MOE Advertisement
+      id: infopic
+      description: Nominations for this year's PAT is now open! Kindly click on the
+        link below to nominate the teachers deserving of the award.
+      button: Click Here
+      url: https://go.gov.sg/pat2025
+      image: /images/Slide1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Outstanding Youth in Education Award (OYEA)
+      subtitle: MOE Advertisement
+      id: infopic
+      description: Nominations for the OYEA 2025 is now open! Kindly click on the link
+        below to nominate the teachers deserving of the award.
+      button: Click Here
+      url: https://go.gov.sg/oyea2025
+      image: /images/Slide2.jpg
+      alt: Image alt text
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
       subtitle: FOR 2025 PRIMARY ONE PARENTS
