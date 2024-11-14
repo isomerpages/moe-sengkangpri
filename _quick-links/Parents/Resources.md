@@ -23,6 +23,16 @@ variant: markdown
 
 * **(TBC)** [Book and Stationery List Primary 6 Foundation - 2025]()
 
+FAS and Online Order Collection Dates
+
+
+| Month | Day |
+| -------- | -------- |
+| November 2024     | 28, 29 and 30 (for FAS textbooks collection only     |
+| December 2024 | 4, 5, 6, 11, 12, 13, 14, 17, 23, 26 and 27 |
+
+
+
 #### **(NEW) Sale of School Uniform - 2025**<br><br>
 
 * **(NEW)** [Sale of School Uniform - 2025](/files/Parent%20Resources/schuniform2025/Seng_Kang_Pri_sale_schedule_EY24.pdf)
