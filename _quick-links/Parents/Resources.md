@@ -23,8 +23,7 @@ variant: markdown
 
 * **(TBC)** [Book and Stationery List Primary 6 Foundation - 2025]()
 
-FAS and Online Order Collection Dates
-
+FAS and Online Order Collection Dates:
 
 | Month | Day |
 | -------- | -------- |
