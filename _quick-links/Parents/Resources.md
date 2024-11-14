@@ -27,7 +27,7 @@ FAS and Online Order Collection Dates:
 
 | Month | Day |
 | -------- | -------- |
-| November 2024     | 28, 29 and 30 (for FAS textbooks collection only     |
+| November 2024     | 28, 29 and 30 (for FAS textbooks collection only)     |
 | December 2024 | 4, 5, 6, 11, 12, 13, 14, 17, 23, 26 and 27 |
 
 
