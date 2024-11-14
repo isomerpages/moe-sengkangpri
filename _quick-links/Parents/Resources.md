@@ -34,7 +34,7 @@ FAS and Online Order Collection Dates:
 
 #### **(NEW) Sale of School Uniform - 2025**<br><br>
 
-* **(NEW)** [Sale of School Uniform - 2025](/files/Parent%20Resources/schuniform2025/Seng_Kang_Pri_sale_schedule_EY24.pdf)
+* **(NEW)** [Sale of School Uniform - 2025](/files/Parent%20Resources/Schuniform2025/Seng_Kang_Pri_sale_schedule_EY24.pdf)
 
 
 #### **(NEW) Primary 1 Student - 2025**<br><br>
