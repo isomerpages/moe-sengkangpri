@@ -61,8 +61,16 @@ sections:
       image: /images/Slide2.jpg
       alt: Image alt text
   - infobar:
+      title: Registration of Interest for School Bus Service
+      subtitle: For 2025 SKPS Students
+      id: infobar
+      description: To register your interest for school bus service, please click on
+        the link below.
+      button: Button Text
+      url: /about-us/General-Information/Bookshop-School-Bus-and-Other-Services/
+  - infobar:
       title: Registration of Interest for YMCA Student Care Service
-      subtitle: FOR 2025 PRIMARY ONE PARENTS
+      subtitle: FOR 2025 PRIMARY ONE STUDENTS
       id: infobar
       description: To register your interest for YMCA student care service, please
         click on the link below.
