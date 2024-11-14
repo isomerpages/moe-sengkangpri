@@ -5,16 +5,34 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+#### **(NEW) Primary 1 to Primary 6 Book and Stationery Lists - 2025**<br><br>
+
+* **(TBC)** [Book and Stationery List Primary 1 - 2025]()
+
+* **(TBC)** [Book and Stationery List Primary 2 - 2025]()
+
+* **(TBC)** [Book and Stationery List Primary 3 - 2025]()
+
+* **(TBC)** [Book and Stationery List Primary 4 - 2025]()
+
+* **(TBC)** [Book and Stationery List Primary 5 - 2025]()
+
+* **(TBC)** [Book and Stationery List Primary 5 Foundation - 2025]()
+
+* **(TBC)** [Book and Stationery List Primary 6 - 2025]()
+
+* **(TBC)** [Book and Stationery List Primary 6 Foundation - 2025]()
+
 #### **(NEW) Primary 1 Student - 2025**<br><br>
 
 * **(NEW)** [2025 Primary 1 Orientation Booklet](/files/2025_Primary_1_Orientation_Booklet.pdf)
 *  **(NEW)** [Primary 1 Orientation (FAQ)](/files/Primary_One_Orientation__FAQ_.pdf)
 
 
-#### **(NEW) Primary 4 Student - 2024**<br><br>
+#### **Primary 4 Student - 2024**<br><br>
 
-* **(NEW)** [P4 SBB Briefing 2024](/files/P4_SBB_Briefing_2024.pdf)
-* **(NEW)** [P4 SBB FAQ 2024](/files/P4_SBB_FAQ_2024.pdf)
+* [P4 SBB Briefing 2024](/files/P4_SBB_Briefing_2024.pdf)
+* [P4 SBB FAQ 2024](/files/P4_SBB_FAQ_2024.pdf)
 
 
 #### **Resources - 2024 (All Level)**<br><br>
@@ -29,23 +47,6 @@ variant: markdown
 * [Term 1 Letter To Parents (29 December 2023)](/files/Parent%20Resources/2024/2024_term_1_notification.pdf)
 
 
-#### **Primary 1 to Primary 6 Book and Stationery Lists - 2024**<br><br>
-
-* [Book and Stationery List Primary 1 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P1.pdf)
-
-* [Book and Stationery List Primary 2 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P2.pdf)
-
-* [Book and Stationery List Primary 3 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P3.pdf)
-
-* [Book and Stationery List Primary 4 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P4.pdf)
-
-* [Book and Stationery List Primary 5 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P5.pdf)
-
-* [Book and Stationery List Primary 5 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P5__FDN_.pdf)
-
-* [Book and Stationery List Primary 6 - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6.pdf)
-
-* [Book and Stationery List Primary 6 Foundation - 2024](/files/Parent%20Resources/Booklist2024/SKPS_P6__FDN_.pdf)
 
 <br>
 
