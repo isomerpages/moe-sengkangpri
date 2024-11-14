@@ -21,6 +21,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: VIA Innovation Advocacy Fest!
+          description: SKLites' seniors showcased a thing or two about giving back to
+            community!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0sM5o4tT74RwFceLFmYD7XXZBgSoiaZz16EsbuXjQ72tk6Wm8htADptoJUBm5xn7yl
         - title: Learning is Fun Carnival!
           description: SKPS' lower primary students had a fun day of learning at the
             carnival!
@@ -36,10 +41,6 @@ sections:
             cluster schs!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0W8PaTSJj2gcxcvUzTAPcqih5tYh4xQEtjB1kpF1MmafYZqjEzh8YX3dCdGNvuC1Jl
-        - title: Drone Xperience!
-          description: SKLites' seniors were treated to an experiential drone e(X)perience!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02rUqnbKci2QhzDDahyx9J7chpyJJWRcP3LZnnqRZhYAFawdQt95BSTmK8Jup9i8X9l
   - infopic:
       title: President's Award for Teachers (PAT)
       subtitle: MOE Advertisement
