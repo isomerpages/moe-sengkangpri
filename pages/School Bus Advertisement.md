@@ -3,7 +3,6 @@ title: School Bus Advertisement
 permalink: /school-bus-advertisement/
 variant: tiptap
 description: ""
-third_nav_title: General Information
 ---
 <p>This is a grouped school bus service. Bus vendor is expected to provide
 services to the following schools:</p>
