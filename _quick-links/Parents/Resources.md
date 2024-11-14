@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-#### **(NEW) Primary 1 to Primary 6 Book and Stationery Lists - 2025**<br><br>
+#### **(TBC) Primary 1 to Primary 6 Book and Stationery Lists - 2025**<br><br>
 
 * **(TBC)** [Book and Stationery List Primary 1 - 2025]()
 
@@ -25,7 +25,7 @@ variant: markdown
 
 #### **(NEW) Sale of School Uniform - 2025**<br><br>
 
-* **(NEW)** [Sale of School Uniform - 2025](/files/2025_Primary_1_Orientation_Booklet.pdf)
+* **(NEW)** [Sale of School Uniform - 2025](/files/Parent%20Resources/schuniform2025/Seng_Kang_Pri_sale_schedule_EY24.pdf)
 
 
 #### **(NEW) Primary 1 Student - 2025**<br><br>
