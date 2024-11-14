@@ -5,23 +5,23 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-#### **(TBC) Primary 1 to Primary 6 Book and Stationery Lists - 2025**<br><br>
+#### **(NEW) Primary 1 to Primary 6 Book and Stationery Lists - 2025**<br><br>
 
-* **(TBC)** [Book and Stationery List Primary 1 - 2025]()
+* **(NEW)** [Book and Stationery List Primary 1 - 2025](/files/Parent%20Resources/Booklist2025/2025_P1_Booklist.pdf)
 
-* **(TBC)** [Book and Stationery List Primary 2 - 2025]()
+* **(NEW)** [Book and Stationery List Primary 2 - 2025](/files/Parent%20Resources/Booklist2025/2025_P2_Booklist.pdf)
 
-* **(TBC)** [Book and Stationery List Primary 3 - 2025]()
+* **(NEW)** [Book and Stationery List Primary 3 - 2025](/files/Parent%20Resources/Booklist2025/2025_P3_Booklist.pdf)
 
-* **(TBC)** [Book and Stationery List Primary 4 - 2025]()
+* **(NEW)** [Book and Stationery List Primary 4 - 2025](/files/Parent%20Resources/Booklist2025/2025_P4_Booklist.pdf)
 
-* **(TBC)** [Book and Stationery List Primary 5 - 2025]()
+* **(NEW)** [Book and Stationery List Primary 5 - 2025](/files/Parent%20Resources/Booklist2025/2025_P5_Booklist_Standard.pdf)
 
-* **(TBC)** [Book and Stationery List Primary 5 Foundation - 2025]()
+* **(NEW)** [Book and Stationery List Primary 5 Foundation - 2025](/files/Parent%20Resources/Booklist2025/2025_P5_Booklist_Foundation.pdf)
 
-* **(TBC)** [Book and Stationery List Primary 6 - 2025]()
+* **(NEW)** [Book and Stationery List Primary 6 - 2025](/files/Parent%20Resources/Booklist2025/2025_P6_Booklist_Standard.pdf)
 
-* **(TBC)** [Book and Stationery List Primary 6 Foundation - 2025]()
+* **(NEW)** [Book and Stationery List Primary 6 Foundation - 2025](/files/Parent%20Resources/Booklist2025/2025_P6_Booklist_Foundation.pdf)
 
 FAS and Online Order Collection Dates:
 
