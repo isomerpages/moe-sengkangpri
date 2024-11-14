@@ -12,11 +12,10 @@ Monday - Friday
 **_School Dental Health Service:_**<br>
 Tel No.: 8764 1856
 
-**_School Bus Services:_**<br>
-KH NG Bus Transport<br>
-Mr Ng Kim Hock<br>
-Tel No.: 6281 9003<br>
-Hp No.: 9665 9003
+**_School Bus Services (w.e.f. 1 Jan 2025):_**<br>
+RushOwl Singapore Pte Ltd<br>
+Contact No.: 6871 8817<br>
+Email: school@rushowl.sg
 
 **_School Bookshop_**<br>
 Pacific Bookstores Pte Ltd<br>
