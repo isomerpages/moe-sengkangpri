@@ -20,10 +20,11 @@ Email: school@rushowl.sg
 To register your interest in school bus service for your child, please complete the Google Form via this link: [RushOwl School Bus Transportation Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeRplxEBZG_jP7Lk7tibjZk3FrxR-bZGnIqVbH9scecYp35Gw/formResponse).
 
 Period: 1 Jan 2025 - 31 Dec 2026
-| Distance | Up to 15-seater | 15-seater &lt; |
+
+| Distance | Up to 15-seater | 15-seater and above |
 | -------- | -------- | -------- |
 | Up to 2KM     | $149 (1-Way) / $175 / (2-Way)     | $140 (1-Way) / $166 (2-Way)     |
-| 2KM &lt; | $166 (1-Way) / $195 (2-Way) | $157 (1-Way) / $185 (2-Way) |
+| More than 2KM | $166 (1-Way) / $195 (2-Way) | $157 (1-Way) / $185 (2-Way) |
 
 
 **_School Bookshop_**<br>
