@@ -23,6 +23,11 @@ variant: markdown
 
 * **(TBC)** [Book and Stationery List Primary 6 Foundation - 2025]()
 
+#### **(NEW) Sale of School Uniform - 2025**<br><br>
+
+* **(NEW)** [Sale of School Uniform - 2025](/files/2025_Primary_1_Orientation_Booklet.pdf)
+
+
 #### **(NEW) Primary 1 Student - 2025**<br><br>
 
 * **(NEW)** [2025 Primary 1 Orientation Booklet](/files/2025_Primary_1_Orientation_Booklet.pdf)
