@@ -39,9 +39,10 @@ FAS and Online Order Collection Dates:
 
 #### **(NEW) Primary 1 Student - 2025**<br><br>
 
-* **(NEW)** [Primary 1 2025 Orientation Slides (15 Nov 2024)](/files/P1_Orientation_Combined_upload.pdf)
-* **(NEW)** [2025 Primary 1 Orientation Booklet](/files/2025_Primary_1_Orientation_Booklet.pdf)
-*  **(NEW)** [Primary 1 Orientation (FAQ)](/files/Primary_One_Orientation__FAQ_.pdf)
+* **(NEW)** [2025 Primary 1 Orientation Slides (15 Nov 2024)](/files/P1_Orientation_Combined_upload.pdf)
+* **(NEW)** [2025 Primary 1 Orientation Video (15 Nov 2024)](https://drive.google.com/file/d/1uYIjzKVml13FD7uXPtHy2ehKFXiFMhW8/view?usp=sharing)
+* [2025 Primary 1 Orientation Booklet](/files/2025_Primary_1_Orientation_Booklet.pdf)
+* [Primary 1 Orientation (FAQ)](/files/Primary_One_Orientation__FAQ_.pdf)
 
 
 #### **Primary 4 Student - 2024**<br><br>
