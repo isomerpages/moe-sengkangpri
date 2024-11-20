@@ -21,26 +21,23 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
-        - title: VIA Innovation Advocacy Fest!
-          description: SKLites' seniors showcased a thing or two about giving back to
-            community!
+        - title: Celebration of Learning!
+          description: SKLites' showcased much growth and creativity in this special event!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0sM5o4tT74RwFceLFmYD7XXZBgSoiaZz16EsbuXjQ72tk6Wm8htADptoJUBm5xn7yl
-        - title: Learning is Fun Carnival!
-          description: SKPS' lower primary students had a fun day of learning at the
-            carnival!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0D8n1upydSuiVoT3PSnfoLQGUtF7bG4edHjnKnnxGZwNJXvpaTGusrnVhjHkrW2ufl
+        - title: Graduation Day!
+          description: Congratulations to our Class of 2024 in completing your primary sch
+            journey!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02434sWVXG4Erncf5cbXCkhsZECPQocHQKL18vqWZ1aYHmBzscPKdVr6VZuTKiVYyol
-        - title: PinnaCle Challenge!
-          description: Our SKLites' seniors took part in the event, clinching 1st in Math
-            and Sci!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0uAanuK16k1UWY52eocv2VVVM3Zf7XAajKYsQLMz5vbqzuFPCxhnSu4F2sAYSyzMnl
+        - title: SKPS Yearbook 2025!
+          description: Our SKLites were all smiles when they received this year's yearbook!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02AFMECvCFYohKEXneDqyRhWN8d8S61t1C1VbKkaPfdyHWUnSzgNcA9WtK8uvWhrGpl
-        - title: Post Spin-a-Tale!
-          description: SKPS hosted a memorable post Spin-a-Tale event for participating
-            cluster schs!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0wsr299pZbUYmDdPt6YN1rgoNDpUGp6xEQB8yAwJo4V5ZP7zZztd8zuLBWYLD1pYYl
+        - title: Arts Corridor@SKH!
+          description: SKPS' pieces of artwork brightens the clinic corridors of SKH!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0W8PaTSJj2gcxcvUzTAPcqih5tYh4xQEtjB1kpF1MmafYZqjEzh8YX3dCdGNvuC1Jl
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0E96StpNBMTzhG5XinhBmDTbA5RyFigWJUxqpo5CuYnMYVsKuYbN2ircJjgw6KW3fl
   - infopic:
       title: President's Award for Teachers (PAT)
       subtitle: MOE Advertisement
