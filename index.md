@@ -24,7 +24,7 @@ sections:
         - title: P1 Orientation Day!
           description: The day was filled with excitement at the P1 Orientation Day!
           linktext: Learn more
-          url: pfbid08GoCP1Xk5P4ySP1TefK3BAKGyvvdZdbLNPTykoW5sMtoYuCAx5hip7mcP41dVwxxl
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid08GoCP1Xk5P4ySP1TefK3BAKGyvvdZdbLNPTykoW5sMtoYuCAx5hip7mcP41dVwxxl
         - title: PSG Appreciation Day!
           description: Our heartfelt thanks to our PSG for their unwavering support and
             dedication!
