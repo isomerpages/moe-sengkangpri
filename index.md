@@ -21,6 +21,15 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: P1 Orientation Day!
+          description: The day was filled with excitement at the P1 Orientation Day!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid08GoCP1Xk5P4ySP1TefK3BAKGyvvdZdbLNPTykoW5sMtoYuCAx5hip7mcP41dVwxxl
+        - title: PSG Appreciation Day!
+          description: Our heartfelt thanks to our PSG for their unwavering support and
+            dedication!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0FgeZ6iAg8qTz2RKNczr9DWwjqvZ2BbRsm2BZbT4wYYw3f19FxNnj9hUTqc9TZPCFl
         - title: Celebration of Learning!
           description: SKLites' showcased much growth and creativity in this special event!
           linktext: Learn more
@@ -30,14 +39,6 @@ sections:
             journey!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0uAanuK16k1UWY52eocv2VVVM3Zf7XAajKYsQLMz5vbqzuFPCxhnSu4F2sAYSyzMnl
-        - title: SKPS Yearbook 2025!
-          description: Our SKLites were all smiles when they received this year's yearbook!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0wsr299pZbUYmDdPt6YN1rgoNDpUGp6xEQB8yAwJo4V5ZP7zZztd8zuLBWYLD1pYYl
-        - title: Arts Corridor@SKH!
-          description: SKPS' pieces of artwork brightens the clinic corridors of SKH!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0E96StpNBMTzhG5XinhBmDTbA5RyFigWJUxqpo5CuYnMYVsKuYbN2ircJjgw6KW3fl
   - infopic:
       title: President's Award for Teachers (PAT)
       subtitle: MOE Advertisement
