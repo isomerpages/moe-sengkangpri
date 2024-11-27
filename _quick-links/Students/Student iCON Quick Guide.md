@@ -7,14 +7,14 @@ variant: markdown
 ---
 **Frequently Asked Questions**  
 
-**1\. What is the naming convention for Student iCON email address?**  
+**1. What is the naming convention for Student iCON email address?**  
 
 *   The student's email address will be based on @students.edu.sg
 *   Any space in the Full Name will be replace with underscore
 *   Please note that "bin", "bte", "s/o" and "d/o" will not appear in the given email address
 *   To differentiate student with the same name, a numerical character will be added&nbsp;(e.g. Alex\_1, Alex\_3 etc)
 
-**2\. Student iCON login procedure?**
+**2. Student iCON login procedure?**
 	
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 582.667px; height: 41px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 448px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 1.5 !important; color: rgb(18, 18, 18); font-family: Roboto; font-size: 16px; font-weight: normal;"><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(0, 0, 0); background-color: initial;">Student iCON can be access through browsers</span></div><font style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;" color="#000000">in an internet enabled device,&nbsp;proceed to:</font>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 495px;">https://workspace.google.com/dashboard&nbsp;</td></tr></tbody></table>
 	
@@ -25,12 +25,9 @@ Refer to table for guidance on the Operating Systems and Browsers which students
 
   
 
-**Q4.&nbsp;&nbsp; &nbsp;What are the default Google applications available for each level?**
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 582.667px; height: 41px; font-family: Roboto; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-weight: 700;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 448px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 1.5 !important; color: rgb(18, 18, 18); font-family: Roboto; font-size: 16px; font-weight: normal;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#0000ff" size="2">Available Apps for Primary 1 to Primary 3 Students</font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 1.5 !important; color: rgb(18, 18, 18); font-family: Roboto; font-size: 16px; font-weight: normal;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#0000ff" size="2">(Please note that Email is disabled)</font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 1.5 !important; color: rgb(18, 18, 18); font-family: Roboto; font-size: 16px; font-weight: normal;"><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(0, 0, 0); background-color: initial;"></span></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 495px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 1.5 !important; color: rgb(18, 18, 18); font-family: Roboto; font-size: 16px; font-weight: normal;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#0000ff" size="2">Available Apps for Primary 4 to Primary 6 Students</font></div><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-weight: normal;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#0000ff" size="2">(Email enabled with limited setting)</font></span><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(38, 38, 184); font-weight: 400; text-decoration: underline;" target="" href="https://sengkangpri-moe-edu-sg-admin.cwp.sg/quick-links/students/Student%20iCON%20can%20be%20access%20through%20browsers%20in%20an%20internet%20enabled%20device,%20proceed%20to:"></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; height: 249px; width: 459px;" class="ive_eobj_center" alt="Lower Pri.jpg" width="100%" src="https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Student%20ICON/Lower%20Pri.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; height: 257px; width: 462px;" class="ive_eobj_center" alt="Upper Pri.jpg" width="100%" src="https://sengkangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u532/Student%20ICON/Upper%20Pri.jpg"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">&nbsp;</span></td></tr></tbody></table>
 
   
-**5.**&nbsp;**What is the password requirement?**&nbsp;&nbsp;  
+**4.**&nbsp;**What is the password requirement?**&nbsp;&nbsp;  
 
 *   Must be at least 8 character(s) long
 *   Contain at least 1 lowercase letter(s)
@@ -43,7 +40,7 @@ Refer to table for guidance on the Operating Systems and Browsers which students
 *   Must not match or contain last name
 *   Must not match or contain user ID
 
-**6.**&nbsp;**Here are some possible errors that you might encounter during login.**  
+**5.**&nbsp;**Here are some possible errors that you might encounter during login.**  
 
 *   Error AADSTS900561 given by the Google website
 *   Website does not load
@@ -63,7 +60,7 @@ _For bullet point 5,_&nbsp;
 1.  Enter one of the parent’s/guardian’s mobile number and a one time pin (OTP)&nbsp;will be sent to that number,&nbsp;proceed to key in the given OTP.&nbsp;
 
 Alternatively, you can proceed to use&nbsp;**_Incognito Mode_**&nbsp;on your browser to login.&nbsp;  
-**7\. I received the following message: Your account is temporarily locked to prevent unauthorized use.**
+**6. I received the following message: Your account is temporarily locked to prevent unauthorized use.**
 
 *   Proceed to inform School Based Helpline or inform your form teachers.
 

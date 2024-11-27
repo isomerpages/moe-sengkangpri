@@ -12,8 +12,6 @@ variant: markdown
 | School Cockpit (Admin & Reports) | [https://schoolcockpit.moe.gov.sg](https://schoolcockpit.moe.gov.sg/)[](https://schoolcockpit.moe.gov.sg/)
 | School Cockpit (Result Processing) | [https://schoolcockpit.moe.gov.sg/academic](https://schoolcockpit.moe.gov.sg/academic)  |
 | HRP Portal | [https://www.hrp.gov.sg](https://www.hrp.gov.sg/) |
-| Human Resource (HR Online) | [https://intranet.moe.gov.sg/hronline/pages/home.aspx](https://intranet.moe.gov.sg/hronline/pages/home.aspx) |
-| MOE Intranet | [https://intranet.moe.gov.sg](https://intranet.moe.gov.sg/) |
 | SEAB iExams 2 | [https://iexams.seab.gov.sg](https://iexams.seab.gov.sg/)   |
 | Parents Gateway | [https://pg.moe.edu.sg](https://pg.moe.edu.sg/)  |
 | SC Mobile | [https://scmobile.moe.edu.sg](https://scmobile.moe.edu.sg/)   |
