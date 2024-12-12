@@ -8,8 +8,9 @@ variant: markdown
 
 | Name of Application  | URL (Left-Click Below) |
 | --- | --- |
+| MOE Intranet | [https://intranet.moe.gov.sg](https://intranet.moe.gov.sg)
 | MIMS Portal  | [https://mims.moe.gov.sg](https://idp.mims.moe.gov.sg/nidp/saml2/sso)  |
-| School Cockpit (Admin & Reports) | [https://schoolcockpit.moe.gov.sg](https://schoolcockpit.moe.gov.sg/)[](https://schoolcockpit.moe.gov.sg/)
+| School Cockpit (Admin & Reports) | [https://schoolcockpit.moe.gov.sg](https://schoolcockpit.moe.gov.sg/)
 | School Cockpit (Result Processing) | [https://schoolcockpit.moe.gov.sg/academic](https://schoolcockpit.moe.gov.sg/academic)  |
 | HRP Portal | [https://www.hrp.gov.sg](https://www.hrp.gov.sg/) |
 | SEAB iExams 2 | [https://iexams.seab.gov.sg](https://iexams.seab.gov.sg/)   |
