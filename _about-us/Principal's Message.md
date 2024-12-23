@@ -43,7 +43,7 @@ the <strong>refreshed four key learning dispositions (CORE)</strong>  <strong>in
 </p>
 <p>I wish you a fulfilling and rewarding experience with Seng Kang Primary
 School as we co-create an exciting year of growth and learning ahead!</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Mrs Tan Siew Hong
 <br>Principal
 <br>Dec 2024</p>
