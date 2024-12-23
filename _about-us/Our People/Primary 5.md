@@ -120,7 +120,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ngeiw_chaw_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngeiw_chaw_yee@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
