@@ -196,11 +196,10 @@ third_nav_title: Our People
 <p>6 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vikneswaran s/o Subramaniam</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vikneswaran_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vikneswaran_subramaniam@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
