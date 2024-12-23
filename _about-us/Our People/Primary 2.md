@@ -94,11 +94,10 @@ third_nav_title: Our People
 <p>2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Dora Yeo Shi Hui</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dora_yeo_shi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dora_yeo_shi_hui@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -124,11 +123,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm G Vasantha Devi Naidu</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:g_vasantha_devi_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">g_vasantha_devi_naidu@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
