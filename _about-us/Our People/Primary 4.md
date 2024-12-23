@@ -171,20 +171,18 @@ third_nav_title: Our People
 <p>4 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Hup Ann</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_hup_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_hup_ann@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruhaizah Bte Osman</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ruhaizah_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ruhaizah_osman@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
