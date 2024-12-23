@@ -4,4 +4,46 @@ permalink: /about-us/Principals-Message/
 description: ""
 variant: tiptap
 ---
-<p>Welcome to Seng Kang Primary School where every SKLite is <strong>an inventive thinker, a confident leader, and a gracious citizen!</strong></p><p>Since our school’s founding, we have remained steadfast in our <strong>school beliefs</strong> that <strong>‘Everyone can learn, Everyone can serve and Everyone is Special’</strong>. Our school crest symbolizes that every SKLite and every staff is a gem to be treasured and nurtured. These enduring beliefs will continue to be the cornerstones in our educational philosophy.</p><p>In this fast-changing world, we want to develop our SKLites to be grounded in values and be adaptive in the face of change. Through their six years of primary education with us and from the rich learning opportunities and experiences which we have curated for them, our SKLites will develop the <strong>school values of graciousness, integrity, resilience, and confidence</strong> to help them navigate the world they are in. &nbsp;</p><p>We are equally committed to enhance the well-being of our staff and to strengthen their capabilities to enhance their teaching and learning approaches to be more intentional in enabling SKLites to learn through inquiry, experiential learning and to explore new areas of interests so that we continue to stay current and relevant in a fast-evolving world environment.</p><p>As the saying goes, it takes a village to raise a child. I am thankful for the strong partnership with our parents, Parent Support Group (PSG), School Advisory Committee (SAC) and community partners. They are committed to journey with my team of dedicated and caring staff to develop the <strong>five key learning dispositions</strong> in every SKLite: <strong>Curiosity, Open-mindedness, Responsibility, Resilience and Enthusiasm (COR2E).</strong></p><p>I wish you a fulfilling and rewarding experience with Seng Kang Primary School!</p><p>Mrs Tan Siew Hong<br>Principal</p>
+<p>Welcome to Seng Kang Primary School, where we nurture every SKLite to
+become <strong>an inventive thinker, a confident leader, and a gracious citizen!</strong>
+</p>
+<p>Since our inception, we have remained true to our core beliefs that 'Everyone
+can learn, Everyone can serve and Everyone is Special'. Our school crest
+symbolises that each SKLite and staff member is a precious gem to be cherished
+and developed. These enduring principles continue to form the foundation
+of our educational philosophy.</p>
+<p>In this rapidly evolving world, our aim is to cultivate SKLites who are
+firmly rooted in values and adaptable to change. Throughout their six-year
+primary education journey with us, we offer carefully curated, rich learning
+opportunities and experiences. These are designed to instil our <strong>school values of graciousness, integrity, resilience, and confidence</strong>,
+equipping our students to navigate their world effectively.</p>
+<p>We are equally dedicated to enhancing our staff's well-being and strengthening
+their capabilities. Our focus is on refining teaching and learning approaches
+to be more intentional in enabling SKLites to learn through inquiry and
+experiential learning. We encourage exploration of new areas of interest,
+ensuring we remain current and relevant in a fast-changing global environment.</p>
+<p>As we embark on this new academic year, we are excited to co-create innovative
+learning experiences with our students, parents, and community partners.
+This collaborative approach will allow us to tailor our educational offerings
+to meet the evolving needs of our SKLites and prepare them for future challenges.</p>
+<p>The adage "it takes a village to raise a child" rings true in our school
+community. I am deeply grateful for the strong partnerships we have forged
+with our parents, Parent Support Group (PSG), School Advisory Committee
+(SAC), and community partners. Their commitment to journey alongside our
+dedicated and caring staff is invaluable as we work together to develop
+the <strong>refreshed four key learning dispositions (CORE)</strong>  <strong>in every SKLite:</strong>
+</p>
+<p><strong>Curiosity</strong>
+</p>
+<p><strong>Open-mindedness</strong>
+</p>
+<p><strong>Responsibility</strong>
+</p>
+<p><strong>Enthusiasm</strong>
+</p>
+<p>I wish you a fulfilling and rewarding experience with Seng Kang Primary
+School as we co-create an exciting year of growth and learning ahead!</p>
+<p></p>
+<p>Mrs Tan Siew Hong
+<br>Principal
+<br>Dec 2024</p>
