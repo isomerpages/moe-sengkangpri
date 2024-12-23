@@ -96,11 +96,10 @@ third_nav_title: Our People
 <p>3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Li Dahao</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:daniel_li_da_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_li_da_hao@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
