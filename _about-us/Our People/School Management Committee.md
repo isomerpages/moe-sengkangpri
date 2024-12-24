@@ -100,10 +100,10 @@ variant: tiptap
 <p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kalai Selven</p>
+<p>Mrs Jaswant Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kalai_selven_sadanadom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalai_selven_sadanadom@schools.gov.sg</a>
+<p><a href="mailto:jaswant_kaur_gurdit_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaswant_kaur_gurdit_singh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -116,18 +116,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_kah_soon_dexter@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kah_soon_dexter@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lim Huey Sian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_huey_sian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huey_sian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -253,6 +241,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Level Head English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kalai Selven</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kalai_selven_sadanadom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalai_selven_sadanadom@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level Head Math</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,13 +265,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head English</p>
+<p>Level Head Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hui Hong Joyce</p>
+<p>Mrs Lim Huey Sian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_hui_hong_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_hui_hong_joyce@schools.gov.sg</a>
+<p><a href="mailto:goh_huey_sian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huey_sian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -344,18 +344,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_xiaoying_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_xiaoying_serene@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (English)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jaswant Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jaswant_kaur_gurdit_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaswant_kaur_gurdit_singh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
