@@ -147,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officers (SWOs)</p>
+<p>Student Welfare Officer (SWO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Rasul Bin Abdul Hamid</p>
