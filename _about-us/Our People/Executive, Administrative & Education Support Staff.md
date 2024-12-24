@@ -1,6 +1,6 @@
 ---
-title: Executive & Administrative Staff and Allied Educators
-permalink: /about-us/our-people/executive-and-admin-staff-and-allied-educators/
+title: Executive, Administrative & Education Support Staff
+permalink: /about-us/our-people/executive-admin-and-education-support-staff/
 description: ""
 third_nav_title: Our People
 variant: tiptap
