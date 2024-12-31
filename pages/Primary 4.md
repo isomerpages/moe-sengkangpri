@@ -3,7 +3,6 @@ title: Primary 4
 permalink: /about-us/Our-People/Primary-4/
 description: ""
 variant: tiptap
-third_nav_title: Our People
 ---
 <p><strong>Year Head:</strong>
 <br><strong>Mrs Andrea Ki</strong>
