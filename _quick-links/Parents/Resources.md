@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **Resources - 2025 (All Level)**<br><br>
 
-[Term 1 Letter To Parents (2 January 2025)](/files/Parent%20Resources/2024/2024_term_1_notification.pdf)
+[Term 1 Letter To Parents (2 January 2025)](/files/2025_Term_1_Notification.pdf)
 
 #### **Primary 1 to Primary 6 Book and Stationery Lists - 2025**<br><br>
 
