@@ -90,15 +90,15 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Anuradha d/o Sivarama Krishnan</p>
+<p>Mdm Ding Chih She</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anuradha_sivarama_krishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anuradha_sivarama_krishnan@schools.gov.sg</a>
+<p><a href="mailto:ding_chih_she@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ding_chih_she@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p>Special Education Needs Officers (SENOs)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,6 +143,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_chun_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chun_han@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
