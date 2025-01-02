@@ -105,10 +105,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Yeow An-Ning Anna</p>
+<p>Mrs Thaifur Alias</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeow_anning_anna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_anning_anna@schools.gov.sg</a>
+<p><a href="mailto:siswati_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siswati_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
