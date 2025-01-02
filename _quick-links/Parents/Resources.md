@@ -35,6 +35,8 @@ variant: markdown
 
 #### **Primary 1 Student - 2025**<br><br>
 
+* **[NEW]** [Supporting Your Child in the Transition to Primary School (2 Jan 2025)](/files/Supporting_Your_Child_in_the_Transition_to_Primary_School_Parents__Roles_in_Ensuring_a_Smooth_Transition.pdf)
+* **[NEW]** [2025 Primary 1 Year Head Sharing Slides (2 Jan 2025)](https://drive.google.com/file/d/1Jhg4O5Szmmg3eODb0zv3jo7jkm_Hsh9U/view?usp=sharing)
 * [2025 Primary 1 Orientation Slides (15 Nov 2024)](/files/P1_Orientation_Combined_upload.pdf)
 * [2025 Primary 1 Orientation Video (15 Nov 2024)](https://drive.google.com/file/d/1uYIjzKVml13FD7uXPtHy2ehKFXiFMhW8/view?usp=sharing)
 * [2025 Primary 1 Orientation Booklet](/files/2025_Primary_1_Orientation_Booklet.pdf)
