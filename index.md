@@ -36,6 +36,14 @@ sections:
             journey!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0uAanuK16k1UWY52eocv2VVVM3Zf7XAajKYsQLMz5vbqzuFPCxhnSu4F2sAYSyzMnl
+  - infobar:
+      title: Term 1 2025 Notification
+      subtitle: For 2025 SKPS Students
+      id: infobar
+      description: Welcome back to school! The notification for the new term is now
+        available.
+      button: Click Here
+      url: /files/2025_Term_1_Notification.pdf
   - infopic:
       title: President's Award for Teachers (PAT)
       subtitle: MOE Advertisement
