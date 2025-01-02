@@ -114,27 +114,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>4 Kindness</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Par Hwee Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:par_hwee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">par_hwee_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Thaifur Alias</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siswati_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siswati_ahmad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>4 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
