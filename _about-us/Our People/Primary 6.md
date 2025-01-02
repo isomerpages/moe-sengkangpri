@@ -104,7 +104,7 @@ third_nav_title: Our People
 <p>6 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Chee Yu Sin</p>
+<p>Mr Edwin Chee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_yu_sin_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_yu_sin_edwin@schools.gov.sg</a>
