@@ -1,13 +1,14 @@
 ---
-title: Primary 3
-permalink: /about-us/Our-People/Primary-3/
+title: Primary 4
+permalink: /about-us/Our-People/Primary-4/
 description: ""
 variant: tiptap
+third_nav_title: Our People
 ---
-<p><strong>Year Head:</strong>
-<br><strong>Miss Kwan See Ling</strong>
+<p><strong>Year Head:<br>Miss Kwan See Ling</strong>
 <br><strong>Assistant Year Head:</strong>
 <br><strong>Mrs Ee (Leong) Lai Mun</strong>
+<br>Information on Subject Based Banding&nbsp;<a href="/files/P4%20SBB%20Briefing%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -29,28 +30,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Faith</p>
+<p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Luqman Hakeem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_luqman_hakeem_mahmood_shah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_luqman_hakeem_mahmood_shah@schools.gov.sg</a>
+<p><a href="mailto:muhammad_luqman_hakeem_mahmood@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_luqman_hakeem_mahmood@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Li Xiujing Rachael</p>
+<p>Mdm Cheo Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_xiujing_rachael@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_xiujing_rachael@schools.gov.sg</a>
+<p><a href="mailto:cheo_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheo_xin_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Hope</p>
+<p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ee (Leong) Lai Mun</p>
@@ -71,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Joy</p>
+<p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Yu An</p>
@@ -83,22 +84,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheo Xin Ying</p>
+<p>Mrs Adeline Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheo_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheo_xin_ying@schools.gov.sg</a>
+<p><a href="mailto:teo_huay_ling_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huay_ling_adeline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Courage</p>
+<p>4 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Par Hwee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:par_hwee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">par_hwee_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Patience</p>
+<p>4 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Julie Ng Yin Suan</p>
@@ -133,7 +135,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Graciousness</p>
+<p>4 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teng Pei Fang</p>
@@ -145,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurul'Ain Bte Azilah</p>
+<p>Mdm Nurul' Ain Bte Azilah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurulain_azilah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurulain_azilah@schools.gov.sg</a>
