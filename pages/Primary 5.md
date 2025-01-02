@@ -4,9 +4,7 @@ permalink: /about-us/Our-People/Primary-5/
 description: ""
 variant: tiptap
 ---
-<p><strong>Year Head:</strong>
-<br><strong>Mrs Andrea Ki</strong>
-<br><strong>Assistant Year Head:</strong>
+<p><strong>Assistant Year Head:</strong>
 <br><strong>Mdm Nurzarifah Binte Masnam</strong>
 </p>
 <table style="minWidth: 75px">
