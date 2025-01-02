@@ -53,7 +53,7 @@ third_nav_title: Our People
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jasmine Chan Nee Williams</p>
+<p>Mrs Jasmine Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_jasmine_williams@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jasmine_williams@schools.gov.sg</a>
@@ -146,7 +146,7 @@ third_nav_title: Our People
 <p>5 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kalai Selven S/O Sadanadom</p>
+<p>Mr Kalai Selven</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kalai_selven_sadanadom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalai_selven_sadanadom@schools.gov.sg</a>
@@ -167,7 +167,7 @@ third_nav_title: Our People
 <p>5 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kah Soon Dexter</p>
+<p>Mr Dexter Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_kah_soon_dexter@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kah_soon_dexter@schools.gov.sg</a>
