@@ -92,7 +92,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Devindra Sapai s/o Indrasapai</p>
+<p>Mr Devindra Sapai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:devindra_sapai_indrasapai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">devindra_sapai_indrasapai@schools.gov.sg</a>
@@ -104,7 +104,7 @@ third_nav_title: Our People
 <p>6 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Chee Yu Sin</p>
+<p>Mr Edwin Chee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_yu_sin_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_yu_sin_edwin@schools.gov.sg</a>
@@ -134,7 +134,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Hiang Meng Stanley Ignatius</p>
+<p>Mr Stanley Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hiang_meng_stanley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hiang_meng_stanley@schools.gov.sg</a>
@@ -164,7 +164,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Wee Hoon Jennifer</p>
+<p>Mdm Jennifer Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_wee_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wee_hoon@schools.gov.sg</a>
