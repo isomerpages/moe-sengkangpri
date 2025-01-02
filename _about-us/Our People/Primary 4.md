@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<p><strong>Assistant Year Head:</strong>
+<p><strong>Year Head:<br>Miss Kwan See Ling</strong>
+<br><strong>Assistant Year Head:</strong>
 <br><strong>Mrs Ee (Leong) Lai Mun</strong>
 <br>Information on Subject Based Banding&nbsp;<a href="/files/P4%20SBB%20Briefing%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a>
 </p>
