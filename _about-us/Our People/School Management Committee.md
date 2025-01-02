@@ -400,7 +400,7 @@ variant: tiptap
 <p>Senior Teacher (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Canisius Ching Tze Meng</p>
+<p>Mr Canisius Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:canisius_ching_tze_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">canisius_ching_tze_meng@schools.gov.sg</a>
