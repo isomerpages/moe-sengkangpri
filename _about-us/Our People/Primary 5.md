@@ -74,7 +74,7 @@ third_nav_title: Our People
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Chin Wei Aaron</p>
+<p>Mr Aaron Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_chin_wei_aaron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chin_wei_aaron@schools.gov.sg</a>
