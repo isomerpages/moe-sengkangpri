@@ -4,9 +4,7 @@ permalink: /about-us/Our-People/Primary-4/
 description: ""
 variant: tiptap
 ---
-<p><strong>Year Head:</strong>
-<br><strong>Miss Kwan See Ling</strong>
-<br><strong>Assistant Year Head:</strong>
+<p><strong>Assistant Year Head:</strong>
 <br><strong>Mrs Ee (Leong) Lai Mun</strong>
 <br>Information on Subject Based Banding&nbsp;<a href="/files/P4%20SBB%20Briefing%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a>
 </p>
