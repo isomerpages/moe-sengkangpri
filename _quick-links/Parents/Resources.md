@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+#### **Resources - 2025 (All Level)**<br><br>
+
+[Term 1 Letter To Parents (2 January 2025)](/files/Parent%20Resources/2024/2024_term_1_notification.pdf)
+
 #### **Primary 1 to Primary 6 Book and Stationery Lists - 2025**<br><br>
 
 * [Book and Stationery List Primary 1 - 2025](/files/Parent%20Resources/Booklist2025/2025_P1_Booklist.pdf)
@@ -37,22 +41,6 @@ variant: markdown
 * [Primary 1 Orientation (FAQ)](/files/Primary_One_Orientation__FAQ_.pdf)
 
 
-#### **Primary 4 Student - 2024**<br><br>
-
-* [P4 SBB Briefing 2024](/files/P4_SBB_Briefing_2024.pdf)
-* [P4 SBB FAQ 2024](/files/P4_SBB_FAQ_2024.pdf)
-
-
-#### **Resources - 2024 (All Level)**<br><br>
-
-* [Term 3 Letter to Parents (24 June 2024)](/files/Parent%20Resources/2024/2024_Term_3_Notification.pdf)
-* [Term 2 Letter To Parents (15 March 2024)](/files/Parent%20Resources/2024/2024_Term_2_Term_Notification.pdf)
-* [P6 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P6_Curriculum_Info__Expectations___Routines_2024_website.pdf)
-* [P5 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P5_PTC_2024_for_website__3_.pdf)
-* [P4 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P4_PTC_2024_11_Jan.pdf)
-* [P3 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P3_Curriculum_Information__Expectations_and_Routines_2024.pdf)
-* [P2 Curriculum Information, Expectations and Routines 2024](/files/Parent%20Resources/2024/P2_PTC_2024_upload__1_.pdf)
-* [Term 1 Letter To Parents (29 December 2023)](/files/Parent%20Resources/2024/2024_term_1_notification.pdf)
 
 
 
