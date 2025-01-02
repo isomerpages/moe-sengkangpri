@@ -6,8 +6,6 @@ variant: tiptap
 ---
 <p><strong>Year Head:</strong>
 <br><strong>Miss Kwan See Ling</strong>
-<br><strong>Assistant Year Head:</strong>
-<br><strong>Mrs Ee (Leong) Lai Mun</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
