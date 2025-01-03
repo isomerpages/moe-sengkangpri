@@ -138,16 +138,16 @@ third_nav_title: Our People
 <p>3 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Hao Yun Chris</p>
+<p>Mdm Goh Hao Yun Chris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_hao_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hao_yuan@schools.gov.sg</a>
+<p><a href="mailto:goh_hao_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hao_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruan Hui</p>
+<p>Mr Ruan Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurulain_azilah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ruan_hui@schools.gov.sg</a>
