@@ -7,8 +7,6 @@ third_nav_title: Our People
 ---
 <p><strong>Year Head:</strong>
 <br><strong>Mrs Ferlynn Han-Tan Quek Khim</strong>
-<br><strong>Assistant Year Head:</strong>
-<br><strong>Mdm Wang Yee Ling Karen</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
