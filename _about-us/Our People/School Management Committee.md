@@ -64,7 +64,7 @@ variant: tiptap
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ben Tan</p>
+<p>Mr Ben Tan Peng Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:skps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skps@moe.edu.sg</a>
