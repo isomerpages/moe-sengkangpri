@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Our People
 ---
 <p><strong>Lower Block Assistant Year Head:</strong>
-<br><strong>Mdm Wang Yee Ling Karen</strong>
+<br><strong>Mrs Karen Tan</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
