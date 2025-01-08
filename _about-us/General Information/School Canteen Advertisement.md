@@ -29,7 +29,7 @@ variant: tiptap
 <p>Muslim Stall (Noodles)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2024</p>
+<p>30 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
