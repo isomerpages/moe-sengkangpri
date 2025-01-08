@@ -292,7 +292,7 @@ variant: tiptap
 <p>Subject Head Values Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Toh Pei Min</p>
+<p>Mdm Toh Pei Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_pei_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_pei_min@schools.gov.sg</a>

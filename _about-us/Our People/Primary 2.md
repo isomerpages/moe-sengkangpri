@@ -31,7 +31,7 @@ third_nav_title: Our People
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Yee Ling Karen</p>
+<p>Mrs Karen Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_yee_ling_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yee_ling_karen@schools.gov.sg</a>
@@ -61,7 +61,7 @@ third_nav_title: Our People
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leung Lai Yin</p>
+<p>Mrs Joyce Low</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leung_lai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leung_lai_yin@schools.gov.sg</a>
@@ -70,7 +70,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Welly Hardono</p>
+<p>Mr Welly Hardono</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:welly_hardono@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">welly_hardono@schools.gov.sg</a>
@@ -82,7 +82,7 @@ third_nav_title: Our People
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gee Brenda</p>
+<p>Mrs Brenda Siew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siew-gee_brenda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siew-gee_brenda@schools.gov.sg</a>
@@ -91,7 +91,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Suhaidah Binti Ahmad</p>
+<p>Mdm Suhaidah Binti Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suhaidah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaidah_ahmad@schools.gov.sg</a>
@@ -121,7 +121,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Toh Pei Min</p>
+<p>Mdm Toh Pei Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_pei_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_pei_min@schools.gov.sg</a>
@@ -163,7 +163,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Swee Kuan</p>
+<p>Mrs Diana Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_swee_kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kuan@schools.gov.sg</a>
