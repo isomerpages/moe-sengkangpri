@@ -220,7 +220,7 @@ variant: tiptap
 <p>Assistant Year Head (Lower Block)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Yee Ling Karen</p>
+<p>Mrs Karen Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_yee_ling_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yee_ling_karen@schools.gov.sg</a>
