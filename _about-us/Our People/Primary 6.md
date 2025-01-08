@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<p><strong>Year Head:<br>Mrs Andrea Ki</strong>
+<p><strong>Upper Block Year Head:<br>Mrs Andrea Ki</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>

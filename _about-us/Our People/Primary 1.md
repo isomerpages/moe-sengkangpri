@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<p><strong>Year Head:</strong>
+<p><strong>Lower Block Year Head:</strong>
 <br><strong>Mrs Ferlynn Han-Tan Quek Khim</strong>
 </p>
 <table style="minWidth: 75px">
