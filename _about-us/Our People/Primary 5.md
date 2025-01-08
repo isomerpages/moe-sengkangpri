@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<p><strong>Year Head:<br>Mrs Andrea Ki</strong>
-<br><strong>Assistant Year Head:</strong>
+<p><strong>Upper Block Assistant Year Head:</strong>
 <br><strong>Mdm Nurzarifah Binte Masnam</strong>
 </p>
 <table style="minWidth: 75px">
