@@ -94,7 +94,7 @@ third_nav_title: Our People
 <p>1 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Chin Chin</p>
+<p>Mdm Ng Chin Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_chin_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chin_chin@schools.gov.sg</a>
