@@ -110,27 +110,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Special Education Needs Officers (SENOs)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mariati Bte Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mariati_yusoff@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariati_yusoff@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yong Fong Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yong_fong_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_fong_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Azhari Bin Basiran</p>
 </td>
@@ -163,6 +145,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurhafizah_rosle_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafizah_rosle_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Allied Educator (T&amp;L)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mariati Bte Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mariati_yusoff@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariati_yusoff@schools.gov.sg</a>
 </p>
 </td>
 </tr>
