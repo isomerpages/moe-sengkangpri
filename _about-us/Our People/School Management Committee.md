@@ -181,7 +181,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Block)</p>
+<p>Year Head (Lower Block - P1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ferlynn Han - Tan Quek Khim</p>
@@ -193,7 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Middle Block)</p>
+<p>Year Head (Middle Block - P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Kwan See Ling</p>
@@ -205,7 +205,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Block)</p>
+<p>Year Head (Upper Block - P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Andrea Ki</p>
@@ -217,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Block)</p>
+<p>Assistant Year Head (Lower Block - P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Karen Tan</p>
@@ -229,7 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Middle Block)</p>
+<p>Assistant Year Head (Middle Block - P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ee (Leong) Lai Mun</p>
@@ -241,7 +241,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Block)</p>
+<p>Assistant Year Head (Upper Block - P5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurzarifah Binte Masnam</p>
