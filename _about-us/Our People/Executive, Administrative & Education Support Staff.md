@@ -147,10 +147,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nurhafizah Bte Rosle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurhafizah_rosle_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafizah_rosle_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
