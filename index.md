@@ -18,6 +18,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: P1 Orientation (Take Two)!
+          description: Here's part two of our new P1 students journey!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02zAnFPdNZisa2U93Azh6Hj2xLEWrwBgYYNAe1msk3JbQKJQV1HcVnU7iigZ3uGy9fl
         - title: P1 Orientation Day!
           description: The day was filled with excitement at the P1 Orientation Day!
           linktext: Learn more
@@ -31,11 +35,6 @@ sections:
           description: SKLites' showcased much growth and creativity in this special event!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0D8n1upydSuiVoT3PSnfoLQGUtF7bG4edHjnKnnxGZwNJXvpaTGusrnVhjHkrW2ufl
-        - title: Graduation Day!
-          description: Congratulations to our Class of 2024 in completing your primary sch
-            journey!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0uAanuK16k1UWY52eocv2VVVM3Zf7XAajKYsQLMz5vbqzuFPCxhnSu4F2sAYSyzMnl
   - infobar:
       title: Term 1 2025 Notification
       subtitle: For 2025 SKPS Students
