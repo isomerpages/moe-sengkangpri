@@ -34,7 +34,7 @@ third_nav_title: Our People
 <p>Mr Muhammad Luqman Hakeem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_luqman_hakeem_mahmood@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_luqman_hakeem_mahmood@schools.gov.sg</u></a>
+<p><a href="mailto:muhammad_luqman_hakeem_mahmood_shah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_luqman_hakeem_mahmood_shah@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
