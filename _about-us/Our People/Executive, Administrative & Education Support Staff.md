@@ -49,6 +49,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Ong Jin Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:daniel_ong_jin_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_ong_jin_hwa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,27 +110,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Special Education Needs Officers (SENOs)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mariati Bte Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mariati_yusoff@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariati_yusoff@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yong Fong Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yong_fong_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_fong_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Azhari Bin Basiran</p>
 </td>
@@ -147,10 +141,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nurhafizah Bte Rosle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurhafizah_rosle_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafizah_rosle_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Allied Educator (T&amp;L)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mariati Bte Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mariati_yusoff@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariati_yusoff@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
