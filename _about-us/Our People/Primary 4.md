@@ -73,7 +73,7 @@ third_nav_title: Our People
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Yu An</p>
+<p>Mrs Han (Lim) Yu An</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yu_an@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yu_an@schools.gov.sg</a>
