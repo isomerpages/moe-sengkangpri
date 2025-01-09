@@ -118,7 +118,7 @@ third_nav_title: Our People
 <p>Mr Daniel Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:daniel_guan_poh_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_guan_poh_wei@schools.gov.sg</a>
+<p><a href="mailto:daniel_guan_poh_wei_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_guan_poh_wei_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
