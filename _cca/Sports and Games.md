@@ -66,10 +66,8 @@ variant: tiptap
 <p>Mrs Adeline Lim (i/c)
 <br>Mdm Lim Jia Wei&nbsp;(2 i/c)
 <br>Mr Timothy Loe (SDP)
-<br>Mr Daniel Li
-<br>Miss Toh Pei Min
-<br>Mdm Shanmugathai
-<br>Miss Dora Yeo</p>
+<br>Mdm Jaswant Kaur d/o Gurdit Singh
+<br>Mr Wong Chin Wei Aaron</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall (ISH)</p>
@@ -88,12 +86,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Dulcie Lim (i/c)
-<br>Mr Vikneswaran (2 i/c)
+<br>Mr Tan Jia Hui (2 i/c)
 <br>Mr Suresh Kumar (SDP)
-<br>Mdm Luthfiyyah Binte Kwajah Mohamed
 <br>Miss Pathmaseri Veeran Visayan
-<br>Mr Tan Jia Hui
-<br>Mdm Chin Irnanie Bte Imran Chin</p>
+<br>Mdm Nasuha Bte Hanafi
+<br>Mdm Leung Lai Yin
+<br>Mdm Chris Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field / Basketball Court</p>
@@ -113,12 +111,11 @@ variant: tiptap
 <br>2.30 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wu Mei Qi (i/c)
-<br>Mr Ngo Yi Chye (2 i/c)
-<br>Mdm Yeo Ay Leng (SDP)
-<br>Mr Ngeiw Chaw Yee
-<br>Mrs Lim Huey San
-<br>Mdm Joyce Ng Cheng Li
+<p>Mr Ngo Yi Chye (i/c)
+<br>Miss Wu Mei Qi (2 i/c)
+<br>Mrs Brenda Siew (SDP)
+<br>Mdm Chin Irnanie Bte Imran Chin
+<br>Mr Md Luqman Hakeem Mahmood Shah
 <br>Mdm Wang Yee Ling Karen
 <br>
 </p>
