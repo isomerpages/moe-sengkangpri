@@ -8,7 +8,7 @@ variant: markdown
 
 | Name of Application  | URL (Left-Click Below) |
 | --- | --- |
-| ICT Booking Request | [Click Here](https://form.gov.sg/66c5683337bc73f0c79f2502)
+| ICT Booking Request | [Click Here](https://sites.google.com/view/skps-ict-booking/home)
 | Large Format Printing Request | [Click Here](https://form.gov.sg/675269d692955d9d630a4a95)
 | MOE Intranet | [https://intranet.moe.gov.sg](https://intranet.moe.gov.sg)
 | MIMS Portal  | [https://mims.moe.gov.sg](https://idp.mims.moe.gov.sg/nidp/saml2/sso)  |
