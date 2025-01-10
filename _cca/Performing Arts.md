@@ -89,7 +89,7 @@ variant: tiptap
 <br>7.30 am - 9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ramesh s/o Kunasegaran&nbsp; (i/c)
+<p>Mr Ramesh S/O Kunasegaran&nbsp; (i/c)
 <br>Mdm Jayasutha (2 i/c)
 <br>Miss Faith Chiu (SDP)
 <br>Mr Canisius Ching
