@@ -43,26 +43,6 @@ sections:
         available.
       button: Click Here
       url: /files/2025_Term_1_Notification.pdf
-  - infopic:
-      title: President's Award for Teachers (PAT)
-      subtitle: MOE Advertisement
-      id: infopic
-      description: Nominations for this year's PAT is now open! Kindly click on the
-        link below to nominate the teachers deserving of the award.
-      button: Click Here
-      url: https://go.gov.sg/pat2025
-      image: /images/Slide1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award (OYEA)
-      subtitle: MOE Advertisement
-      id: infopic
-      description: Nominations for the OYEA 2025 is now open! Kindly click on the link
-        below to nominate the teachers deserving of the award.
-      button: Click Here
-      url: https://go.gov.sg/oyea2025
-      image: /images/Slide2.jpg
-      alt: Image alt text
   - infobar:
       title: Registration of Interest for School Bus Service
       subtitle: For 2025 SKPS Students
