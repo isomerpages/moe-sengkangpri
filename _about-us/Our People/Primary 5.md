@@ -64,7 +64,7 @@ third_nav_title: Our People
 <p>Mr Tan Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jia_wei_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_wei_a@schools.gov.sg</a>
+<p><a href="mailto:tan_jia_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_hui_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
