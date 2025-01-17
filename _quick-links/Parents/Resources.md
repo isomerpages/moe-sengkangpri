@@ -8,7 +8,6 @@ variant: markdown
 #### **Parent Briefing - 2025 (All Level)**<br><br>
 
 * **[NEW]** [Parent Briefing - Primary 5](/files/P5_Parent_Briefing_2025.pdf)
-* **[NEW]** [Parent Briefing - Primary 6](/files/P6_Parent_Briefing_2025.pdf)
 
 #### **Resources - 2025 (All Level)**<br><br>
 
