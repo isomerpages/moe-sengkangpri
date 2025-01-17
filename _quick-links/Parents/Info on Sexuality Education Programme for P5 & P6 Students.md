@@ -39,7 +39,7 @@ STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and
 your&nbsp;loved ones.</p>
 <p>You may&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE</a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<h3><strong>OVERVIEW OF SENG KANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong></h3>
+<h3><strong>OVERVIEW OF SENG KANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h3>
 <p>4.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sexuality Education is delivered in
 a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
@@ -69,8 +69,8 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<h3><strong>AT SENG KANG PRIMARY SCHOOL, THE FOLLOWING SEXUALITY EDUCATION LESSONS WILL BE TAUGHT IN 2024:</strong></h3>
-<p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+<h3><strong>AT SENG KANG PRIMARY SCHOOL, THE FOLLOWING SEXUALITY EDUCATION LESSONS WILL BE TAUGHT IN 2025:</strong></h3>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>PRIMARY 5</strong>
 </p>
@@ -166,7 +166,9 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>TOPICS COVERED IN GY SERIES FOR PRIMARY 6</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+</p>
+<p><strong>PRIMARY 6</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
