@@ -1,8 +1,9 @@
 ---
-title: Key Programmes
-permalink: /departments/Mother-Tongue/key-programmes/
+title: Key Programmes MT
+permalink: /departments/mother-tongue/key-programmes/
 description: ""
 variant: markdown
+third_nav_title: CCE
 ---
 **Are as follows:**<br>
 **Mother Tongue Fortnight**<br>This 2-week long event is a platform for students to actively learn mother tongue language and during the this event, students from P1 to P6 will be given the opportunities to participate in cultural activities that is being organized by The MTL Department.<br>
