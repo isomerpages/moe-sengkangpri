@@ -18,6 +18,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: The Journey!
+          description: Our SKLites were treated to special book co-reading led by
+            Principal, Mrs Tan!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02xExSMrkxWBsz8XCCymwMU9V9ajv3sg1tDqYtikN1NkYhhN36AngZuFVCPmu5eNwzl
         - title: P1 Orientation (Take Two)!
           description: Here's part two of our new P1 students journey!
           linktext: Learn more
@@ -31,10 +36,6 @@ sections:
             dedication!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0FgeZ6iAg8qTz2RKNczr9DWwjqvZ2BbRsm2BZbT4wYYw3f19FxNnj9hUTqc9TZPCFl
-        - title: Celebration of Learning!
-          description: SKLites' showcased much growth and creativity in this special event!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0D8n1upydSuiVoT3PSnfoLQGUtF7bG4edHjnKnnxGZwNJXvpaTGusrnVhjHkrW2ufl
   - infobar:
       title: Term 1 2025 Notification
       subtitle: For 2025 SKPS Students
