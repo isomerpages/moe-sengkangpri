@@ -19,7 +19,7 @@ sections:
       description: This is what we have been up to recently.
       cards:
         - title: The Journey!
-          description: Our SKLites were treated to special book co-reading led by
+          description: Our SKLites were treated to a special book reading led by
             Principal, Mrs Tan!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02xExSMrkxWBsz8XCCymwMU9V9ajv3sg1tDqYtikN1NkYhhN36AngZuFVCPmu5eNwzl
