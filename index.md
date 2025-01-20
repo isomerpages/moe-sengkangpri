@@ -45,6 +45,14 @@ sections:
       button: Click Here
       url: /files/2025_Term_1_Notification.pdf
   - infobar:
+      title: Light Bites Stall
+      subtitle: School advertisement
+      id: infobar
+      description: We have an opening for the mentioned stall. For further details,
+        please click on the link below.
+      button: Click Here
+      url: /about-us/general-information/school-canteen-advertisement/
+  - infobar:
       title: Registration of Interest for School Bus Service
       subtitle: For 2025 SKPS Students
       id: infobar
@@ -60,12 +68,4 @@ sections:
         click on the link below.
       button: Click Here
       url: /quick-links/parents/ymca-skps-2025-intake/
-  - infobar:
-      title: Muslim Canteen Stall (Noodles)
-      subtitle: School advertisement
-      id: infobar
-      description: We have an opening for the mentioned stall. For further details,
-        please click on the link below.
-      button: Click Here
-      url: /about-us/general-information/school-canteen-advertisement/
 ---
