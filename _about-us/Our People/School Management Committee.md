@@ -467,6 +467,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Ong Jin Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:daniel_ong_jin_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_ong_jin_hwa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
