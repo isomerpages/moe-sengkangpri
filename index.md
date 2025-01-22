@@ -37,6 +37,14 @@ sections:
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0FgeZ6iAg8qTz2RKNczr9DWwjqvZ2BbRsm2BZbT4wYYw3f19FxNnj9hUTqc9TZPCFl
   - infobar:
+      title: Level Briefing Slides
+      subtitle: For 2025 SKPS Students
+      id: infobar
+      description: Dear parents/ guardians, the briefing slides of the various levels
+        are now available.
+      button: Click Here
+      url: /quick-links/Parents/permalink/
+  - infobar:
       title: Term 1 2025 Notification
       subtitle: For 2025 SKPS Students
       id: infobar
