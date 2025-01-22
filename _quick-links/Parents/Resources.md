@@ -7,6 +7,7 @@ variant: markdown
 ---
 #### **Parent Briefing - 2025**<br><br>
 
+* **[NEW]** [Parent Briefing - Primary 2](/files/P2_Parent_Briefing_2025.pdf)
 * **[NEW]** [Parent Briefing - Primary 4](/files/P4_Parent_Briefing_2025.pdf)
 * **[NEW]** [Parent Briefing - Primary 5](/files/P5_Parent_Briefing_2025.pdf)
 * **[NEW]** [Parent Briefing - Primary 6](/files/P6_Parent_Briefing_2025.pdf)
