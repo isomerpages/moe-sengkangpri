@@ -78,12 +78,15 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>These provide opportunities for students to deepen their appreciation
-of our shared past and Singapore’s current realities. Through differentiated
-Level-wide NE learning experiences, our school seeks to nurture a strong
-a sense of belonging, a sense of hope, a sense of reality and a strong
-will in our SKLites to act as citizens.&nbsp;&nbsp;Besides school-wide
-commemoration, CCE (FTGP) lessons related to NE Commemorative Days will
-be conducted. In addition, contemporary content would be provided for students
-through Kindsville Times/A-Ok.</p>
+<p>&nbsp;Our school provides enriching opportunities for students to deepen
+their appreciation of Singapore’s shared history and contemporary realities.
+Through differentiated, level-wide National Education (NE) learning experiences,
+we aim to nurture in our SKLites a strong sense of belonging, hope, and
+reality, as well as the resilience to act as responsible citizens.</p>
+<p>Beyond school-wide NE commemorative events, Character and Citizenship
+Education (CCE) lessons during Form Teacher Guidance Period (FTGP) are
+tailored to reinforce these themes. Students are also exposed to contemporary
+content through engaging platforms such as Kindsville Times and A-OK, ensuring
+they stay informed and inspired.</p>
+<p>Together, we cultivate a generation of compassionate and civic-minded
+individuals who contribute meaningfully to Singapore’s future.</p>
