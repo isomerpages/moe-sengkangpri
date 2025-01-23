@@ -78,9 +78,8 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>Our school provides enriching opportunities for students to deepen their
-appreciation of Singapore’s shared history and contemporary realities.
+<p>&nbsp;Our school provides enriching opportunities for students to deepen
+their appreciation of Singapore’s shared history and contemporary realities.
 Through differentiated, level-wide National Education (NE) learning experiences,
 we aim to nurture in our SKLites a strong sense of belonging, hope, and
 reality, as well as the resilience to act as responsible citizens.</p>
