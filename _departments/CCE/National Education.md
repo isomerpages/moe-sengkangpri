@@ -39,7 +39,7 @@ third_nav_title: CCE
 <p>Together We Keep Singapore Strong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Feb 2025, Monday</p>
+<p>17 Feb 2025, Monday</p>
 <p>(as 15 Feb is a Sat)</p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ third_nav_title: CCE
 <p>Racial Harmony Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our People, our Tapestry</p>
+<p>Our People, our Tapestry (<strong>NEW</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 July 2025 Monday</p>
@@ -84,6 +84,6 @@ of our shared past and Singapore’s current realities. Through differentiated
 Level-wide NE learning experiences, our school seeks to nurture a strong
 a sense of belonging, a sense of hope, a sense of reality and a strong
 will in our SKLites to act as citizens.&nbsp;&nbsp;Besides school-wide
-commemoration, schools are to conduct the CCE (FTGP) lessons related to
-NE Commemorative Days. In addition, contemporary content would be provided
-for students through Kindsville Times/A-Ok.</p>
+commemoration, CCE (FTGP) lessons related to NE Commemorative Days will
+be conducted. In addition, contemporary content would be provided for students
+through Kindsville Times/A-Ok.</p>
