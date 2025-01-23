@@ -81,8 +81,9 @@ variant: tiptap
 <p>Hockey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday and Thursday
-<br>3.45 pm - 5.30 pm</p>
+<p>Tuesday and Thursday
+<br>2.30 pm - 4.30 pm (days without remedial)</p>
+<p>3.30 pm - 5.30 pm (days with remedial)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Dulcie Lim (i/c)
@@ -94,7 +95,7 @@ variant: tiptap
 <br>Mdm Chris Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Field / Basketball Court</p>
+<p>Field / Basketball Court / Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classrooms</p>
