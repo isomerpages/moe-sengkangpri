@@ -48,7 +48,7 @@ third_nav_title: CCE
 <p>International Friendship Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore : Forge Friendships in a Complex World (new)</p>
+<p>Singapore : Forge Friendships in a Complex World (<strong>NEW</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11 April 2025, Friday</p>
