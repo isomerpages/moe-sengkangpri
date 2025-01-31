@@ -88,10 +88,9 @@ front porch after vehicle enters via Gate 1.</p>
 <td rowspan="1" colspan="1">
 <p>Parents can pick up their children from this Gate.
 <br>Parents of Primary 1 pupils can proceed to the basketball court to pick
-their children up.
-<br>This will be the only exit for pupils to use after CCA. Parents who have
-pupils in the After School Care will have to pick up their children from
-this exit.</p>
+their children up. This will be the only exit for pupils to use after CCA.
+Parents who have pupils in the After School Care will have to pick up their
+children from this exit.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Void Deck of Block 236</p>
