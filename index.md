@@ -18,24 +18,22 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
-        - title: The Journey!
-          description: Our SKLites were treated to a special book reading led by
-            Principal, Mrs Tan!
+        - title: Prefects' Investiture!
+          description: Presenting our new Prefect Leaders of SKPS for 2025!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02xExSMrkxWBsz8XCCymwMU9V9ajv3sg1tDqYtikN1NkYhhN36AngZuFVCPmu5eNwzl
-        - title: P1 Orientation (Take Two)!
-          description: Here's part two of our new P1 students journey!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02vGWhtAbAN7Moh6tKaopMJ7TQE78dfBB1bUFTNHPuRDmnQTA4qma7k5V4W9Yo2Apxl
+        - title: CNY Celebration Videos!
+          description: Here are some videos of our CNY celebration!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02zAnFPdNZisa2U93Azh6Hj2xLEWrwBgYYNAe1msk3JbQKJQV1HcVnU7iigZ3uGy9fl
-        - title: P1 Orientation Day!
-          description: The day was filled with excitement at the P1 Orientation Day!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0pJkkpydxR5LGzxNSNPvJ7ufuzEz1MJj9VuP1AN8e7cuTD6ctva1xFdLUdAy2o6qzl
+        - title: CNY Celebration!
+          description: The day was filled with excitement at the school's CNY celebration!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid08GoCP1Xk5P4ySP1TefK3BAKGyvvdZdbLNPTykoW5sMtoYuCAx5hip7mcP41dVwxxl
-        - title: PSG Appreciation Day!
-          description: Our heartfelt thanks to our PSG for their unwavering support and
-            dedication!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0265HCzt9ak6wZoE9zbXPv2q8GogvKTsvVhyBendmMSvNztgEiqPUGc6s9nnCQ3iM2l
+        - title: Pongal CNY Recess Activities!
+          description: It was a fun-filled day of recess activities!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0FgeZ6iAg8qTz2RKNczr9DWwjqvZ2BbRsm2BZbT4wYYw3f19FxNnj9hUTqc9TZPCFl
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0WvJt1YR3rPmMMeyCQ6gMDNtSSe5aCf3jdmLHb5DjCEsvQyRY76HtCS75TqH7yDiGl
   - infobar:
       title: Level Briefing Slides
       subtitle: For 2025 SKPS Students
