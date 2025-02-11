@@ -18,7 +18,7 @@ The PSG also facilitates the school’s communication to parents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG%20logo.png">
 </div>
-<p><strong>Our 2024 to 2025 PSG EXCO members are:</strong>
+<p><strong>Our PSG EXCO members are:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
