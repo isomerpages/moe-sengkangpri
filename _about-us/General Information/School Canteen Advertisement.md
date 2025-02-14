@@ -32,7 +32,7 @@ variant: tiptap
 <p>28 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p>Halal / Non-Halal</p>
 </td>
 </tr>
 </tbody>
@@ -40,11 +40,7 @@ variant: tiptap
 <h4><strong>Application Procedure</strong></h4>
 <ol>
 <li>
-<p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.
-<br>
-<br><a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
-<br>
+<p>You may request the application from the School’s General Office.
 <br>
 </p>
 </li>
@@ -82,7 +78,7 @@ email OR to the School’s General Office.</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Mr Thomas Chow / Mdm Soh Sim Ping</p>
+<p>Contact Person: Mr Daniel Ong / Mdm Soh Sim Ping</p>
 </li>
 </ul>
 <h4><strong>How to get there?</strong></h4>
