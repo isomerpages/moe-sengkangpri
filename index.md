@@ -42,7 +42,7 @@ sections:
         teachers who have made a meaningful impact on their students' learning.
       button: Click Here for More INFO
       url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
-      image: /images/ITEA_2025_Poster__small.jpg
+      image: /images/ITEA_2025_Poster.jpg
       alt: Image alt text
   - infobar:
       title: Level Briefing Slides
