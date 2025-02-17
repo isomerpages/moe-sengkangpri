@@ -34,6 +34,16 @@ sections:
           description: It was a fun-filled day of recess activities!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0WvJt1YR3rPmMMeyCQ6gMDNtSSe5aCf3jdmLHb5DjCEsvQyRY76HtCS75TqH7yDiGl
+  - infopic:
+      title: Nominate your English Language Teacher today!
+      subtitle: ITEA Award 2025
+      id: infopic
+      description: We invite students and parents to nominate outstanding English
+        teachers who have made a meaningful impact on their students' learning.
+      button: Click Here for More INFO
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      image: /images/ITEA_2025_Poster.jpg
+      alt: Image alt text
   - infobar:
       title: Level Briefing Slides
       subtitle: For 2025 SKPS Students
