@@ -18,22 +18,18 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: P5 Adventure Camp!
+          description: Here are some photos from the Primary 5 Adventure Camp!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid036g8DunASQxgst47DjsJUZBKh7miMabqipAFkYHwAYVxyJuuYBuDJQwqkdnaWjF1kl
+        - title: Pongal Arts Competition!
+          description: Our SKLites participated and won two prizes at the competition!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0eUuPkTJfTQZkyrnPtMUz4V4BH9jxQcGba651ryTQpVmbvDDgEkv3x6nuUxNEJJPMl
         - title: Prefects' Investiture!
           description: Presenting our new Prefect Leaders of SKPS for 2025!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02vGWhtAbAN7Moh6tKaopMJ7TQE78dfBB1bUFTNHPuRDmnQTA4qma7k5V4W9Yo2Apxl
-        - title: CNY Celebration Videos!
-          description: Here are some videos of our CNY celebration!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0pJkkpydxR5LGzxNSNPvJ7ufuzEz1MJj9VuP1AN8e7cuTD6ctva1xFdLUdAy2o6qzl
-        - title: CNY Celebration!
-          description: The day was filled with excitement at the school's CNY celebration!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0265HCzt9ak6wZoE9zbXPv2q8GogvKTsvVhyBendmMSvNztgEiqPUGc6s9nnCQ3iM2l
-        - title: Pongal CNY Recess Activities!
-          description: It was a fun-filled day of recess activities!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0WvJt1YR3rPmMMeyCQ6gMDNtSSe5aCf3jdmLHb5DjCEsvQyRY76HtCS75TqH7yDiGl
   - infopic:
       title: Nominate your English Language Teacher today!
       subtitle: ITEA Award 2025
