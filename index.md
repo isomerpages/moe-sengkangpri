@@ -35,11 +35,19 @@ sections:
       subtitle: ITEA Award 2025
       id: infopic
       description: We invite students and parents to nominate outstanding English
-        teachers who have made a meaningful impact on their students' learning.
+        teachers who have made meaningful impact on their learning.
       button: Click Here for More INFO
       url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
       image: /images/ITEA_2025_Poster.jpg
       alt: Image alt text
+  - infobar:
+      title: School Canteen Menu
+      subtitle: For 2025 SKPS Students
+      id: infobar
+      description: Curious to know the food and drinks on offer from the school
+        canteen? Then check out below!
+      button: Click Here
+      url: /about-us/general-information/school-canteen-menu/
   - infobar:
       title: Level Briefing Slides
       subtitle: For 2025 SKPS Students
