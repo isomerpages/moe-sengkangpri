@@ -21,7 +21,7 @@ sections:
         - title: P5 Adventure Camp!
           description: Here are some photos from the Primary 5 Adventure Camp!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid036g8DunASQxgst47DjsJUZBKh7miMabqipAFkYHwAYVxyJuuYBuDJQwqkdnaWjF1kl
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid033XR8UiVVFgj8bHtAWdND9ZPHfpvrMVCTE6WjMRPPDwZfYrUCrSVFNunQjvKdu1KTl
         - title: Pongal Arts Competition!
           description: Our SKLites participated and won two prizes at the competition!
           linktext: Learn more
