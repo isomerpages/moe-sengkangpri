@@ -190,8 +190,7 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><em>Stall 1: additional $0.20 for takeaway box.</em>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
