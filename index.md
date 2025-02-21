@@ -18,18 +18,18 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Total Defence Day 2025!
+          description: SKPS commemorated TDD 2025. Together, we keep Singapore strong!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02d2bVNBb6MuKyTH3YHFdbvZQfBgwSkEaVigtPbSWLsKHTufX3wpso7pCXtudmSqKPl
+        - title: A Week of Wonder!
+          description: What a meaningful WoW in learning, exploring and growing together!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0nyZ2ks7WXdj5V87iuFXKKQzzAaN3EhdWwYZdnWssFcLT7GBxD2XrCa4ixqZ5aGwNl
         - title: P5 Adventure Camp!
           description: Here are some photos from the Primary 5 Adventure Camp!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid033XR8UiVVFgj8bHtAWdND9ZPHfpvrMVCTE6WjMRPPDwZfYrUCrSVFNunQjvKdu1KTl
-        - title: Pongal Arts Competition!
-          description: Our SKLites participated and won two prizes at the competition!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0eUuPkTJfTQZkyrnPtMUz4V4BH9jxQcGba651ryTQpVmbvDDgEkv3x6nuUxNEJJPMl
-        - title: Prefects' Investiture!
-          description: Presenting our new Prefect Leaders of SKPS for 2025!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02vGWhtAbAN7Moh6tKaopMJ7TQE78dfBB1bUFTNHPuRDmnQTA4qma7k5V4W9Yo2Apxl
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02o9VP85tqaaPuWa28USXEMfTo9RiFGaqSK2Wp25yQRLugFU2SVBqo5YfQfFoay34Xl
   - infopic:
       title: Nominate your English Language Teacher today!
       subtitle: ITEA Award 2025
