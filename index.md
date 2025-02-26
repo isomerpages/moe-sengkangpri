@@ -18,18 +18,18 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
-        - title: Total Defence Day 2025!
-          description: SKPS commemorated TDD 2025. Together, we keep Singapore strong!
+        - title: Engagement Session with MediaCorp DJ!
+          description: Our P6 TL SKLites had an engaging session with DJ Ravi G recently!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02d2bVNBb6MuKyTH3YHFdbvZQfBgwSkEaVigtPbSWLsKHTufX3wpso7pCXtudmSqKPl
-        - title: A Week of Wonder!
-          description: What a meaningful WoW in learning, exploring and growing together!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02Ud5q8tHmA2Nm5zy9jeBhekkkAPdJv17xPvEGg55nZPL7SdLm3m5mDavPetNn3kq5l
+        - title: Family Bonding Day!
+          description: We had a wonderful fun-filled activity last Sat!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0nyZ2ks7WXdj5V87iuFXKKQzzAaN3EhdWwYZdnWssFcLT7GBxD2XrCa4ixqZ5aGwNl
-        - title: P5 Adventure Camp!
-          description: Here are some photos from the Primary 5 Adventure Camp!
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0BrgKYnfkE8TAfVkRhtiVMLCJNfrVh9vyWdqDjoUXVHuAvwYi5TA5wUXY9UfNGphKl
+        - title: Smart Buddy Onboarded!
+          description: SKPS is now POSB Smart Buddy enabled!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02o9VP85tqaaPuWa28USXEMfTo9RiFGaqSK2Wp25yQRLugFU2SVBqo5YfQfFoay34Xl
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02bNPFAH9MLyZw9ubFdE4m1Hh4QrqHmqVyU45Q2gb4U9FCAmsvwiPqNBTAVbVHr1MGl
   - infopic:
       title: Nominate your English Language Teacher today!
       subtitle: ITEA Award 2025
