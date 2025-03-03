@@ -99,10 +99,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Flexi-Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ding Chih She</p>
+<p>Ms Ding Chih She</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ding_chih_she@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ding_chih_she@schools.gov.sg</a>
