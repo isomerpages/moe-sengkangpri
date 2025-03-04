@@ -29,7 +29,7 @@ variant: tiptap
 <p>Light Bites</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Feb 2025</p>
+<p>31 Mar 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal / Non-Halal</p>
