@@ -18,6 +18,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Founder's Day Commemoration!
+          description: SKPS held a special commemoration recently & our scouts won Gold at
+            a carnival!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0wpjieVZthFFR7fEW5oVH9juqRNt3oXUDvFDTAJq6jMfLNkvHXjMQfLrpVqRMiCXVl
         - title: Engagement Session with MediaCorp DJ!
           description: Our P6 TL SKLites had an engaging session with DJ Ravi G recently!
           linktext: Learn more
