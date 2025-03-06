@@ -18,6 +18,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Drone Aerial Show Workshop!
+          description: Our ICT Club had a fruitful experience at the workshop recently!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02H3EAURZGDu9iobA3ZERaybsVG4s5vxbowFvwiBka7tSooHhh1G78uATgqK2wwGZnl
         - title: Founder's Day Commemoration!
           description: SKPS held a special commemoration recently & our scouts won Gold at
             a carnival!
@@ -31,10 +35,6 @@ sections:
           description: We had a wonderful fun-filled activity last Sat!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0BrgKYnfkE8TAfVkRhtiVMLCJNfrVh9vyWdqDjoUXVHuAvwYi5TA5wUXY9UfNGphKl
-        - title: Smart Buddy Onboarded!
-          description: SKPS is now POSB Smart Buddy enabled!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02bNPFAH9MLyZw9ubFdE4m1Hh4QrqHmqVyU45Q2gb4U9FCAmsvwiPqNBTAVbVHr1MGl
   - infopic:
       title: Nominate your English Language Teacher today!
       subtitle: ITEA Award 2025
