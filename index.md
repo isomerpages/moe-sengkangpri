@@ -18,6 +18,15 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Super Cyber Champions!
+          description: Here are our Super Cyber Champions for Term 1!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0GexB2UguTs6phAGhyTpWA4obATQxoUoETU4T8QEneEPN23MhPnDBYnfEEzNZNtVSl
+        - title: Career Fair 2025!
+          description: SKLites had an insightful sharing of parents' career experiences at
+            the Fair!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0ZgktVcGQZw5gsfKMUEv1bVc29vHP4wDbQC8CFB8pDKdp8WgNyaoiMDHsgJ3yRxcKl
         - title: Drone Aerial Show Workshop!
           description: Our ICT Club had a fruitful experience at the workshop recently!
           linktext: Learn more
@@ -27,14 +36,6 @@ sections:
             a carnival!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0wpjieVZthFFR7fEW5oVH9juqRNt3oXUDvFDTAJq6jMfLNkvHXjMQfLrpVqRMiCXVl
-        - title: Engagement Session with MediaCorp DJ!
-          description: Our P6 TL SKLites had an engaging session with DJ Ravi G recently!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02Ud5q8tHmA2Nm5zy9jeBhekkkAPdJv17xPvEGg55nZPL7SdLm3m5mDavPetNn3kq5l
-        - title: Family Bonding Day!
-          description: We had a wonderful fun-filled activity last Sat!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0BrgKYnfkE8TAfVkRhtiVMLCJNfrVh9vyWdqDjoUXVHuAvwYi5TA5wUXY9UfNGphKl
   - infopic:
       title: Nominate your English Language Teacher today!
       subtitle: ITEA Award 2025
