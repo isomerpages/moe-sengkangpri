@@ -35,7 +35,7 @@ variant: tiptap
 <p>Malay Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday
+<p>Tuesday
 <br>3.30 pm - 5.30 pm
 <br>Friday
 <br>7.30 am - 9.30 am</p>
@@ -83,8 +83,7 @@ variant: tiptap
 <p>Handbells Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday and Tuesday
-<br>3.30 pm - 5.30 pm
+<p>Wednesday 3.30 pm - 5.30 pm
 <br>Friday
 <br>7.30 am - 9.30 am</p>
 </td>
