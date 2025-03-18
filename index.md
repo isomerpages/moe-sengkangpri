@@ -87,7 +87,7 @@ sections:
       url: /about-us/General-Information/Bookshop-School-Bus-and-Other-Services/
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
-      subtitle: FOR 2025 PRIMARY ONE STUDENTS
+      subtitle: FOR 2025 SKPS STUDENTS
       id: infobar
       description: To register your interest for YMCA student care service, please
         click on the link below.
