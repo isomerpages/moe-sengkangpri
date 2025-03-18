@@ -36,6 +36,14 @@ sections:
             a carnival!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0wpjieVZthFFR7fEW5oVH9juqRNt3oXUDvFDTAJq6jMfLNkvHXjMQfLrpVqRMiCXVl
+  - infobar:
+      title: Replacement of Lost/Damaged School Smart Card
+      subtitle: For 2025 SKPS Students
+      id: infobar
+      description: Dear parents/ guardians, you may apply for a replacement card via
+        SimplyGo's website at the following link.
+      button: Click Here
+      url: https://svc.simplygo.com.sg/eservice/econcession/app_form1.php?app_type=2
   - infopic:
       title: Nominate your English Language Teacher today!
       subtitle: ITEA Award 2025
@@ -54,14 +62,6 @@ sections:
         canteen? Check out below!
       button: Click Here
       url: /about-us/general-information/school-canteen-menu/
-  - infobar:
-      title: Level Briefing Slides
-      subtitle: For 2025 SKPS Students
-      id: infobar
-      description: Dear parents/ guardians, the briefing slides of the various levels
-        are now available.
-      button: Click Here
-      url: /quick-links/Parents/permalink/
   - infobar:
       title: Term 1 2025 Notification
       subtitle: For 2025 SKPS Students
