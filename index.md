@@ -18,24 +18,31 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Erovra Relay Championship!
+          description: The school's track and field team took part and had a memorable
+            experience!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02YYaaqA2vnHyNDVwQjLLbgAnzQvJAxmxfBqfgFiHqDTTEDMc1WEE5G9Ne5dNMHhhdl
+        - title: Storytelling Magic!
+          description: Our EL champs turned the Reading Park into a place of magic!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02dEJ4gdTJQRMAmd3GUBT3XrppeJ7LS4C1FbU6Wk3P7gZWCD5sneMR6YeeTRgVhRWyl
+        - title: Spelling Bee Competition!
+          description: Our Tamil SKLites competed and reached the semi-finals!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid04yRBKwzKwAQA88xwGa6zSmqvDYsiZYZ8PCCbkUgfcX1ugca8KECicoNpBMPVMTgzl
         - title: Super Cyber Champions!
           description: Here are our Super Cyber Champions for Term 1!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0GexB2UguTs6phAGhyTpWA4obATQxoUoETU4T8QEneEPN23MhPnDBYnfEEzNZNtVSl
-        - title: Career Fair 2025!
-          description: SKLites had an insightful sharing of parents' career experiences at
-            the Fair!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0ZgktVcGQZw5gsfKMUEv1bVc29vHP4wDbQC8CFB8pDKdp8WgNyaoiMDHsgJ3yRxcKl
-        - title: Drone Aerial Show Workshop!
-          description: Our ICT Club had a fruitful experience at the workshop recently!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02H3EAURZGDu9iobA3ZERaybsVG4s5vxbowFvwiBka7tSooHhh1G78uATgqK2wwGZnl
-        - title: Founder's Day Commemoration!
-          description: SKPS held a special commemoration recently & our scouts won Gold at
-            a carnival!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0wpjieVZthFFR7fEW5oVH9juqRNt3oXUDvFDTAJq6jMfLNkvHXjMQfLrpVqRMiCXVl
+  - infobar:
+      title: Replacement of Lost/Damaged School Smart Card
+      subtitle: For 2025 SKPS Students
+      id: infobar
+      description: Dear parents/ guardians, you may apply for a replacement card via
+        SimplyGo's website at the following link.
+      button: Click Here
+      url: https://svc.simplygo.com.sg/eservice/econcession/app_form1.php?app_type=2
   - infopic:
       title: Nominate your English Language Teacher today!
       subtitle: ITEA Award 2025
@@ -54,14 +61,6 @@ sections:
         canteen? Check out below!
       button: Click Here
       url: /about-us/general-information/school-canteen-menu/
-  - infobar:
-      title: Level Briefing Slides
-      subtitle: For 2025 SKPS Students
-      id: infobar
-      description: Dear parents/ guardians, the briefing slides of the various levels
-        are now available.
-      button: Click Here
-      url: /quick-links/Parents/permalink/
   - infobar:
       title: Term 1 2025 Notification
       subtitle: For 2025 SKPS Students
@@ -88,7 +87,7 @@ sections:
       url: /about-us/General-Information/Bookshop-School-Bus-and-Other-Services/
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
-      subtitle: FOR 2025 PRIMARY ONE STUDENTS
+      subtitle: FOR 2025 SKPS STUDENTS
       id: infobar
       description: To register your interest for YMCA student care service, please
         click on the link below.
