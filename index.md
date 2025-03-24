@@ -36,6 +36,14 @@ sections:
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0GexB2UguTs6phAGhyTpWA4obATQxoUoETU4T8QEneEPN23MhPnDBYnfEEzNZNtVSl
   - infobar:
+      title: Term 2 2025 Notification
+      subtitle: For 2025 SKPS Students
+      id: infobar
+      description: Welcome back to school! The notification for the new term is now
+        available.
+      button: Click Here
+      url: /files/0080_2025_Term_2_Notification.pdf
+  - infobar:
       title: Replacement of Lost/Damaged School Smart Card
       subtitle: For 2025 SKPS Students
       id: infobar
@@ -53,14 +61,6 @@ sections:
       url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
       image: /images/ITEA_2025_Poster.jpg
       alt: Image alt text
-  - infobar:
-      title: Term 2 2025 Notification
-      subtitle: For 2025 SKPS Students
-      id: infobar
-      description: Welcome back to school! The notification for the new term is now
-        available.
-      button: Click Here
-      url: /files/0080_2025_Term_2_Notification.pdf
   - infobar:
       title: School Canteen Menu
       subtitle: For 2025 SKPS Students
