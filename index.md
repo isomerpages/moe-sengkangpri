@@ -18,6 +18,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Big Panda & Tiny Dragon!
+          description: Our SKLites were treated to another reading chapter to restart our
+            journey!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0K9tD1pw9iq4hkH1auYVaR5Jy1uPZSu6zubbDRFFuitu6gWwLTAx2QVcDtkrZQiv4l
         - title: Erovra Relay Championship!
           description: The school's track and field team took part and had a memorable
             experience!
@@ -31,10 +36,6 @@ sections:
           description: Our Tamil SKLites competed and reached the semi-finals!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid04yRBKwzKwAQA88xwGa6zSmqvDYsiZYZ8PCCbkUgfcX1ugca8KECicoNpBMPVMTgzl
-        - title: Super Cyber Champions!
-          description: Here are our Super Cyber Champions for Term 1!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0GexB2UguTs6phAGhyTpWA4obATQxoUoETU4T8QEneEPN23MhPnDBYnfEEzNZNtVSl
   - infobar:
       title: Term 2 2025 Notification
       subtitle: For 2025 SKPS Students
