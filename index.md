@@ -18,6 +18,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Hari Raya Recess Festivities!
+          description: SKPS had a wonderful Hari Raya festivities during recess!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02C7zAFXDZYba4K2Kd1MLQbPFN3XzCgYgFdAgtnVMh7g2tS5Qo4wAhr29hwdxjyu62l
         - title: Big Panda & Tiny Dragon!
           description: Our SKLites were treated to another reading chapter to restart our
             journey!
@@ -32,10 +36,6 @@ sections:
           description: Our EL champs turned the Reading Park into a place of magic!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02dEJ4gdTJQRMAmd3GUBT3XrppeJ7LS4C1FbU6Wk3P7gZWCD5sneMR6YeeTRgVhRWyl
-        - title: Spelling Bee Competition!
-          description: Our Tamil SKLites competed and reached the semi-finals!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid04yRBKwzKwAQA88xwGa6zSmqvDYsiZYZ8PCCbkUgfcX1ugca8KECicoNpBMPVMTgzl
   - infobar:
       title: Term 2 2025 Notification
       subtitle: For 2025 SKPS Students
