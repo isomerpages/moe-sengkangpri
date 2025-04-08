@@ -18,6 +18,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Cyber Wellness Advocacy Programme!
+          description: Our CWAs learned useful tips in taking quality videos!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0aaeZrp5BSpUh5s5hEuW9iSyy1BbLghkwscacVPstXVBR5m7UGCGJupbXNwVUr2Dpl
         - title: Hari Raya Recess Festivities!
           description: SKPS had a wonderful Hari Raya festivities during recess!
           linktext: Learn more
@@ -32,10 +36,6 @@ sections:
             experience!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02YYaaqA2vnHyNDVwQjLLbgAnzQvJAxmxfBqfgFiHqDTTEDMc1WEE5G9Ne5dNMHhhdl
-        - title: Storytelling Magic!
-          description: Our EL champs turned the Reading Park into a place of magic!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02dEJ4gdTJQRMAmd3GUBT3XrppeJ7LS4C1FbU6Wk3P7gZWCD5sneMR6YeeTRgVhRWyl
   - infobar:
       title: Term 2 2025 Notification
       subtitle: For 2025 SKPS Students
