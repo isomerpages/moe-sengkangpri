@@ -18,6 +18,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Shining Bright 2025!
+          description: The school community came together for a spectacular celebration
+            last Friday!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02Rv4f2coVB9yXmnfyJaFPFRGxa9LWA8E1gqCBMnNRsf8nPEHGmYcaaDxdLTKbz6BBl
         - title: Cyber Wellness Advocacy Programme!
           description: Our CWAs learned useful tips in taking quality videos!
           linktext: Learn more
@@ -31,11 +36,6 @@ sections:
             journey!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0K9tD1pw9iq4hkH1auYVaR5Jy1uPZSu6zubbDRFFuitu6gWwLTAx2QVcDtkrZQiv4l
-        - title: Erovra Relay Championship!
-          description: The school's track and field team took part and had a memorable
-            experience!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02YYaaqA2vnHyNDVwQjLLbgAnzQvJAxmxfBqfgFiHqDTTEDMc1WEE5G9Ne5dNMHhhdl
   - infobar:
       title: Term 2 2025 Notification
       subtitle: For 2025 SKPS Students
