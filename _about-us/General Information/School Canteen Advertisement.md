@@ -29,7 +29,7 @@ variant: tiptap
 <p>Light Bites</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Mar 2025</p>
+<p>30 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal / Non-Halal</p>
@@ -131,3 +131,4 @@ website.</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
+<p></p>
