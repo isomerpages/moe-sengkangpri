@@ -18,6 +18,14 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Hari Raya Concert!
+          description: SKPS had a wonderful Hari Raya concert earlier this week!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02EBaYFgAbDtrJrmVfdEVDvCsiqR6F3jKYwoAAw7V3WeTdKfxHYSrbeWHytCng8gJtl
+        - title: International Friendship Day!
+          description: Our SKLites commemorated IFD recently on 11 Apr 2025!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0cPAezMPc8jmCDarGSRUr8nM82F7vrfvhYrmEU5cRmWV4vGun8LMneVuGGVZH4AeDl
         - title: Shining Bright 2025!
           description: The school community came together for a spectacular celebration
             last Friday!
@@ -27,15 +35,6 @@ sections:
           description: Our CWAs learned useful tips in taking quality videos!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0aaeZrp5BSpUh5s5hEuW9iSyy1BbLghkwscacVPstXVBR5m7UGCGJupbXNwVUr2Dpl
-        - title: Hari Raya Recess Festivities!
-          description: SKPS had a wonderful Hari Raya festivities during recess!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02C7zAFXDZYba4K2Kd1MLQbPFN3XzCgYgFdAgtnVMh7g2tS5Qo4wAhr29hwdxjyu62l
-        - title: Big Panda & Tiny Dragon!
-          description: Our SKLites were treated to another reading chapter to restart our
-            journey!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0K9tD1pw9iq4hkH1auYVaR5Jy1uPZSu6zubbDRFFuitu6gWwLTAx2QVcDtkrZQiv4l
   - infobar:
       title: Term 2 2025 Notification
       subtitle: For 2025 SKPS Students
