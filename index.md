@@ -18,6 +18,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: SKPS Goes Green!
+          description: SKPS participated in the Sengkang North Tree Planting Day on 12 Apr
+            2025!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02jb7izwqWVRSk8kq56Y6FzwLtHgY5JKTKU2DmzY5EmYqP1UJRYa1He4E8S8x95CWKl
         - title: Hari Raya Concert!
           description: SKPS had a wonderful Hari Raya concert earlier this week!
           linktext: Learn more
@@ -31,10 +36,15 @@ sections:
             last Friday!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02Rv4f2coVB9yXmnfyJaFPFRGxa9LWA8E1gqCBMnNRsf8nPEHGmYcaaDxdLTKbz6BBl
-        - title: Cyber Wellness Advocacy Programme!
-          description: Our CWAs learned useful tips in taking quality videos!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0aaeZrp5BSpUh5s5hEuW9iSyy1BbLghkwscacVPstXVBR5m7UGCGJupbXNwVUr2Dpl
+  - infobar:
+      title: General Election 2025 & Revised School Hours
+      subtitle: For 2025 SKPS Students
+      id: infobar
+      description: Seng Kang Pri School will be used as a Polling Centre for GE2025 on
+        3 May 2025. In preparation for it, lessons on Friday, 2 May, will be
+        from 7:30am to 10:30am.
+      button: Click Here
+      url: /files/General_Election_2025_and_Revised_School_Hours.pdf
   - infobar:
       title: Term 2 2025 Notification
       subtitle: For 2025 SKPS Students
@@ -51,16 +61,6 @@ sections:
         SimplyGo's website at the following link.
       button: Click Here
       url: https://svc.simplygo.com.sg/eservice/econcession/app_form1.php?app_type=2
-  - infopic:
-      title: Nominate your English Language Teacher today!
-      subtitle: ITEA Award 2025
-      id: infopic
-      description: We invite students and parents to nominate outstanding English
-        teachers who have made meaningful impact on their learning.
-      button: Click Here for More INFO
-      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
-      image: /images/ITEA_2025_Poster.jpg
-      alt: Image alt text
   - infobar:
       title: School Canteen Menu
       subtitle: For 2025 SKPS Students
