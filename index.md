@@ -42,7 +42,7 @@ sections:
       id: infobar
       description: Seng Kang Primary School will be used as a Polling Centre for GE
         2025 on 3 May 2025. Lessons on Friday, 2 May, will be from 7:30am to
-        10:30pm.
+        10:30am.
       button: Click Here
       url: /files/General_Election_2025_and_Revised_School_Hours.pdf
   - infobar:
