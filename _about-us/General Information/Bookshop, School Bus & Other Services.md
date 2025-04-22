@@ -17,7 +17,7 @@ RushOwl Singapore Pte Ltd<br>
 Contact No.: 6871 8817<br>
 Email: school@rushowl.sg
 
-To register your interest in school bus service for your child, please complete the Google Form via this link: [RushOwl School Bus Transportation Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeRplxEBZG_jP7Lk7tibjZk3FrxR-bZGnIqVbH9scecYp35Gw/formResponse).
+To register your interest in school bus service for your child, please complete the Google Form via this link: [MOE School Bus Registration Form - RushOwl Singapore Support System - Jira Service Management](https://rushowl-sg-ops-tracker.atlassian.net/servicedesk/customer/portal/1/group/1/create/10015).
 
 Period: 1 Jan 2025 - 31 Dec 2026
 
