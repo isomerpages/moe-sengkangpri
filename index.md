@@ -18,6 +18,16 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Spin-a-Tale Challenge!
+          description: Similar to mini but on a grander scale! Our vibrant PSG chipped in
+            too!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02sopVp4XxW6Anz7tCXQtqU8awibhg7ugHex5XsU2FfEEmKeB8xKRXtWbPgucjcsjTl
+        - title: Spin-a-Tale Mini!
+          description: Celebrating SG60, our SKLites shared their stories regarding
+            Singapore!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0LENFeYXdBA2Xf2mwCpoUakFxTUKK2sfR7cSoWzE32SosZ7Y9N1rsoGjvaYZjN7wFl
         - title: SKPS Goes Green!
           description: SKPS participated in the Sengkang North Tree Planting Day on 12 Apr
             2025!
@@ -27,15 +37,6 @@ sections:
           description: SKPS had a wonderful Hari Raya concert earlier this week!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02EBaYFgAbDtrJrmVfdEVDvCsiqR6F3jKYwoAAw7V3WeTdKfxHYSrbeWHytCng8gJtl
-        - title: International Friendship Day!
-          description: Our SKLites commemorated IFD recently on 11 Apr 2025!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0cPAezMPc8jmCDarGSRUr8nM82F7vrfvhYrmEU5cRmWV4vGun8LMneVuGGVZH4AeDl
-        - title: Shining Bright 2025!
-          description: The school community came together for a spectacular celebration
-            last Friday!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02Rv4f2coVB9yXmnfyJaFPFRGxa9LWA8E1gqCBMnNRsf8nPEHGmYcaaDxdLTKbz6BBl
   - infobar:
       title: General Election 2025 & Revised School Hours
       subtitle: For 2025 SKPS Students
