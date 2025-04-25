@@ -18,6 +18,15 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: National TL Debate 2025!
+          description: Our TL SKLites had an fulfilling experience in this year's National
+            TL Debate!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02Dynk8wBuEebkWvkrV4tYUCowMGQgVxLtDKYz1aUjGAbWDH3HGWeWR2rJ4eiK7un8l
+        - title: Kalaicharam - String of Arts!
+          description: SKPS had a colorful Kalaicharam a couple days ago!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid037MazXVVVxbiqKQL1rN1FobPCstNycPeWd57129TGze9YY8D5FPVFMfyY9HNXhqLSl
         - title: Spin-a-Tale Challenge!
           description: Similar to mini but on a grander scale! Our vibrant PSG chipped in
             too!
@@ -28,15 +37,6 @@ sections:
             Singapore!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0LENFeYXdBA2Xf2mwCpoUakFxTUKK2sfR7cSoWzE32SosZ7Y9N1rsoGjvaYZjN7wFl
-        - title: SKPS Goes Green!
-          description: SKPS participated in the Sengkang North Tree Planting Day on 12 Apr
-            2025!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02jb7izwqWVRSk8kq56Y6FzwLtHgY5JKTKU2DmzY5EmYqP1UJRYa1He4E8S8x95CWKl
-        - title: Hari Raya Concert!
-          description: SKPS had a wonderful Hari Raya concert earlier this week!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02EBaYFgAbDtrJrmVfdEVDvCsiqR6F3jKYwoAAw7V3WeTdKfxHYSrbeWHytCng8gJtl
   - infobar:
       title: General Election 2025 & Revised School Hours
       subtitle: For 2025 SKPS Students
