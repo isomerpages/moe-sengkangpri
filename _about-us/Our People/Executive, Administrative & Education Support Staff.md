@@ -180,7 +180,7 @@ variant: tiptap
 <p>Mr Azlan Shah Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:azlan_shah_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azlan_shah_rahman@moe.edu.sg</a>
+<p><a href="mailto:azlan_shah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azlan_shah_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
