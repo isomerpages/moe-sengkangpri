@@ -99,6 +99,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Jacelyn Ang Shi Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jacelyn_ang_shi_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jacelyn_ang_shi_qi@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Flexi-Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,7 +192,7 @@ variant: tiptap
 <p>Mr Azlan Shah Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:azlan_shah_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azlan_shah_rahman@moe.edu.sg</a>
+<p><a href="mailto:azlan_shah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azlan_shah_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>

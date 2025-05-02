@@ -479,6 +479,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Azlan Shah Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azlan_shah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azlan_shah_rahman@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
