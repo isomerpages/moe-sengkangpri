@@ -18,6 +18,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Biodiversity Week!
+          description: Our SKLites celebrated a week of Biodiversity learning recently!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02dXMf5Snqy1XTnA4c1GKSb98RMb6G18JnU21XHCFeHqyRXoqejQJsHfp6CneR5cVml
         - title: National TL Debate 2025!
           description: Our TL SKLites had an fulfilling experience in this year's National
             TL Debate!
@@ -32,11 +36,6 @@ sections:
             too!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02sopVp4XxW6Anz7tCXQtqU8awibhg7ugHex5XsU2FfEEmKeB8xKRXtWbPgucjcsjTl
-        - title: Spin-a-Tale Mini!
-          description: Celebrating SG60, our SKLites shared their stories regarding
-            Singapore!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0LENFeYXdBA2Xf2mwCpoUakFxTUKK2sfR7cSoWzE32SosZ7Y9N1rsoGjvaYZjN7wFl
   - infobar:
       title: General Election 2025 & Revised School Hours
       subtitle: For 2025 SKPS Students
