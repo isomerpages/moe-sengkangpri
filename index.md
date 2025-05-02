@@ -4,7 +4,8 @@ title: Seng Kang Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Please note that the school's General Office and Student Care
+  Centre are closed on Monday, 5 May. School will resume on Tuesday, 6 May.
 sections:
   - hero:
       background: /images/HomePageBackground/home.gif
