@@ -4,8 +4,7 @@ title: Seng Kang Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please note that the school's General Office and Student Care
-  Centre are closed on Monday, 5 May. School will resume on Tuesday, 6 May.
+notification: ""
 sections:
   - hero:
       background: /images/HomePageBackground/home.gif
@@ -37,15 +36,6 @@ sections:
             too!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02sopVp4XxW6Anz7tCXQtqU8awibhg7ugHex5XsU2FfEEmKeB8xKRXtWbPgucjcsjTl
-  - infobar:
-      title: General Election 2025 & Revised School Hours
-      subtitle: For 2025 SKPS Students
-      id: infobar
-      description: Seng Kang Pri School will be used as a Polling Centre for GE2025 on
-        3 May 2025. In preparation for it, lessons on Friday, 2 May, will be
-        from 7:30am to 10:30am.
-      button: Click Here
-      url: /files/General_Election_2025_and_Revised_School_Hours.pdf
   - infobar:
       title: Term 2 2025 Notification
       subtitle: For 2025 SKPS Students
