@@ -18,6 +18,11 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: SKPS celebrated Mothers' Day!
+          description: SKPS celebrated Mothers' Day with colourful designed cards from the
+            heart!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid034Uwh7a38wFUQaVWfySyRBezUVqcQhv8TWhaEavdpYXD2on5a6mZwr4PsxtfHsdosl
         - title: Biodiversity Week!
           description: Our SKLites celebrated a week of Biodiversity learning recently!
           linktext: Learn more
@@ -31,11 +36,6 @@ sections:
           description: SKPS had a colorful Kalaicharam a couple days ago!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid037MazXVVVxbiqKQL1rN1FobPCstNycPeWd57129TGze9YY8D5FPVFMfyY9HNXhqLSl
-        - title: Spin-a-Tale Challenge!
-          description: Similar to mini but on a grander scale! Our vibrant PSG chipped in
-            too!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02sopVp4XxW6Anz7tCXQtqU8awibhg7ugHex5XsU2FfEEmKeB8xKRXtWbPgucjcsjTl
   - infobar:
       title: Term 2 2025 Notification
       subtitle: For 2025 SKPS Students
