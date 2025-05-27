@@ -18,24 +18,24 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Let's Sell and Raise!
+          description: SKPS held their annual sell and raise event recently!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0oPQybmTj4iLHd9SYcMkSJkk39kxxYY5LaizkmZiWdv8TuxQS8RpBn31MNFG7JDDFl
+        - title: Math Winners!
+          description: We are pleased that several SKLites achieved accolades at 2 Math
+            competitions!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0oJVxot8y8FehcTovEdfX5XqWjNDobFwgrRGSCxoxCgztguSmp2pob9JGRrF1mGZel
+        - title: SKLites Go Green!
+          description: Embracing sustainability at SKPS!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid029rxvDaT29unt39MnsdY2T6fKJrfzN844oQX9agr8PUt1yVpPCKYSB5xu3pH2BBSxl
         - title: SKPS celebrated Mothers' Day!
           description: SKPS celebrated Mothers' Day with colourful designed cards from the
             heart!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid034Uwh7a38wFUQaVWfySyRBezUVqcQhv8TWhaEavdpYXD2on5a6mZwr4PsxtfHsdosl
-        - title: Biodiversity Week!
-          description: Our SKLites celebrated a week of Biodiversity learning recently!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02dXMf5Snqy1XTnA4c1GKSb98RMb6G18JnU21XHCFeHqyRXoqejQJsHfp6CneR5cVml
-        - title: National TL Debate 2025!
-          description: Our TL SKLites had an fulfilling experience in this year's National
-            TL Debate!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02Dynk8wBuEebkWvkrV4tYUCowMGQgVxLtDKYz1aUjGAbWDH3HGWeWR2rJ4eiK7un8l
-        - title: Kalaicharam - String of Arts!
-          description: SKPS had a colorful Kalaicharam a couple days ago!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid037MazXVVVxbiqKQL1rN1FobPCstNycPeWd57129TGze9YY8D5FPVFMfyY9HNXhqLSl
   - infobar:
       title: Term 2 2025 Notification
       subtitle: For 2025 SKPS Students
