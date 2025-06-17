@@ -7,7 +7,8 @@ variant: markdown
 ---
 #### **P4 Subject Based Banding - 2025**<br><br>
 
-* **(NEW)** [Parent Briefing - Primary 4](/files/P4_SBB_Briefing_2025.pdf)
+* [Parent Briefing - Primary 4](/files/P4_SBB_Briefing_2025.pdf)
+* **(NEW)** [P4 Subject Based Banding Questions and Answers](/files/2025_SBB_QnA_Final.pdf)
 
 
 #### **Parent Briefing - 2025**<br><br>
