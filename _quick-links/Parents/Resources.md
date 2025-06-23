@@ -42,7 +42,8 @@ variant: tiptap
 <h4><strong>Resources - 2025 (All Level)</strong><br><br></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Term 2 Letter to Parents ()</p>
+<p><a href="/files/0080_2025_Term_2_Notification.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Letter to Parents</a>
+</p>
 </li>
 <li>
 <p><a href="/files/2025_Term_1_Notification.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter To Parents (2 January 2025)</a>
