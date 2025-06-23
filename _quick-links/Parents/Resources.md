@@ -42,6 +42,9 @@ variant: tiptap
 <h4><strong>Resources - 2025 (All Level)</strong><br><br></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Term 2 Letter to Parents ()</p>
+</li>
+<li>
 <p><a href="/files/2025_Term_1_Notification.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter To Parents (2 January 2025)</a>
 </p>
 </li>
@@ -111,15 +114,15 @@ variant: tiptap
 <h4><strong>Primary 1 Student - 2025</strong><br><br></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>[NEW]</strong>  <a href="/files/P1_Transition_Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Transition Checklist</a>
+<p><a href="/files/P1_Transition_Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Transition Checklist</a>
 </p>
 </li>
 <li>
-<p><strong>[NEW]</strong>  <a href="/files/Supporting_Your_Child_in_the_Transition_to_Primary_School_Parents__Roles_in_Ensuring_a_Smooth_Transition.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting Your Child in the Transition to Primary School (2 Jan 2025)</a>
+<p><a href="/files/Supporting_Your_Child_in_the_Transition_to_Primary_School_Parents__Roles_in_Ensuring_a_Smooth_Transition.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting Your Child in the Transition to Primary School (2 Jan 2025)</a>
 </p>
 </li>
 <li>
-<p><strong>[NEW]</strong>  <a href="https://drive.google.com/file/d/1Jhg4O5Szmmg3eODb0zv3jo7jkm_Hsh9U/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 Primary 1 Year Head Sharing Slides (2 Jan 2025)</a>
+<p><a href="https://drive.google.com/file/d/1Jhg4O5Szmmg3eODb0zv3jo7jkm_Hsh9U/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 Primary 1 Year Head Sharing Slides (2 Jan 2025)</a>
 </p>
 </li>
 <li>
