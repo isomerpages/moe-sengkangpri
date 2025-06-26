@@ -136,10 +136,10 @@ third_nav_title: Our People
 <p>1 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Jia Wei</p>
+<p>Mrs Diana Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_jia_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_jia_wei@schools.gov.sg</a>
+<p><a href="mailto:lim_swee_kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
