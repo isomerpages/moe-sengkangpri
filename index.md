@@ -37,13 +37,13 @@ sections:
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid034Uwh7a38wFUQaVWfySyRBezUVqcQhv8TWhaEavdpYXD2on5a6mZwr4PsxtfHsdosl
   - infobar:
-      title: Term 2 2025 Notification
+      title: Term 3 2025 Notification
       subtitle: For 2025 SKPS Students
       id: infobar
       description: Welcome back to school! The notification for the new term is now
         available.
       button: Click Here
-      url: /files/0080_2025_Term_2_Notification.pdf
+      url: /files/154_SKPS_Term_3_Notification_2025.pdf
   - infobar:
       title: Replacement of Lost/Damaged School Smart Card
       subtitle: For 2025 SKPS Students
