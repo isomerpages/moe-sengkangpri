@@ -61,10 +61,10 @@ third_nav_title: Our People
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joyce Low</p>
+<p>Ms Susan Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leung_lai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leung_lai_yin@schools.gov.sg</a>
+<p><a href="mailto:skps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -99,7 +99,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,15 +107,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_irnanie_imran_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_irnanie_imran_chin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Dulcie Lim Shao Jian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dulcie_lim_shao_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dulcie_lim_shao_jian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -163,10 +154,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Diana Tan</p>
+<p>Miss Dulcie Lim Shao Jian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_swee_kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kuan@schools.gov.sg</a>
+<p><a href="mailto:dulcie_lim_shao_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dulcie_lim_shao_jian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
