@@ -182,6 +182,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adhoc Bus Services Works Order</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/skps-bus-booking-form" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Teaching &amp; Learning</em></strong>
