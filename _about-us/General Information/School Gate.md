@@ -67,7 +67,7 @@ front porch after vehicle enters via Gate 1.</p>
 <br>(Entry &amp; Pick Up)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.45 a.m. - 7.25 a.m.</p>
+<p>6.30 a.m. - 7.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents can drop off the children at the entrance of the gates.</p>
@@ -103,8 +103,8 @@ this exit.</p>
 <br>(Entry &amp; Pick Up only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.45 a.m. - 7.25 a.m.
-<br>1.20 p.m. - 2.00 p.m. (Monday - Friday)
+<p>6.45 a.m. - 7.30 a.m.
+<br>1.30 p.m. - 2.00 p.m. (Monday - Friday)
 <br>3.30 p.m. - 4.00 p.m. (Monday, Tuesday &amp;&nbsp; Thursday)</p>
 </td>
 <td rowspan="1" colspan="1">
