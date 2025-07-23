@@ -18,24 +18,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
-        - title: Let's Sell and Raise!
-          description: SKPS held their annual sell and raise event recently!
+        - title: NE Show 2025!
+          description: Our P5 SKLites were part of this year's NE Show recently!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0oPQybmTj4iLHd9SYcMkSJkk39kxxYY5LaizkmZiWdv8TuxQS8RpBn31MNFG7JDDFl
-        - title: Math Winners!
-          description: We are pleased that several SKLites achieved accolades at 2 Math
-            competitions!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0oJVxot8y8FehcTovEdfX5XqWjNDobFwgrRGSCxoxCgztguSmp2pob9JGRrF1mGZel
-        - title: SKLites Go Green!
-          description: Embracing sustainability at SKPS!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid029rxvDaT29unt39MnsdY2T6fKJrfzN844oQX9agr8PUt1yVpPCKYSB5xu3pH2BBSxl
-        - title: SKPS celebrated Mothers' Day!
-          description: SKPS celebrated Mothers' Day with colourful designed cards from the
-            heart!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid034Uwh7a38wFUQaVWfySyRBezUVqcQhv8TWhaEavdpYXD2on5a6mZwr4PsxtfHsdosl
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02E4eNKbss9t4ttuacvLHrA341XsWYqg2WGPLQ6vDafn7tHxGKvWWcMbojq2VtF9hLl
   - infobar:
       title: Term 3 2025 Notification
       subtitle: For 2025 SKPS Students
