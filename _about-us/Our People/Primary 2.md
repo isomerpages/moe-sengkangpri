@@ -64,7 +64,7 @@ third_nav_title: Our People
 <p>Ms Susan Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:skps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skps@moe.edu.sg</a>
+<p><a href="mailto:neo_susan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_susan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
