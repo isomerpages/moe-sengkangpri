@@ -121,6 +121,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School e-AOR Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/66b060b05113d1992dc34fca" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Staff Travel Declaration</p>
 </td>
 <td rowspan="1" colspan="1">
