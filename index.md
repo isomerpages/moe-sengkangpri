@@ -18,10 +18,15 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
-        - title: NE Show 2025!
-          description: Our P5 SKLites were part of this year's NE Show recently!
+        - title: SKPS Celebrates National Day 2025!
+          description: Seng Kang Primary came together to celebrate SG60!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02E4eNKbss9t4ttuacvLHrA341XsWYqg2WGPLQ6vDafn7tHxGKvWWcMbojq2VtF9hLl
+          url: https://www.facebook.com/SengKangPrimarySchool/videos/739695252220761
+        - title: Drone Odyssey Challenge 2025!
+          description: Our SKLites from the IT Media Club clinched accolades at this
+            year's challenge!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02L9x71M5QFwY9hoZK7EVhymZ9zsPUBYgmKgL3cSkfVGN3GF7UexDvj7JdrGrdhTHtl
   - infobar:
       title: Term 3 2025 Notification
       subtitle: For 2025 SKPS Students
