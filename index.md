@@ -18,15 +18,15 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
+        - title: Katapella 2025!
+          description: Our SKLites was one of the finalists for this year's competition at
+            Mediacorp!
+          linktext: Learn more
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02rUM8mKjt1YfNZpQS8JzLP4Dtfp2fXbtATJhuZomn1JWzSZGUkxyrsMercaYXw4DLl
         - title: SKPS Celebrates National Day 2025!
           description: Seng Kang Primary came together to celebrate SG60!
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/videos/739695252220761
-        - title: Drone Odyssey Challenge 2025!
-          description: Our SKLites from the IT Media Club clinched accolades at this
-            year's challenge!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02L9x71M5QFwY9hoZK7EVhymZ9zsPUBYgmKgL3cSkfVGN3GF7UexDvj7JdrGrdhTHtl
   - infobar:
       title: Term 3 2025 Notification
       subtitle: For 2025 SKPS Students
