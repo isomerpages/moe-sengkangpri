@@ -64,15 +64,7 @@ in the educational process.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maggie Chia Chui Mingg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Asraf Belal S/O Kader Maideen</p>
+<p>Mr D’Souza Royston Alex</p>
 </td>
 </tr>
 <tr>
