@@ -34,7 +34,7 @@ sections:
       description: Welcome back to school! The notification for the new term is now
         available.
       button: Click Here
-      url: /files/196_SKPS_Term_4_Notification.pdf
+      url: /files/196_SKPS_2025_Term_4_Notification.pdf
   - infobar:
       title: Muslim Noodles Stall
       subtitle: School advertisement
