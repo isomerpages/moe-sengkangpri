@@ -28,13 +28,13 @@ sections:
           linktext: Learn more
           url: https://www.facebook.com/SengKangPrimarySchool/videos/739695252220761
   - infobar:
-      title: Term 3 2025 Notification
+      title: Term 4 2025 Notification
       subtitle: For 2025 SKPS Students
       id: infobar
       description: Welcome back to school! The notification for the new term is now
         available.
       button: Click Here
-      url: /files/154_SKPS_Term_3_Notification_2025.pdf
+      url: /files/196_SKPS_Term_4_Notification.pdf
   - infobar:
       title: Muslim Noodles Stall
       subtitle: School advertisement
