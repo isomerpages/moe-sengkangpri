@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>(NEW)</strong>  <a href="/files/2025_SBB_QnA_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Subject Based Banding Questions and Answers</a>
+<p><a href="/files/2025_SBB_QnA_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Subject Based Banding Questions and Answers</a>
 </p>
 </li>
 </ul>
