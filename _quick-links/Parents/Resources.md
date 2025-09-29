@@ -42,11 +42,11 @@ variant: tiptap
 <h4><strong>Resources - 2025 (All Level)</strong><br><br></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/196_SKPS_2025_Term_4_Notification.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
+<p><strong>(NEW)</strong>  <a href="/files/196_SKPS_2025_Term_4_Notification.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
 </p>
 </li>
 <li>
-<p><a href="/files/154_SKPS_Term_3_Notification_2025.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
+<p><strong>(NEW)</strong>  <a href="/files/154_SKPS_Term_3_Notification_2025.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
 </p>
 </li>
 <li>
