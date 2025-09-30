@@ -29,7 +29,7 @@ variant: tiptap
 <p>Muslim Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 Sep 2025</p>
+<p>31 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
