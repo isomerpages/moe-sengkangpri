@@ -36,6 +36,15 @@ sections:
       button: Click Here
       url: /files/196_SKPS_2025_Term_4_Notification.pdf
   - infobar:
+      title: Registration of Interest for YMCA Student Care Service
+      subtitle: FOR 2026 SKPS STUDENTS
+      id: infobar
+      description: To register your interest for YMCA student care service, please
+        click on the link below. Registration deadline is on 17 October 2025 at
+        5PM.
+      button: Click Here
+      url: https://forms.office.com/pages/responsepage.aspx?id=qqd2-kriRkyOG3Jmmasem5kk0cKmd05Crcc6rA2tY-BUNDVTMlM2OFo5SzNFS1RKVlEzT0xGVjJKSS4u&route=shorturl
+  - infobar:
       title: Muslim Noodles Stall
       subtitle: School advertisement
       id: infobar
@@ -67,12 +76,4 @@ sections:
         the link below.
       button: Button Text
       url: /about-us/General-Information/Bookshop-School-Bus-and-Other-Services/
-  - infobar:
-      title: Registration of Interest for YMCA Student Care Service
-      subtitle: FOR 2025 SKPS STUDENTS
-      id: infobar
-      description: To register your interest for YMCA student care service, please
-        click on the link below.
-      button: Click Here
-      url: /quick-links/parents/ymca-skps-2025-intake/
 ---
