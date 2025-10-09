@@ -18,15 +18,10 @@ sections:
       id: textcards
       description: This is what we have been up to recently.
       cards:
-        - title: Katapella 2025!
-          description: Our SKLites was one of the finalists for this year's competition at
-            Mediacorp!
+        - title: World Mental Health Day!
+          description: SKPS recently had its first ever Mental Health Awareness Roadshow!
           linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid02rUM8mKjt1YfNZpQS8JzLP4Dtfp2fXbtATJhuZomn1JWzSZGUkxyrsMercaYXw4DLl
-        - title: SKPS Celebrates National Day 2025!
-          description: Seng Kang Primary came together to celebrate SG60!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/videos/739695252220761
+          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0fGghmvfEJbCoq3jHjZne4D1nfkHr2XvsNHEa7uhqEhzL2uDUYyZFKwSRwWoRxaJPl
   - infobar:
       title: Term 4 2025 Notification
       subtitle: For 2025 SKPS Students
