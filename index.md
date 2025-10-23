@@ -40,14 +40,6 @@ sections:
       button: Click Here
       url: https://forms.office.com/pages/responsepage.aspx?id=qqd2-kriRkyOG3Jmmasem5kk0cKmd05Crcc6rA2tY-BUNDVTMlM2OFo5SzNFS1RKVlEzT0xGVjJKSS4u&route=shorturl
   - infobar:
-      title: Muslim Noodles Stall
-      subtitle: School advertisement
-      id: infobar
-      description: We have an opening for the mentioned stall. For further details,
-        please click on the link below.
-      button: Click Here
-      url: /about-us/general-information/school-canteen-advertisement/
-  - infobar:
       title: Replacement of Lost/Damaged School Smart Card
       subtitle: For 2025 SKPS Students
       id: infobar
