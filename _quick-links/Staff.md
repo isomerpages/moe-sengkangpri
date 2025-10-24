@@ -76,6 +76,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>OPAL 2.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idm.opal2.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HRP Portal</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,10 +148,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SKPS Notification to Parents</p>
+<p>SKPS Notifications to Parents 2.0</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5df0635c56ee870012b66ea2" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="https://form.gov.sg/68df31b1aca74a0891e71f46" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
