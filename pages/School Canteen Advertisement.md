@@ -2,7 +2,6 @@
 title: School Canteen Advertisement
 permalink: /about-us/general-information/school-canteen-advertisement/
 description: ""
-third_nav_title: General Information
 variant: tiptap
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
