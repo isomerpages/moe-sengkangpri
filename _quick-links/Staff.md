@@ -148,15 +148,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SKPS Notifications to Parents 2.0</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68df31b1aca74a0891e71f46" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Request for Budget Transfer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,6 +197,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/66b060b05113d1992dc34fca" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SKPS Notifications to Parents 2.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/68df31b1aca74a0891e71f46" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
