@@ -14,7 +14,7 @@ sections:
           url: https://www.facebook.com/SengKangPrimarySchool/
         - title: SKPS Instagram
           description: Or our Insta for choice!
-          url: ""
+          url: https://www.instagram.com/sengkangprimaryschool/
   - infopic:
       title: President's Award for Teachers
       id: infopic
