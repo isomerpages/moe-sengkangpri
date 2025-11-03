@@ -76,15 +76,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OPAL 2.0</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idm.opal2.moe.edu.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HRP Portal</p>
 </td>
 <td rowspan="1" colspan="1">
