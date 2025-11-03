@@ -12,16 +12,9 @@ sections:
         - title: SKPS Facebook
           description: Visit our FB page for updates!
           url: https://www.facebook.com/SengKangPrimarySchool/
-  - textcards:
-      title: Latest Happenings!
-      subtitle: SKPS Highlights
-      id: textcards
-      description: This is what we have been up to recently.
-      cards:
-        - title: World Mental Health Day!
-          description: SKPS recently had its first ever Mental Health Awareness Roadshow!
-          linktext: Learn more
-          url: https://www.facebook.com/SengKangPrimarySchool/posts/pfbid0fGghmvfEJbCoq3jHjZne4D1nfkHr2XvsNHEa7uhqEhzL2uDUYyZFKwSRwWoRxaJPl
+        - title: SKPS Instagram
+          description: Or our Insta for choice!
+          url: ""
   - infopic:
       title: President's Award for Teachers
       id: infopic
