@@ -5,6 +5,17 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
+<h4><strong>(NEW) Primary 1 Student – 2026</strong><br></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>(NEW) </strong><a href="/files/2026_Primary_1_Orientation_Booklet.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Orientation Booklet</a>
+</p>
+</li>
+<li>
+<p><strong>(NEW) </strong><a href="/files/Primary_1_Orientation__FAQ_.pdf" rel="noopener nofollow" target="_blank">Primary 1 Orientation (FAQ)</a>
+</p>
+</li>
+</ul>
 <h4><strong>P4 Subject Based Banding - 2025</strong><br><br></h4>
 <ul data-tight="true" class="tight">
 <li>
