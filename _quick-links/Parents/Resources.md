@@ -16,7 +16,51 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>P4 Subject Based Banding - 2025</strong><br><br></h4>
+<p></p>
+<h4><strong>(NEW) Primary 1 to Primary 6 Book and Stationery Lists - 2026</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>(NEW) </strong><a href="/files/SKPS_P1_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 1 - 2026</a>
+</p>
+</li>
+<li>
+<p><strong>(NEW) </strong><a href="/files/SKPS_P2_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 2 - 2026</a>
+</p>
+</li>
+<li>
+<p><strong>(NEW) </strong><a href="/files/SKPS_P3_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 3 - 2026</a>
+</p>
+</li>
+<li>
+<p><strong>(NEW) </strong><a href="/files/SKPS_P4_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 4 - 2026</a>
+</p>
+</li>
+<li>
+<p><strong>(NEW) </strong><a href="/files/SKPS_P5_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 5 - 2026</a>
+</p>
+</li>
+<li>
+<p><strong>(NEW) </strong><a href="/files/SKPS_P5__FDN__Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 5 Foundation - 2026</a>
+</p>
+</li>
+<li>
+<p><strong>(NEW) </strong><a href="/files/SKPS_P6_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 6 - 2026</a>
+</p>
+</li>
+<li>
+<p><strong>(NEW) </strong><a href="/files/SKPS_P6__FDN__Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 6 Foundation - 2026</a>
+</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>(NEW) Sale of School Uniform - 2026</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>(NEW) </strong><a href="/files/Seng_Kang_Pri_sale_schedule_EY25.pdf" rel="noopener nofollow" target="_blank">Sale of School Uniform - 2026</a>
+</p>
+</li>
+</ul>
+<h4><strong>P4 Subject Based Banding - 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/P4_SBB_Briefing_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Briefing - Primary 4</a>
