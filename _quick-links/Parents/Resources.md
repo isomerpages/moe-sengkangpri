@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>(NEW) Primary 1 Student – 2026</strong><br></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>(NEW) </strong><a href="https://drive.google.com/file/d/1n4jFgvHzG6zQ3N5DoUJT9o80gHlcB-su/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 P1 Orientation Slides (21 Nov 2025)</a><strong> </strong>
+<p><strong>(NEW) </strong><a href="https://drive.google.com/file/d/1n4jFgvHzG6zQ3N5DoUJT9o80gHlcB-su/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 P1 Orientation Slides (21 Nov 2025)</a>
 </p>
 </li>
 <li>
@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/Primary_1_Orientation__FAQ_.pdf" rel="noopener nofollow" target="_blank">Primary 1 Orientation (FAQ)</a>
+<p><strong>(NEW) </strong><a href="/files/Primary_1_Orientation__FAQ__edited.pdf" rel="noopener nofollow" target="_blank">Primary 1 Orientation (FAQ)</a>
 </p>
 </li>
 </ul>
