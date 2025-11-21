@@ -105,11 +105,11 @@ variant: tiptap
 <h4><strong>Resources - 2025 (All Level)</strong><br><br></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>(NEW)</strong>  <a href="/files/196_SKPS_2025_Term_4_Notification.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
+<p><a href="/files/196_SKPS_2025_Term_4_Notification.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW)</strong>  <a href="/files/154_SKPS_Term_3_Notification_2025.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
+<p><a href="/files/154_SKPS_Term_3_Notification_2025.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
 </p>
 </li>
 <li>
@@ -138,85 +138,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://form.gov.sg/6853bcf46a00d2382490e778" rel="noopener nofollow" target="_blank">Wait List Form for Admission/Transfer to SKPS</a>
-</p>
-</li>
-</ul>
-<h4><strong>Primary 1 to Primary 6 Book and Stationery Lists - 2025</strong><br><br></h4>
-<ul>
-<li>
-<p><a href="/files/Parent%20Resources/Booklist2025/2025_P1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Book and Stationery List Primary 1 - 2025</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parent%20Resources/Booklist2025/2025_P2_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Book and Stationery List Primary 2 - 2025</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parent%20Resources/Booklist2025/2025_P3_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Book and Stationery List Primary 3 - 2025</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parent%20Resources/Booklist2025/2025_P4_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Book and Stationery List Primary 4 - 2025</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parent%20Resources/Booklist2025/2025_P5_Booklist_Standard.pdf" rel="noopener noreferrer nofollow" target="_blank">Book and Stationery List Primary 5 - 2025</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parent%20Resources/Booklist2025/2025_P5_Booklist_Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">Book and Stationery List Primary 5 Foundation - 2025</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parent%20Resources/Booklist2025/2025_P6_Booklist_Standard.pdf" rel="noopener noreferrer nofollow" target="_blank">Book and Stationery List Primary 6 - 2025</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parent%20Resources/Booklist2025/2025_P6_Booklist_Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">Book and Stationery List Primary 6 Foundation - 2025</a>
-</p>
-</li>
-</ul>
-<h4><strong>Sale of School Uniform - 2025</strong><br><br></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Parent%20Resources/Schuniform2025/Seng_Kang_Pri_sale_schedule_EY24.pdf" rel="noopener noreferrer nofollow" target="_blank">Sale of School Uniform - 2025</a>
-</p>
-</li>
-</ul>
-<h4><strong>Primary 1 Student - 2025</strong><br><br></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/P1_Transition_Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Transition Checklist</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Supporting_Your_Child_in_the_Transition_to_Primary_School_Parents__Roles_in_Ensuring_a_Smooth_Transition.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting Your Child in the Transition to Primary School (2 Jan 2025)</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1Jhg4O5Szmmg3eODb0zv3jo7jkm_Hsh9U/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 Primary 1 Year Head Sharing Slides (2 Jan 2025)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P1_Orientation_Combined_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Primary 1 Orientation Slides (15 Nov 2024)</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1uYIjzKVml13FD7uXPtHy2ehKFXiFMhW8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 Primary 1 Orientation Video (15 Nov 2024)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025_Primary_1_Orientation_Booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Primary 1 Orientation Booklet</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Primary_One_Orientation__FAQ_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Orientation (FAQ)</a>
-</p>
-</li>
-</ul>
-<p>
 <br>
 </p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
