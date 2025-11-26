@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HRP Portal</p>
+<p>HRP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.hrp.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.hrp.gov.sg</a>
@@ -206,6 +206,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://rbs.avero-tech.com/" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Absent Records System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScsweaPZndPG0k0E13x8G_docEuQLXK0BraC26Mup-UVUMZYg/viewform?pli=1&amp;pli=1" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
