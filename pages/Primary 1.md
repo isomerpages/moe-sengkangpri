@@ -3,7 +3,6 @@ title: Primary 1
 permalink: /about-us/Our-People/Primary-1/
 description: ""
 variant: tiptap
-third_nav_title: Our People
 ---
 <p><strong>Lower Block Year Head:</strong>
 <br><strong>Mrs Ferlynn Han-Tan Quek Khim</strong>

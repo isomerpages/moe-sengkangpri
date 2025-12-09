@@ -3,7 +3,6 @@ title: Primary 3
 permalink: /about-us/Our-People/Primary-3/
 description: ""
 variant: tiptap
-third_nav_title: Our People
 ---
 <p><strong>Middle Block Year Head:</strong>
 <br><strong>Miss Kwan See Ling</strong>

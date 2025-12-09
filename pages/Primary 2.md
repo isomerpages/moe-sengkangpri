@@ -3,7 +3,6 @@ title: Primary 2
 permalink: /about-us/Our-People/primary-2/
 description: ""
 variant: tiptap
-third_nav_title: Our People
 ---
 <p><strong>Lower Block Assistant Year Head:</strong>
 <br><strong>Mrs Karen Tan</strong>

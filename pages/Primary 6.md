@@ -3,7 +3,6 @@ title: Primary 6
 permalink: /about-us/Our-People/primary-6/
 description: ""
 variant: tiptap
-third_nav_title: Our People
 ---
 <p><strong>Upper Block Year Head:<br>Mrs Andrea Ki</strong>
 </p>

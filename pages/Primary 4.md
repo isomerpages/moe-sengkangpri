@@ -3,7 +3,6 @@ title: Primary 4
 permalink: /about-us/Our-People/Primary-4/
 description: ""
 variant: tiptap
-third_nav_title: Our People
 ---
 <p><strong>Middle Block Assistant Year Head:<br>Mrs Ee (Leong) Lai Mun</strong>
 <br>Information on Subject Based Banding&nbsp;<a href="/files/P4%20SBB%20Briefing%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a>
