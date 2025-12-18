@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HomePageBackground/SKPS_Collaterals.gif
+      background: /images/HomePageBackground/home.gif
       key_highlights:
         - title: SKPS Facebook
           description: Visit our FB page for updates!
