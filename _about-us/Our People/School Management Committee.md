@@ -337,8 +337,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>AES</p>
+<p>Subject Head
+<br>AES</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurzarifah Binte Masnam</p>
