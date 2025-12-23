@@ -28,7 +28,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Halinah Binte Halil</p>
+<p>Mdm Halinah Halil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:halinah_halil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">halinah_halil@schools.gov.sg</a>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Ong Jin Hwa</p>
+<p>Mr Daniel Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:daniel_ong_jin_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_ong_jin_hwa@schools.gov.sg</a>
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Corporate Support Officers (CSOs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Celine Koh Yong Ngor
+<p>Mdm Celine Koh
 <br>Mdm Haslinda Asmin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,10 +87,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Allied Educator (Admin Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mariati Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mariati_yusoff@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariati_yusoff@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chee Hsieh Mei Charmaine</p>
+<p>Ms Charmaine Chee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:charmaine_chee_hsieh_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">charmaine_chee_hsieh_mei@schools.gov.sg</a>
@@ -102,10 +114,10 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jacelyn Ang Shi Qi</p>
+<p>Ms Jacelyn Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jacelyn_ang_shi_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jacelyn_ang_shi_qi@schools.gov.sg</a> 
+<p><a href="mailto:jacelyn_ang_shi_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jacelyn_ang_shi_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -126,7 +138,7 @@ variant: tiptap
 <p>Special Education Needs Officers (SENOs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Azhari Bin Basiran</p>
+<p>Mr Mohammad Azhari Basiran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohd_azhari_basiran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_azhari_basiran@schools.gov.sg</a>
@@ -153,7 +165,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurhafizah Bte Rosle</p>
+<p>Ms Nurhafizah Rosle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurhafizah_rosle_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafizah_rosle_b@schools.gov.sg</a>
@@ -162,22 +174,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (T&amp;L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mariati Bte Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mariati_yusoff@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariati_yusoff@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student Welfare Officer (SWO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Rasul Bin Abdul Hamid</p>
+<p>Mr Muhammad Rasul Abdul Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_rasul_abdul_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_rasul_abdul_hamid@schools.gov.sg</a>
@@ -201,10 +201,10 @@ variant: tiptap
 <p>ICT Trainer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Irsyad Bin Jamal</p>
+<p>Mr Irsyad Jamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:irsyad_jamal_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irsyad_jamal_a@moe.edu.sg</a>
+<p><a href="mailto:irsyad_jamal_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irsyad_jamal_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
