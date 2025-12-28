@@ -211,7 +211,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Absent Records System</p>
+<p>Absent Records (RMS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScsweaPZndPG0k0E13x8G_docEuQLXK0BraC26Mup-UVUMZYg/viewform?pli=1&amp;pli=1" rel="noopener nofollow" target="_blank">Click Here</a>
