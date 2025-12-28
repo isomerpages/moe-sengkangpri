@@ -120,30 +120,6 @@ or Board of Governors.</p>
 <p>Service to Education Award 2022 (5-9 Years)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Stanwin Siow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Service to Education Award 2022 (5-9 Years)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Thomas Tham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Service to Education Award 2022 (5-9 Years)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Maggie Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Service to Education Award 2022 (5-9 Years)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
