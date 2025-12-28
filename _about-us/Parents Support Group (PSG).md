@@ -55,7 +55,7 @@ The PSG also facilitates the school’s communication to parents.</p>
 <p>EXCO Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm NurulJannah</p>
+<p>Mdm Nurul Jannah</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ The PSG also facilitates the school’s communication to parents.</p>
 <p>EXCO Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm NachaArun</p>
+<p>Mdm Nacha Arun</p>
 </td>
 </tr>
 <tr>
