@@ -4,7 +4,7 @@ permalink: /about-us/Our-People/Primary-1/
 description: ""
 variant: tiptap
 ---
-<p><strong>Lower Block Year Head:</strong>
+<p><strong>Lower Block Acting Assistant Year Head:</strong>
 <br><strong>Mrs Karen Tan</strong>
 </p>
 <table style="minWidth: 75px">
