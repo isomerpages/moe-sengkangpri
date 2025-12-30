@@ -40,18 +40,6 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Thien Li Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:skps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skps@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Zhou Wencong</p>
 </td>
 <td rowspan="1" colspan="1">
