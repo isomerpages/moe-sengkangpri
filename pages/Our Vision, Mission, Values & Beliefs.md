@@ -2,52 +2,35 @@
 title: Our Vision, Mission, Values & Beliefs
 permalink: /about-us/Our-School/Our-Vision-Mission-Values-and-Beliefs/
 description: ""
+variant: tiptap
 ---
-***OUR VISION***
+<p><strong><em>OUR VISION</em></strong>
+<br>Thinkers Today, Leaders Tomorrow
 <br>
-Every Seng Kang Primary student
+</p>
+<p><strong><em>OUR MISSION</em></strong>
+<br>Nurturing future-ready learners
+<br>and developing future leaders
+<br>with the passion to serve
 <br>
-an Inventive Thinker, a Confident Leader 
+</p>
+<p><strong><em>OUR VALUES</em></strong>
+<br>Respect
+<br>Integrity
+<br>Care
+<br>Excellence
 <br>
-and a Gracious Citizen
+</p>
+<p><strong><em>OUR BELIEFS</em></strong>
+<br>Everyone Can Learn
+<br>Everyone Can Serve
+<br>Everyone is Special
 <br>
-
-***OUR MISSION***
+</p>
+<p><strong><em>OUR CORPORATE VALUES</em></strong>
+<br>Integrity the Foundation
+<br>People our Focus
+<br>Learning our Passion
+<br>Excellence our Pursuit
 <br>
-Nurturing self-directed learners with inquiring minds,
-<br>
-anchored on moral values to lead,care and serve
-<br>
-	
-***OUR VALUES***
-<br>
-Graciousness
-<br>
-Integrity
-<br>
-Confidence
-<br>
-Resilience
-<br>
-
-	
-***OUR BELIEFS***
-<br>
-Everyone Can Learn
-<br>
-Everyone Can Serve
-<br>
-Everyone is Special
-<br>
-
-	
-***OUR CORPORATE VALUES***
-<br>
-Integrity the Foundation
-<br>
-People our Focus
-<br>
-Learning our Passion
-<br>
-Excellence our Pursuit
-<br>
+</p>
