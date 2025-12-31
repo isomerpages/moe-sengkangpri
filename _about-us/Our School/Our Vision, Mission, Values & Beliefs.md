@@ -10,9 +10,9 @@ third_nav_title: Our School
 <br>
 </p>
 <p><strong><em>OUR MISSION</em></strong>
-<br>Nurturing future-ready learners
-<br>and developing future leaders
-<br>with the passion to serve
+<br>Nurturing Future-ready Learners
+<br>and developing Future Leaders
+<br>with the Passion to Serve
 <br>
 </p>
 <p><strong><em>OUR VALUES</em></strong>
