@@ -14,7 +14,7 @@ third_nav_title: General Information
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="15" colspan="1">
+<td rowspan="13" colspan="1">
 <p><strong><u>Stall 1 - Halal (Cafe Cove)</u></strong>
 </p>
 </td>
@@ -163,28 +163,6 @@ third_nav_title: General Information
 </td>
 <td rowspan="1" colspan="1">
 <p>Cassava Chips</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
