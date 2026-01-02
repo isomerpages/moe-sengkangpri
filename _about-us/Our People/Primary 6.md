@@ -93,7 +93,7 @@ third_nav_title: Our People
 <p>6 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lawrence Wong</p>
+<p>Mr Lawrence Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_sian_heng_lawrence@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_sian_heng_lawrence@schools.gov.sg</a>
@@ -126,7 +126,7 @@ third_nav_title: Our People
 <p>Mdm Nurzarifah Masnam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurzarifah_masnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurzarifah_masnam@schools.gov.sg</a> 
+<p><a href="mailto:nurzarifah_masnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurzarifah_masnam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
