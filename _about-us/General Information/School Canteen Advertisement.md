@@ -3,6 +3,7 @@ title: School Canteen Advertisement
 permalink: /about-us/general-information/school-canteen-advertisement/
 description: ""
 variant: tiptap
+third_nav_title: General Information
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
 <table style="minWidth: 75px">
@@ -28,7 +29,7 @@ variant: tiptap
 <p>Muslim Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Oct 2025</p>
+<p>31 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>

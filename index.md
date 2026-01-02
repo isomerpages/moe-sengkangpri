@@ -15,6 +15,22 @@ sections:
         - title: SKPS Instagram
           description: Or our Insta for choice!
           url: https://www.instagram.com/sengkangprimaryschool/
+  - infobar:
+      title: Term 1 2026 Notification
+      subtitle: For 2026 SKPS Students
+      id: infobar
+      description: Welcome back to school! The notification for the new term is now
+        available.
+      button: Click Here
+      url: /files/2026_Term_1_Letter.pdf
+  - infobar:
+      title: School Canteen Menu
+      subtitle: For 2026 SKPS Students
+      id: infobar
+      description: Curious to know the food and drinks on offer from the school
+        canteen? Check out below!
+      button: Click Here
+      url: /about-us/general-information/school-canteen-menu/
   - infopic:
       title: President's Award for Teachers
       id: infopic
@@ -43,22 +59,6 @@ sections:
         Congratulations!
       image: /images/ast2025.jpg
       alt: Image alt text
-  - infobar:
-      title: Term 4 2025 Notification
-      subtitle: For 2025 SKPS Students
-      id: infobar
-      description: Welcome back to school! The notification for the new term is now
-        available.
-      button: Click Here
-      url: /files/196_SKPS_2025_Term_4_Notification.pdf
-  - infobar:
-      title: School Canteen Menu
-      subtitle: For 2025 SKPS Students
-      id: infobar
-      description: Curious to know the food and drinks on offer from the school
-        canteen? Check out below!
-      button: Click Here
-      url: /about-us/general-information/school-canteen-menu/
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
       subtitle: FOR 2026 SKPS STUDENTS

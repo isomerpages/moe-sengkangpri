@@ -14,7 +14,7 @@ third_nav_title: General Information
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="15" colspan="1">
+<td rowspan="13" colspan="1">
 <p><strong><u>Stall 1 - Halal (Cafe Cove)</u></strong>
 </p>
 </td>
@@ -90,21 +90,10 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Milo-O</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lo Mai Gai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Potato &amp; Cheese</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Milo-C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fan Choy</p>
+<p>Curry Bun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Potato Crisp / Moroll Crunch Wafers</p>
@@ -115,7 +104,7 @@ third_nav_title: General Information
 <p>Milo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siew Mai</p>
+<p>Lo Mai Gai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Snack Bite / Corntos</p>
@@ -126,7 +115,7 @@ third_nav_title: General Information
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Egg</p>
+<p>Fan Choy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Super Corn / Oat Krunch</p>
@@ -137,7 +126,7 @@ third_nav_title: General Information
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Siew Mai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wafers</p>
@@ -148,7 +137,7 @@ third_nav_title: General Information
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Egg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tortilla Chips / Roda Snack</p>
@@ -177,18 +166,6 @@ third_nav_title: General Information
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jele Beautie
-<br>(Flavours: Apple / Grape / Lychee)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="4">
 <p></p>
 </td>
@@ -214,7 +191,7 @@ third_nav_title: General Information
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><u>Meals with Bread</u>
+<p><u>Set Meals</u>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -227,7 +204,7 @@ third_nav_title: General Information
 <p>Chicken / Fish Burger</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A: Egg</p>
+<p>A: Egg, Salad, Bread, Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mash Potatoes</p>
@@ -238,7 +215,7 @@ third_nav_title: General Information
 <p>Hot Dog Bun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B: Soup</p>
+<p>B: Soup, Salad, Bread, Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mushroom Soup</p>
@@ -249,7 +226,7 @@ third_nav_title: General Information
 <p>Ham Cheese &amp; Egg Sandwich</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C: Ham, Egg</p>
+<p>C: Ham, Egg, Salad, Bread, Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hot Dog</p>
@@ -260,7 +237,7 @@ third_nav_title: General Information
 <p>Pizza Hawaiian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D: Baked Potato, Egg</p>
+<p>D: Baked Potato, Egg, Salad, Bread, Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Egg</p>
@@ -271,7 +248,7 @@ third_nav_title: General Information
 <p>Spaghetti with Chicken &amp; Mushroom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>E: Popcorn Chicken</p>
+<p>E: Popcorn Chicken, Salad, Bread, Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Garlic Bread</p>
@@ -282,10 +259,10 @@ third_nav_title: General Information
 <p>Macaroni and Cheese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>F: Nugget</p>
+<p>F: Nugget, Salad, Bread, Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cheeseball</p>
 </td>
 </tr>
 <tr>
@@ -293,10 +270,10 @@ third_nav_title: General Information
 <p>Baked Pasta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>G: Seaweed</p>
+<p>G: Seaweed, Salad, Bread, Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hash Brown</p>
 </td>
 </tr>
 <tr>
@@ -304,7 +281,7 @@ third_nav_title: General Information
 <p>Aglio Olio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>H: Cheeseball</p>
+<p>H: Cheeseball, Salad, Bread, Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -315,7 +292,7 @@ third_nav_title: General Information
 <p>Chicken Chop Set with Mashed Potato &amp; Vegetable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>I: Chicken Stick</p>
+<p>I: Chicken Stick, Salad, Bread, Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -345,7 +322,7 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><em>Stall 2: all daily special meals and meals with bread come with vegetable and fruit.</em>
+<p><em>Stall 2: all daily special meals and set meals come with vegetable salad and fruit.</em>
 </p>
 </td>
 </tr>
@@ -361,7 +338,7 @@ third_nav_title: General Information
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="9" colspan="1">
+<th rowspan="12" colspan="1">
 <p><u>Stall 3 (Ocean Noodle)</u>
 </p>
 </th>
@@ -464,6 +441,39 @@ third_nav_title: General Information
 </td>
 <td rowspan="1" colspan="1">
 <p>Fishball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nugget</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fruit Cup</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seaweed Chicken</p>
 </td>
 </tr>
 <tr>
@@ -731,7 +741,7 @@ third_nav_title: General Information
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="13" colspan="1">
+<th rowspan="17" colspan="1">
 <p><u>Stall 6 - Halal (Lagoon Nasi)</u>
 </p>
 </th>
@@ -753,7 +763,7 @@ third_nav_title: General Information
 <p>Chicken Porridge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mee Soto (Monday)</p>
+<p>Lontong (Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hot Dog</p>
@@ -764,7 +774,7 @@ third_nav_title: General Information
 <p>Chicken Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mee Rebus (Tuesday)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BBQ Chicken Wing Stick</p>
@@ -775,7 +785,7 @@ third_nav_title: General Information
 <p>Fried Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mee Siam (Wednesday)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hot Dog Sambal</p>
@@ -786,7 +796,7 @@ third_nav_title: General Information
 <p>Nasi Lemak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mee Goreng (Thursday)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fish Ball Sambal</p>
@@ -797,10 +807,10 @@ third_nav_title: General Information
 <p>Roti Prata with Curry &amp; Vegetable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Macaroni Soup (Friday)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fish Cake Samb al</p>
+<p>Fish Cake Sambal</p>
 </td>
 </tr>
 <tr>
@@ -808,7 +818,7 @@ third_nav_title: General Information
 <p>Tofu and Fish Ball Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lontong (Friday)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Egg</p>
@@ -881,6 +891,50 @@ third_nav_title: General Information
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chicken Tender</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chicken Pati</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fish Stick</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheese Stick</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="4">
 <p><em>Stall 6: all daily and weekly set meals come with vegetable and fruit.</em>
 </p>
@@ -923,8 +977,15 @@ third_nav_title: General Information
 <p>Teriyaki Chicken Don</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oyakodon (Japanese Chicken &amp; Egg Rice)
+<ul data-tight="true" class="tight">
+<li>
+<p>Oyakodon (Japanese Chicken &amp; Egg Rice)</p>
+</li>
+<li>
+<p>Inkumiso Rice
 <br>(Monday)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tsukune Skewers (Chicken Meatball)</p>
@@ -938,9 +999,18 @@ third_nav_title: General Information
 <p>Japanese Curry Chicken Don</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chicken Katsu Don (Curry / Teriyaki)
-<br>Rice Burger
+<ul data-tight="true" class="tight">
+<li>
+<p>Chicken Katsu Don (Curry / Teriyaki)</p>
+</li>
+<li>
+<p>Rice Burger</p>
+</li>
+<li>
+<p>Garlic Soya Chicken Rice
 <br>(Tuesday)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Breaded Mozzarella Stick</p>
@@ -951,12 +1021,18 @@ third_nav_title: General Information
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teriyaki Plain Rice Set</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Japanese Chicken Cream Stew
-<br>Hambagu Steak Rice
+<ul data-tight="true" class="tight">
+<li>
+<p>Japanese Chicken Cream Stew</p>
+</li>
+<li>
+<p>Hambagu Steak Rice
 <br>(Wednesday)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chicken Yakitori Skewers</p>
@@ -970,9 +1046,15 @@ third_nav_title: General Information
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BBQ Don (Bulgugi)
-<br>Grill Fish Don (Teriyaki Sauce)
+<ul data-tight="true" class="tight">
+<li>
+<p>BBQ Don (Bulgugi)</p>
+</li>
+<li>
+<p>Grill Fish Don (Teriyaki Sauce)
 <br>(Thursday)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chicken Karaage</p>
@@ -986,8 +1068,15 @@ third_nav_title: General Information
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Japanese Omelette Rice (Teriyaki / Curry)
+<ul data-tight="true" class="tight">
+<li>
+<p>Japanese Omelette Rice (Teriyaki / Curry)</p>
+</li>
+<li>
+<p>Char Diew Rice
 <br>(Friday)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teriyaki Chicken Winglet</p>
@@ -1061,6 +1150,48 @@ third_nav_title: General Information
 </td>
 <td rowspan="1" colspan="1">
 <p>Ramen Eggs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gyoza</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tsukune Skewers (Chicken Potato)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Topokki (Rice Cake)</p>
 </td>
 </tr>
 <tr>
