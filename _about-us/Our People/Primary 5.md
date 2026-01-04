@@ -124,7 +124,7 @@ third_nav_title: Our People
 <p>5 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hazwani Abu Samah</p>
+<p>Mrs Taufiq</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_hazwani_abu_samah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hazwani_abu_samah@schools.gov.sg</a>
