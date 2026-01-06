@@ -55,7 +55,7 @@ third_nav_title: Our People
 <p>Mdm Nurlinah Suarli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jaswant_kaur_gurdit_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurlinah_suarli@schools.gov.sg</a>
+<p><a href="mailto:nurlinah_suarli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurlinah_suarli@schools.gov.sg</a>
 </p>
 </td>
 </tr>
