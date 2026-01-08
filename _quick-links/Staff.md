@@ -218,6 +218,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SKPS Lift Pass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/skps-lift-pass" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Teaching &amp; Learning</em></strong>
