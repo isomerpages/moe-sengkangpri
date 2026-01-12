@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
+<h4><strong>(NEW) Bicycle Pass Request Form</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/skpsbicycle" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+</li>
+</ul>
 <h4><strong>(NEW) Primary 1 Student – 2026</strong><br></h4>
 <ul data-tight="true" class="tight">
 <li>
