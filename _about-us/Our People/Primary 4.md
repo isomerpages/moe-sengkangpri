@@ -157,7 +157,8 @@ third_nav_title: Our People
 <p>Mrs Mohanadas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:r_mohanadas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_mohanadas@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
