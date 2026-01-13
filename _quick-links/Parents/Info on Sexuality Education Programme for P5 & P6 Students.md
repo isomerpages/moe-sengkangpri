@@ -39,11 +39,11 @@ STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and
 your&nbsp;loved ones.</p>
 <p>You may&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE</a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<h3><strong>OVERVIEW OF SENG KANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h3>
+<h3><strong>OVERVIEW OF SENG KANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h3>
 <p>4.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sexuality Education is delivered in
 a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
-Relationships, Sexual Health, Sexual Behaviour,and, Culture, Society and
+Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
 Law. You may&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE</a></strong>&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The subjects that incorporate topics
@@ -69,8 +69,8 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<h3><strong>AT SENG KANG PRIMARY SCHOOL, THE FOLLOWING SEXUALITY EDUCATION LESSONS WILL BE TAUGHT IN 2025:</strong></h3>
-<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+<h3><strong>AT SENG KANG PRIMARY SCHOOL, THE FOLLOWING SEXUALITY EDUCATION LESSONS WILL BE TAUGHT IN 2026:</strong></h3>
+<p><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>PRIMARY 5</strong>
 </p>
@@ -116,7 +116,7 @@ affected, even when one’s body is experiencing changes due to puberty.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2, Week 4</p>
+<p>Term 2, Week 6</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2, Week 5</p>
+<p>Term 2, Week 7</p>
 </td>
 </tr>
 <tr>
@@ -160,13 +160,13 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2, Week 6</p>
+<p>Term 2, Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+<p><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>PRIMARY 6</strong>
 </p>
@@ -241,8 +241,8 @@ Education lessons, and/or supplementary Sexuality Education programmes
 by MOE-approved&nbsp;external providers.</p>
 <p>9.&nbsp; &nbsp; &nbsp; &nbsp; Parents who wish to opt their children out
 of the Growing Years (GY) programme need to complete an online opt-out
-form (<a href="https://go.gov.sg/skpsoptoutform" rel="noopener nofollow" target="_blank">CLICK HERE</a>).
-The completed online opt-out form is to be submitted by <strong>31/01/2025</strong>.</p>
+form (<a href="/files/Opt_out_form_2026_Info_on_SEd_for_schs_website_Primary_Schools.pdf" rel="noopener nofollow" target="_blank">CLICK HERE</a>).
+The completed online opt-out form is to be submitted by <strong>31/01/2026</strong>.</p>
 <p>10.&nbsp; &nbsp; &nbsp;Parents can contact the school at 6384 0809 or
 email us at <a href="mailto:skps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skps@moe.edu.sg</a> for
 discussion or to seek clarification about the school's Sexuality Education
