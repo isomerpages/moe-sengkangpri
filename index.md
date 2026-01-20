@@ -32,26 +32,6 @@ sections:
       button: Click Here
       url: /about-us/general-information/school-canteen-menu/
   - infopic:
-      title: President's Award for Teachers
-      id: infopic
-      description: PAT nominations for inspiring teachers or colleagues are now open!
-        Please scan the QR code or click on the link below to nominate. Closing
-        date is on 9 Jan 26.
-      button: Click Here
-      url: https://go.gov.sg/pat2026
-      image: /images/PAT_Banner.jpg
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award
-      id: infopic
-      description: OYEA nominations for inspiring teachers or colleagues are now open!
-        Please scan the QR code or click on the link below to nominate. Closing
-        date is on 9 Jan 26.
-      button: Click Here
-      url: https://go.gov.sg/oyea2026
-      image: /images/OYEA_Banner.jpg
-      alt: Image alt text
-  - infopic:
       title: Academy Singapore Teachers Awards 2025
       id: infopic
       description: We are pleased to share Mdm Vijay, Subject Head (Mother Tongue
