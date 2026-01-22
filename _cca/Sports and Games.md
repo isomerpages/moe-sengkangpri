@@ -41,8 +41,7 @@ variant: tiptap
 <br>3.30 pm - 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Didy Romanee (i/c)
-<br>Mr Welly Hardono (2 i/c)
+<p>Mr Welly Hardono (i/c)
 <br>Mrs Serene Tan
 <br>Mr Mohamed Fazil
 <br>Mr Ruan Hui</p>
@@ -86,8 +85,7 @@ variant: tiptap
 <p>3.30 pm - 5.30 pm (days with remedial)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Dulcie Lim (i/c)
-<br>Mr Tan Jia Hui (2 i/c)
+<p>Mr Tan Jia Hui (i/c)
 <br>Mr Suresh Kumar (SDP)
 <br>Miss Pathmaseri Veeran Visayan
 <br>Mdm Nasuha Bte Hanafi
@@ -112,9 +110,7 @@ variant: tiptap
 <br>2.30 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ngo Yi Chye (i/c)
-<br>Miss Wu Mei Qi (2 i/c)
-<br>Mrs Brenda Siew (SDP)
+<p>Mrs Brenda Siew (SDP)
 <br>Mdm Chin Irnanie Bte Imran Chin
 <br>Mr Md Luqman Hakeem Mahmood Shah
 <br>Mdm Wang Yee Ling Karen
