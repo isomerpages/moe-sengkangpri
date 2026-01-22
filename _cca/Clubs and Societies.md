@@ -121,10 +121,10 @@ variant: tiptap
 <br>Mdm Loke Chuen Lan (2 i/c)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Recording Room &amp; Makerspace Room</p>
+<p>SK.AI Lab &amp; Makerspace Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Recording Room &amp; Makerspace Room</p>
+<p>SK.AI Lab &amp; Makerspace Room</p>
 </td>
 </tr>
 <tr>
@@ -137,8 +137,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Hwee Hong (i/c)
-<br>Mr Aerfi Bin Abdullah (2 i/c) (SDP)
-<br>Mrs Siti Osman</p>
+<br>Mr Aerfi Bin Abdullah (2 i/c) (SDP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Room 1 &amp; CCA Room 2</p>
