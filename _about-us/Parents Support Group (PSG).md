@@ -36,82 +36,98 @@ The PSG also facilitates the school’s communication to parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nur Shairah</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sivasankari Muniswami</p>
+<p>Chairperson</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EXCO Member</p>
+<p>Mrs Sivasankari Muniswari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurul Jannah</p>
+<p>Vice-Chairperson</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Manoharan Subhashree</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>EXCO Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nacha Arun</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EXCO Member</p>
+<p>Mdm Angela Reizel Obed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Arun</p>
+<p>EXCO Member</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Joerine Ng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kavitha Sathyanarayanan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Preethi Viswanathan</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EXCO member</p>
+<p>Mdm Ramanachammai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Angela Obed</p>
+<p>EXCO Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Arun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nuruljannah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Anitha Asokan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Benjamin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sakthivel Kaliyaperumal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Seetha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
 </td>
 </tr>
 </tbody>
