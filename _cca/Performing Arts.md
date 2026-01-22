@@ -68,7 +68,6 @@ variant: tiptap
 <p>Mr Mohamed Salleh (i/c)
 <br>Mdm Lian Huan (2 i/c)
 <br>Miss Nur Effah (SDP)
-<br>Mdm Luthfiyyah Binte Kwajah Mohamed
 <br>Mdm Joyce Lye</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,6 +166,6 @@ through formal auditions</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HB13-11.jpg">
 </div>
 <div class="iframe-wrapper">
-<iframe height="335" width="580" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pVZSw7lZbBs"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="335" width="580" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pVZSw7lZbBs"></iframe>
 </div>
 <p></p>
