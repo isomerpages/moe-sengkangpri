@@ -25,7 +25,7 @@ that lie ahead.</p>
 <p>I am delighted to share our refreshed vision: <strong>'Thinkers today, Leaders tomorrow.'</strong> This
 evolution builds upon the strong foundation of our previous vision, which
 has successfully guided our SKLites towards success over the years. Our
-mission: <strong>Nurturing future-ready learners and developing future leaders with the passion </strong>reflects
+mission: <strong>Nurturing future-ready learners and developing future leaders with the passion to serve </strong>reflects
 our commitment to curate meaningful school programmes that shape positive
 learning attitudes and mindsets throughout their six-year journey with
 SKPS. Through the intentional design of learning experiences, both within
