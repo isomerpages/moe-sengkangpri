@@ -227,6 +227,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Events Logistics Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/6886f9700c34324886522bef" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Teaching &amp; Learning</em></strong>
