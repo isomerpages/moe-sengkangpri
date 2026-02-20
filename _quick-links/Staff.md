@@ -40,6 +40,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Standee for Publicity Request</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/692cd706abc7e7529951cb18" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MOE Intranet</p>
 </td>
 <td rowspan="1" colspan="1">
