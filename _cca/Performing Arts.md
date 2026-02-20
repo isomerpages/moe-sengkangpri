@@ -46,6 +46,7 @@ variant: tiptap
 <br>Mdm Faridah Bte Abdul Razak (SDP)
 <br>Mdm Ow Pei Fern Yvonne
 <br>Mdm Quek Leng Leng</p>
+<p>Mdm Norsyuhadah Bte Mohd Khaidzir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Studio</p>
@@ -69,6 +70,7 @@ variant: tiptap
 <br>Mdm Lian Huan (2 i/c)
 <br>Miss Nur Effah (SDP)
 <br>Mdm Joyce Lye</p>
+<p>Ms Teng Pei Fang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Room</p>
@@ -88,10 +90,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ramesh S/O Kunasegaran&nbsp; (i/c)
-<br>Mdm Jayasutha (2 i/c)
-<br>Miss Faith Chiu (SDP)
-<br>Mr Canisius Ching
-<br>Mdm Joyce Ng</p>
+<br>Miss Faith Chiu (2 i/c)
+<br>Mr Canisius Ching (SDP)</p>
+<p>Mrs Thaifur Alias
+<br>Ms Bettina Yai Ai Peng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band Room &amp; Music Rooms</p>
