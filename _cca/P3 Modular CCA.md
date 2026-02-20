@@ -38,6 +38,8 @@ variant: tiptap
 <p>Mdm Nurzarifah Binte Masnam (i/c)
 <br>Mrs Ee (Leong) Lai Mun (2 i/c)
 <br>Mdm Shanmugathai d/o Madasamy</p>
+<p>Mdm Joyce Tan</p>
+<p>Mdm Jayasutha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Multi Purpose Hall / Swimming Complex</p>
