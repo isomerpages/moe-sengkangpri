@@ -62,6 +62,7 @@ variant: tiptap
 <br>Mr Edwin Chee (2 i/c)
 <br>Mrs Suhaidah Binti Ahmad (SDP)
 <br>Miss Anna Yeow</p>
+<p>Mr Md Aerfi Bin Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Blue Court/Canteen</p>
