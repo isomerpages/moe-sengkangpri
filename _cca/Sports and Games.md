@@ -42,9 +42,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Welly Hardono (i/c)
-<br>Mrs Serene Tan
-<br>Mr Mohamed Fazil
-<br>Mr Ruan Hui</p>
+<br>Mr Mohamed Fazil (2 i/c)
+<br>Mr Ruan Hui (SDP)</p>
+<p>Mrs Serene Tan</p>
+<p>Mr Sasi (FAJT)</p>
+<p>Ms Yee Ehen (UCT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parade Square / Running Track / Bus Bay</p>
@@ -63,10 +65,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Adeline Lim (i/c)
-<br>Mdm Lim Jia Wei&nbsp;(2 i/c)
-<br>Mr Timothy Loe (SDP)
-<br>Mdm Jaswant Kaur d/o Gurdit Singh
-<br>Mr Wong Chin Wei Aaron</p>
+<br>Mr Wong Chin Wei Aaron (2 i/c)</p>
+<p>Mr Ngeiw Chaw Yee (SDP)
+<br>Mdm Jaswant Kaur d/o Gurdit Singh</p>
+<p>Mdm Nurlinah Bte Suarli
+<br>Mdm Ng Chin Chin</p>
+<p>Ms Nur Fasya (UCT)
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall (ISH)</p>
@@ -85,15 +91,15 @@ variant: tiptap
 <p>3.30 pm - 5.30 pm (days with remedial)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jia Hui (i/c)
-<br>Mr Suresh Kumar (SDP)
-<br>Miss Pathmaseri Veeran Visayan
-<br>Mdm Nasuha Bte Hanafi
-<br>Mdm Leung Lai Yin
-<br>Mdm Chris Goh</p>
+<p>Mr Suresh Kumar (i/c)</p>
+<p>Mdm Chris Goh (2 i/c)
+<br>Mr Tan Jia Hui (SDP)</p>
+<p>Mdm Leung Lai Yin</p>
+<p>Miss Pathmaseri Veeran Visayan
+<br>Mdm Nur Hazwani Bte Abu Samah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Field / Basketball Court / Parade Square</p>
+<p>Field</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classrooms</p>
@@ -110,12 +116,11 @@ variant: tiptap
 <br>2.30 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Brenda Siew (SDP)
-<br>Mdm Chin Irnanie Bte Imran Chin
-<br>Mr Md Luqman Hakeem Mahmood Shah
-<br>Mdm Wang Yee Ling Karen
-<br>
-</p>
+<p>Mr Md Luqman Hakeem Mahmood Shah (i/c)</p>
+<p>Mdm Chin Irnanie Bte Imran Chin (2 i/c)</p>
+<p>Mr Mohamad Khairuldin Bin Ismail (SDP)</p>
+<p>Mr Abu Isa (UCT)
+<br>Mdm Joyce Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field / Basketball Court</p>
