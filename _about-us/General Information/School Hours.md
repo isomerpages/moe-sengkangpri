@@ -11,8 +11,8 @@ variant: markdown
 
 | Day (Monday to Friday) | Start Time | Dismissal Time |
 | -------- | -------- | -------- |
-|Primary 1 - Primary 2   | 7.30 a.m.     | 1.25 p.m.     |
-|Primary 3 - Primary 6   | 7.30 a.m.     | 1.30 p.m.     |
+|Primary 1  | 7.30 a.m.     | 1.25 p.m.     |
+|Primary 2 - Primary 6   | 7.30 a.m.     | 1.30 p.m.     |
 
 **CCA TIMING**
 
