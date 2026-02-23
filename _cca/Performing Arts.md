@@ -93,7 +93,7 @@ variant: tiptap
 <br>Miss Faith Chiu (2 i/c)
 <br>Mr Canisius Ching (SDP)</p>
 <p>Mrs Thaifur Alias
-<br>Ms Bettina Yai Ai Peng (FAJT)</p>
+<br>Mrs Bettina Chiang (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band Room &amp; Music Rooms</p>
