@@ -105,7 +105,7 @@ third_nav_title: Our People
 <p>Mr Mohamed Salleh Md Nooh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_salleh_md_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_salleh_md_noor@schools.gov.sg</a>
+<p><a href="mailto:mohamed_salleh_md_nooh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_salleh_md_nooh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
