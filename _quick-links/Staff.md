@@ -245,6 +245,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seng Kang Ideas Bank</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/696db7e8d31fe2ad6cbd5101" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Teaching &amp; Learning</em></strong>
