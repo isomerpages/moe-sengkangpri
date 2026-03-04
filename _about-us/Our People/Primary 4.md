@@ -132,14 +132,14 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chris Goh</p>
+<p>Mrs Chris Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_hao_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hao_yuan@schools.gov.sg</a>
+<p><a href="mailto:goh_hao_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hao_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -149,15 +149,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_khairuldin_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_khairuldin_ismail@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Mohanadas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:r_mohanadas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_mohanadas@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
