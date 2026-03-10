@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<p><strong>Middle Block Acting Assistant Year Head:</strong>
-<br><strong>Mdm Geraldine Neo</strong>
+<p><strong>Middle Block Year Head:</strong>
+<br><strong>Miss Kwan See Ling</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -69,7 +69,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,15 +86,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ramesh_kunasegaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ramesh_kunasegaran@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Geraldine Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:geraldine_neo_poh_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_neo_poh_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
