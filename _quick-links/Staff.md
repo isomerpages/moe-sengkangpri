@@ -259,7 +259,7 @@ variant: tiptap
 <p>Early Dismissal &amp; Absence from After School Programme Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/skps-earlyrelease-absenceafterschoolprog" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="https://go.gov.sg/skps-earlydismissal-absenceafterschoolprog" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
