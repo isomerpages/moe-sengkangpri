@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>(NEW) Early Dismissal &amp; Absence from After School Programme Form</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/skps-earlyrelease-absenceafterschoolprog" rel="noopener nofollow" target="_blank">Click here</a>
+<p><a href="https://go.gov.sg/skps-earlydismissal-absenceafterschoolprog" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </li>
 </ul>
