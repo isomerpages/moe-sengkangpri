@@ -5,73 +5,80 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h4><strong>(NEW) Bicycle Pass Request Form</strong></h4>
+<h4><strong>(NEW) Early Dismissal &amp; Absence from After School Programme Form</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/skps-earlyrelease-absenceafterschoolprog" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+</li>
+</ul>
+<h4><strong>Bicycle Pass Request Form</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/skpsbicycle" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </li>
 </ul>
-<h4><strong>(NEW) Primary 1 Student – 2026</strong><br></h4>
+<h4><strong>Primary 1 Student – 2026</strong><br></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>(NEW) </strong><a href="https://drive.google.com/file/d/1n4jFgvHzG6zQ3N5DoUJT9o80gHlcB-su/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 P1 Orientation Slides (21 Nov 2025)</a>
+<p><a href="https://drive.google.com/file/d/1n4jFgvHzG6zQ3N5DoUJT9o80gHlcB-su/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 P1 Orientation Slides (21 Nov 2025)</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="https://drive.google.com/file/d/1eUaZtYNed3ZUEKNEFGs6J9eRbD5N-KZt/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 P1 Orientation Video</a>
+<p><a href="https://drive.google.com/file/d/1eUaZtYNed3ZUEKNEFGs6J9eRbD5N-KZt/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 P1 Orientation Video</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/2026_Primary_1_Orientation_Booklet.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Orientation Booklet</a>
+<p><a href="/files/2026_Primary_1_Orientation_Booklet.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Orientation Booklet</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/Primary_1_Orientation__FAQ__edited.pdf" rel="noopener nofollow" target="_blank">Primary 1 Orientation (FAQ)</a>
+<p><a href="/files/Primary_1_Orientation__FAQ__edited.pdf" rel="noopener nofollow" target="_blank">Primary 1 Orientation (FAQ)</a>
 </p>
 </li>
 </ul>
 <p></p>
-<h4><strong>(NEW) Primary 1 to Primary 6 Book and Stationery Lists - 2026</strong></h4>
+<h4><strong>Primary 1 to Primary 6 Book and Stationery Lists - 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>(NEW) </strong><a href="/files/SKPS_P1_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 1 - 2026</a>
+<p><a href="/files/SKPS_P1_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 1 - 2026</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/SKPS_P2_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 2 - 2026</a>
+<p><a href="/files/SKPS_P2_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 2 - 2026</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/SKPS_P3_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 3 - 2026</a>
+<p><a href="/files/SKPS_P3_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 3 - 2026</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/SKPS_P4_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 4 - 2026</a>
+<p><a href="/files/SKPS_P4_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 4 - 2026</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/SKPS_P5_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 5 - 2026</a>
+<p><a href="/files/SKPS_P5_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 5 - 2026</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/SKPS_P5__FDN__Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 5 Foundation - 2026</a>
+<p><a href="/files/SKPS_P5__FDN__Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 5 Foundation - 2026</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/SKPS_P6_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 6 - 2026</a>
+<p><a href="/files/SKPS_P6_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 6 - 2026</a>
 </p>
 </li>
 <li>
-<p><strong>(NEW) </strong><a href="/files/SKPS_P6__FDN__Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 6 Foundation - 2026</a>
+<p><a href="/files/SKPS_P6__FDN__Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 6 Foundation - 2026</a>
 </p>
 </li>
 </ul>
 <p></p>
-<h4><strong>(NEW) Sale of School Uniform - 2026</strong></h4>
+<h4><strong>Sale of School Uniform - 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>(NEW) </strong><a href="/files/Seng_Kang_Pri_sale_schedule_EY25.pdf" rel="noopener nofollow" target="_blank">Sale of School Uniform - 2026</a>
+<p><a href="/files/Seng_Kang_Pri_sale_schedule_EY25.pdf" rel="noopener nofollow" target="_blank">Sale of School Uniform - 2026</a>
 </p>
 </li>
 </ul>
