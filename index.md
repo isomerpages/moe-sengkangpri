@@ -16,13 +16,13 @@ sections:
           description: Or our Insta for choice!
           url: https://www.instagram.com/sengkangprimaryschool/
   - infobar:
-      title: Term 1 2026 Notification
+      title: Term 2 2026 Notification
       subtitle: For 2026 SKPS Students
       id: infobar
       description: Welcome back to school! The notification for the new term is now
         available.
       button: Click Here
-      url: /files/2026_Term_1_Letter.pdf
+      url: /files/2026_Term_2_Letter.pdf
   - infobar:
       title: School Canteen Menu
       subtitle: For 2026 SKPS Students
