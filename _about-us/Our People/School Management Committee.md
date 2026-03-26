@@ -40,7 +40,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhou Wencong</p>
+<p>Mr Mohamed Azhar Mohamed Noor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:skps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skps@moe.edu.sg</a>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Azhar Mohamed Noor</p>
+<p>Mr Zhou Wencong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:skps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skps@moe.edu.sg</a>
