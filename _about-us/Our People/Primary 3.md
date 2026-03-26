@@ -27,7 +27,7 @@ third_nav_title: Our People
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,6 +44,15 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheo_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheo_xin_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Malik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_malik@schools.gov.sg" rel="noopener nofollow" target="_blank">abdul_malik@schools.gov.sg</a>
 </p>
 </td>
 </tr>
