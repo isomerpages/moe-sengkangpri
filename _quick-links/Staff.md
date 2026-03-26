@@ -263,6 +263,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lesson Observation (LO) Template</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/69b8a429b49aa77b74581bcf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Teaching &amp; Learning</em></strong>
