@@ -13,7 +13,7 @@ sections:
           description: Visit our FB page for updates!
           url: https://www.facebook.com/SengKangPrimarySchool/
         - title: SKPS Instagram
-          description: Or our Insta for choice!
+          description: Or our IG for choice!
           url: https://www.instagram.com/sengkangprimaryschool/
   - infobar:
       title: Term 2 2026 Notification
