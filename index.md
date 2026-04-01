@@ -24,6 +24,15 @@ sections:
       button: Click Here
       url: /files/2026_Term_2_Letter.pdf
   - infobar:
+      title: Early Dismissal & Absence from After School Programme Form
+      subtitle: For 2026 SKPS Students
+      id: infobar
+      description: Parents/guardians can now notify the school directly using this
+        form, if your child needs to be fetched early or will be absent from
+        after school programmes.
+      button: Click Here
+      url: https://go.gov.sg/skps-earlydismissal-absencefromasp
+  - infobar:
       title: School Canteen Menu
       subtitle: For 2026 SKPS Students
       id: infobar
@@ -41,16 +50,15 @@ sections:
       alt: Image alt text
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
-      subtitle: FOR 2026 SKPS STUDENTS
+      subtitle: FOR SKPS STUDENTS
       id: infobar
       description: To register your interest for YMCA student care service, please
-        click on the link below. Registration deadline is on 17 October 2025 at
-        5PM.
+        click on the link below.
       button: Click Here
       url: https://forms.office.com/pages/responsepage.aspx?id=qqd2-kriRkyOG3Jmmasem5kk0cKmd05Crcc6rA2tY-BUNDVTMlM2OFo5SzNFS1RKVlEzT0xGVjJKSS4u&route=shorturl
   - infobar:
       title: Replacement of Lost/Damaged School Smart Card
-      subtitle: For 2025 SKPS Students
+      subtitle: For SKPS Students
       id: infobar
       description: Dear parents/ guardians, you may apply for a replacement card via
         SimplyGo's website at the following link.
@@ -58,7 +66,7 @@ sections:
       url: https://svc.simplygo.com.sg/eservice/econcession/app_form1.php?app_type=2
   - infobar:
       title: Registration of Interest for School Bus Service
-      subtitle: For 2025 SKPS Students
+      subtitle: For SKPS Students
       id: infobar
       description: To register your interest for school bus service, please click on
         the link below.
