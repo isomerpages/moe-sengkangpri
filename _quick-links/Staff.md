@@ -43,7 +43,7 @@ variant: tiptap
 <p>Standee for Publicity Request</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/692cd706abc7e7529951cb18" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="https://form.gov.sg/69d59f40c750ea93525cca44" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
