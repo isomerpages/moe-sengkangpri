@@ -117,7 +117,7 @@ variant: tiptap
 <p>Ms Jacelyn Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jacelyn_ang_shi_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jacelyn_ang_shi_qi@schools.gov.sg</a>
+<p><a href="mailto:ang_shi_qi_jacelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_shi_qi_jacelyn@schools.gov.sg</a>
 </p>
 </td>
 </tr>
