@@ -12,6 +12,9 @@ sections:
         - title: SKPS Facebook
           description: Visit our FB page for updates!
           url: https://www.facebook.com/SengKangPrimarySchool/
+        - title: Address
+          description: 21 Compassvale Walk S545166
+          url: ""
         - title: SKPS Instagram
           description: Or our IG for choice!
           url: https://www.instagram.com/sengkangprimaryschool/
