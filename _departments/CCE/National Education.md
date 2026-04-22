@@ -39,8 +39,8 @@ third_nav_title: CCE
 <p>Together We Keep Singapore Strong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Feb 2025, Monday</p>
-<p>(as 15 Feb is a Sat)</p>
+<p>13 Feb 2026, Friday</p>
+<p>(as 15 Feb is a Sunday)</p>
 </td>
 </tr>
 <tr>
@@ -48,10 +48,10 @@ third_nav_title: CCE
 <p>International Friendship Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore : Forge Friendships in a Complex World (<strong>NEW</strong>)</p>
+<p>Singapore : Forging Friendships in a Complex World</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 April 2025, Friday</p>
+<p>10 Apr 2026, Friday</p>
 </td>
 </tr>
 <tr>
@@ -59,21 +59,21 @@ third_nav_title: CCE
 <p>Racial Harmony Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our People, our Tapestry (<strong>NEW</strong>)</p>
+<p>Our People, our Tapestry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 July 2025 Monday</p>
+<p>21 Jul 2026 Tuesday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Day (SG 60)</p>
+<p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Will be announced in end-May</p>
+<p>Theme to be announced</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 August 2025, Friday</p>
+<p>7 Aug 2026, Friday</p>
 </td>
 </tr>
 </tbody>
