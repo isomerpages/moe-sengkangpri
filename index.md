@@ -43,14 +43,6 @@ sections:
         canteen? Check out below!
       button: Click Here
       url: /about-us/general-information/school-canteen-menu/
-  - infopic:
-      title: Academy Singapore Teachers Awards 2025
-      id: infopic
-      description: We are pleased to share Mdm Vijay, Subject Head (Mother Tongue
-        Language), has been awarded the Associate of AST Award 2025.
-        Congratulations!
-      image: /images/ast2025.jpg
-      alt: Image alt text
   - infobar:
       title: Registration of Interest for YMCA Student Care Service
       subtitle: FOR SKPS STUDENTS
@@ -67,12 +59,4 @@ sections:
         SimplyGo's website at the following link.
       button: Click Here
       url: https://svc.simplygo.com.sg/eservice/econcession/app_form1.php?app_type=2
-  - infobar:
-      title: Registration of Interest for School Bus Service
-      subtitle: For SKPS Students
-      id: infobar
-      description: To register your interest for school bus service, please click on
-        the link below.
-      button: Button Text
-      url: /about-us/General-Information/Bookshop-School-Bus-and-Other-Services/
 ---
