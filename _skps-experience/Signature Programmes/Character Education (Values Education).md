@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ve1.jpg">
 </div>
@@ -26,7 +25,6 @@ of recognition and appreciation.</p>
 as a problem-solving approach. By considering issues from the perspective
 of the end-user, students develop empathy, think critically, and build
 confidence—growing into thinkers today and leaders tomorrow.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ve2.jpg">
 </div>
