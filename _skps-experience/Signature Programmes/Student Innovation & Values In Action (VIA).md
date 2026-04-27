@@ -19,7 +19,6 @@ and service skills learnt to a self-initiated project.</p>
 and collaborations with external organisations. These platforms provide
 opportunities for sustained service, advocacy, and leadership, empowering
 students to make a meaningful impact beyond the classroom.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via1.jpg">
 </div>
