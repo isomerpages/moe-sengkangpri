@@ -38,15 +38,14 @@ variant: tiptap
 <p>Tuesday
 <br>3.30 pm - 5.30 pm
 <br>Friday
-<br>7.30 am - 9.30 am</p>
+<br>7.30 am - 9.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Shabana (i/c)
-<br>Miss Geraldine Neo (2 i/c)
+<br>Mdm Norsyuhadah Bte Mohd Khaidzir (2 i/c)
 <br>Mdm Faridah Bte Abdul Razak (SDP)
 <br>Mdm Ow Pei Fern Yvonne
 <br>Mdm Quek Leng Leng</p>
-<p>Mdm Norsyuhadah Bte Mohd Khaidzir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Studio</p>
@@ -63,14 +62,14 @@ variant: tiptap
 <p>Monday and Thursday
 <br>3.30 pm - 5.30 pm
 <br>Friday
-<br>7.30 am - 9.30 am</p>
+<br>7.30 am - 9.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Salleh (i/c)
 <br>Mdm Lian Huan (2 i/c)
 <br>Miss Nur Effah (SDP)
-<br>Mdm Joyce Lye</p>
-<p>Ms Teng Pei Fang</p>
+<br>Mdm Joyce Lye
+<br>Ms Teng Pei Fang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Room</p>
@@ -86,13 +85,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Wednesday 3.30 pm - 5.30 pm
 <br>Friday
-<br>7.30 am - 9.30 am</p>
+<br>7.30 am - 9.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ramesh S/O Kunasegaran&nbsp; (i/c)
 <br>Miss Faith Chiu (2 i/c)
-<br>Mr Canisius Ching (SDP)</p>
-<p>Mrs Thaifur Alias
+<br>Mr Canisius Ching (SDP)
+<br>Mrs Thaifur Alias
 <br>Mrs Bettina Chiang (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
