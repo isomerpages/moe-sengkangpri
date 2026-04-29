@@ -18,6 +18,16 @@ sections:
         - title: SKPS Instagram
           description: Or our IG for choice!
           url: https://www.instagram.com/sengkangprimaryschool/
+  - infopic:
+      title: Open House for Sec Schools 2026
+      subtitle: For 2026 Primary 6 Cohort
+      id: infopic
+      description: Refer to link to find out how you can support your child in
+        choosing secondary schools!
+      button: Click Here
+      url: https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/
+      image: /images/Screenshot_2026_04_29_091451.png
+      alt: Image alt text
   - infobar:
       title: Term 2 2026 Notification
       subtitle: For 2026 SKPS Students
