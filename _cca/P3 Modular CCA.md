@@ -37,9 +37,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nurzarifah Binte Masnam (i/c)
 <br>Mrs Ee (Leong) Lai Mun (2 i/c)
-<br>Mdm Shanmugathai d/o Madasamy</p>
-<p>Mdm Joyce Tan</p>
-<p>Mdm Jayasutha</p>
+<br>Mdm Shanmugathai d/o Madasamy
+<br>Mdm Joyce Tan
+<br>Mdm Jayasutha
+<br>Mdm Toh Pei Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Multi Purpose Hall / Swimming Complex</p>
@@ -47,10 +48,17 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>Modular CCA provides students with the opportunity to explore a range
+of interests across sports, uniformed groups, clubs, and the visual and
+performing arts. Through this exposure and rotation, students can gain
+a better understanding of their preferences, allowing them to make more
+informed decisions when selecting their CCA at the end of Semester 1.</p>
+<p>Primary 3 students will also participate in the SwimSafer programme. The
+techniques covered in SwimSafer Stage 1 include safe entry and exit, forward
+and backward movement, as well as an introduction to personal water survival
+skills. The SwimSafer programme is conducted by qualified swimming instructors.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%;float:left" height="auto" width="100%" src="/images/P3%20Moular_edited.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/WUSHU.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe2.jpg">
 </div>
 <p></p>

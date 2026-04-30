@@ -32,7 +32,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Brownies</p>
+<p>Brownies
+<br>(Sem 1 only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
@@ -61,8 +62,8 @@ variant: tiptap
 <p>Mdm Azizah Bte Ali (i/c)
 <br>Mr Edwin Chee (2 i/c)
 <br>Mrs Suhaidah Binti Ahmad (SDP)
-<br>Miss Anna Yeow</p>
-<p>Mr Md Aerfi Bin Abdullah</p>
+<br>Miss Anna Yeow
+<br>Mr Md Aerfi Bin Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Blue Court/Canteen</p>
