@@ -32,7 +32,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Brownies</p>
+<p>Brownies
+<br>(Sem 1 only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
