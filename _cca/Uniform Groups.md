@@ -74,19 +74,24 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Synopsis</strong>
-</p>
+<h4><strong>Synopsis</strong></h4>
+<p></p>
+<blockquote>
 <p><strong>Brownies (Girls)</strong>
 </p>
+</blockquote>
 <p>The Brownies CCA aims to prepare the girls to be contributing citizens
 and confident leaders of the 21st Century.. The Brownies Motto “ Lend a
 Hand “ will guide the Brownies to find happiness in helping others. Our
 activities include a series of healthy, happy and educational games that
 teaches the girls to lead a useful life. Girls from Primary 3 onwards are
 encouraged to join as Tweenies and subsequently enrolled as full-pledged
-Brownie</p>
+Brownie.</p>
+<p></p>
+<blockquote>
 <p><strong>Cub Scouts</strong>
 </p>
+</blockquote>
 <p>As a Cub Scout in Seng Kang Primary School, he has the potential to grow
 into a confident and caring individual—and Scouting provides a wonderful
 platform for that journey.</p>
