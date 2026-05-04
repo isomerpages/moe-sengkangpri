@@ -122,8 +122,7 @@ with purpose and poise.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_04_114303.png">
 </div>
-<p><strong>MTL Reading Programme</strong>
-</p>
+<h4><strong>MTL Reading Programme</strong></h4>
 <p>We strive to nurture a lifelong love for reading in every SKLite. Our
 programme focuses on building a strong vocabulary and improving language
 skills through regular engagement with books.</p>
