@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h4><strong>(NEW) Early Dismissal &amp; Absence from After School Programme Form</strong></h4>
+<h4><strong>(NEW) Open House for Secondary School 2026</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+</li>
+</ul>
+<h4><strong>Early Dismissal &amp; Absence from After School Programme Form</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/skps-earlydismissal-absencefromasp" rel="noopener nofollow" target="_blank">Click here</a>
