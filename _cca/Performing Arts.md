@@ -105,19 +105,23 @@ variant: tiptap
 </table>
 <p><strong>Synopsis</strong>
 </p>
-<p><strong>Modern Dance (Membership by school selection only)</strong>
+<p><strong>Modern Dance</strong>
 </p>
-<p>Dance members are selected on their physicality and co-ordination skills
-through an audition held annually for P2 and P3 pupils.. Beginning dancers
-will go through at least one year of foundation training before they can
-take part in competitions (Singapore Youth Festival/DanceWorks) They will
-however, still be selected to perform in school-based performances and
-public performances.</p>
-<p>The objective of this CCA is to allow our pupils to appreciate a variety
-of dance genres and to develop their spatial awareness, positive social
-skills, discipline and resilience through dance. It is crucial for a young
-dancer to attend every session to instill discipline in the dancer and
-to ensure success of every dance performance.</p>
+<p>The objective of this CCA is to nurture pupils’ appreciation for the beauty
+and expressive potential of modern dance, while exposing them to a rich
+variety of dance genres and styles. Through movement exploration, choreography,
+and performance, pupils develop a keen sense of musicality, spatial awareness,
+and artistic expression. Dance provides a meaningful platform for pupils
+to communicate ideas and emotions, fostering creativity, confidence, and
+a deeper sensitivity to form, flow, and visual composition.</p>
+<p>Dancers will undergo foundational training to build strong technique and
+versatility, and will have opportunities to participate in performances
+and competitions that showcase their artistry and growth. Regular participation
+ensures continuity in learning and enables pupils to refine their movements,
+enhance group synchronisation, and present polished, visually engaging
+performances.</p>
+<p>The team’s accolades include Distinctions at the SYF Arts Presentation
+and Gold Awards at the Asia Arts Festival.</p>
 <p><strong>Malay Dance</strong>
 </p>
 <p>The different Malay dance forms make up the multi-cultural mosaic that
@@ -150,14 +154,18 @@ through formal auditions</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_6588.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/md1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/md2.jpg">
 </div>
 <p><strong>Malay Dance</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20160408-WA0002.jpg">
 </div>
-<p><strong>Handbells/Handchimes Ensemble</strong>
+<p><strong>Handbells Ensemble</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_0047.jpeg">
@@ -165,8 +173,5 @@ through formal auditions</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HB13-11.jpg">
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="335" width="580" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pVZSw7lZbBs"></iframe>
 </div>
 <p></p>
