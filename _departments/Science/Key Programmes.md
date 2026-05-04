@@ -3,65 +3,59 @@ title: Key Programmes
 permalink: /departments/Science/key-programmes/
 description: ""
 third_nav_title: Science
+variant: tiptap
 ---
-_**Our key programmes are as follows:**_
-
-  
-
-**P3 Interdisciplinary Project Work: Boat making**
-
-The P3 students observe and reflect on how materials are used in contemporary artwork. During the process, they learn how to differentiate between the kinds of materials that they often use and choose materials with suitable properties for their boats. They also learn to empathise with how pollution impacts the environment. Students then use recyclables to make a boat that can float and move. They learn to work together as a group to create and test their boats and overcome challenges together. They also have the opportunity to display their confidence while presenting in their groups to their classmates.
-
-![](/images/DepartmentsSubPage/ScienceDepartment2022/boatmaking1.jpg)
-![](/images/DepartmentsSubPage/ScienceDepartment2022/boatmaking2.jpg)
-![](/images/DepartmentsSubPage/ScienceDepartment2022/boatmaking3.jpg)
-![](/images/DepartmentsSubPage/ScienceDepartment2022/boatmaking4.jpg)
-
-		 
-**_P5 Science Investigative Project_**
-
-The P5 students are given the opportunity to work in small groups where they go beyond the textbooks and explore topics of their interest to apply scientific concepts. They are able to hone their scientific skills such as identifying an aim and the different types of variables in an experiment. Students also build on their confidence by presenting their experimental results as well as to work as a team to ensure that each group member takes ownership of their own learning.
-
-![](/images/DepartmentsSubPage/ScienceDepartment2022/boatmaking5.png)
-![](/images/DepartmentsSubPage/ScienceDepartment2022/boatmaking6.png)
-
-		 
-**_P6 Terrarium Making_**  
-
-The Primary 6 students learn how plants and sometimes animals live together in their self-sustaining ecosystem through a terrarium making activity. Using recycled plastic containers, students build their terrarium. This experience provides the students with an opportunity to imitate then observe and learn how this ecosystem needs very little except occasional watering and moderate sunlight.
-
-![](/images/DepartmentsSubPage/ScienceDepartment2022/terr1.jpg)
-![](/images/DepartmentsSubPage/ScienceDepartment2022/terr2.jpg)
-![](/images/DepartmentsSubPage/ScienceDepartment2022/terr3.jpg)
-
-		 
-**Other Programmes**
-
-The students go for 1 Science learning journey per year as we believe that joyful learning experiences can bring about motivation and improve learning engagement especially in the learning of Science where we can make the classroom come alive.
-
-**Science Learning Journey**
-
-|  |  | 
-| -------- | -------- | 
-| P3     | Diversity of animals & plants at the zoo     | 
-| P4 | Heat Science lesson at the Singapore Science Lesson
-| P5 | Plant parts and reproduction of flowering plants at Gardens by the Bay
-| P6 | Adaptations at Sungei Buloh
-
-**P1 & P2 Basic Science Programme**
-
-The P1 & P2 Basic Science Programme aims to increase students’ interest in Science. By exposing the pupils to topics in Science through selected STELLAR English lessons, the pupils would be able to link and understand the applicability of Science in our daily lives.
-
-**Environment Education Committee (EEC)**
-
-![](/images/DepartmentsSubPage/ScienceDepartment2022/eec.png)
-
-		 
-
-**Our Programmes & Activities**
-
-The Environment Education Committee has initiated environmentally-friendly programmes to raise awareness on the importance of 3Rs in our daily lifestyles as well as raising funds for our financial-aided pupils. There are activities like Eco-Tues, Environment Week and collaborations with external agencies.
-
-  
-
-The external agencies include National Environment Agency (NEA), SembWaste, NParks, Residents Committee (RC) and more. These agencies provide support and advice in the recycling competitions and projects that the school has taken part in.
+<h4><strong>P3 Integrated Project Work – Boat Making</strong></h4>
+<p>Students engage in an interdisciplinary project where learning across
+subjects comes together meaningfully. Applying their understanding of the
+properties of materials, they design and construct boats that can float
+and carry load. This hands-on experience strengthens their ability to apply
+scientific concepts in real-world contexts while developing collaboration
+and problem-solving skills.</p>
+<h4><strong>iSTRETCH Programme</strong></h4>
+<p>The iSTRETCH (E2K) programme provides opportunities for students to be
+stretched beyond the core curriculum through hands-on scientific investigations.
+Students carry out experiments, explore ideas in greater depth, and are
+encouraged to think critically and independently. The programme nurtures
+curiosity and builds confidence in applying scientific thinking to new
+situations.</p>
+<h4><strong>Environmental Education Committee (EEC)</strong></h4>
+<p>The Environmental Education Committee leads the school’s efforts in promoting
+environmental awareness and sustainability. Through programmes such as
+Eco-Tuesday and student-led initiatives, students learn about real-world
+environmental issues and are empowered to take responsibility as Eco-Stewards,
+making informed and responsible choices in their daily lives.</p>
+<h4><strong>Curriculum-Aligned Activities</strong></h4>
+<p>Students participate in level-specific activities designed to deepen their
+understanding of Science concepts through authentic and engaging tasks:</p>
+<ul>
+<li>
+<p><strong>P3 – Zoo Exhibit: Students design an exhibit by applying their understanding of animal characteristics and habitats.</strong>
+</p>
+</li>
+<li>
+<p><strong>P4 – Cooler Box: Students apply knowledge of heat gain and heat loss to design a cooler box that keeps items cold.</strong>
+</p>
+</li>
+<li>
+<p><strong>P5 – Investigative Project: Students plan and carry out investigations, developing skills in inquiry, data collection, and analysis.</strong>
+</p>
+</li>
+<li>
+<p><strong>P6 – Create an Imaginary Mutant : Students apply their understanding of adaptations by designing a digital organism suited to a chosen environment using AI tools.</strong>
+</p>
+</li>
+</ul>
+<h4><strong>STEM Post-Exam Activities</strong></h4>
+<p>After examinations, students engage in STEM-based activities that provide
+opportunities for exploration, creativity, and application of learning.
+These activities encourage students to tinker, design, and solve problems,
+helping them develop a deeper interest in Science and Technology in a fun
+and engaging environment.</p>
+<h4><strong>Experiential Learning – Beetle Bugs</strong></h4>
+<p>Through the Beetle Bugs programme, students learn about living things
+through direct observation and interaction. They explore the characteristics,
+needs, and life cycles of beetles, developing curiosity and a deeper appreciation
+for biodiversity. This hands-on experience makes learning more meaningful
+and memorable.</p>
+<p></p>
