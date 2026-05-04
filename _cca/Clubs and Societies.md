@@ -32,16 +32,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Library</p>
+<p>Drama Club <strong>(NEW)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
-<br>7.30am - 9.30am</p>
+<br>7.30am - 9.00am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Yin Suan Julie&nbsp;(i/c)
-<br>Mrs Jasmine Chan (2 i/c)</p>
-<p>Mdm Tan Kok Ching Dorling (SDP)</p>
+<br>Mrs Jasmine Chan (2 i/c)
+<br>Mdm Tan Kok Ching Dorling (SDP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Library</p>
@@ -56,12 +57,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
-<br>7.30am - 9.30am</p>
+<br>7.30am - 9.00am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Faridah Bee&nbsp;(i/c)
-<br>Ms Lum Foong Chun Phyllis (2 i/c) (SDP)
-<br>Mdm Nurul'Ain Bte Azila (Advisor)</p>
+<br>Ms Lum Foong Chun Phyllis (2 i/c)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room</p>
@@ -72,17 +72,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IT/Media
-<br>Club</p>
+<p>ICT Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
-<br>7.30am - 9.30am</p>
+<br>7.30am - 9.00am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Yu An (i/c)
-<br>Mdm Loke Chuen Lan (2 i/c)</p>
-<p>Mdm Par Hwee Ling</p>
+<br>Mdm Loke Chuen Lan (2 i/c)
+<br>Mdm Par Hwee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SK.AI Lab &amp; Makerspace Room</p>
@@ -97,12 +96,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
-<br>7.30am - 9.30am</p>
+<br>7.30am - 9.00am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Hwee Hong (i/c)
-<br>Mdm Boon Lay Leng (2 i/c)</p>
-<p>Mdm Yang Cai Hui (SDP)</p>
+<br>Mdm Boon Lay Leng (2 i/c)
+<br>Mdm Yang Cai Hui (SDP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Room 1 &amp; CCA Room 2</p>
@@ -113,64 +112,140 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Synopsis</strong>
+<h4><strong>Synopsis</strong></h4>
+<p></p>
+<blockquote>
+<p><strong>ICT Club</strong>
 </p>
-<p><strong>Library Club</strong>
+</blockquote>
+<p>The ICT Club provides students with exciting opportunities to explore
+the world of technology through <strong>robotics</strong> and <strong>game creation coding</strong>.
+Through hands-on learning, students develop essential 21st-century skills
+such as creativity, critical thinking, and problem-solving in a fun and
+engaging environment.</p>
+<p>Students are introduced to a variety of platforms, including <strong>Scratch</strong>, <strong>MakeCode Arcade</strong>, <strong>mBot</strong>,
+and <strong>drones</strong>, allowing them to design, build, and program
+their own digital and robotic projects.</p>
+<p><strong>Game Creation &amp; Coding</strong>
 </p>
-<p>A. Pupil librarians will perform the following tasks twice a week during
-their recess breaks for fifteen minutes:</p>
-<p>1. Shelf Reading</p>
-<p>2. Loaning and Returning of books</p>
-<p>3. Assist pupils to locate books on the shelves</p>
-<p>B. In addition, pupil librarians will also attend a Book Club Class every
-Friday from 0730-0930. They will learn the following;</p>
-<p>1. the Art of Storytelling</p>
-<p>2. the Skills of Story writing</p>
-<p>3. the Art of Book Promotion/Publicity</p>
-<p><strong>Art Club</strong>
-</p>
-<ul data-tight="true" class="tight">
+<p>Through designing their own games and animations, students will:</p>
+<ul>
 <li>
-<p>Learning Journeys to Art Museums</p>
+<p>Develop <strong>computational thinking skills</strong> by breaking down
+problems and creating step-by-step solutions using coding concepts such
+as loops and conditionals</p>
 </li>
 <li>
-<p>Art Competitions</p>
+<p>Express their <strong>creativity</strong> by building interactive stories,
+games, and animations with visuals and sound</p>
 </li>
 <li>
-<p>Lessons from Art Vendors</p>
-</li>
-<li>
-<p>Lessons on Craftwork</p>
-</li>
-<li>
-<p>Sharing and discussions of Artists</p>
-</li>
-<li>
-<p>Art Fiesta</p>
+<p>Strengthen <strong>problem-solving skills</strong> by identifying errors,
+testing solutions, and improving their projects through trial and refinement</p>
 </li>
 </ul>
-<p><strong>Information Technology</strong>
+<p><strong>Robotics</strong>
 </p>
-<p>The ICT Club aims to promote interest among pupils on video technology,
-develop teamwork, co-operation and leadership together with communication
-skills among pupils and cultivate creativity and thinking skills in pupils
-through various programmes and activities. Some activities we have include
-animation workshops, robotics training and video production. These activities
-are powerful educational tools that provide opportunities for pupils to
-develop their critical thinking in this digital and media-rich age. Pupils
-can become active and critical viewers and producers of films and videos
-as they reflect on their roles and rights, learn to participate responsibly
-and challenge their creativity.</p>
-<p><strong>Chess/Board Games Club</strong>
+<p>Through hands-on robotics activities, students will:</p>
+<ul>
+<li>
+<p>Understand how <strong>hardware and software work together</strong> to control
+robots and drones</p>
+</li>
+<li>
+<p>Learn to <strong>program and automate</strong> movements and responses using
+sensors</p>
+</li>
+<li>
+<p>Build <strong>resilience and critical thinking</strong> by testing, evaluating,
+and improving their designs through iterative learning</p>
+</li>
+</ul>
+<p>The ICT Club nurtures confident and curious learners who are ready to
+thrive in a technology-driven world.</p>
+<p></p>
+<blockquote>
+<p><strong>Art Club</strong>
 </p>
-<p>Calling all P4-P6 chess and board game enthusiasts! If you are keen to
-learn, play and challenge your peers over a set of chess or board game,
-this is the right CCA for you. During weekly meetings, you will also have
-the opportunity to develop the capability to predict and foresee consequences
-and actions. Join us for a journey that stretches your intellectual potential
-to the maximum!</p>
-<p>Join as for a wonderful learning journey now!</p>
+</blockquote>
+<p>The Art Club nurtures students’ creativity through outdoor competitions,
+craftwork, and hands-on experiences.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amendment%202.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_04_122644.png">
+</div>
+<p>Emphasising drawing and painting from <strong>observation</strong>, students
+develop sensitivity to nature, colour, and aesthetics.&nbsp;</p>
+<p>They gain real-world insights from art vendors and create meaningful artworks,
+including tokens for special occasions for the school.&nbsp;</p>
+<p>Through sharing and discussions, students refine their skills, explore
+personal expression, and grow into thoughtful, visually aware individuals.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_04_122702.png">
+</div>
+<p></p>
+<blockquote>
+<p><strong>Chess Club</strong>
+</p>
+</blockquote>
+<p>Love strategy, thinking ahead, and friendly competition? Our Chess Club
+welcomes you! Learn both International Chess and Chinese Chess while having
+fun with friends. CCA sessions run every Friday morning—a great way to
+start your day with a smart challenge.</p>
+<p><strong>What you will learn<br></strong> In our Chess Club, you will explore
+two exciting games:</p>
+<ul>
+<li>
+<p><strong>International Chess</strong>
+</p>
+<ul>
+<li>
+<p>Learn how each piece moves</p>
+</li>
+<li>
+<p>Practice strategies like opening and checkmate</p>
+</li>
+<li>
+<p>Improve focus and problem-solving skills</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Chinese Chess (Xiangqi)</strong>
+</p>
+<ul>
+<li>
+<p>Understand unique pieces like the cannon and advisor</p>
+</li>
+<li>
+<p>Discover different rules and tactics</p>
+</li>
+<li>
+<p>Build flexible thinking and planning skills</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Why join Chess Club?<br></strong>Chess is more than just a game.
+It helps you:</p>
+<ul>
+<li>
+<p>Think critically and make better decisions</p>
+</li>
+<li>
+<p>Stay focused and patient</p>
+</li>
+<li>
+<p>Build confidence through practice and play</p>
+</li>
+<li>
+<p>Enjoy friendly matches with schoolmates</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chess1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chess2.jpg">
 </div>
 <p></p>
