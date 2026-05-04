@@ -103,10 +103,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Synopsis</strong>
-</p>
+<h4><strong>Synopsis</strong></h4>
+<p></p>
+<blockquote>
 <p><strong>Modern Dance</strong>
 </p>
+</blockquote>
 <p>The objective of this CCA is to nurture pupils’ appreciation for the beauty
 and expressive potential of modern dance, while exposing them to a rich
 variety of dance genres and styles. Through movement exploration, choreography,
@@ -122,8 +124,11 @@ enhance group synchronisation, and present polished, visually engaging
 performances.</p>
 <p>The team’s accolades include Distinctions at the SYF Arts Presentation
 and Gold Awards at the Asia Arts Festival.</p>
+<p></p>
+<blockquote>
 <p><strong>Malay Dance</strong>
 </p>
+</blockquote>
 <p>The different Malay dance forms make up the multi-cultural mosaic that
 is Singapore. All pupils will go through an audition. Shortlisted pupils
 will be invited to join the CCA where they will explore the five basic
@@ -131,16 +136,18 @@ Malay dance rhythms - Asli, Inang, Masri, Zapin, and Ronggeng (Joget) –
 while developing social awareness and relationship management. They will
 have a chance to represent the school in various competitions and performances
 such as Singapore Youth Festival.</p>
+<p></p>
+<blockquote>
 <p><strong>Handbells Ensemble (Membership by school selection only)</strong>
 </p>
+</blockquote>
 <p>Handbells Ensemble is a niche Performing Arts music instrumental CCA,
 which aims to provide pupils with the experience and exposure to regular
 performances. Pupils learn music theory and acquire a high level of discipline
 and resilience through the regular practices. There are fun-filled Games
 Day, an intensive camp, a Performing Arts concert. Pupils are selected
 through formal auditions</p>
-<p><strong>Modern Dance</strong>
-</p>
+<h4><strong>Modern Dance</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20180418-WA0003.jpg">
 </div>
@@ -160,13 +167,11 @@ through formal auditions</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/md2.jpg">
 </div>
-<p><strong>Malay Dance</strong>
-</p>
+<h4><strong>Malay Dance</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20160408-WA0002.jpg">
 </div>
-<p><strong>Handbells Ensemble</strong>
-</p>
+<h4><strong>Handbells Ensemble</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_0047.jpeg">
 </div>
