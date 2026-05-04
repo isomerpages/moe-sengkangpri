@@ -131,34 +131,65 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Synopsis</strong>
+<h4><strong>Synopsis</strong></h4>
+<p></p>
+<blockquote>
+<p><strong>Track and Field</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:50%;float:left" height="auto" width="100%" src="/images/cca_sports_pic01.jpeg">
-</div>
-<p>**Track and Field**</p>
+</blockquote>
 <p>Calling all P3 to P6 pupils who can run Long Distance, Short Distance,
 do High or Long Jump or Shot Put. Track and Field is the CCA for you. With
 weekly training, endurance, agility and stamina will be built and you get
 to keep yourself fit and healthy. If you are very good, you get to represent
 the school in the Annual National Competition.</p>
+<p></p>
+<blockquote>
 <p><strong>Basketball (Girls)</strong>
 </p>
-<p>The Seng Kang Primary School Basketball CCA is one of our school’s sports
-niche CCA. Selected players with potential and good performance will get
-to represent the school in the National Inter-Primary School Basketball
-Championships held annually. Basketball has also helped talented pupils
-in their Direct School Admission into secondary schools of their choice.</p>
-<p><strong>Hockey (Boys/Girls)~(Membership by school selection only)</strong>
+</blockquote>
+<p>Our Basketball CCA is driven by a spirit of excellence. Our players train
+with discipline and purpose to develop strong fundamentals, tactical awareness,
+and strong fitness, guided by dedicated teachers and experienced coaches.
+Selected student-athletes represent the school at the National School Games
+(Junior/Senior), where they learn to compete with resilience, teamwork,
+and sportsmanship at the highest primary-school tier. Through rigorous
+training and competition, we nurture confident players who embody character,
+commitment, and school pride both on and off the court.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb2.jpg">
+</div>
+<p></p>
+<blockquote>
+<p><strong>Hockey (Membership by school selection only)</strong>
 </p>
+</blockquote>
 <p>Under the guidance of the dedicated teachers and the passionate coach.
 Besides imparting and equipping the necessary hockey skills to help them
 become confident players, we also look into instilling important values
 such as resilience, integrity, respect, sportsmanship and fair play in
 our pupils. Mission: To inculcate positive living values and help each
 child to grow and develop his individual potential in hockey.</p>
-<p><strong>Softball CCA</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hk1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hk2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hk3.jpg">
+</div>
+<p></p>
+<blockquote>
+<p><strong>Softball</strong>
 </p>
+</blockquote>
 <p>Softball is a game that challenges not only the techniques of the players,
 but also on their ability to make effective decisions in split seconds.
 It builds both the physical and mental strength of the players. In SKPS
