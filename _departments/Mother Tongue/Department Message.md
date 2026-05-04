@@ -3,5 +3,29 @@ title: Department Message
 permalink: /departments/Mother-Tongue/department-message/
 description: ""
 third_nav_title: Mother Tongue
+variant: tiptap
 ---
-In Seng Kang Primary School, all Mother Tongue Language (MTL) teachers strives to work towards a vision of nurturing Active Learners and Proficient Users of the MTL. We envision a future that all our students will enjoy learning MTL and use it on a daily basis. With the right support and encouragement, our students will be able to communicate confidently in MTL and use it to interact with their friends, family members and community. Besides knowing how to communicate in MTL, we also aim to create opportunities for our students to learn and appreciate their local ethnic culture, customs and traditions.
+<p>At Seng Kang Primary School, we strive to nurture students as <strong>Active Learners and Proficient Users</strong> of
+Mother Tongue Languages. We envision every child finding joy in learning
+and using the language in their daily lives.</p>
+<p>Our teachers provide a supportive environment to build strong interaction
+skills. This prepares our students to communicate with purpose and confidence
+in real-life situations with their families and the community.</p>
+<p>We offer various opportunities for students to appreciate their unique
+heritage. These experiences help them understand and respect local ethnic
+customs and traditions.</p>
+<p><strong>Our Key Goals:</strong>
+</p>
+<ul>
+<li>
+<p>Build a lifelong interest and love for the language.</p>
+</li>
+<li>
+<p>Develop<strong> </strong>communication skills for effective real-life
+interaction.</p>
+</li>
+<li>
+<p>Deepen the appreciation of our traditions and cultural roots.</p>
+</li>
+</ul>
+<p></p>
