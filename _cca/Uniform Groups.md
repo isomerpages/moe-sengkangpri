@@ -74,34 +74,56 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Synopsis</strong>
-</p>
+<h4><strong>Synopsis</strong></h4>
+<p></p>
+<blockquote>
 <p><strong>Brownies (Girls)</strong>
 </p>
+</blockquote>
 <p>The Brownies CCA aims to prepare the girls to be contributing citizens
 and confident leaders of the 21st Century.. The Brownies Motto “ Lend a
 Hand “ will guide the Brownies to find happiness in helping others. Our
 activities include a series of healthy, happy and educational games that
 teaches the girls to lead a useful life. Girls from Primary 3 onwards are
 encouraged to join as Tweenies and subsequently enrolled as full-pledged
-Brownie</p>
-<p><strong>Cub Scouts (Boys)</strong>
+Brownie.</p>
+<p></p>
+<blockquote>
+<p><strong>Cub Scouts</strong>
 </p>
-<p>The purpose of Scouting is to help young people to develop their full
-physical, intellectual, emotional, social and spiritual capacities as individuals
-and as members of society, and thus contribute to the development of a
-better world.</p>
-<p>All Cub Scouts in Seng Kang Primary School will undergo training to build
-individual and groups skills. There is a common module for progress badges
-and a choice of individual proficiency and skill badges for all cub scouts
-Our activities include outdoor activities and adventure such as hikes,
-camps and outdoor cooking, to name a few. Cub Scouts will also have opportunities
-to go overseas to meet fellow Scouts from all over the world. Through Scouts,
-you can build life-long friendships with people of different races and
-creeds, both at home and abroad.</p>
-<p>We welcome boys from as young as Primary 2. If you are keen to challenge
-yourself and learn something new, come and join us!!!</p>
+</blockquote>
+<p>As a Cub Scout in Seng Kang Primary School, he has the potential to grow
+into a confident and caring individual—and Scouting provides a wonderful
+platform for that journey.</p>
+<p>Our Cub Scouts programme is designed to support your child’s holistic
+development. Through a balance of structured training and fun, hands-on
+activities, our boys learn important life skills such as teamwork, responsibility,
+resilience and leadership. They work towards progress badges through common
+modules, and also have the opportunity to explore their interests through
+various skill and proficiency badges.</p>
+<p>What makes Scouting special is the experience. Our Cub Scouts take part
+in activities like hikes, camps and outdoor cooking—experiences that may
+be new to many of them. Along the way, they learn to solve problems, adapt
+to challenges, and support one another. These are valuable skills that
+they will carry with them not just in school, but in everyday life.</p>
+<p>Beyond skills, we also place strong emphasis on values. Through the Scout
+Promise and Law, our boys learn to be respectful, responsible and caring
+towards others. They build meaningful friendships with peers from different
+backgrounds, and develop confidence in themselves as they take on new challenges.</p>
+<p>We welcome boys from Primary 3 onwards. If you would like your child to
+step out of his comfort zone, discover new strengths, and grow in a supportive
+and nurturing environment, we warmly invite him to join our Cub Scouts
+family.</p>
+<p><strong>Be Prepared — for learning, for growth, and for life.</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amendment%201.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_04_121804.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_04_121821.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_04_121840.png">
 </div>
 <p></p>
