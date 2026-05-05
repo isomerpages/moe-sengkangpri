@@ -43,15 +43,15 @@ and nation.</p>
 <p>Our school values have also been refreshed to</p>
 <p></p>
 <blockquote>
-<p><strong>RICE—Respect, Integrity, Care, and Excellence</strong>
+<p><strong>RICE — Respect, Integrity, Care, and Excellence</strong>
 </p>
 </blockquote>
 <p>These values will anchor our SKLites as they navigate their educational
 journey and beyond, equipping them to thrive in an ever-changing world.</p>
 <p>Central to our approach are our four key learning dispositions, which
-we call <strong>CORE</strong>:</p>
+we call</p>
 <blockquote>
-<p><strong>Curiosity</strong> to explore and question, <strong>Open-mindedness</strong> to
+<p><strong>CORE — Curiosity</strong> to explore and question, <strong>Open-mindedness</strong> to
 embrace diverse perspectives, <strong>Responsibility</strong> to ownership
 of learning and <strong>Enthusiasm</strong> to pursue learning with joy and
 collaborate with others</p>
