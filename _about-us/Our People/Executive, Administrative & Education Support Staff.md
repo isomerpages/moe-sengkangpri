@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Azlan Shah Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azlan_shah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azlan_shah_rahman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,8 +146,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>Special Education Needs Officers (SENOs)</p>
+<td rowspan="1" colspan="1">
+<p>Senior Special Education Needs Officer (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Azhari Basiran</p>
@@ -146,6 +158,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p>Special Education Needs Officers (SENOs)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nazaratul Farhana Ridzuan Ajmain</p>
 </td>
@@ -165,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurhafizah Rosle</p>
+<p>Mdm Nurhafizah Rosle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurhafizah_rosle_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafizah_rosle_b@schools.gov.sg</a>
@@ -181,18 +196,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_rasul_abdul_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_rasul_abdul_hamid@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Azlan Shah Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:azlan_shah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azlan_shah_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
