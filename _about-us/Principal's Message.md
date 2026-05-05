@@ -23,7 +23,7 @@ that lie ahead.</p>
 <p>I am delighted to share our refreshed vision:</p>
 <p></p>
 <blockquote>
-<p><strong><em>Thinkers Today, Leaders Tomorrow</em></strong>
+<p><strong>Thinkers Today, Leaders Tomorrow</strong>
 </p>
 </blockquote>
 <p>This evolution builds upon the strong foundation of our previous vision,
@@ -31,7 +31,7 @@ which has successfully guided our SKLites towards success over the years.
 Our mission:</p>
 <p></p>
 <blockquote>
-<p><strong><em>Nurturing future-ready learners and developing future leaders with the passion to serve</em></strong>
+<p><strong>Nurturing future-ready learners and developing future leaders with the passion to serve</strong>
 </p>
 </blockquote>
 <p>reflects our commitment to curate meaningful school programmes that shape
@@ -43,7 +43,7 @@ and nation.</p>
 <p>Our school values have also been refreshed to</p>
 <p></p>
 <blockquote>
-<p><strong><em>RICE—Respect, Integrity, Care, and Excellence</em></strong>
+<p><strong>RICE—Respect, Integrity, Care, and Excellence</strong>
 </p>
 </blockquote>
 <p>These values will anchor our SKLites as they navigate their educational
