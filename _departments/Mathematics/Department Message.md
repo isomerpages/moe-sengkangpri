@@ -5,17 +5,15 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
-<p><strong>Vision</strong>
-<br>To develop a community of critical and creative problem solver.</p>
-<p><strong>Mission</strong>
-<br>To inculcate in our pupils a positive attitude towards learning and applying
+<h4><strong>Vision</strong></h4>
+<p>To develop a community of critical and creative problem solver.</p>
+<h4><strong>Mission</strong></h4>
+<p>To inculcate in our pupils a positive attitude towards learning and applying
 mathematical concepts in the subject and the ability to apply Mathematical
 concepts in solving problem in their daily lives</p>
-<p><strong>Strategic Goal</strong>
-<br>Develop proficient Math thinkers and problem solvers</p>
-<p><strong>Strategic Trusts</strong>
-<br>
-</p>
+<h4><strong>Strategic Goal</strong></h4>
+<p>Develop proficient Math thinkers and problem solvers</p>
+<h4><strong>Strategic Trusts</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Assessment to inform instruction</p>
