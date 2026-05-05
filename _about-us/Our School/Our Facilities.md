@@ -3,8 +3,12 @@ title: Our Facilities
 permalink: /about-us/Our-School/our-facilities/
 description: ""
 third_nav_title: Our School
+variant: tiptap
 ---
-**Video of facilities made available in Seng Kang Primary**<br>
-<center>
-<iframe width="660" height="415" src="https://www.youtube.com/embed/eS7p1aRtgWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+<p><strong>Video of facilities made available in Seng Kang Primary School</strong>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="415" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eS7p1aRtgWQ"></iframe>
+</div>
+<p></p>
