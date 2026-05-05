@@ -146,8 +146,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>Special Education Needs Officers (SENOs)</p>
+<td rowspan="1" colspan="1">
+<p>Senior Special Education Needs Officer (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Azhari Basiran</p>
@@ -158,6 +158,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p>Special Education Needs Officers (SENOs)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nazaratul Farhana Ridzuan Ajmain</p>
 </td>
