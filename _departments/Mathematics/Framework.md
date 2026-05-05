@@ -6,32 +6,13 @@ third_nav_title: Mathematics
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DepartmentsSubPage/MathDepartment2022/Maths_Framework.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ma1.jpg">
 </div>
-<p>
-<br><strong>Aims of Mathematics Education in Schools</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Acquire the necessary mathematical knowledge and skills to develop critical
-thinking processes and apply them in mathematical situations that they
-will meet in life</p>
-</li>
-</ul>
-<p>Use mathematics as a means to communicate and to learn independently and
-cooperatively.
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>develop positive attitudes (resilience) and a sense of personal achievement
-in mathematics</p>
-</li>
-<li>
-<p>appreciate the importance and power of mathematics in the world around
-them.</p>
-</li>
-</ul>
+<p>The central focus of our Mathematics curriculum is the development of
+mathematical problem-solving competency. We achieve this through the acquisition
+of mathematical concepts, skills, and processes, alongside the cultivation
+of metacognition and positive attitudes towards the subject. The aim is
+to develop key critical, adaptive and inventive thinking skills.</p>
 <p><strong>P6 Foundation Mathematics</strong>
 <br>
 </p>
@@ -220,7 +201,6 @@ them.</p>
 </tbody>
 </table>
 <p><strong>P6 Merged Mathematics</strong>
-<br>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
