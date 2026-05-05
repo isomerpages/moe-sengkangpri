@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Azlan Shah Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azlan_shah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azlan_shah_rahman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,18 +193,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_rasul_abdul_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_rasul_abdul_hamid@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Azlan Shah Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:azlan_shah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azlan_shah_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
