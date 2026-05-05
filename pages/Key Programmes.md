@@ -54,4 +54,4 @@ and together to solve complex challenges.</p>
 </p>
 </blockquote>
 <p>Builds essential 21st-century competencies, including critical thinking,
-innovative problem-solving, and effective communication</p>
+innovative problem-solving, and effective communication.</p>
