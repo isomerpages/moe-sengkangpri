@@ -5,33 +5,34 @@ description: ""
 variant: tiptap
 third_nav_title: Our School
 ---
-<p><strong><em>OUR VISION</em></strong>
-<br>Thinkers Today, Leaders Tomorrow
-<br>
+<h4><strong>Our Vision</strong></h4>
+<p></p>
+<blockquote>
+<p><strong>Thinkers Today, Leaders Tomorrow</strong>
 </p>
-<p><strong><em>OUR MISSION</em></strong>
-<br>Nurturing Future-ready Learners
-<br>and developing Future Leaders
-<br>with the Passion to Serve
-<br>
+</blockquote>
+<h4><strong>Our Mission</strong></h4>
+<p></p>
+<blockquote>
+<p><strong>Nurturing Future-ready Learners and developing Future Leaders with the Passion to Serve</strong>
 </p>
-<p><strong><em>OUR VALUES</em></strong>
-<br>Respect
-<br>Integrity
-<br>Care
-<br>Excellence
-<br>
+</blockquote>
+<h4><strong>Our Values</strong></h4>
+<p></p>
+<blockquote>
+<p><strong>Respect<br>Integrity<br>Care<br>Excellence</strong>
 </p>
-<p><strong><em>OUR BELIEFS</em></strong>
-<br>Everyone Can Learn
-<br>Everyone Can Serve
-<br>Everyone is Special
-<br>
+</blockquote>
+<h4><strong>Our Beliefs</strong></h4>
+<p></p>
+<blockquote>
+<p><strong>Everyone can Learn<br>Everyone can Serve<br>Everyone is Special</strong>
 </p>
-<p><strong><em>OUR CORPORATE VALUES</em></strong>
-<br>Integrity the Foundation
-<br>People our Focus
-<br>Learning our Passion
-<br>Excellence our Pursuit
-<br>
+</blockquote>
+<h4><strong>Our Corporate Values</strong></h4>
+<p></p>
+<blockquote>
+<p><strong>Integrity the Foundation<br>People our Focus<br>Learning our Passion<br>Excellence our Pursuit</strong>
 </p>
+</blockquote>
+<p></p>
