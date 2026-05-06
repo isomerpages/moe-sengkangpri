@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Our School
 variant: tiptap
 ---
-<h4><strong>Our COR2E Learning Dispositions</strong></h4>
-<p>There are 5 key learning dispositions that we seek to develop in every
+<h4><strong>Our CORE Learning Dispositions</strong></h4>
+<p>There are 4 key learning dispositions that we seek to develop in every
 student:</p>
 <p></p>
 <blockquote>
-<p><strong>Curiosity, Open-mindedness, Responsibility, Resilience and Enthusiasm (COR2E)</strong>
+<p><strong>Curiosity, Open-mindedness, Responsibility, and Enthusiasm (CORE)</strong>
 </p>
 </blockquote>
 <p>These learning dispositions are positive behaviours and attitudes towards

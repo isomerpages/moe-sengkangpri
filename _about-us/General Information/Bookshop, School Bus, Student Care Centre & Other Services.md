@@ -5,14 +5,14 @@ description: ""
 third_nav_title: General Information
 variant: tiptap
 ---
-<p><strong><em>Library Opening Hours:</em></strong>
-<br>8.30 a.m. to 4.00 p.m.
+<h4><strong>Library Opening Hours</strong></h4>
+<p>8.30 am to 4.00 pm
 <br>Monday - Friday</p>
-<p><strong><em>School Dental Health Service:</em></strong>
-<br>Tel No.: 8764 1856</p>
-<p><strong><em>School Bus Service (w.e.f. 1 Jan 2025):</em></strong>
-<br>RushOwl Singapore Pte Ltd
-<br>Contact No.: 6871 8817
+<h4><strong>School Dental Health Service</strong></h4>
+<p>Tel No: 8764 1856</p>
+<h4><strong>School Bus Service (w.e.f. 1 Jan 2025)</strong></h4>
+<p>RushOwl Singapore Pte Ltd
+<br>Tel No: 6871 8817
 <br>Email: school@rushowl.sg</p>
 <p>To register your interest in school bus service for your child, please
 complete the Google Form via this link: <a href="https://rushowl-sg-ops-tracker.atlassian.net/servicedesk/customer/portal/1/group/1/create/10015" rel="noopener noreferrer nofollow" target="_blank">MOE School Bus Registration Form - RushOwl Singapore Support System - Jira Service Management</a>.</p>
@@ -59,14 +59,14 @@ complete the Google Form via this link: <a href="https://rushowl-sg-ops-tracker.
 </tr>
 </tbody>
 </table>
-<p><strong><em>School Bookshop</em></strong>
-<br>Pacific Bookstores Pte Ltd
-<br>Tel: 9435 5961 (Company phone, Whatsapp only)
+<h4><strong>School Bookshop</strong></h4>
+<p>Pacific Bookstores Pte Ltd
+<br>Tel No: 9435 5961 (Company phone, <u>Whatsapp</u> only)
 <br>Email: sales@pacificbookstores.com
 <br>
 </p>
-<p><strong><em>School Uniform:</em></strong>
-<br>Jeep Sing Fashion
+<h4><strong>School Uniform</strong></h4>
+<p>Jeep Sing Fashion
 <br>School uniform and P.E. attire are now available at Jeep Sing Fashion</p>
 <p>Walk-in purchase at retail outlet is strictly by Appointment only, please
 be reminded to call and arrange with them:</p>
@@ -93,13 +93,13 @@ be reminded to call and arrange with them:</p>
 <p>BLK 4012 Ang Mo Kio 10
 <br>#01-09 Techplace 1
 <br>Singapore 569628
-<br>Tel: 6452 9723</p>
+<br>Tel No: 6452 9723</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday: 10:00 am to 6:00 pm
+<p>Monday to Friday: 10.00 am to 6.00 pm
 <br>Lunch break and store sanitization: 1.00 pm to 2.00 pm
 <br>
-<br>Saturday: 10:00 am to 2:00 pm
+<br>Saturday: 10.00 am to 2.00 pm
 <br>Closed on Sunday and Public Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,12 +108,12 @@ be reminded to call and arrange with them:</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Student Care Centre (SCC):</em></strong>
-<br>YMCA SCC @ Seng Kang
+<h4><strong>Student Care Centre (SCC)</strong></h4>
+<p>YMCA SCC @ Seng Kang
 <br>
 <br>To apply, please call or email YMCA SCC.
 <br>
-<br>Tel: 9151 3590
+<br>Tel No: 9151 3590
 <br>Email:&nbsp;<strong><a href="mailto:skscc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skscc@ymca.edu.sg</a></strong>
 <br>Website:&nbsp;<strong><a href="https://www.ymca.org.sg/education/ymca-education-services/" rel="noopener noreferrer nofollow" target="_blank">YMCA Education Services | YMCA of Singapore</a></strong>
 </p>
