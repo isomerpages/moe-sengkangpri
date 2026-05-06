@@ -12,7 +12,7 @@ variant: tiptap
 <p>Tel No: 8764 1856</p>
 <h4><strong>School Bus Service (w.e.f. 1 Jan 2025)</strong></h4>
 <p>RushOwl Singapore Pte Ltd
-<br>Contact No: 6871 8817
+<br>Tel No: 6871 8817
 <br>Email: school@rushowl.sg</p>
 <p>To register your interest in school bus service for your child, please
 complete the Google Form via this link: <a href="https://rushowl-sg-ops-tracker.atlassian.net/servicedesk/customer/portal/1/group/1/create/10015" rel="noopener noreferrer nofollow" target="_blank">MOE School Bus Registration Form - RushOwl Singapore Support System - Jira Service Management</a>.</p>
