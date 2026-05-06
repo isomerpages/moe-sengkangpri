@@ -5,8 +5,8 @@ description: ""
 third_nav_title: General Information
 variant: tiptap
 ---
-<p><strong>VISITORS TO THE SCHOOL</strong>
-<br>Schools are to accurately establish or verify the identity of visitors
+<h4><strong>VISITORS TO THE SCHOOL</strong></h4>
+<p>Schools are to accurately establish or verify the identity of visitors
 for security purposes. All visitors are to be registered at the school’s
 security post. Visitor's personal particulars will be electronically recorded.
 Visitor/s will be issued a label or pass after verification. Visitor/s
@@ -32,13 +32,12 @@ from entering the school.</p>
 <p>Children walking to school are to enter the school by Gates 2A or 3A only.</p>
 <p>Children coming by cars, taxis, motorcycles are to be dropped off at the
 front porch after vehicle enters via Gate 1.</p>
-<p><strong>STUDENT DROP-OFF &amp; DISMISSAL VIDEO</strong>
-</p>
+<h4><strong>STUDENT DROP-OFF &amp; DISMISSAL VIDEO</strong></h4>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mj7rFezpk2U?si=yQZIBVKyQCpfsE3V"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mj7rFezpk2U?si=yQZIBVKyQCpfsE3V"></iframe>
 </div>
-<p><strong>OPENING OF SCHOOL GATES (For Pedestrian Entry)</strong>
-</p>
+<h4><strong>OPENING OF SCHOOL GATES (For Pedestrian Entry)</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -118,23 +117,23 @@ this exit.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>LOCATION OF SCHOOL GATES (Entrance and Exit)</strong>
-</p>
+<h4><strong>LOCATION OF SCHOOL GATES (Entrance and Exit)</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUsSubPage/GeneralInformation/Slide1%20(1).jpg">
 </div>
-<p><strong>PEDESTRIAN GATE 2A</strong>
-</p>
+<h4><strong>PEDESTRIAN GATE 2A</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUsSubPage/GeneralInformation/Slide1.jpeg">
 </div>
-<p><strong>ALTERNATIVE DROP OFF POINT</strong>
-</p>
+<h4><strong>ALTERNATIVE DROP OFF POINT</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUsSubPage/GeneralInformation/Slide2.jpeg">
 </div>
-<p><strong>OPENING OF SCHOOL GATES (For Vehicle Entry)</strong>
-</p>
+<h4><strong>OPENING OF SCHOOL GATES (For Vehicle Entry)</strong></h4>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -178,13 +177,13 @@ Parents are not allowed to park in the school premise.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUsSubPage/GeneralInformation/Entrance%20and%20Exit.jpg">
 </div>
-<p><strong>DROP OFF POINT</strong>
-</p>
+<h4><strong>DROP OFF POINT</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUsSubPage/GeneralInformation/Slide3.jpg">
 </div>
-<p><strong>REMINDER</strong>
-</p>
+<h4><strong>REMINDER</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUsSubPage/GeneralInformation/Reminder%20(1).jpg">
 </div>
