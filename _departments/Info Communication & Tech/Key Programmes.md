@@ -9,12 +9,15 @@ variant: tiptap
 <p>Students develop digital literacy and technology skills from Primary 1
 to Primary 6. These skills help them use digital tools safely and effectively
 to support learning.</p>
+<blockquote>
 <p>Primary 1: Basic computing, introduction to Student Learning Space (SLS)
 <br>Primary 2: Touch typing
 <br>Primary 3: Google Slides, effective online search
 <br>Primary 4: Google Docs, Canva, Google Classroom
 <br>Primary 5: Google Sheets, advanced search skills
 <br>Primary 6: Revision, Google Drive</p>
+</blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict6.jpg">
 </div>
@@ -26,15 +29,13 @@ to support learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict8.jpg">
 </div>
-<p><strong>P5 Code for Fun Programme (CFF)</strong>
-</p>
+<h4><strong>P5 Code for Fun Programme (CFF)</strong></h4>
 <p>The Code for Fun (CFF) programme introduces Primary 5 students to coding
 and computational thinking. In this 10-hour school-based programme, students
 learn core coding concepts through visual programming activities developed
 by MOE and IMDA. They also explore emerging technologies, including artificial
 intelligence.</p>
-<p><strong>P6 Drone Experience Programme</strong>
-</p>
+<h4><strong>P6 Drone Experience Programme</strong></h4>
 <p>The P6 Drone Experience programme connects coding and technology to real-world
 applications in aerospace and ICT careers. Students first learn about CAAS
 regulations and drone safety, then programme drones in hands-on sessions.
@@ -56,8 +57,7 @@ with MOE 21st Century Competencies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict12.jpg">
 </div>
-<p><strong>Cyber Wellness</strong>
-</p>
+<h4><strong>Cyber Wellness</strong></h4>
 <p>Our school adopts the MOE Cyber Wellness Framework to guide students in
 safe and responsible online behaviour. The framework focuses on helping
 students protect themselves and take responsibility for their digital well-being.</p>
@@ -65,8 +65,11 @@ students protect themselves and take responsibility for their digital well-being
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict13.jpg">
 </div>
+<p></p>
+<blockquote>
 <p><strong>Key Principles</strong>
 </p>
+</blockquote>
 <ul>
 <li>
 <p><strong>Respect for Self and Others:</strong> Uphold personal dignity online,

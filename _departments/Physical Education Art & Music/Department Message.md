@@ -5,16 +5,13 @@ description: ""
 third_nav_title: Physical Education Art & Music
 variant: tiptap
 ---
-<p><strong><em>Art &amp; Music</em></strong>
-</p>
+<h4><strong>Art &amp; Music</strong></h4>
 <p>The Aesthetics Department comprises the Art and Music units, supported
 by dedicated teachers who are passionate about laying a strong foundation
 in the arts for our SKLites. Through our curriculum, we aim to nurture
 a lifelong interest and appreciation for the arts, empowering students
 to engage meaningfully and contribute to the cultural landscape.</p>
-<p><strong><em>Physical Education (PE)</em></strong>
-</p>
-<p>Rationale</p>
+<h4><strong>Physical Education (PE)</strong></h4>
 <p>A physically educated person is one who not only has the head knowledge
 of skillsets to stay healthy, but also has the motivation to and actually
 executes the necessary skillsets to stay healthy. The Physical Education
