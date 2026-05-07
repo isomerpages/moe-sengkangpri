@@ -9,8 +9,11 @@ variant: tiptap
 <p>Our ICT Department helps students become confident and responsible digital
 citizens. We prepare them to live, learn, and work in an increasingly digital
 world while building strong values and good online habits.</p>
+<p></p>
+<blockquote>
 <p><strong>What We Do</strong>
 </p>
+</blockquote>
 <p>We focus on three key areas across all levels:</p>
 <ul>
 <li>
@@ -26,8 +29,11 @@ world while building strong values and good online habits.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict1.jpg">
 </div>
+<p></p>
+<blockquote>
 <p><strong>Our Approach</strong>
 </p>
+</blockquote>
 <p>Students learn through hands-on activities and meaningful projects. They
 explore how technology works and apply their learning to real-life situations.
 We guide them to think carefully about the information they see and create
@@ -35,8 +41,11 @@ online.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict2.jpg">
 </div>
+<p></p>
+<blockquote>
 <p><strong>Building Responsible Digital Citizens</strong>
 </p>
+</blockquote>
 <p>We equip students with the skills to:</p>
 <ul>
 <li>
