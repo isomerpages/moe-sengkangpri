@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Physical Education Art & Music
 variant: tiptap
 ---
-<p><strong><em>Art &amp; Music</em></strong>
-</p>
+<h4><strong>Art &amp; Music</strong></h4>
 <p>The Aesthetics curriculum provides our students with a strong foundation
 in understanding themselves and the world through creative expression.
 Students develop core competencies such as observing, listening, creating,
@@ -22,14 +21,16 @@ as well as the diversity of global cultures.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe1.jpg">
 </div>
-<p><strong><em>Physical Education (PE)</em></strong>
-</p>
+<h4><strong>Physical Education (PE)</strong></h4>
+<blockquote>
 <p><strong>The department strives, through the PE teachers</strong>
 </p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe3.jpg">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>To provide a safe environment where skills and knowledge can be effectively
