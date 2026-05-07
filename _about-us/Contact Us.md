@@ -23,7 +23,7 @@ variant: tiptap
 <p><strong>Travel by MRT</strong>
 </p>
 </blockquote>
-<p>Nearest MRT: Sengkang MRT/NEL Station</p>
+<p>Nearest MRT: Sengkang MRT/NEL Station (12 - 15 mins walk)</p>
 <p></p>
 <blockquote>
 <p><strong>Travel by Public Bus</strong>
@@ -35,4 +35,8 @@ variant: tiptap
 <br>Opp Blk 241, Compassvale Road (B67189)
 <br>Blk 231, Punggol Road (B65041)
 <br>Blk 126A, Punggol Road (B65049)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_07_115053.png">
+</div>
 <p></p>
