@@ -10,8 +10,11 @@ variant: tiptap
 experiences. Through purposeful use of digital tools, students develop
 digital skills, practise cyber wellness, and build strong 21st Century
 Competencies</p>
+<p></p>
+<blockquote>
 <p><strong>Personalized Learning</strong>
 </p>
+</blockquote>
 <p>Technology enables learning that better supports each student’s needs.
 Students benefit from:</p>
 <ul>
@@ -31,8 +34,11 @@ Students benefit from:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict4.jpg">
 </div>
+<p></p>
+<blockquote>
 <p><strong>Digital Skills Development</strong>
 </p>
+</blockquote>
 <p>Students build strong digital capabilities through daily learning. They
 learn to:</p>
 <ul>
@@ -46,8 +52,11 @@ learn to:</p>
 <p>Use technology responsibly in different contexts</p>
 </li>
 </ul>
+<p></p>
+<blockquote>
 <p><strong>21st Century Competencies</strong>
 </p>
+</blockquote>
 <p>Technology supports students in developing key competencies, including:</p>
 <ul>
 <li>
@@ -66,8 +75,11 @@ learn to:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict5.jpg">
 </div>
+<p></p>
+<blockquote>
 <p><strong>School-Wide Collaboration</strong>
 </p>
+</blockquote>
 <p>Our school leaders support effective use of technology by:</p>
 <ul>
 <li>
@@ -83,8 +95,11 @@ learn to:</p>
 <p>Ensuring consistent and purposeful integration of technology</p>
 </li>
 </ul>
+<p></p>
+<blockquote>
 <p><strong>The Outcome</strong>
 </p>
+</blockquote>
 <p>Students become confident and responsible digital learners who can adapt
 to new technologies and use them meaningfully to achieve their goals.</p>
 <p>
