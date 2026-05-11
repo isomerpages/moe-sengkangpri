@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Other Forms</strong></h4>
+<h4><strong>School Forms</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>(NEW) </strong><a href="https://go.gov.sg/skps-leaveofabsence-application" rel="noopener nofollow" target="_blank">Application for Leave of Absence (LOA)</a>
@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Resources - 2026 (All Levels)</strong></h4>
+<h4><strong>Term Letters - 2026 (All Levels)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2026_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Letter to Parents</a>
@@ -73,7 +73,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Primary 1 to Primary 6 Book and Stationery Lists - 2026</strong></h4>
+<h4><strong>Primary 1 - 6 Book and Stationery Lists - 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/SKPS_P1_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 1 - 2026</a>
@@ -149,7 +149,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Resources - 2025 (All Levels)</strong></h4>
+<h4><strong>Term Letters - 2025 (All Levels)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/196_SKPS_2025_Term_4_Notification.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
