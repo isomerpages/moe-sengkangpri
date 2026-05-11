@@ -26,7 +26,25 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Primary 1 Student – 2026</strong><br></h4>
+<h4><strong>Application for Leave of Absence (LOA)</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/skps-leaveofabsence-application" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+</li>
+</ul>
+<h4><strong>Resources - 2026 (All Levels)</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Letter to Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter To Parents</a>
+</p>
+</li>
+</ul>
+<h4><strong>Primary 1 Student – 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/1n4jFgvHzG6zQ3N5DoUJT9o80gHlcB-su/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 P1 Orientation Slides (21 Nov 2025)</a>
@@ -45,7 +63,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Primary 1 to Primary 6 Book and Stationery Lists - 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -81,7 +98,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Sale of School Uniform - 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -100,7 +116,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Parent Briefing - 2025</strong><br><br></h4>
+<h4><strong>Parent Briefing - 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/P2_Parent_Briefing_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Briefing - Primary 2</a>
@@ -123,7 +139,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Resources - 2025 (All Level)</strong><br><br></h4>
+<h4><strong>Resources - 2025 (All Levels)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/196_SKPS_2025_Term_4_Notification.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
@@ -143,10 +159,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://form.gov.sg/5f053e7da154270011e37911" rel="noopener nofollow" target="_blank">In Appreciation of...</a>
-</p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/61824b1fdf07ad0014b8b66d" rel="noopener nofollow" target="_blank">Application for Leave of Absence (LOA)</a>
 </p>
 </li>
 <li>
