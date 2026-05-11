@@ -12,21 +12,49 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Early Dismissal &amp; Absence from After School Programme Form</strong></h4>
+<h4><strong>School Forms</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/skps-earlydismissal-absencefromasp" rel="noopener nofollow" target="_blank">Click here</a>
+<p><strong>(NEW) </strong><a href="https://go.gov.sg/skps-leaveofabsence-application" rel="noopener nofollow" target="_blank">Application for Leave of Absence (LOA)</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/skps-earlydismissal-absencefromasp" rel="noopener nofollow" target="_blank">Early Dismissal &amp; Absence from After School Programme Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/skpsbicycle" rel="noopener nofollow" target="_blank">Bicyle Pass Request Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/5f053e7da154270011e37911" rel="noopener nofollow" target="_blank">In Appreciation of...</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/6372d0b41c23450013f5b849" rel="noopener nofollow" target="_blank">Student Handbook - Parents' Acknowledgement of Expectations</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/66e3ab3b648b7799df57f150" rel="noopener nofollow" target="_blank">Details of Child to be Registered for Admission and General Particulars Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/6853bcf46a00d2382490e778" rel="noopener nofollow" target="_blank">Wait List Form for Admission/Transfer to SKPS</a>
 </p>
 </li>
 </ul>
-<h4><strong>Bicycle Pass Request Form</strong></h4>
+<h4><strong>Term Letters - 2026 (All Levels)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/skpsbicycle" rel="noopener nofollow" target="_blank">Click here</a>
+<p><a href="/files/2026_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Letter to Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter to Parents</a>
 </p>
 </li>
 </ul>
-<h4><strong>Primary 1 Student – 2026</strong><br></h4>
+<h4><strong>Primary 1 Student – 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/1n4jFgvHzG6zQ3N5DoUJT9o80gHlcB-su/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 P1 Orientation Slides (21 Nov 2025)</a>
@@ -45,8 +73,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
-<h4><strong>Primary 1 to Primary 6 Book and Stationery Lists - 2026</strong></h4>
+<h4><strong>Primary 1 - 6 Book and Stationery Lists - 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/SKPS_P1_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Book and Stationery List Primary 1 - 2026</a>
@@ -81,7 +108,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Sale of School Uniform - 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -100,7 +126,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Parent Briefing - 2025</strong><br><br></h4>
+<h4><strong>Parent Briefing - 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/P2_Parent_Briefing_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Briefing - Primary 2</a>
@@ -123,7 +149,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Resources - 2025 (All Level)</strong><br><br></h4>
+<h4><strong>Term Letters - 2025 (All Levels)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/196_SKPS_2025_Term_4_Notification.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
@@ -139,26 +165,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/2025_Term_1_Notification.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter To Parents (2 January 2025)</a>
-</p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/5f053e7da154270011e37911" rel="noopener nofollow" target="_blank">In Appreciation of...</a>
-</p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/61824b1fdf07ad0014b8b66d" rel="noopener nofollow" target="_blank">Application for Leave of Absence (LOA)</a>
-</p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/6372d0b41c23450013f5b849" rel="noopener nofollow" target="_blank">Student Handbook - Parents' Acknowledgement of Expectations</a>
-</p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/66e3ab3b648b7799df57f150" rel="noopener nofollow" target="_blank">Details of Child to be Registered for Admission and General Particulars Form</a>
-</p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/6853bcf46a00d2382490e778" rel="noopener nofollow" target="_blank">Wait List Form for Admission/Transfer to SKPS</a>
 <br>
 </p>
 </li>
