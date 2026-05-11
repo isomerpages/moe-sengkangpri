@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter To Parents</a>
+<p><a href="/files/2026_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter to Parents</a>
 </p>
 </li>
 </ul>
