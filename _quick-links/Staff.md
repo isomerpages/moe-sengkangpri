@@ -272,6 +272,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Season Parking Application Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/6a0a5f719801076b5095dc43" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Teaching &amp; Learning</em></strong>
