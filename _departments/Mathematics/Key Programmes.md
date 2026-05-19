@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 third_nav_title: Mathematics
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="math_keyprogrammes" src="/images/dept_math_keyprog.jpg">
+</div>
 <h4><strong>Learning Support Mathematics (LSM)</strong></h4>
 <p></p>
 <blockquote>
