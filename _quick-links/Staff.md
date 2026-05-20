@@ -22,6 +22,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Student MIMS/SLS Reset Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/6a0c44ef02ef0e3f12dc55be" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Booking Request</p>
 </td>
 <td rowspan="1" colspan="1">
