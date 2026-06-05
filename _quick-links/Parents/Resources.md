@@ -5,17 +5,42 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h4><strong>(NEW) Open House for Secondary School 2026</strong></h4>
+<h4><strong>Open House for Secondary School 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </li>
 </ul>
+<h4><strong>Term Letters - 2026 (All Levels)</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Letter to Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter to Parents</a>
+</p>
+</li>
+</ul>
+<h4><strong>(NEW) P3 Refreshed Approach to Support Students with Academic Strengths and Talents Briefing 2026</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/P3_Refreshed_Approach_to_support_Students_with_Academic_Strengths_and_Talents.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</li>
+</ul>
+<h4><strong>(NEW) P4 Subject-based Banding Briefing 2026</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/P4_SBB_Briefing_2026_29_May_2026.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</li>
+</ul>
 <h4><strong>School Forms</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>(NEW) </strong><a href="https://go.gov.sg/skps-leaveofabsence-application" rel="noopener nofollow" target="_blank">Application for Leave of Absence (LOA)</a>
+<p><a href="https://go.gov.sg/skps-leaveofabsence-application" rel="noopener nofollow" target="_blank">Application for Leave of Absence (LOA)</a>
 </p>
 </li>
 <li>
@@ -40,17 +65,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://form.gov.sg/6853bcf46a00d2382490e778" rel="noopener nofollow" target="_blank">Wait List Form for Admission/Transfer to SKPS</a>
-</p>
-</li>
-</ul>
-<h4><strong>Term Letters - 2026 (All Levels)</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2026_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Letter to Parents</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2026_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter to Parents</a>
 </p>
 </li>
 </ul>
@@ -112,40 +126,6 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Seng_Kang_Pri_sale_schedule_EY25.pdf" rel="noopener nofollow" target="_blank">Sale of School Uniform - 2026</a>
-</p>
-</li>
-</ul>
-<h4><strong>P4 Subject Based Banding - 2025</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/P4_SBB_Briefing_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Briefing - Primary 4</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025_SBB_QnA_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Subject Based Banding Questions and Answers</a>
-</p>
-</li>
-</ul>
-<h4><strong>Parent Briefing - 2025</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/P2_Parent_Briefing_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Briefing - Primary 2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P3_Parents__Briefing_2025_23_Jan_2025_pdf__1__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Briefing - Primary 3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P4_Parent_Briefing_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Briefing - Primary 4</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P5_Parent_Briefing_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Briefing - Primary 5</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P6_Parent_Briefing_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Briefing - Primary 6</a>
 </p>
 </li>
 </ul>
