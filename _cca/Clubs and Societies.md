@@ -159,7 +159,6 @@ a group setting.&nbsp;</p>
 of their comfort zones in a safe and encouraging environment.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_06_05_at_12_27_39_PM.jpg">
 </div>
