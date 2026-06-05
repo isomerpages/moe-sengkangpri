@@ -115,6 +115,55 @@ variant: tiptap
 <h4><strong>Synopsis</strong></h4>
 <p></p>
 <blockquote>
+<p><strong>Drama Club</strong>
+</p>
+</blockquote>
+<p>The Drama Club has recently been set up to provide students with a fun
+and supportive space to explore self-expression and build confidence. Guided
+by an instructor, members are currently being introduced to basic drama
+through simple, engaging activities. As the club is still in its initial
+phase, the focus is on helping students feel comfortable, relaxed, and
+willing to participate, rather than on formal acting skills or performance
+preparation.</p>
+<p>Sessions are lively and enjoyable, with a variety of games designed to
+encourage participation and break the ice. These include</p>
+<ul>
+<li>
+<p>name and movement games,&nbsp;</p>
+</li>
+<li>
+<p>“freeze” games,&nbsp;</p>
+</li>
+<li>
+<p>simple improvisation activities, and&nbsp;</p>
+</li>
+<li>
+<p>emotion-based games where students express feelings through facial expressions
+and actions.&nbsp;</p>
+</li>
+</ul>
+<p>Such activities help students loosen up, overcome shyness, and become
+more aware of how they use their bodies and expressions.</p>
+<p>Through these experiences,&nbsp;</p>
+<ul>
+<li>
+<p>students begin to develop important skills such as confidence, self-expression,
+and responsiveness.&nbsp;</p>
+</li>
+<li>
+<p>They learn to observe others, react appropriately, and work together in
+a group setting.&nbsp;</p>
+</li>
+<li>
+<p>The club also promotes creativity and encourages students to step out
+of their comfort zones in a safe and encouraging environment.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_06_05_at_12_27_39_PM.jpg">
+</div>
+<p></p>
+<blockquote>
 <p><strong>ICT Club</strong>
 </p>
 </blockquote>
