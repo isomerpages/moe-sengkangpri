@@ -19,6 +19,16 @@ sections:
           description: Or our IG for choice!
           url: https://www.instagram.com/sengkangprimaryschool/
   - infopic:
+      title: A Day at Seng Kang Pri School
+      subtitle: E-Open House 2026
+      id: infopic
+      description: At SKPS, we believe great education is more than just grades. Come
+        see what makes us a place where children don't just learn - they thrive!
+      button: Click Here
+      url: /electronic-open-house-2026
+      image: /images/Screenshot_2026_06_16_125545.png
+      alt: Image alt text
+  - infopic:
       title: Open House for Sec Schools 2026
       subtitle: For 2026 Primary 6 Cohort
       id: infopic

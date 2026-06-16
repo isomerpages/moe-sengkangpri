@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Electronic Open House 2026.md
       - Principal's Message.md
       - Our School/Our Vision, Mission, Values & Beliefs.md
       - Our School/.keep
