@@ -73,18 +73,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Soh Sim Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soh_sim_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_sim_ping@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Corporate Support Officers (CSOs)</p>
 </td>
 <td rowspan="1" colspan="1">
