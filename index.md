@@ -64,14 +64,6 @@ sections:
       button: Click Here
       url: /about-us/general-information/school-canteen-menu/
   - infobar:
-      title: Registration of Interest for YMCA Student Care Service
-      subtitle: FOR SKPS STUDENTS
-      id: infobar
-      description: To register your interest for YMCA student care service, please
-        click on the link below.
-      button: Click Here
-      url: https://forms.office.com/pages/responsepage.aspx?id=qqd2-kriRkyOG3Jmmasem5kk0cKmd05Crcc6rA2tY-BUNDVTMlM2OFo5SzNFS1RKVlEzT0xGVjJKSS4u&route=shorturl
-  - infobar:
       title: Replacement of Lost/Damaged School Smart Card
       subtitle: For SKPS Students
       id: infobar
