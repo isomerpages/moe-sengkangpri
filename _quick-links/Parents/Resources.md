@@ -15,6 +15,10 @@ variant: tiptap
 <h4><strong>Term Letters - 2026 (All Levels)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/2026_Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Letter to Parents</a>
 </p>
 </li>
