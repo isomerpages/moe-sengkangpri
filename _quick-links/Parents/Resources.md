@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>(NEW) P3 Refreshed Approach to Support Students with Academic Strengths and Talents Briefing 2026</strong></h4>
+<h4><strong>P3 Refreshed Approach to Support Students with Academic Strengths and Talents Briefing 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/P3_Refreshed_Approach_to_support_Students_with_Academic_Strengths_and_Talents.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
