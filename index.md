@@ -39,13 +39,13 @@ sections:
       image: /images/Screenshot_2026_04_29_091451.png
       alt: Image alt text
   - infobar:
-      title: Term 2 2026 Notification
+      title: Term 3 2026 Notification
       subtitle: For 2026 SKPS Students
       id: infobar
       description: Welcome back to school! The notification for the new term is now
         available.
       button: Click Here
-      url: /files/2026_Term_2_Letter.pdf
+      url: /files/2026_Term_3_Letter.pdf
   - infobar:
       title: Early Dismissal & Absence from After School Programme Form
       subtitle: For 2026 SKPS Students
