@@ -61,10 +61,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Pei Min</p>
+<p>Mr Abdul Malik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_pei_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_pei_min@schools.gov.sg</a>
+<p><a href="mailto:abdul_malik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_malik@schools.gov.sg</a>
 </p>
 </td>
 </tr>
