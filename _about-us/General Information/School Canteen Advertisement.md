@@ -29,7 +29,7 @@ third_nav_title: General Information
 <p>Muslim Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2026</p>
+<p>31 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
