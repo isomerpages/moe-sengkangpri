@@ -78,7 +78,7 @@ email OR to the School’s General Office.</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Mr Daniel Ong / Mdm Soh Sim Ping</p>
+<p>Contact Person: Mr Daniel Ong / Mdm Haslinda Asmin</p>
 </li>
 </ul>
 <h4><strong>How to get there?</strong></h4>
