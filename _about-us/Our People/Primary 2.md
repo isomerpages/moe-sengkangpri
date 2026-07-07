@@ -90,7 +90,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,6 +107,15 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hung_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hung_mei_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Leow Wan Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leow_wan_ning@schools.gov.sg" rel="noopener nofollow" target="_blank">leow_wan_ning@schools.gov.sg</a>
 </p>
 </td>
 </tr>
