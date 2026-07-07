@@ -72,16 +72,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Corporate Support Officers (CSOs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Celine Koh
-<br>Mdm Haslinda Asmin</p>
+<p>Mdm Celine Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_yong_ngor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yong_ngor@schools.gov.sg</a>
-<br><a href="mailto:haslinda_asmin@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_asmin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Haslinda Asmin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:haslinda_asmin@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_asmin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Phun Siew Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="phun_siew_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">phun_siew_cheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -134,8 +150,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Senior Special Education Needs Officer (SENO)</p>
+<td rowspan="2" colspan="1">
+<p>Senior Special Education Needs Officers (SENOs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Azhari Basiran</p>
@@ -146,9 +162,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Special Education Needs Officers (SENOs)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nazaratul Farhana Ridzuan Ajmain</p>
 </td>
@@ -158,6 +171,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>Special Education Needs Officers (SENOs)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Chun Han</p>
 </td>
