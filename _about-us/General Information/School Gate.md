@@ -104,7 +104,7 @@ this exit.</p>
 <td rowspan="1" colspan="1">
 <p>6.45 a.m. - 7.30 a.m.
 <br>1.30 p.m. - 2.00 p.m. (Monday - Friday)
-<br>3.30 p.m. - 4.00 p.m. (Monday, Tuesday &amp;&nbsp; Thursday)</p>
+<br>2.45 p.m. - 4.00 p.m. (Monday, Tuesday &amp;&nbsp; Thursday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pupils may enter and exit by this Gate.
