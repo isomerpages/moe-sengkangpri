@@ -47,6 +47,14 @@ sections:
       button: Click Here
       url: /files/2026_Term_3_Letter.pdf
   - infobar:
+      title: FormSG Submission of MTL Applications / Appeals
+      subtitle: For 2026 SKPS Students
+      id: infobar
+      description: Parents/guardians are now able to submit Mother Tongue Language
+        (MTL) applications and appeals through FormSG to schools.
+      button: Click Here
+      url: /quick-links/Parents/permalink/
+  - infobar:
       title: Early Dismissal & Absence from After School Programme Form
       subtitle: For 2026 SKPS Students
       id: infobar
