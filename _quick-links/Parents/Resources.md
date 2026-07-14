@@ -12,6 +12,17 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h4><strong>(NEW) FormSG Submission of MTL Applications / Appeals</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://form.gov.sg/6a223fe229fcd7773b7777ac" rel="noopener nofollow" target="_blank">Applications</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/6a22412431a5ff59c0b5b283" rel="noopener nofollow" target="_blank">Appeals</a>
+</p>
+</li>
+</ul>
 <h4><strong>Term Letters - 2026 (All Levels)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,7 +45,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>(NEW) P4 Subject-based Banding Briefing 2026</strong></h4>
+<h4><strong>P4 Subject-based Banding Briefing 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/P4_SBB_Briefing_2026_29_May_2026.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
