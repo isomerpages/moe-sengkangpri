@@ -4,7 +4,7 @@ title: Seng Kang Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: The school website will have a new look and feel from 30 July
+notification: The school website will have a fresh look and feel from 30 July
   2026. Please look forward to it!
 sections:
   - hero:
